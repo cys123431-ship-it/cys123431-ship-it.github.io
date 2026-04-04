@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-04-04T12:30:59.856698+00:00",
+  "generated_at": "2026-04-04T12:39:30.222355+00:00",
   "retention_days": 90,
   "default_window": "7d",
-  "lifetime_total_articles": 4103,
-  "lifetime_unknown_time_count": 438,
+  "lifetime_total_articles": 4151,
+  "lifetime_unknown_time_count": 449,
   "available_windows": [
     {
       "key": "24h",
@@ -29,44 +29,44 @@
   "windows": {
     "24h": {
       "label": "24h",
-      "article_count": 1215,
+      "article_count": 1236,
       "unknown_time_count": 0,
-      "active_source_count": 89,
-      "repeated_title_count": 84,
+      "active_source_count": 90,
+      "repeated_title_count": 86,
       "timeline": [
         {
           "date": "2026-04-03",
-          "count": 642
+          "count": 647
         },
         {
           "date": "2026-04-04",
-          "count": 573
+          "count": 589
         }
       ],
       "top_keywords": [
         {
           "keyword": "trump",
-          "count": 131
+          "count": 138
         },
         {
           "keyword": "iran",
-          "count": 59
+          "count": 60
         },
         {
           "keyword": "war",
-          "count": 32
+          "count": 34
         },
         {
           "keyword": "new",
-          "count": 28
+          "count": 30
         },
         {
           "keyword": "us",
-          "count": 28
+          "count": 27
         },
         {
           "keyword": "what",
-          "count": 25
+          "count": 27
         },
         {
           "keyword": "ai",
@@ -74,22 +74,22 @@
         },
         {
           "keyword": "budget",
-          "count": 22
+          "count": 23
+        },
+        {
+          "keyword": "how",
+          "count": 20
+        },
+        {
+          "keyword": "after",
+          "count": 19
         },
         {
           "keyword": "about",
           "count": 18
         },
         {
-          "keyword": "after",
-          "count": 18
-        },
-        {
-          "keyword": "how",
-          "count": 18
-        },
-        {
-          "keyword": "down",
+          "keyword": "bondi",
           "count": 17
         }
       ],
@@ -102,17 +102,17 @@
         {
           "source_key": "guardian-us-rss",
           "name": "The Guardian US",
-          "count": 59
-        },
-        {
-          "source_key": "asiae-society-rss",
-          "name": "Asiae Society",
-          "count": 50
+          "count": 62
         },
         {
           "source_key": "donga-society-rss",
           "name": "DongA Society",
           "count": 50
+        },
+        {
+          "source_key": "asiae-society-rss",
+          "name": "Asiae Society",
+          "count": 49
         },
         {
           "source_key": "donga-culture-rss",
@@ -122,7 +122,7 @@
         {
           "source_key": "mk-sports-rss",
           "name": "Maeil Business Sports",
-          "count": 44
+          "count": 45
         },
         {
           "source_key": "breitbart-feed",
@@ -132,16 +132,16 @@
         {
           "source_key": "nyt-world-rss",
           "name": "New York Times World",
-          "count": 35
-        },
-        {
-          "source_key": "donga-sports-rss",
-          "name": "DongA Sports",
-          "count": 29
+          "count": 34
         },
         {
           "source_key": "donga-politics-rss",
           "name": "DongA Politics",
+          "count": 28
+        },
+        {
+          "source_key": "donga-sports-rss",
+          "name": "DongA Sports",
           "count": 28
         },
         {
@@ -159,12 +159,12 @@
         {
           "key": "us",
           "label": "미국",
-          "count": 719
+          "count": 741
         },
         {
           "key": "kr",
           "label": "대한민국",
-          "count": 431
+          "count": 430
         },
         {
           "key": "global",
@@ -178,20 +178,20 @@
           "label": "정치",
           "hub": "us",
           "hub_label": "미국",
-          "count": 294
-        },
-        {
-          "key": "kr-society",
-          "label": "사회",
-          "hub": "kr",
-          "hub_label": "대한민국",
-          "count": 151
+          "count": 312
         },
         {
           "key": "us-technology",
           "label": "기술",
           "hub": "us",
           "hub_label": "미국",
+          "count": 155
+        },
+        {
+          "key": "kr-society",
+          "label": "사회",
+          "hub": "kr",
+          "hub_label": "대한민국",
           "count": 150
         },
         {
@@ -202,18 +202,18 @@
           "count": 136
         },
         {
-          "key": "us-economy",
-          "label": "경제",
-          "hub": "us",
-          "hub_label": "미국",
-          "count": 87
-        },
-        {
           "key": "kr-economy",
           "label": "경제",
           "hub": "kr",
           "hub_label": "대한민국",
           "count": 87
+        },
+        {
+          "key": "us-economy",
+          "label": "경제",
+          "hub": "us",
+          "hub_label": "미국",
+          "count": 85
         },
         {
           "key": "kr-sports",
@@ -241,14 +241,14 @@
           "label": "시장",
           "hub": "us",
           "hub_label": "미국",
-          "count": 52
+          "count": 53
         },
         {
           "key": "crypto",
           "label": "코인",
           "hub": "global",
           "hub_label": "글로벌 전문",
-          "count": 32
+          "count": 31
         },
         {
           "key": "tech-it",
@@ -261,7 +261,7 @@
       "language_counts": [
         {
           "language": "en",
-          "count": 776
+          "count": 797
         },
         {
           "language": "ko",
@@ -269,6 +269,15 @@
         }
       ],
       "repeated_titles": [
+        {
+          "title_hash": "1ba172554ef1c7fcb4ab3d83322e6f471392708251d575eb55dfe385f79a6b1c",
+          "title": "🚨 [CRITICAL] 호르무즈 해협 알림",
+          "article_count": 4,
+          "source_count": 1,
+          "latest_published_at": "2026-04-04T12:35:54+00:00",
+          "canonical_url": "https://www.aljazeera.com/news/2026/4/4/iaea-says-projectile-hits-near-irans-bushehr-nuclear-plant-killing-one?traffic_source=rss",
+          "sort_timestamp": 1775306154
+        },
         {
           "title_hash": "baa93cefedde733ac1d2a7396338313d79a6c2e25456c48005f132f984edd88e",
           "title": "Debris from aerial interception strikes Oracle building in Dubai, UAE says",
@@ -351,13 +360,13 @@
           "sort_timestamp": 1775246880
         },
         {
-          "title_hash": "1ba172554ef1c7fcb4ab3d83322e6f471392708251d575eb55dfe385f79a6b1c",
-          "title": "🚨 [CRITICAL] 호르무즈 해협 알림",
-          "article_count": 3,
-          "source_count": 1,
-          "latest_published_at": "2026-04-04T09:15:43+00:00",
-          "canonical_url": "https://www.iranintl.com/en/liveblog/202604015564",
-          "sort_timestamp": 1775294143
+          "title_hash": "5fae583ca35de60b0b3e6c3c6ad2d5d3e295248a12fa016d9d78fa51195106dd",
+          "title": "Russia’s VPN Crackdown Caused Bank Outage, Telegram Founder Says",
+          "article_count": 2,
+          "source_count": 2,
+          "latest_published_at": "2026-04-04T12:07:17+00:00",
+          "canonical_url": "https://www.bloomberg.com/news/articles/2026-04-04/russia-s-vpn-crackdown-caused-bank-outage-telegram-founder-says",
+          "sort_timestamp": 1775304437
         },
         {
           "title_hash": "cb7c39cf96f4846d5af6f02de0edbcd7d6c2dbb8dca4644baf941d2839b9b330",
@@ -439,18 +448,163 @@
           "latest_published_at": "2026-04-04T09:49:38+00:00",
           "canonical_url": "https://www.donga.com/news/Culture/article/all/20260404/133674533/1",
           "sort_timestamp": 1775296178
-        },
-        {
-          "title_hash": "ffddbb10f6ec05b0d16365f04c470c937f03b692c23285557b28be6f160ca166",
-          "title": "India Acknowledges Iranian Oil Purchases, Dismisses Payment Woes",
-          "article_count": 2,
-          "source_count": 2,
-          "latest_published_at": "2026-04-04T09:46:18+00:00",
-          "canonical_url": "https://www.bloomberg.com/news/articles/2026-04-04/india-acknowledges-iranian-oil-purchases-dismisses-payment-woes",
-          "sort_timestamp": 1775295978
         }
       ],
       "recent_samples": [
+        {
+          "stable_key": "45351fcbd1b51ab9f26f2af38d6d3e17c30a0b7fa77afead72ad06ff41a36b0b",
+          "source_key": "mk-sports-rss",
+          "source_name": "Maeil Business Sports",
+          "category": "kr-sports",
+          "hub": "kr",
+          "hub_label": "대한민국",
+          "section_label": "스포츠",
+          "language": "ko",
+          "title": "SK슈가글라이더즈, 경남개발공사 꺾고 19연승 질주…최지혜 11골 맹활약",
+          "canonical_url": "https://www.mk.co.kr/news/sports/12008050",
+          "published_at": "2026-04-04T12:36:40+00:00",
+          "title_hash": "1ef82972bcc70728f9b6e5b845feef40a7da3d50c03b92151d21a59deccb4fc2",
+          "keywords": [
+            "sk슈가글라이더즈",
+            "경남개발공사",
+            "꺾고",
+            "19연승",
+            "질주",
+            "최지혜"
+          ]
+        },
+        {
+          "stable_key": "5a9c5ee07d6b9631aff56af21d9fe69bdf881d5251f98f945a53cfc9020ebeb7",
+          "source_key": "telegram-claw-summary",
+          "source_name": "Telegram @clawnewssummary",
+          "category": "military",
+          "hub": "global",
+          "hub_label": "글로벌 전문",
+          "section_label": "군사",
+          "language": "ko",
+          "title": "🚨 [CRITICAL] 호르무즈 해협 알림",
+          "canonical_url": "https://www.aljazeera.com/news/2026/4/4/iaea-says-projectile-hits-near-irans-bushehr-nuclear-plant-killing-one?traffic_source=rss",
+          "published_at": "2026-04-04T12:35:54+00:00",
+          "title_hash": "1ba172554ef1c7fcb4ab3d83322e6f471392708251d575eb55dfe385f79a6b1c",
+          "keywords": [
+            "critical",
+            "호르무즈",
+            "해협",
+            "알림",
+            "critical 호르무즈",
+            "호르무즈 해협"
+          ]
+        },
+        {
+          "stable_key": "37a65778c41b92f3f3cbe5b5383784eeb5bf86e149a2215ddc94c781a559f691",
+          "source_key": "bloomberg-markets-rss",
+          "source_name": "Bloomberg Markets",
+          "category": "us-markets",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "시장",
+          "language": "en",
+          "title": "Easter Candy Sales Decline",
+          "canonical_url": "https://www.bloomberg.com/news/videos/2026-04-04/easter-candy-sales-decline-video",
+          "published_at": "2026-04-04T12:32:11+00:00",
+          "title_hash": "9f0f99ea583bb40ae2eabb9a4cd6302bcbc5f4bbac6ee209fcebc067a4ded9db",
+          "keywords": [
+            "easter",
+            "candy",
+            "sales",
+            "decline",
+            "easter candy",
+            "candy sales"
+          ]
+        },
+        {
+          "stable_key": "5d24ec76c68fc623b5d8662b0d3e0a2f93dab9b70496c233dc0d647c0edd01aa",
+          "source_key": "forbes-innovation-rss",
+          "source_name": "Forbes Innovation",
+          "category": "us-technology",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "기술",
+          "language": "en",
+          "title": "New Password Stealer Bypasses 2FA—Chrome, Edge And Firefox Targeted",
+          "canonical_url": "https://www.forbes.com/sites/daveywinder/2026/04/04/new-password-stealer-bypasses-2fa-chrome-edge-and-firefox-targeted",
+          "published_at": "2026-04-04T12:30:11+00:00",
+          "title_hash": "84489bcf1187b6a17a653c10b066ff21aa23ad7b5b4c239f04eb4fff67163907",
+          "keywords": [
+            "new",
+            "password",
+            "stealer",
+            "bypasses",
+            "2fa",
+            "chrome"
+          ]
+        },
+        {
+          "stable_key": "e4e1fd84971849c109de3fbb513fd18121f1b2589bab860ffbf86faf10438d86",
+          "source_key": "newsweek-feed",
+          "source_name": "Newsweek Feed",
+          "category": "us-technology",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "기술",
+          "language": "en",
+          "title": "Southwest Passenger Books 2 Seats—Not Ready For What They Notice In App",
+          "canonical_url": "https://www.newsweek.com/southwest-passenger-books-2-seats-sees-strange-app-behavior-11779265",
+          "published_at": "2026-04-04T12:30:00+00:00",
+          "title_hash": "ec770aedd819ee0a426c60e55f05eab71548ed5e48d212211bc5963206cda782",
+          "keywords": [
+            "southwest",
+            "passenger",
+            "books",
+            "seats",
+            "not",
+            "ready"
+          ]
+        },
+        {
+          "stable_key": "1df12942ae9c5f1e714cbc60c51d708b0201460ece8fd0c9a7f2baae1204d4bf",
+          "source_key": "nypost-feed",
+          "source_name": "New York Post Feed",
+          "category": "us-politics",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "정치",
+          "language": "en",
+          "title": "Congress demands Dept of War release 46 secret UFO videos : ‘You’re gonna see some weird f–king s–t’",
+          "canonical_url": "https://nypost.com/2026/04/04/us-news/congress-demands-dept-of-war-release-46-secret-ufo-videos-youre-gonna-see-some-weird-f-king-s-t",
+          "published_at": "2026-04-04T12:30:00+00:00",
+          "title_hash": "74858410bfc5cb521b1034708cd585d94cef147462d25414707a89df8e2250c2",
+          "keywords": [
+            "congress",
+            "demands",
+            "dept",
+            "war",
+            "release",
+            "secret"
+          ]
+        },
+        {
+          "stable_key": "132ae4d9fc7edfa6664078ddec77dd11bc3c02fb73b22b8d65ebe2c3904bd7c5",
+          "source_key": "forbes-innovation-rss",
+          "source_name": "Forbes Innovation",
+          "category": "us-technology",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "기술",
+          "language": "en",
+          "title": "Meet The Lizard That Shoots Blood From Its Eyes — A Herpetologist Explains",
+          "canonical_url": "https://www.forbes.com/sites/scotttravers/2026/04/04/meet-the-lizard-that-shoots-blood-from-its-eyes---a-herpetologist-explains",
+          "published_at": "2026-04-04T12:30:00+00:00",
+          "title_hash": "f45c812b8f095ae95d297b56bef21eb80700ca8667f7d94c18d7fcc9f9e7b3ca",
+          "keywords": [
+            "meet",
+            "lizard",
+            "shoots",
+            "blood",
+            "eyes",
+            "herpetologist"
+          ]
+        },
         {
           "stable_key": "321a0a3ab9e4779f8ee7777e7c112d9baecbd95ae01d85f1e995334dfe38204d",
           "source_key": "forbes-business-rss",
@@ -760,6 +914,50 @@
           ]
         },
         {
+          "stable_key": "457d97995c83a140cd8d22ed0a8d16f3386dd88ad79ce58c263fb984b06cf585",
+          "source_key": "bloomberg-tech-rss",
+          "source_name": "Bloomberg Technology",
+          "category": "us-technology",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "기술",
+          "language": "en",
+          "title": "Russia’s VPN Crackdown Caused Bank Outage, Telegram Founder Says",
+          "canonical_url": "https://www.bloomberg.com/news/articles/2026-04-04/russia-s-vpn-crackdown-caused-bank-outage-telegram-founder-says",
+          "published_at": "2026-04-04T12:07:17+00:00",
+          "title_hash": "5fae583ca35de60b0b3e6c3c6ad2d5d3e295248a12fa016d9d78fa51195106dd",
+          "keywords": [
+            "russia",
+            "vpn",
+            "crackdown",
+            "caused",
+            "bank",
+            "outage"
+          ]
+        },
+        {
+          "stable_key": "e46f01e997b104deb59017fd9030371cea8dc4c50c8a957deed5f86837f70f9d",
+          "source_key": "bloomberg-politics-rss",
+          "source_name": "Bloomberg Politics",
+          "category": "us-politics",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "정치",
+          "language": "en",
+          "title": "Russia’s VPN Crackdown Caused Bank Outage, Telegram Founder Says",
+          "canonical_url": "https://www.bloomberg.com/news/articles/2026-04-04/russia-s-vpn-crackdown-caused-bank-outage-telegram-founder-says",
+          "published_at": "2026-04-04T12:07:17+00:00",
+          "title_hash": "5fae583ca35de60b0b3e6c3c6ad2d5d3e295248a12fa016d9d78fa51195106dd",
+          "keywords": [
+            "russia",
+            "vpn",
+            "crackdown",
+            "caused",
+            "bank",
+            "outage"
+          ]
+        },
+        {
           "stable_key": "a1389d756e0341707fff2dad61d63a15f128c41849e1aae45cdff80318b93a84",
           "source_key": "telegram-dada-news2",
           "source_name": "Telegram @dada_news2",
@@ -912,213 +1110,15 @@
             "따져볼",
             "것은"
           ]
-        },
-        {
-          "stable_key": "33a517cb96165bd4e641b58f97ec2fdb076fda38a94d82cb7db0c03c07e74d73",
-          "source_key": "fox-us-rss",
-          "source_name": "Fox News US",
-          "category": "us-politics",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "정치",
-          "language": "en",
-          "title": "Artist fumes after tribute honoring slain Iryna Zarutska gets scrubbed amid woke blowback",
-          "canonical_url": "https://www.foxnews.com/us/artist-fumes-after-tribute-honoring-slain-iryna-zarutska-gets-scrubbed-amid-woke-blowback",
-          "published_at": "2026-04-04T12:00:59+00:00",
-          "title_hash": "7d113e258e7d9617dffc36c08e25d51e1cffb1adc2b8d9b600b7e3106ba74ef3",
-          "keywords": [
-            "artist",
-            "fumes",
-            "after",
-            "tribute",
-            "honoring",
-            "slain"
-          ]
-        },
-        {
-          "stable_key": "2d86d619769144b71b5ed6a4285a3ee35ceceebc21582d456ca1b6fd8e858a59",
-          "source_key": "asiae-society-rss",
-          "source_name": "Asiae Society",
-          "category": "kr-society",
-          "hub": "kr",
-          "hub_label": "대한민국",
-          "section_label": "사회",
-          "language": "ko",
-          "title": "1218회 로또 '3, 28, 31, 32, 42, 45'…1등 18명 17억1000만원씩",
-          "canonical_url": "https://www.asiae.co.kr/article/2026040421002013807",
-          "published_at": "2026-04-04T12:00:20+00:00",
-          "title_hash": "df4be1f15c45e92afb83681649e2a6ce1280a2e5c40d89cc7281a86053033148",
-          "keywords": [
-            "1218회",
-            "로또",
-            "1등",
-            "18명",
-            "17억1000만원씩",
-            "1218회 로또"
-          ]
-        },
-        {
-          "stable_key": "3f3f815da0bf7055ea68eb578cb64b93cb149ec8ea24e234ec890f355851aeb6",
-          "source_key": "nyt-business-rss",
-          "source_name": "New York Times Business",
-          "category": "us-economy",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "경제",
-          "language": "en",
-          "title": "Trump Slashed Funding for Science. Now the U.S. Faces a Costly Brain Drain.",
-          "canonical_url": "https://www.nytimes.com/2026/04/04/business/dealbook/trump-brain-drain-academia.html",
-          "published_at": "2026-04-04T12:00:02+00:00",
-          "title_hash": "a6659f10f52a68e34e9596186fdbe5d1215000d8bbcf28d632578dcba2e655f4",
-          "keywords": [
-            "trump",
-            "slashed",
-            "funding",
-            "science",
-            "now",
-            "faces"
-          ]
-        },
-        {
-          "stable_key": "e3ec45b546239abd37edb5153939d6699e900b1398d1590f1ecfeba7e9d63101",
-          "source_key": "cnbc-top-rss",
-          "source_name": "CNBC Top News",
-          "category": "us-world",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "세계",
-          "language": "en",
-          "title": "The Chinese box office isn't the Hollywood kingmaker it used to be. Here's why",
-          "canonical_url": "https://www.cnbc.com/2026/04/04/china-box-office-hollywood-films.html",
-          "published_at": "2026-04-04T12:00:01+00:00",
-          "title_hash": "cd4f59eb0394d54b5cb20c840dab573eef3fbec5144348d1d2b618b3f321ead4",
-          "keywords": [
-            "chinese",
-            "box",
-            "office",
-            "isn",
-            "hollywood",
-            "kingmaker"
-          ]
-        },
-        {
-          "stable_key": "0b70c7ff760db194b96a0aa2e49e8a4e8f4641e7164d4c10957df889e245d823",
-          "source_key": "cnbc-top-rss",
-          "source_name": "CNBC Top News",
-          "category": "us-technology",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "기술",
-          "language": "en",
-          "title": "Apple at 50: The iPhone maker 'blew a 5-year lead' on AI, but former insiders say it can still win",
-          "canonical_url": "https://www.cnbc.com/2026/04/04/apple-50-anniversary-ai-iphone-siri.html",
-          "published_at": "2026-04-04T12:00:01+00:00",
-          "title_hash": "cb7c39cf96f4846d5af6f02de0edbcd7d6c2dbb8dca4644baf941d2839b9b330",
-          "keywords": [
-            "apple",
-            "iphone",
-            "maker",
-            "blew",
-            "year",
-            "lead"
-          ]
-        },
-        {
-          "stable_key": "429065c67313512eb113ed343168f7469e9c203ff1c3ea04cf7c6b1c152723fa",
-          "source_key": "cnbc-tech-rss",
-          "source_name": "CNBC Technology",
-          "category": "us-technology",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "기술",
-          "language": "en",
-          "title": "Apple at 50: The iPhone maker 'blew a 5-year lead' on AI, but former insiders say it can still win",
-          "canonical_url": "https://www.cnbc.com/2026/04/04/apple-50-anniversary-ai-iphone-siri.html",
-          "published_at": "2026-04-04T12:00:01+00:00",
-          "title_hash": "cb7c39cf96f4846d5af6f02de0edbcd7d6c2dbb8dca4644baf941d2839b9b330",
-          "keywords": [
-            "apple",
-            "iphone",
-            "maker",
-            "blew",
-            "year",
-            "lead"
-          ]
-        },
-        {
-          "stable_key": "7f7256de5f9d96195589b5521a982f10f1978d24d691326bf6767350e70b3f8c",
-          "source_key": "wired-rss",
-          "source_name": "Wired RSS",
-          "category": "us-technology",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "기술",
-          "language": "en",
-          "title": "Best Ski Clothes (2026): Patagonia, Arc’teryx, Burton, and More",
-          "canonical_url": "https://www.wired.com/gallery/best-ski-clothes",
-          "published_at": "2026-04-04T12:00:00+00:00",
-          "title_hash": "6344ecffa45b513e67c4836fb11189daf622a0bd3076fea5bed55c2a7cf16c54",
-          "keywords": [
-            "best",
-            "ski",
-            "clothes",
-            "patagonia",
-            "arc",
-            "teryx"
-          ]
-        },
-        {
-          "stable_key": "b601c177e51eedee9e37cadc525dc1506454db8995f1df4b194e535c6d9a2366",
-          "source_key": "washingtonexaminer-feed",
-          "source_name": "Washington Examiner Feed",
-          "category": "us-technology",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "기술",
-          "language": "en",
-          "title": "What if your ‘doctor’ has 300 million followers and zero accountability?",
-          "canonical_url": "https://www.washingtonexaminer.com/op-eds/4510497/doctor-300-million-followers-zero-accountability",
-          "published_at": "2026-04-04T12:00:00+00:00",
-          "title_hash": "cc7ec452f30077e4408eb5506623e69f5501aac4be143c2230dd0af0a8e6af93",
-          "keywords": [
-            "what",
-            "if",
-            "your",
-            "doctor",
-            "has",
-            "million"
-          ]
-        },
-        {
-          "stable_key": "ae0692745495d44bde985634b4157b33f73b8d78937b60938cf2442ca30bff82",
-          "source_key": "washingtonexaminer-feed",
-          "source_name": "Washington Examiner Feed",
-          "category": "us-markets",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "시장",
-          "language": "en",
-          "title": "Iran war reality check: Global markets still dictate American energy prices",
-          "canonical_url": "https://www.washingtonexaminer.com/op-eds/4515340/iran-war-global-markets-dictate-american-energy-prices",
-          "published_at": "2026-04-04T12:00:00+00:00",
-          "title_hash": "a5049e87c95ac06d9f3ada910879d65d746498e3c754060e45747a8420044e66",
-          "keywords": [
-            "iran",
-            "war",
-            "reality",
-            "check",
-            "global",
-            "markets"
-          ]
         }
       ]
     },
     "7d": {
       "label": "7d",
-      "article_count": 2988,
+      "article_count": 3024,
       "unknown_time_count": 0,
       "active_source_count": 99,
-      "repeated_title_count": 166,
+      "repeated_title_count": 170,
       "timeline": [
         {
           "date": "2026-03-28",
@@ -1134,7 +1134,7 @@
         },
         {
           "date": "2026-03-31",
-          "count": 149
+          "count": 150
         },
         {
           "date": "2026-04-01",
@@ -1142,65 +1142,65 @@
         },
         {
           "date": "2026-04-02",
-          "count": 581
+          "count": 585
         },
         {
           "date": "2026-04-03",
-          "count": 1317
+          "count": 1332
         },
         {
           "date": "2026-04-04",
-          "count": 573
+          "count": 589
         }
       ],
       "top_keywords": [
         {
           "keyword": "trump",
-          "count": 335
+          "count": 343
         },
         {
           "keyword": "iran",
-          "count": 162
+          "count": 163
         },
         {
           "keyword": "war",
-          "count": 91
+          "count": 93
         },
         {
           "keyword": "new",
-          "count": 67
+          "count": 69
         },
         {
           "keyword": "us",
-          "count": 66
+          "count": 67
         },
         {
           "keyword": "after",
-          "count": 57
+          "count": 58
         },
         {
           "keyword": "ai",
           "count": 54
         },
         {
-          "keyword": "what",
-          "count": 49
+          "keyword": "how",
+          "count": 51
         },
         {
-          "keyword": "how",
-          "count": 48
+          "keyword": "what",
+          "count": 51
         },
         {
           "keyword": "says",
-          "count": 48
+          "count": 49
         },
         {
           "keyword": "bondi",
-          "count": 45
+          "count": 46
         },
         {
           "keyword": "about",
-          "count": 43
+          "count": 44
         }
       ],
       "top_sources": [
@@ -1215,14 +1215,14 @@
           "count": 99
         },
         {
+          "source_key": "guardian-us-rss",
+          "name": "The Guardian US",
+          "count": 98
+        },
+        {
           "source_key": "asiae-economy-rss",
           "name": "Asiae Economy",
           "count": 97
-        },
-        {
-          "source_key": "guardian-us-rss",
-          "name": "The Guardian US",
-          "count": 94
         },
         {
           "source_key": "thehill-feed",
@@ -1245,6 +1245,11 @@
           "count": 64
         },
         {
+          "source_key": "huffpost-politics-rss",
+          "name": "HuffPost Politics",
+          "count": 63
+        },
+        {
           "source_key": "nyt-world-rss",
           "name": "New York Times World",
           "count": 59
@@ -1258,28 +1263,23 @@
           "source_key": "donga-economy-rss",
           "name": "DongA Economy",
           "count": 50
-        },
-        {
-          "source_key": "donga-society-rss",
-          "name": "DongA Society",
-          "count": 50
         }
       ],
       "top_hubs": [
         {
           "key": "us",
           "label": "미국",
-          "count": 1697
+          "count": 1729
         },
         {
           "key": "kr",
           "label": "대한민국",
-          "count": 1171
+          "count": 1172
         },
         {
           "key": "global",
           "label": "글로벌 전문",
-          "count": 120
+          "count": 123
         }
       ],
       "top_sections": [
@@ -1288,21 +1288,21 @@
           "label": "정치",
           "hub": "us",
           "hub_label": "미국",
-          "count": 654
+          "count": 674
         },
         {
           "key": "us-technology",
           "label": "기술",
           "hub": "us",
           "hub_label": "미국",
-          "count": 407
+          "count": 415
         },
         {
           "key": "us-world",
           "label": "세계",
           "hub": "us",
           "hub_label": "미국",
-          "count": 316
+          "count": 317
         },
         {
           "key": "kr-economy",
@@ -1337,28 +1337,28 @@
           "label": "경제",
           "hub": "us",
           "hub_label": "미국",
-          "count": 193
+          "count": 194
         },
         {
           "key": "us-markets",
           "label": "시장",
           "hub": "us",
           "hub_label": "미국",
-          "count": 127
+          "count": 129
         },
         {
           "key": "kr-sports",
           "label": "스포츠",
           "hub": "kr",
           "hub_label": "대한민국",
-          "count": 121
+          "count": 122
         },
         {
           "key": "crypto",
           "label": "코인",
           "hub": "global",
           "hub_label": "글로벌 전문",
-          "count": 56
+          "count": 58
         },
         {
           "key": "kr-local",
@@ -1371,14 +1371,23 @@
       "language_counts": [
         {
           "language": "en",
-          "count": 1809
+          "count": 1843
         },
         {
           "language": "ko",
-          "count": 1179
+          "count": 1181
         }
       ],
       "repeated_titles": [
+        {
+          "title_hash": "1ba172554ef1c7fcb4ab3d83322e6f471392708251d575eb55dfe385f79a6b1c",
+          "title": "🚨 [CRITICAL] 호르무즈 해협 알림",
+          "article_count": 4,
+          "source_count": 1,
+          "latest_published_at": "2026-04-04T12:35:54+00:00",
+          "canonical_url": "https://www.aljazeera.com/news/2026/4/4/iaea-says-projectile-hits-near-irans-bushehr-nuclear-plant-killing-one?traffic_source=rss",
+          "sort_timestamp": 1775306154
+        },
         {
           "title_hash": "baa93cefedde733ac1d2a7396338313d79a6c2e25456c48005f132f984edd88e",
           "title": "Debris from aerial interception strikes Oracle building in Dubai, UAE says",
@@ -1515,13 +1524,13 @@
           "sort_timestamp": 1775156384
         },
         {
-          "title_hash": "1ba172554ef1c7fcb4ab3d83322e6f471392708251d575eb55dfe385f79a6b1c",
-          "title": "🚨 [CRITICAL] 호르무즈 해협 알림",
-          "article_count": 3,
-          "source_count": 1,
-          "latest_published_at": "2026-04-04T09:15:43+00:00",
-          "canonical_url": "https://www.iranintl.com/en/liveblog/202604015564",
-          "sort_timestamp": 1775294143
+          "title_hash": "5fae583ca35de60b0b3e6c3c6ad2d5d3e295248a12fa016d9d78fa51195106dd",
+          "title": "Russia’s VPN Crackdown Caused Bank Outage, Telegram Founder Says",
+          "article_count": 2,
+          "source_count": 2,
+          "latest_published_at": "2026-04-04T12:07:17+00:00",
+          "canonical_url": "https://www.bloomberg.com/news/articles/2026-04-04/russia-s-vpn-crackdown-caused-bank-outage-telegram-founder-says",
+          "sort_timestamp": 1775304437
         },
         {
           "title_hash": "cb7c39cf96f4846d5af6f02de0edbcd7d6c2dbb8dca4644baf941d2839b9b330",
@@ -1549,18 +1558,163 @@
           "latest_published_at": "2026-04-04T10:30:00+00:00",
           "canonical_url": "https://www.forbes.com/sites/alanohnsman/2026/04/04/a-billionaires-pitch-to-cut-power-bills-collides-with-californias-real-costs",
           "sort_timestamp": 1775298600
-        },
-        {
-          "title_hash": "b5bfd7c96cb1d0b0e4e6b9332f04dc30e0af54bcad4d0b797596cf687ff7588e",
-          "title": "U.S. fighter jet shot down in Iran, one crew member rescued, MS NOW reports",
-          "article_count": 2,
-          "source_count": 2,
-          "latest_published_at": "2026-04-04T10:29:11+00:00",
-          "canonical_url": "https://www.cnbc.com/2026/04/03/us-fighter-jet-downed-in-iran.html",
-          "sort_timestamp": 1775298551
         }
       ],
       "recent_samples": [
+        {
+          "stable_key": "45351fcbd1b51ab9f26f2af38d6d3e17c30a0b7fa77afead72ad06ff41a36b0b",
+          "source_key": "mk-sports-rss",
+          "source_name": "Maeil Business Sports",
+          "category": "kr-sports",
+          "hub": "kr",
+          "hub_label": "대한민국",
+          "section_label": "스포츠",
+          "language": "ko",
+          "title": "SK슈가글라이더즈, 경남개발공사 꺾고 19연승 질주…최지혜 11골 맹활약",
+          "canonical_url": "https://www.mk.co.kr/news/sports/12008050",
+          "published_at": "2026-04-04T12:36:40+00:00",
+          "title_hash": "1ef82972bcc70728f9b6e5b845feef40a7da3d50c03b92151d21a59deccb4fc2",
+          "keywords": [
+            "sk슈가글라이더즈",
+            "경남개발공사",
+            "꺾고",
+            "19연승",
+            "질주",
+            "최지혜"
+          ]
+        },
+        {
+          "stable_key": "5a9c5ee07d6b9631aff56af21d9fe69bdf881d5251f98f945a53cfc9020ebeb7",
+          "source_key": "telegram-claw-summary",
+          "source_name": "Telegram @clawnewssummary",
+          "category": "military",
+          "hub": "global",
+          "hub_label": "글로벌 전문",
+          "section_label": "군사",
+          "language": "ko",
+          "title": "🚨 [CRITICAL] 호르무즈 해협 알림",
+          "canonical_url": "https://www.aljazeera.com/news/2026/4/4/iaea-says-projectile-hits-near-irans-bushehr-nuclear-plant-killing-one?traffic_source=rss",
+          "published_at": "2026-04-04T12:35:54+00:00",
+          "title_hash": "1ba172554ef1c7fcb4ab3d83322e6f471392708251d575eb55dfe385f79a6b1c",
+          "keywords": [
+            "critical",
+            "호르무즈",
+            "해협",
+            "알림",
+            "critical 호르무즈",
+            "호르무즈 해협"
+          ]
+        },
+        {
+          "stable_key": "37a65778c41b92f3f3cbe5b5383784eeb5bf86e149a2215ddc94c781a559f691",
+          "source_key": "bloomberg-markets-rss",
+          "source_name": "Bloomberg Markets",
+          "category": "us-markets",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "시장",
+          "language": "en",
+          "title": "Easter Candy Sales Decline",
+          "canonical_url": "https://www.bloomberg.com/news/videos/2026-04-04/easter-candy-sales-decline-video",
+          "published_at": "2026-04-04T12:32:11+00:00",
+          "title_hash": "9f0f99ea583bb40ae2eabb9a4cd6302bcbc5f4bbac6ee209fcebc067a4ded9db",
+          "keywords": [
+            "easter",
+            "candy",
+            "sales",
+            "decline",
+            "easter candy",
+            "candy sales"
+          ]
+        },
+        {
+          "stable_key": "5d24ec76c68fc623b5d8662b0d3e0a2f93dab9b70496c233dc0d647c0edd01aa",
+          "source_key": "forbes-innovation-rss",
+          "source_name": "Forbes Innovation",
+          "category": "us-technology",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "기술",
+          "language": "en",
+          "title": "New Password Stealer Bypasses 2FA—Chrome, Edge And Firefox Targeted",
+          "canonical_url": "https://www.forbes.com/sites/daveywinder/2026/04/04/new-password-stealer-bypasses-2fa-chrome-edge-and-firefox-targeted",
+          "published_at": "2026-04-04T12:30:11+00:00",
+          "title_hash": "84489bcf1187b6a17a653c10b066ff21aa23ad7b5b4c239f04eb4fff67163907",
+          "keywords": [
+            "new",
+            "password",
+            "stealer",
+            "bypasses",
+            "2fa",
+            "chrome"
+          ]
+        },
+        {
+          "stable_key": "e4e1fd84971849c109de3fbb513fd18121f1b2589bab860ffbf86faf10438d86",
+          "source_key": "newsweek-feed",
+          "source_name": "Newsweek Feed",
+          "category": "us-technology",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "기술",
+          "language": "en",
+          "title": "Southwest Passenger Books 2 Seats—Not Ready For What They Notice In App",
+          "canonical_url": "https://www.newsweek.com/southwest-passenger-books-2-seats-sees-strange-app-behavior-11779265",
+          "published_at": "2026-04-04T12:30:00+00:00",
+          "title_hash": "ec770aedd819ee0a426c60e55f05eab71548ed5e48d212211bc5963206cda782",
+          "keywords": [
+            "southwest",
+            "passenger",
+            "books",
+            "seats",
+            "not",
+            "ready"
+          ]
+        },
+        {
+          "stable_key": "1df12942ae9c5f1e714cbc60c51d708b0201460ece8fd0c9a7f2baae1204d4bf",
+          "source_key": "nypost-feed",
+          "source_name": "New York Post Feed",
+          "category": "us-politics",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "정치",
+          "language": "en",
+          "title": "Congress demands Dept of War release 46 secret UFO videos : ‘You’re gonna see some weird f–king s–t’",
+          "canonical_url": "https://nypost.com/2026/04/04/us-news/congress-demands-dept-of-war-release-46-secret-ufo-videos-youre-gonna-see-some-weird-f-king-s-t",
+          "published_at": "2026-04-04T12:30:00+00:00",
+          "title_hash": "74858410bfc5cb521b1034708cd585d94cef147462d25414707a89df8e2250c2",
+          "keywords": [
+            "congress",
+            "demands",
+            "dept",
+            "war",
+            "release",
+            "secret"
+          ]
+        },
+        {
+          "stable_key": "132ae4d9fc7edfa6664078ddec77dd11bc3c02fb73b22b8d65ebe2c3904bd7c5",
+          "source_key": "forbes-innovation-rss",
+          "source_name": "Forbes Innovation",
+          "category": "us-technology",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "기술",
+          "language": "en",
+          "title": "Meet The Lizard That Shoots Blood From Its Eyes — A Herpetologist Explains",
+          "canonical_url": "https://www.forbes.com/sites/scotttravers/2026/04/04/meet-the-lizard-that-shoots-blood-from-its-eyes---a-herpetologist-explains",
+          "published_at": "2026-04-04T12:30:00+00:00",
+          "title_hash": "f45c812b8f095ae95d297b56bef21eb80700ca8667f7d94c18d7fcc9f9e7b3ca",
+          "keywords": [
+            "meet",
+            "lizard",
+            "shoots",
+            "blood",
+            "eyes",
+            "herpetologist"
+          ]
+        },
         {
           "stable_key": "321a0a3ab9e4779f8ee7777e7c112d9baecbd95ae01d85f1e995334dfe38204d",
           "source_key": "forbes-business-rss",
@@ -1870,6 +2024,50 @@
           ]
         },
         {
+          "stable_key": "457d97995c83a140cd8d22ed0a8d16f3386dd88ad79ce58c263fb984b06cf585",
+          "source_key": "bloomberg-tech-rss",
+          "source_name": "Bloomberg Technology",
+          "category": "us-technology",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "기술",
+          "language": "en",
+          "title": "Russia’s VPN Crackdown Caused Bank Outage, Telegram Founder Says",
+          "canonical_url": "https://www.bloomberg.com/news/articles/2026-04-04/russia-s-vpn-crackdown-caused-bank-outage-telegram-founder-says",
+          "published_at": "2026-04-04T12:07:17+00:00",
+          "title_hash": "5fae583ca35de60b0b3e6c3c6ad2d5d3e295248a12fa016d9d78fa51195106dd",
+          "keywords": [
+            "russia",
+            "vpn",
+            "crackdown",
+            "caused",
+            "bank",
+            "outage"
+          ]
+        },
+        {
+          "stable_key": "e46f01e997b104deb59017fd9030371cea8dc4c50c8a957deed5f86837f70f9d",
+          "source_key": "bloomberg-politics-rss",
+          "source_name": "Bloomberg Politics",
+          "category": "us-politics",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "정치",
+          "language": "en",
+          "title": "Russia’s VPN Crackdown Caused Bank Outage, Telegram Founder Says",
+          "canonical_url": "https://www.bloomberg.com/news/articles/2026-04-04/russia-s-vpn-crackdown-caused-bank-outage-telegram-founder-says",
+          "published_at": "2026-04-04T12:07:17+00:00",
+          "title_hash": "5fae583ca35de60b0b3e6c3c6ad2d5d3e295248a12fa016d9d78fa51195106dd",
+          "keywords": [
+            "russia",
+            "vpn",
+            "crackdown",
+            "caused",
+            "bank",
+            "outage"
+          ]
+        },
+        {
           "stable_key": "a1389d756e0341707fff2dad61d63a15f128c41849e1aae45cdff80318b93a84",
           "source_key": "telegram-dada-news2",
           "source_name": "Telegram @dada_news2",
@@ -2022,213 +2220,15 @@
             "따져볼",
             "것은"
           ]
-        },
-        {
-          "stable_key": "33a517cb96165bd4e641b58f97ec2fdb076fda38a94d82cb7db0c03c07e74d73",
-          "source_key": "fox-us-rss",
-          "source_name": "Fox News US",
-          "category": "us-politics",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "정치",
-          "language": "en",
-          "title": "Artist fumes after tribute honoring slain Iryna Zarutska gets scrubbed amid woke blowback",
-          "canonical_url": "https://www.foxnews.com/us/artist-fumes-after-tribute-honoring-slain-iryna-zarutska-gets-scrubbed-amid-woke-blowback",
-          "published_at": "2026-04-04T12:00:59+00:00",
-          "title_hash": "7d113e258e7d9617dffc36c08e25d51e1cffb1adc2b8d9b600b7e3106ba74ef3",
-          "keywords": [
-            "artist",
-            "fumes",
-            "after",
-            "tribute",
-            "honoring",
-            "slain"
-          ]
-        },
-        {
-          "stable_key": "2d86d619769144b71b5ed6a4285a3ee35ceceebc21582d456ca1b6fd8e858a59",
-          "source_key": "asiae-society-rss",
-          "source_name": "Asiae Society",
-          "category": "kr-society",
-          "hub": "kr",
-          "hub_label": "대한민국",
-          "section_label": "사회",
-          "language": "ko",
-          "title": "1218회 로또 '3, 28, 31, 32, 42, 45'…1등 18명 17억1000만원씩",
-          "canonical_url": "https://www.asiae.co.kr/article/2026040421002013807",
-          "published_at": "2026-04-04T12:00:20+00:00",
-          "title_hash": "df4be1f15c45e92afb83681649e2a6ce1280a2e5c40d89cc7281a86053033148",
-          "keywords": [
-            "1218회",
-            "로또",
-            "1등",
-            "18명",
-            "17억1000만원씩",
-            "1218회 로또"
-          ]
-        },
-        {
-          "stable_key": "3f3f815da0bf7055ea68eb578cb64b93cb149ec8ea24e234ec890f355851aeb6",
-          "source_key": "nyt-business-rss",
-          "source_name": "New York Times Business",
-          "category": "us-economy",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "경제",
-          "language": "en",
-          "title": "Trump Slashed Funding for Science. Now the U.S. Faces a Costly Brain Drain.",
-          "canonical_url": "https://www.nytimes.com/2026/04/04/business/dealbook/trump-brain-drain-academia.html",
-          "published_at": "2026-04-04T12:00:02+00:00",
-          "title_hash": "a6659f10f52a68e34e9596186fdbe5d1215000d8bbcf28d632578dcba2e655f4",
-          "keywords": [
-            "trump",
-            "slashed",
-            "funding",
-            "science",
-            "now",
-            "faces"
-          ]
-        },
-        {
-          "stable_key": "e3ec45b546239abd37edb5153939d6699e900b1398d1590f1ecfeba7e9d63101",
-          "source_key": "cnbc-top-rss",
-          "source_name": "CNBC Top News",
-          "category": "us-world",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "세계",
-          "language": "en",
-          "title": "The Chinese box office isn't the Hollywood kingmaker it used to be. Here's why",
-          "canonical_url": "https://www.cnbc.com/2026/04/04/china-box-office-hollywood-films.html",
-          "published_at": "2026-04-04T12:00:01+00:00",
-          "title_hash": "cd4f59eb0394d54b5cb20c840dab573eef3fbec5144348d1d2b618b3f321ead4",
-          "keywords": [
-            "chinese",
-            "box",
-            "office",
-            "isn",
-            "hollywood",
-            "kingmaker"
-          ]
-        },
-        {
-          "stable_key": "0b70c7ff760db194b96a0aa2e49e8a4e8f4641e7164d4c10957df889e245d823",
-          "source_key": "cnbc-top-rss",
-          "source_name": "CNBC Top News",
-          "category": "us-technology",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "기술",
-          "language": "en",
-          "title": "Apple at 50: The iPhone maker 'blew a 5-year lead' on AI, but former insiders say it can still win",
-          "canonical_url": "https://www.cnbc.com/2026/04/04/apple-50-anniversary-ai-iphone-siri.html",
-          "published_at": "2026-04-04T12:00:01+00:00",
-          "title_hash": "cb7c39cf96f4846d5af6f02de0edbcd7d6c2dbb8dca4644baf941d2839b9b330",
-          "keywords": [
-            "apple",
-            "iphone",
-            "maker",
-            "blew",
-            "year",
-            "lead"
-          ]
-        },
-        {
-          "stable_key": "429065c67313512eb113ed343168f7469e9c203ff1c3ea04cf7c6b1c152723fa",
-          "source_key": "cnbc-tech-rss",
-          "source_name": "CNBC Technology",
-          "category": "us-technology",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "기술",
-          "language": "en",
-          "title": "Apple at 50: The iPhone maker 'blew a 5-year lead' on AI, but former insiders say it can still win",
-          "canonical_url": "https://www.cnbc.com/2026/04/04/apple-50-anniversary-ai-iphone-siri.html",
-          "published_at": "2026-04-04T12:00:01+00:00",
-          "title_hash": "cb7c39cf96f4846d5af6f02de0edbcd7d6c2dbb8dca4644baf941d2839b9b330",
-          "keywords": [
-            "apple",
-            "iphone",
-            "maker",
-            "blew",
-            "year",
-            "lead"
-          ]
-        },
-        {
-          "stable_key": "7f7256de5f9d96195589b5521a982f10f1978d24d691326bf6767350e70b3f8c",
-          "source_key": "wired-rss",
-          "source_name": "Wired RSS",
-          "category": "us-technology",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "기술",
-          "language": "en",
-          "title": "Best Ski Clothes (2026): Patagonia, Arc’teryx, Burton, and More",
-          "canonical_url": "https://www.wired.com/gallery/best-ski-clothes",
-          "published_at": "2026-04-04T12:00:00+00:00",
-          "title_hash": "6344ecffa45b513e67c4836fb11189daf622a0bd3076fea5bed55c2a7cf16c54",
-          "keywords": [
-            "best",
-            "ski",
-            "clothes",
-            "patagonia",
-            "arc",
-            "teryx"
-          ]
-        },
-        {
-          "stable_key": "b601c177e51eedee9e37cadc525dc1506454db8995f1df4b194e535c6d9a2366",
-          "source_key": "washingtonexaminer-feed",
-          "source_name": "Washington Examiner Feed",
-          "category": "us-technology",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "기술",
-          "language": "en",
-          "title": "What if your ‘doctor’ has 300 million followers and zero accountability?",
-          "canonical_url": "https://www.washingtonexaminer.com/op-eds/4510497/doctor-300-million-followers-zero-accountability",
-          "published_at": "2026-04-04T12:00:00+00:00",
-          "title_hash": "cc7ec452f30077e4408eb5506623e69f5501aac4be143c2230dd0af0a8e6af93",
-          "keywords": [
-            "what",
-            "if",
-            "your",
-            "doctor",
-            "has",
-            "million"
-          ]
-        },
-        {
-          "stable_key": "ae0692745495d44bde985634b4157b33f73b8d78937b60938cf2442ca30bff82",
-          "source_key": "washingtonexaminer-feed",
-          "source_name": "Washington Examiner Feed",
-          "category": "us-markets",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "시장",
-          "language": "en",
-          "title": "Iran war reality check: Global markets still dictate American energy prices",
-          "canonical_url": "https://www.washingtonexaminer.com/op-eds/4515340/iran-war-global-markets-dictate-american-energy-prices",
-          "published_at": "2026-04-04T12:00:00+00:00",
-          "title_hash": "a5049e87c95ac06d9f3ada910879d65d746498e3c754060e45747a8420044e66",
-          "keywords": [
-            "iran",
-            "war",
-            "reality",
-            "check",
-            "global",
-            "markets"
-          ]
         }
       ]
     },
     "30d": {
       "label": "30d",
-      "article_count": 3489,
+      "article_count": 3526,
       "unknown_time_count": 0,
       "active_source_count": 100,
-      "repeated_title_count": 226,
+      "repeated_title_count": 231,
       "timeline": [
         {
           "date": "2026-03-05",
@@ -2272,7 +2272,7 @@
         },
         {
           "date": "2026-03-15",
-          "count": 10
+          "count": 11
         },
         {
           "date": "2026-03-16",
@@ -2336,7 +2336,7 @@
         },
         {
           "date": "2026-03-31",
-          "count": 149
+          "count": 150
         },
         {
           "date": "2026-04-01",
@@ -2344,37 +2344,37 @@
         },
         {
           "date": "2026-04-02",
-          "count": 581
+          "count": 585
         },
         {
           "date": "2026-04-03",
-          "count": 1317
+          "count": 1332
         },
         {
           "date": "2026-04-04",
-          "count": 573
+          "count": 589
         }
       ],
       "top_keywords": [
         {
           "keyword": "trump",
-          "count": 383
+          "count": 391
         },
         {
           "keyword": "iran",
-          "count": 206
+          "count": 208
         },
         {
           "keyword": "war",
-          "count": 123
+          "count": 126
         },
         {
           "keyword": "new",
-          "count": 82
+          "count": 84
         },
         {
           "keyword": "us",
-          "count": 82
+          "count": 83
         },
         {
           "keyword": "ai",
@@ -2382,19 +2382,19 @@
         },
         {
           "keyword": "how",
-          "count": 69
+          "count": 73
         },
         {
           "keyword": "after",
-          "count": 64
+          "count": 65
         },
         {
           "keyword": "says",
-          "count": 59
+          "count": 60
         },
         {
           "keyword": "what",
-          "count": 57
+          "count": 59
         },
         {
           "keyword": "california",
@@ -2412,18 +2412,23 @@
           "count": 238
         },
         {
+          "source_key": "latimes-politics-rss",
+          "name": "Los Angeles Times Politics",
+          "count": 100
+        },
+        {
           "source_key": "asiae-society-rss",
           "name": "Asiae Society",
           "count": 99
         },
         {
-          "source_key": "latimes-politics-rss",
-          "name": "Los Angeles Times Politics",
+          "source_key": "latimes-world-rss",
+          "name": "Los Angeles Times World",
           "count": 99
         },
         {
-          "source_key": "latimes-world-rss",
-          "name": "Los Angeles Times World",
+          "source_key": "guardian-us-rss",
+          "name": "The Guardian US",
           "count": 99
         },
         {
@@ -2435,11 +2440,6 @@
           "source_key": "latimes-business-rss",
           "name": "Los Angeles Times Business",
           "count": 96
-        },
-        {
-          "source_key": "guardian-us-rss",
-          "name": "The Guardian US",
-          "count": 95
         },
         {
           "source_key": "axios-feed",
@@ -2462,26 +2462,26 @@
           "count": 77
         },
         {
-          "source_key": "nyt-world-rss",
-          "name": "New York Times World",
-          "count": 59
+          "source_key": "huffpost-politics-rss",
+          "name": "HuffPost Politics",
+          "count": 63
         }
       ],
       "top_hubs": [
         {
           "key": "us",
           "label": "미국",
-          "count": 2136
+          "count": 2169
         },
         {
           "key": "kr",
           "label": "대한민국",
-          "count": 1229
+          "count": 1230
         },
         {
           "key": "global",
           "label": "글로벌 전문",
-          "count": 124
+          "count": 127
         }
       ],
       "top_sections": [
@@ -2490,21 +2490,21 @@
           "label": "정치",
           "hub": "us",
           "hub_label": "미국",
-          "count": 769
+          "count": 790
         },
         {
           "key": "us-technology",
           "label": "기술",
           "hub": "us",
           "hub_label": "미국",
-          "count": 514
+          "count": 522
         },
         {
           "key": "us-world",
           "label": "세계",
           "hub": "us",
           "hub_label": "미국",
-          "count": 399
+          "count": 400
         },
         {
           "key": "kr-economy",
@@ -2518,7 +2518,7 @@
           "label": "경제",
           "hub": "us",
           "hub_label": "미국",
-          "count": 290
+          "count": 291
         },
         {
           "key": "kr-society",
@@ -2546,21 +2546,21 @@
           "label": "시장",
           "hub": "us",
           "hub_label": "미국",
-          "count": 164
+          "count": 166
         },
         {
           "key": "kr-sports",
           "label": "스포츠",
           "hub": "kr",
           "hub_label": "대한민국",
-          "count": 143
+          "count": 144
         },
         {
           "key": "crypto",
           "label": "코인",
           "hub": "global",
           "hub_label": "글로벌 전문",
-          "count": 57
+          "count": 59
         },
         {
           "key": "kr-local",
@@ -2573,11 +2573,11 @@
       "language_counts": [
         {
           "language": "en",
-          "count": 2252
+          "count": 2287
         },
         {
           "language": "ko",
-          "count": 1237
+          "count": 1239
         }
       ],
       "repeated_titles": [
@@ -2589,6 +2589,15 @@
           "latest_published_at": "2026-03-25T16:27:16+00:00",
           "canonical_url": "https://www.latimes.com/politics/story/2026-03-25/supreme-court-makes-it-harder-for-music-movie-makers-to-sue-for-copyright-infringement",
           "sort_timestamp": 1774456036
+        },
+        {
+          "title_hash": "1ba172554ef1c7fcb4ab3d83322e6f471392708251d575eb55dfe385f79a6b1c",
+          "title": "🚨 [CRITICAL] 호르무즈 해협 알림",
+          "article_count": 4,
+          "source_count": 1,
+          "latest_published_at": "2026-04-04T12:35:54+00:00",
+          "canonical_url": "https://www.aljazeera.com/news/2026/4/4/iaea-says-projectile-hits-near-irans-bushehr-nuclear-plant-killing-one?traffic_source=rss",
+          "sort_timestamp": 1775306154
         },
         {
           "title_hash": "baa93cefedde733ac1d2a7396338313d79a6c2e25456c48005f132f984edd88e",
@@ -2751,18 +2760,163 @@
           "latest_published_at": "2026-03-20T10:00:00+00:00",
           "canonical_url": "https://www.latimes.com/business/story/2026-03-20/pentagons-attempt-to-strong-arm-anthropic-rouses-resistance-reflection-in-silicon-valley",
           "sort_timestamp": 1774000800
-        },
-        {
-          "title_hash": "1ba172554ef1c7fcb4ab3d83322e6f471392708251d575eb55dfe385f79a6b1c",
-          "title": "🚨 [CRITICAL] 호르무즈 해협 알림",
-          "article_count": 3,
-          "source_count": 1,
-          "latest_published_at": "2026-04-04T09:15:43+00:00",
-          "canonical_url": "https://www.iranintl.com/en/liveblog/202604015564",
-          "sort_timestamp": 1775294143
         }
       ],
       "recent_samples": [
+        {
+          "stable_key": "45351fcbd1b51ab9f26f2af38d6d3e17c30a0b7fa77afead72ad06ff41a36b0b",
+          "source_key": "mk-sports-rss",
+          "source_name": "Maeil Business Sports",
+          "category": "kr-sports",
+          "hub": "kr",
+          "hub_label": "대한민국",
+          "section_label": "스포츠",
+          "language": "ko",
+          "title": "SK슈가글라이더즈, 경남개발공사 꺾고 19연승 질주…최지혜 11골 맹활약",
+          "canonical_url": "https://www.mk.co.kr/news/sports/12008050",
+          "published_at": "2026-04-04T12:36:40+00:00",
+          "title_hash": "1ef82972bcc70728f9b6e5b845feef40a7da3d50c03b92151d21a59deccb4fc2",
+          "keywords": [
+            "sk슈가글라이더즈",
+            "경남개발공사",
+            "꺾고",
+            "19연승",
+            "질주",
+            "최지혜"
+          ]
+        },
+        {
+          "stable_key": "5a9c5ee07d6b9631aff56af21d9fe69bdf881d5251f98f945a53cfc9020ebeb7",
+          "source_key": "telegram-claw-summary",
+          "source_name": "Telegram @clawnewssummary",
+          "category": "military",
+          "hub": "global",
+          "hub_label": "글로벌 전문",
+          "section_label": "군사",
+          "language": "ko",
+          "title": "🚨 [CRITICAL] 호르무즈 해협 알림",
+          "canonical_url": "https://www.aljazeera.com/news/2026/4/4/iaea-says-projectile-hits-near-irans-bushehr-nuclear-plant-killing-one?traffic_source=rss",
+          "published_at": "2026-04-04T12:35:54+00:00",
+          "title_hash": "1ba172554ef1c7fcb4ab3d83322e6f471392708251d575eb55dfe385f79a6b1c",
+          "keywords": [
+            "critical",
+            "호르무즈",
+            "해협",
+            "알림",
+            "critical 호르무즈",
+            "호르무즈 해협"
+          ]
+        },
+        {
+          "stable_key": "37a65778c41b92f3f3cbe5b5383784eeb5bf86e149a2215ddc94c781a559f691",
+          "source_key": "bloomberg-markets-rss",
+          "source_name": "Bloomberg Markets",
+          "category": "us-markets",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "시장",
+          "language": "en",
+          "title": "Easter Candy Sales Decline",
+          "canonical_url": "https://www.bloomberg.com/news/videos/2026-04-04/easter-candy-sales-decline-video",
+          "published_at": "2026-04-04T12:32:11+00:00",
+          "title_hash": "9f0f99ea583bb40ae2eabb9a4cd6302bcbc5f4bbac6ee209fcebc067a4ded9db",
+          "keywords": [
+            "easter",
+            "candy",
+            "sales",
+            "decline",
+            "easter candy",
+            "candy sales"
+          ]
+        },
+        {
+          "stable_key": "5d24ec76c68fc623b5d8662b0d3e0a2f93dab9b70496c233dc0d647c0edd01aa",
+          "source_key": "forbes-innovation-rss",
+          "source_name": "Forbes Innovation",
+          "category": "us-technology",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "기술",
+          "language": "en",
+          "title": "New Password Stealer Bypasses 2FA—Chrome, Edge And Firefox Targeted",
+          "canonical_url": "https://www.forbes.com/sites/daveywinder/2026/04/04/new-password-stealer-bypasses-2fa-chrome-edge-and-firefox-targeted",
+          "published_at": "2026-04-04T12:30:11+00:00",
+          "title_hash": "84489bcf1187b6a17a653c10b066ff21aa23ad7b5b4c239f04eb4fff67163907",
+          "keywords": [
+            "new",
+            "password",
+            "stealer",
+            "bypasses",
+            "2fa",
+            "chrome"
+          ]
+        },
+        {
+          "stable_key": "e4e1fd84971849c109de3fbb513fd18121f1b2589bab860ffbf86faf10438d86",
+          "source_key": "newsweek-feed",
+          "source_name": "Newsweek Feed",
+          "category": "us-technology",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "기술",
+          "language": "en",
+          "title": "Southwest Passenger Books 2 Seats—Not Ready For What They Notice In App",
+          "canonical_url": "https://www.newsweek.com/southwest-passenger-books-2-seats-sees-strange-app-behavior-11779265",
+          "published_at": "2026-04-04T12:30:00+00:00",
+          "title_hash": "ec770aedd819ee0a426c60e55f05eab71548ed5e48d212211bc5963206cda782",
+          "keywords": [
+            "southwest",
+            "passenger",
+            "books",
+            "seats",
+            "not",
+            "ready"
+          ]
+        },
+        {
+          "stable_key": "1df12942ae9c5f1e714cbc60c51d708b0201460ece8fd0c9a7f2baae1204d4bf",
+          "source_key": "nypost-feed",
+          "source_name": "New York Post Feed",
+          "category": "us-politics",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "정치",
+          "language": "en",
+          "title": "Congress demands Dept of War release 46 secret UFO videos : ‘You’re gonna see some weird f–king s–t’",
+          "canonical_url": "https://nypost.com/2026/04/04/us-news/congress-demands-dept-of-war-release-46-secret-ufo-videos-youre-gonna-see-some-weird-f-king-s-t",
+          "published_at": "2026-04-04T12:30:00+00:00",
+          "title_hash": "74858410bfc5cb521b1034708cd585d94cef147462d25414707a89df8e2250c2",
+          "keywords": [
+            "congress",
+            "demands",
+            "dept",
+            "war",
+            "release",
+            "secret"
+          ]
+        },
+        {
+          "stable_key": "132ae4d9fc7edfa6664078ddec77dd11bc3c02fb73b22b8d65ebe2c3904bd7c5",
+          "source_key": "forbes-innovation-rss",
+          "source_name": "Forbes Innovation",
+          "category": "us-technology",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "기술",
+          "language": "en",
+          "title": "Meet The Lizard That Shoots Blood From Its Eyes — A Herpetologist Explains",
+          "canonical_url": "https://www.forbes.com/sites/scotttravers/2026/04/04/meet-the-lizard-that-shoots-blood-from-its-eyes---a-herpetologist-explains",
+          "published_at": "2026-04-04T12:30:00+00:00",
+          "title_hash": "f45c812b8f095ae95d297b56bef21eb80700ca8667f7d94c18d7fcc9f9e7b3ca",
+          "keywords": [
+            "meet",
+            "lizard",
+            "shoots",
+            "blood",
+            "eyes",
+            "herpetologist"
+          ]
+        },
         {
           "stable_key": "321a0a3ab9e4779f8ee7777e7c112d9baecbd95ae01d85f1e995334dfe38204d",
           "source_key": "forbes-business-rss",
@@ -3072,6 +3226,50 @@
           ]
         },
         {
+          "stable_key": "457d97995c83a140cd8d22ed0a8d16f3386dd88ad79ce58c263fb984b06cf585",
+          "source_key": "bloomberg-tech-rss",
+          "source_name": "Bloomberg Technology",
+          "category": "us-technology",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "기술",
+          "language": "en",
+          "title": "Russia’s VPN Crackdown Caused Bank Outage, Telegram Founder Says",
+          "canonical_url": "https://www.bloomberg.com/news/articles/2026-04-04/russia-s-vpn-crackdown-caused-bank-outage-telegram-founder-says",
+          "published_at": "2026-04-04T12:07:17+00:00",
+          "title_hash": "5fae583ca35de60b0b3e6c3c6ad2d5d3e295248a12fa016d9d78fa51195106dd",
+          "keywords": [
+            "russia",
+            "vpn",
+            "crackdown",
+            "caused",
+            "bank",
+            "outage"
+          ]
+        },
+        {
+          "stable_key": "e46f01e997b104deb59017fd9030371cea8dc4c50c8a957deed5f86837f70f9d",
+          "source_key": "bloomberg-politics-rss",
+          "source_name": "Bloomberg Politics",
+          "category": "us-politics",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "정치",
+          "language": "en",
+          "title": "Russia’s VPN Crackdown Caused Bank Outage, Telegram Founder Says",
+          "canonical_url": "https://www.bloomberg.com/news/articles/2026-04-04/russia-s-vpn-crackdown-caused-bank-outage-telegram-founder-says",
+          "published_at": "2026-04-04T12:07:17+00:00",
+          "title_hash": "5fae583ca35de60b0b3e6c3c6ad2d5d3e295248a12fa016d9d78fa51195106dd",
+          "keywords": [
+            "russia",
+            "vpn",
+            "crackdown",
+            "caused",
+            "bank",
+            "outage"
+          ]
+        },
+        {
           "stable_key": "a1389d756e0341707fff2dad61d63a15f128c41849e1aae45cdff80318b93a84",
           "source_key": "telegram-dada-news2",
           "source_name": "Telegram @dada_news2",
@@ -3224,213 +3422,15 @@
             "따져볼",
             "것은"
           ]
-        },
-        {
-          "stable_key": "33a517cb96165bd4e641b58f97ec2fdb076fda38a94d82cb7db0c03c07e74d73",
-          "source_key": "fox-us-rss",
-          "source_name": "Fox News US",
-          "category": "us-politics",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "정치",
-          "language": "en",
-          "title": "Artist fumes after tribute honoring slain Iryna Zarutska gets scrubbed amid woke blowback",
-          "canonical_url": "https://www.foxnews.com/us/artist-fumes-after-tribute-honoring-slain-iryna-zarutska-gets-scrubbed-amid-woke-blowback",
-          "published_at": "2026-04-04T12:00:59+00:00",
-          "title_hash": "7d113e258e7d9617dffc36c08e25d51e1cffb1adc2b8d9b600b7e3106ba74ef3",
-          "keywords": [
-            "artist",
-            "fumes",
-            "after",
-            "tribute",
-            "honoring",
-            "slain"
-          ]
-        },
-        {
-          "stable_key": "2d86d619769144b71b5ed6a4285a3ee35ceceebc21582d456ca1b6fd8e858a59",
-          "source_key": "asiae-society-rss",
-          "source_name": "Asiae Society",
-          "category": "kr-society",
-          "hub": "kr",
-          "hub_label": "대한민국",
-          "section_label": "사회",
-          "language": "ko",
-          "title": "1218회 로또 '3, 28, 31, 32, 42, 45'…1등 18명 17억1000만원씩",
-          "canonical_url": "https://www.asiae.co.kr/article/2026040421002013807",
-          "published_at": "2026-04-04T12:00:20+00:00",
-          "title_hash": "df4be1f15c45e92afb83681649e2a6ce1280a2e5c40d89cc7281a86053033148",
-          "keywords": [
-            "1218회",
-            "로또",
-            "1등",
-            "18명",
-            "17억1000만원씩",
-            "1218회 로또"
-          ]
-        },
-        {
-          "stable_key": "3f3f815da0bf7055ea68eb578cb64b93cb149ec8ea24e234ec890f355851aeb6",
-          "source_key": "nyt-business-rss",
-          "source_name": "New York Times Business",
-          "category": "us-economy",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "경제",
-          "language": "en",
-          "title": "Trump Slashed Funding for Science. Now the U.S. Faces a Costly Brain Drain.",
-          "canonical_url": "https://www.nytimes.com/2026/04/04/business/dealbook/trump-brain-drain-academia.html",
-          "published_at": "2026-04-04T12:00:02+00:00",
-          "title_hash": "a6659f10f52a68e34e9596186fdbe5d1215000d8bbcf28d632578dcba2e655f4",
-          "keywords": [
-            "trump",
-            "slashed",
-            "funding",
-            "science",
-            "now",
-            "faces"
-          ]
-        },
-        {
-          "stable_key": "e3ec45b546239abd37edb5153939d6699e900b1398d1590f1ecfeba7e9d63101",
-          "source_key": "cnbc-top-rss",
-          "source_name": "CNBC Top News",
-          "category": "us-world",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "세계",
-          "language": "en",
-          "title": "The Chinese box office isn't the Hollywood kingmaker it used to be. Here's why",
-          "canonical_url": "https://www.cnbc.com/2026/04/04/china-box-office-hollywood-films.html",
-          "published_at": "2026-04-04T12:00:01+00:00",
-          "title_hash": "cd4f59eb0394d54b5cb20c840dab573eef3fbec5144348d1d2b618b3f321ead4",
-          "keywords": [
-            "chinese",
-            "box",
-            "office",
-            "isn",
-            "hollywood",
-            "kingmaker"
-          ]
-        },
-        {
-          "stable_key": "0b70c7ff760db194b96a0aa2e49e8a4e8f4641e7164d4c10957df889e245d823",
-          "source_key": "cnbc-top-rss",
-          "source_name": "CNBC Top News",
-          "category": "us-technology",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "기술",
-          "language": "en",
-          "title": "Apple at 50: The iPhone maker 'blew a 5-year lead' on AI, but former insiders say it can still win",
-          "canonical_url": "https://www.cnbc.com/2026/04/04/apple-50-anniversary-ai-iphone-siri.html",
-          "published_at": "2026-04-04T12:00:01+00:00",
-          "title_hash": "cb7c39cf96f4846d5af6f02de0edbcd7d6c2dbb8dca4644baf941d2839b9b330",
-          "keywords": [
-            "apple",
-            "iphone",
-            "maker",
-            "blew",
-            "year",
-            "lead"
-          ]
-        },
-        {
-          "stable_key": "429065c67313512eb113ed343168f7469e9c203ff1c3ea04cf7c6b1c152723fa",
-          "source_key": "cnbc-tech-rss",
-          "source_name": "CNBC Technology",
-          "category": "us-technology",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "기술",
-          "language": "en",
-          "title": "Apple at 50: The iPhone maker 'blew a 5-year lead' on AI, but former insiders say it can still win",
-          "canonical_url": "https://www.cnbc.com/2026/04/04/apple-50-anniversary-ai-iphone-siri.html",
-          "published_at": "2026-04-04T12:00:01+00:00",
-          "title_hash": "cb7c39cf96f4846d5af6f02de0edbcd7d6c2dbb8dca4644baf941d2839b9b330",
-          "keywords": [
-            "apple",
-            "iphone",
-            "maker",
-            "blew",
-            "year",
-            "lead"
-          ]
-        },
-        {
-          "stable_key": "7f7256de5f9d96195589b5521a982f10f1978d24d691326bf6767350e70b3f8c",
-          "source_key": "wired-rss",
-          "source_name": "Wired RSS",
-          "category": "us-technology",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "기술",
-          "language": "en",
-          "title": "Best Ski Clothes (2026): Patagonia, Arc’teryx, Burton, and More",
-          "canonical_url": "https://www.wired.com/gallery/best-ski-clothes",
-          "published_at": "2026-04-04T12:00:00+00:00",
-          "title_hash": "6344ecffa45b513e67c4836fb11189daf622a0bd3076fea5bed55c2a7cf16c54",
-          "keywords": [
-            "best",
-            "ski",
-            "clothes",
-            "patagonia",
-            "arc",
-            "teryx"
-          ]
-        },
-        {
-          "stable_key": "b601c177e51eedee9e37cadc525dc1506454db8995f1df4b194e535c6d9a2366",
-          "source_key": "washingtonexaminer-feed",
-          "source_name": "Washington Examiner Feed",
-          "category": "us-technology",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "기술",
-          "language": "en",
-          "title": "What if your ‘doctor’ has 300 million followers and zero accountability?",
-          "canonical_url": "https://www.washingtonexaminer.com/op-eds/4510497/doctor-300-million-followers-zero-accountability",
-          "published_at": "2026-04-04T12:00:00+00:00",
-          "title_hash": "cc7ec452f30077e4408eb5506623e69f5501aac4be143c2230dd0af0a8e6af93",
-          "keywords": [
-            "what",
-            "if",
-            "your",
-            "doctor",
-            "has",
-            "million"
-          ]
-        },
-        {
-          "stable_key": "ae0692745495d44bde985634b4157b33f73b8d78937b60938cf2442ca30bff82",
-          "source_key": "washingtonexaminer-feed",
-          "source_name": "Washington Examiner Feed",
-          "category": "us-markets",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "시장",
-          "language": "en",
-          "title": "Iran war reality check: Global markets still dictate American energy prices",
-          "canonical_url": "https://www.washingtonexaminer.com/op-eds/4515340/iran-war-global-markets-dictate-american-energy-prices",
-          "published_at": "2026-04-04T12:00:00+00:00",
-          "title_hash": "a5049e87c95ac06d9f3ada910879d65d746498e3c754060e45747a8420044e66",
-          "keywords": [
-            "iran",
-            "war",
-            "reality",
-            "check",
-            "global",
-            "markets"
-          ]
         }
       ]
     },
     "90d": {
       "label": "90d",
-      "article_count": 3572,
+      "article_count": 3609,
       "unknown_time_count": 0,
       "active_source_count": 100,
-      "repeated_title_count": 228,
+      "repeated_title_count": 233,
       "timeline": [
         {
           "date": "2026-01-07",
@@ -3622,7 +3622,7 @@
         },
         {
           "date": "2026-03-15",
-          "count": 10
+          "count": 11
         },
         {
           "date": "2026-03-16",
@@ -3686,7 +3686,7 @@
         },
         {
           "date": "2026-03-31",
-          "count": 149
+          "count": 150
         },
         {
           "date": "2026-04-01",
@@ -3694,49 +3694,49 @@
         },
         {
           "date": "2026-04-02",
-          "count": 581
+          "count": 585
         },
         {
           "date": "2026-04-03",
-          "count": 1317
+          "count": 1332
         },
         {
           "date": "2026-04-04",
-          "count": 573
+          "count": 589
         }
       ],
       "top_keywords": [
         {
           "keyword": "trump",
-          "count": 385
+          "count": 393
         },
         {
           "keyword": "iran",
-          "count": 206
+          "count": 208
         },
         {
           "keyword": "war",
-          "count": 123
+          "count": 126
         },
         {
           "keyword": "new",
-          "count": 86
+          "count": 88
+        },
+        {
+          "keyword": "us",
+          "count": 84
         },
         {
           "keyword": "ai",
           "count": 83
         },
         {
-          "keyword": "us",
-          "count": 83
-        },
-        {
           "keyword": "how",
-          "count": 72
+          "count": 76
         },
         {
           "keyword": "after",
-          "count": 65
+          "count": 66
         },
         {
           "keyword": "california",
@@ -3744,11 +3744,11 @@
         },
         {
           "keyword": "says",
-          "count": 59
+          "count": 60
         },
         {
           "keyword": "what",
-          "count": 58
+          "count": 60
         },
         {
           "keyword": "over",
@@ -3762,13 +3762,18 @@
           "count": 238
         },
         {
-          "source_key": "asiae-society-rss",
-          "name": "Asiae Society",
-          "count": 99
-        },
-        {
           "source_key": "latimes-politics-rss",
           "name": "Los Angeles Times Politics",
+          "count": 100
+        },
+        {
+          "source_key": "guardian-us-rss",
+          "name": "The Guardian US",
+          "count": 100
+        },
+        {
+          "source_key": "asiae-society-rss",
+          "name": "Asiae Society",
           "count": 99
         },
         {
@@ -3784,11 +3789,6 @@
         {
           "source_key": "latimes-business-rss",
           "name": "Los Angeles Times Business",
-          "count": 96
-        },
-        {
-          "source_key": "guardian-us-rss",
-          "name": "The Guardian US",
           "count": 96
         },
         {
@@ -3821,17 +3821,17 @@
         {
           "key": "us",
           "label": "미국",
-          "count": 2217
+          "count": 2250
         },
         {
           "key": "kr",
           "label": "대한민국",
-          "count": 1229
+          "count": 1230
         },
         {
           "key": "global",
           "label": "글로벌 전문",
-          "count": 126
+          "count": 129
         }
       ],
       "top_sections": [
@@ -3840,21 +3840,21 @@
           "label": "정치",
           "hub": "us",
           "hub_label": "미국",
-          "count": 769
+          "count": 790
         },
         {
           "key": "us-technology",
           "label": "기술",
           "hub": "us",
           "hub_label": "미국",
-          "count": 574
+          "count": 582
         },
         {
           "key": "us-world",
           "label": "세계",
           "hub": "us",
           "hub_label": "미국",
-          "count": 400
+          "count": 401
         },
         {
           "key": "kr-economy",
@@ -3868,7 +3868,7 @@
           "label": "경제",
           "hub": "us",
           "hub_label": "미국",
-          "count": 290
+          "count": 291
         },
         {
           "key": "kr-society",
@@ -3896,21 +3896,21 @@
           "label": "시장",
           "hub": "us",
           "hub_label": "미국",
-          "count": 184
+          "count": 186
         },
         {
           "key": "kr-sports",
           "label": "스포츠",
           "hub": "kr",
           "hub_label": "대한민국",
-          "count": 143
+          "count": 144
         },
         {
           "key": "crypto",
           "label": "코인",
           "hub": "global",
           "hub_label": "글로벌 전문",
-          "count": 59
+          "count": 61
         },
         {
           "key": "kr-local",
@@ -3923,11 +3923,11 @@
       "language_counts": [
         {
           "language": "en",
-          "count": 2335
+          "count": 2370
         },
         {
           "language": "ko",
-          "count": 1237
+          "count": 1239
         }
       ],
       "repeated_titles": [
@@ -3939,6 +3939,15 @@
           "latest_published_at": "2026-03-25T16:27:16+00:00",
           "canonical_url": "https://www.latimes.com/politics/story/2026-03-25/supreme-court-makes-it-harder-for-music-movie-makers-to-sue-for-copyright-infringement",
           "sort_timestamp": 1774456036
+        },
+        {
+          "title_hash": "1ba172554ef1c7fcb4ab3d83322e6f471392708251d575eb55dfe385f79a6b1c",
+          "title": "🚨 [CRITICAL] 호르무즈 해협 알림",
+          "article_count": 4,
+          "source_count": 1,
+          "latest_published_at": "2026-04-04T12:35:54+00:00",
+          "canonical_url": "https://www.aljazeera.com/news/2026/4/4/iaea-says-projectile-hits-near-irans-bushehr-nuclear-plant-killing-one?traffic_source=rss",
+          "sort_timestamp": 1775306154
         },
         {
           "title_hash": "baa93cefedde733ac1d2a7396338313d79a6c2e25456c48005f132f984edd88e",
@@ -4101,18 +4110,163 @@
           "latest_published_at": "2026-03-20T10:00:00+00:00",
           "canonical_url": "https://www.latimes.com/business/story/2026-03-20/pentagons-attempt-to-strong-arm-anthropic-rouses-resistance-reflection-in-silicon-valley",
           "sort_timestamp": 1774000800
-        },
-        {
-          "title_hash": "1ba172554ef1c7fcb4ab3d83322e6f471392708251d575eb55dfe385f79a6b1c",
-          "title": "🚨 [CRITICAL] 호르무즈 해협 알림",
-          "article_count": 3,
-          "source_count": 1,
-          "latest_published_at": "2026-04-04T09:15:43+00:00",
-          "canonical_url": "https://www.iranintl.com/en/liveblog/202604015564",
-          "sort_timestamp": 1775294143
         }
       ],
       "recent_samples": [
+        {
+          "stable_key": "45351fcbd1b51ab9f26f2af38d6d3e17c30a0b7fa77afead72ad06ff41a36b0b",
+          "source_key": "mk-sports-rss",
+          "source_name": "Maeil Business Sports",
+          "category": "kr-sports",
+          "hub": "kr",
+          "hub_label": "대한민국",
+          "section_label": "스포츠",
+          "language": "ko",
+          "title": "SK슈가글라이더즈, 경남개발공사 꺾고 19연승 질주…최지혜 11골 맹활약",
+          "canonical_url": "https://www.mk.co.kr/news/sports/12008050",
+          "published_at": "2026-04-04T12:36:40+00:00",
+          "title_hash": "1ef82972bcc70728f9b6e5b845feef40a7da3d50c03b92151d21a59deccb4fc2",
+          "keywords": [
+            "sk슈가글라이더즈",
+            "경남개발공사",
+            "꺾고",
+            "19연승",
+            "질주",
+            "최지혜"
+          ]
+        },
+        {
+          "stable_key": "5a9c5ee07d6b9631aff56af21d9fe69bdf881d5251f98f945a53cfc9020ebeb7",
+          "source_key": "telegram-claw-summary",
+          "source_name": "Telegram @clawnewssummary",
+          "category": "military",
+          "hub": "global",
+          "hub_label": "글로벌 전문",
+          "section_label": "군사",
+          "language": "ko",
+          "title": "🚨 [CRITICAL] 호르무즈 해협 알림",
+          "canonical_url": "https://www.aljazeera.com/news/2026/4/4/iaea-says-projectile-hits-near-irans-bushehr-nuclear-plant-killing-one?traffic_source=rss",
+          "published_at": "2026-04-04T12:35:54+00:00",
+          "title_hash": "1ba172554ef1c7fcb4ab3d83322e6f471392708251d575eb55dfe385f79a6b1c",
+          "keywords": [
+            "critical",
+            "호르무즈",
+            "해협",
+            "알림",
+            "critical 호르무즈",
+            "호르무즈 해협"
+          ]
+        },
+        {
+          "stable_key": "37a65778c41b92f3f3cbe5b5383784eeb5bf86e149a2215ddc94c781a559f691",
+          "source_key": "bloomberg-markets-rss",
+          "source_name": "Bloomberg Markets",
+          "category": "us-markets",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "시장",
+          "language": "en",
+          "title": "Easter Candy Sales Decline",
+          "canonical_url": "https://www.bloomberg.com/news/videos/2026-04-04/easter-candy-sales-decline-video",
+          "published_at": "2026-04-04T12:32:11+00:00",
+          "title_hash": "9f0f99ea583bb40ae2eabb9a4cd6302bcbc5f4bbac6ee209fcebc067a4ded9db",
+          "keywords": [
+            "easter",
+            "candy",
+            "sales",
+            "decline",
+            "easter candy",
+            "candy sales"
+          ]
+        },
+        {
+          "stable_key": "5d24ec76c68fc623b5d8662b0d3e0a2f93dab9b70496c233dc0d647c0edd01aa",
+          "source_key": "forbes-innovation-rss",
+          "source_name": "Forbes Innovation",
+          "category": "us-technology",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "기술",
+          "language": "en",
+          "title": "New Password Stealer Bypasses 2FA—Chrome, Edge And Firefox Targeted",
+          "canonical_url": "https://www.forbes.com/sites/daveywinder/2026/04/04/new-password-stealer-bypasses-2fa-chrome-edge-and-firefox-targeted",
+          "published_at": "2026-04-04T12:30:11+00:00",
+          "title_hash": "84489bcf1187b6a17a653c10b066ff21aa23ad7b5b4c239f04eb4fff67163907",
+          "keywords": [
+            "new",
+            "password",
+            "stealer",
+            "bypasses",
+            "2fa",
+            "chrome"
+          ]
+        },
+        {
+          "stable_key": "e4e1fd84971849c109de3fbb513fd18121f1b2589bab860ffbf86faf10438d86",
+          "source_key": "newsweek-feed",
+          "source_name": "Newsweek Feed",
+          "category": "us-technology",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "기술",
+          "language": "en",
+          "title": "Southwest Passenger Books 2 Seats—Not Ready For What They Notice In App",
+          "canonical_url": "https://www.newsweek.com/southwest-passenger-books-2-seats-sees-strange-app-behavior-11779265",
+          "published_at": "2026-04-04T12:30:00+00:00",
+          "title_hash": "ec770aedd819ee0a426c60e55f05eab71548ed5e48d212211bc5963206cda782",
+          "keywords": [
+            "southwest",
+            "passenger",
+            "books",
+            "seats",
+            "not",
+            "ready"
+          ]
+        },
+        {
+          "stable_key": "1df12942ae9c5f1e714cbc60c51d708b0201460ece8fd0c9a7f2baae1204d4bf",
+          "source_key": "nypost-feed",
+          "source_name": "New York Post Feed",
+          "category": "us-politics",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "정치",
+          "language": "en",
+          "title": "Congress demands Dept of War release 46 secret UFO videos : ‘You’re gonna see some weird f–king s–t’",
+          "canonical_url": "https://nypost.com/2026/04/04/us-news/congress-demands-dept-of-war-release-46-secret-ufo-videos-youre-gonna-see-some-weird-f-king-s-t",
+          "published_at": "2026-04-04T12:30:00+00:00",
+          "title_hash": "74858410bfc5cb521b1034708cd585d94cef147462d25414707a89df8e2250c2",
+          "keywords": [
+            "congress",
+            "demands",
+            "dept",
+            "war",
+            "release",
+            "secret"
+          ]
+        },
+        {
+          "stable_key": "132ae4d9fc7edfa6664078ddec77dd11bc3c02fb73b22b8d65ebe2c3904bd7c5",
+          "source_key": "forbes-innovation-rss",
+          "source_name": "Forbes Innovation",
+          "category": "us-technology",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "기술",
+          "language": "en",
+          "title": "Meet The Lizard That Shoots Blood From Its Eyes — A Herpetologist Explains",
+          "canonical_url": "https://www.forbes.com/sites/scotttravers/2026/04/04/meet-the-lizard-that-shoots-blood-from-its-eyes---a-herpetologist-explains",
+          "published_at": "2026-04-04T12:30:00+00:00",
+          "title_hash": "f45c812b8f095ae95d297b56bef21eb80700ca8667f7d94c18d7fcc9f9e7b3ca",
+          "keywords": [
+            "meet",
+            "lizard",
+            "shoots",
+            "blood",
+            "eyes",
+            "herpetologist"
+          ]
+        },
         {
           "stable_key": "321a0a3ab9e4779f8ee7777e7c112d9baecbd95ae01d85f1e995334dfe38204d",
           "source_key": "forbes-business-rss",
@@ -4422,6 +4576,50 @@
           ]
         },
         {
+          "stable_key": "457d97995c83a140cd8d22ed0a8d16f3386dd88ad79ce58c263fb984b06cf585",
+          "source_key": "bloomberg-tech-rss",
+          "source_name": "Bloomberg Technology",
+          "category": "us-technology",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "기술",
+          "language": "en",
+          "title": "Russia’s VPN Crackdown Caused Bank Outage, Telegram Founder Says",
+          "canonical_url": "https://www.bloomberg.com/news/articles/2026-04-04/russia-s-vpn-crackdown-caused-bank-outage-telegram-founder-says",
+          "published_at": "2026-04-04T12:07:17+00:00",
+          "title_hash": "5fae583ca35de60b0b3e6c3c6ad2d5d3e295248a12fa016d9d78fa51195106dd",
+          "keywords": [
+            "russia",
+            "vpn",
+            "crackdown",
+            "caused",
+            "bank",
+            "outage"
+          ]
+        },
+        {
+          "stable_key": "e46f01e997b104deb59017fd9030371cea8dc4c50c8a957deed5f86837f70f9d",
+          "source_key": "bloomberg-politics-rss",
+          "source_name": "Bloomberg Politics",
+          "category": "us-politics",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "정치",
+          "language": "en",
+          "title": "Russia’s VPN Crackdown Caused Bank Outage, Telegram Founder Says",
+          "canonical_url": "https://www.bloomberg.com/news/articles/2026-04-04/russia-s-vpn-crackdown-caused-bank-outage-telegram-founder-says",
+          "published_at": "2026-04-04T12:07:17+00:00",
+          "title_hash": "5fae583ca35de60b0b3e6c3c6ad2d5d3e295248a12fa016d9d78fa51195106dd",
+          "keywords": [
+            "russia",
+            "vpn",
+            "crackdown",
+            "caused",
+            "bank",
+            "outage"
+          ]
+        },
+        {
           "stable_key": "a1389d756e0341707fff2dad61d63a15f128c41849e1aae45cdff80318b93a84",
           "source_key": "telegram-dada-news2",
           "source_name": "Telegram @dada_news2",
@@ -4574,213 +4772,15 @@
             "따져볼",
             "것은"
           ]
-        },
-        {
-          "stable_key": "33a517cb96165bd4e641b58f97ec2fdb076fda38a94d82cb7db0c03c07e74d73",
-          "source_key": "fox-us-rss",
-          "source_name": "Fox News US",
-          "category": "us-politics",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "정치",
-          "language": "en",
-          "title": "Artist fumes after tribute honoring slain Iryna Zarutska gets scrubbed amid woke blowback",
-          "canonical_url": "https://www.foxnews.com/us/artist-fumes-after-tribute-honoring-slain-iryna-zarutska-gets-scrubbed-amid-woke-blowback",
-          "published_at": "2026-04-04T12:00:59+00:00",
-          "title_hash": "7d113e258e7d9617dffc36c08e25d51e1cffb1adc2b8d9b600b7e3106ba74ef3",
-          "keywords": [
-            "artist",
-            "fumes",
-            "after",
-            "tribute",
-            "honoring",
-            "slain"
-          ]
-        },
-        {
-          "stable_key": "2d86d619769144b71b5ed6a4285a3ee35ceceebc21582d456ca1b6fd8e858a59",
-          "source_key": "asiae-society-rss",
-          "source_name": "Asiae Society",
-          "category": "kr-society",
-          "hub": "kr",
-          "hub_label": "대한민국",
-          "section_label": "사회",
-          "language": "ko",
-          "title": "1218회 로또 '3, 28, 31, 32, 42, 45'…1등 18명 17억1000만원씩",
-          "canonical_url": "https://www.asiae.co.kr/article/2026040421002013807",
-          "published_at": "2026-04-04T12:00:20+00:00",
-          "title_hash": "df4be1f15c45e92afb83681649e2a6ce1280a2e5c40d89cc7281a86053033148",
-          "keywords": [
-            "1218회",
-            "로또",
-            "1등",
-            "18명",
-            "17억1000만원씩",
-            "1218회 로또"
-          ]
-        },
-        {
-          "stable_key": "3f3f815da0bf7055ea68eb578cb64b93cb149ec8ea24e234ec890f355851aeb6",
-          "source_key": "nyt-business-rss",
-          "source_name": "New York Times Business",
-          "category": "us-economy",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "경제",
-          "language": "en",
-          "title": "Trump Slashed Funding for Science. Now the U.S. Faces a Costly Brain Drain.",
-          "canonical_url": "https://www.nytimes.com/2026/04/04/business/dealbook/trump-brain-drain-academia.html",
-          "published_at": "2026-04-04T12:00:02+00:00",
-          "title_hash": "a6659f10f52a68e34e9596186fdbe5d1215000d8bbcf28d632578dcba2e655f4",
-          "keywords": [
-            "trump",
-            "slashed",
-            "funding",
-            "science",
-            "now",
-            "faces"
-          ]
-        },
-        {
-          "stable_key": "e3ec45b546239abd37edb5153939d6699e900b1398d1590f1ecfeba7e9d63101",
-          "source_key": "cnbc-top-rss",
-          "source_name": "CNBC Top News",
-          "category": "us-world",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "세계",
-          "language": "en",
-          "title": "The Chinese box office isn't the Hollywood kingmaker it used to be. Here's why",
-          "canonical_url": "https://www.cnbc.com/2026/04/04/china-box-office-hollywood-films.html",
-          "published_at": "2026-04-04T12:00:01+00:00",
-          "title_hash": "cd4f59eb0394d54b5cb20c840dab573eef3fbec5144348d1d2b618b3f321ead4",
-          "keywords": [
-            "chinese",
-            "box",
-            "office",
-            "isn",
-            "hollywood",
-            "kingmaker"
-          ]
-        },
-        {
-          "stable_key": "0b70c7ff760db194b96a0aa2e49e8a4e8f4641e7164d4c10957df889e245d823",
-          "source_key": "cnbc-top-rss",
-          "source_name": "CNBC Top News",
-          "category": "us-technology",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "기술",
-          "language": "en",
-          "title": "Apple at 50: The iPhone maker 'blew a 5-year lead' on AI, but former insiders say it can still win",
-          "canonical_url": "https://www.cnbc.com/2026/04/04/apple-50-anniversary-ai-iphone-siri.html",
-          "published_at": "2026-04-04T12:00:01+00:00",
-          "title_hash": "cb7c39cf96f4846d5af6f02de0edbcd7d6c2dbb8dca4644baf941d2839b9b330",
-          "keywords": [
-            "apple",
-            "iphone",
-            "maker",
-            "blew",
-            "year",
-            "lead"
-          ]
-        },
-        {
-          "stable_key": "429065c67313512eb113ed343168f7469e9c203ff1c3ea04cf7c6b1c152723fa",
-          "source_key": "cnbc-tech-rss",
-          "source_name": "CNBC Technology",
-          "category": "us-technology",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "기술",
-          "language": "en",
-          "title": "Apple at 50: The iPhone maker 'blew a 5-year lead' on AI, but former insiders say it can still win",
-          "canonical_url": "https://www.cnbc.com/2026/04/04/apple-50-anniversary-ai-iphone-siri.html",
-          "published_at": "2026-04-04T12:00:01+00:00",
-          "title_hash": "cb7c39cf96f4846d5af6f02de0edbcd7d6c2dbb8dca4644baf941d2839b9b330",
-          "keywords": [
-            "apple",
-            "iphone",
-            "maker",
-            "blew",
-            "year",
-            "lead"
-          ]
-        },
-        {
-          "stable_key": "7f7256de5f9d96195589b5521a982f10f1978d24d691326bf6767350e70b3f8c",
-          "source_key": "wired-rss",
-          "source_name": "Wired RSS",
-          "category": "us-technology",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "기술",
-          "language": "en",
-          "title": "Best Ski Clothes (2026): Patagonia, Arc’teryx, Burton, and More",
-          "canonical_url": "https://www.wired.com/gallery/best-ski-clothes",
-          "published_at": "2026-04-04T12:00:00+00:00",
-          "title_hash": "6344ecffa45b513e67c4836fb11189daf622a0bd3076fea5bed55c2a7cf16c54",
-          "keywords": [
-            "best",
-            "ski",
-            "clothes",
-            "patagonia",
-            "arc",
-            "teryx"
-          ]
-        },
-        {
-          "stable_key": "b601c177e51eedee9e37cadc525dc1506454db8995f1df4b194e535c6d9a2366",
-          "source_key": "washingtonexaminer-feed",
-          "source_name": "Washington Examiner Feed",
-          "category": "us-technology",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "기술",
-          "language": "en",
-          "title": "What if your ‘doctor’ has 300 million followers and zero accountability?",
-          "canonical_url": "https://www.washingtonexaminer.com/op-eds/4510497/doctor-300-million-followers-zero-accountability",
-          "published_at": "2026-04-04T12:00:00+00:00",
-          "title_hash": "cc7ec452f30077e4408eb5506623e69f5501aac4be143c2230dd0af0a8e6af93",
-          "keywords": [
-            "what",
-            "if",
-            "your",
-            "doctor",
-            "has",
-            "million"
-          ]
-        },
-        {
-          "stable_key": "ae0692745495d44bde985634b4157b33f73b8d78937b60938cf2442ca30bff82",
-          "source_key": "washingtonexaminer-feed",
-          "source_name": "Washington Examiner Feed",
-          "category": "us-markets",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "시장",
-          "language": "en",
-          "title": "Iran war reality check: Global markets still dictate American energy prices",
-          "canonical_url": "https://www.washingtonexaminer.com/op-eds/4515340/iran-war-global-markets-dictate-american-energy-prices",
-          "published_at": "2026-04-04T12:00:00+00:00",
-          "title_hash": "a5049e87c95ac06d9f3ada910879d65d746498e3c754060e45747a8420044e66",
-          "keywords": [
-            "iran",
-            "war",
-            "reality",
-            "check",
-            "global",
-            "markets"
-          ]
         }
       ]
     },
     "all": {
       "label": "All",
-      "article_count": 4103,
-      "unknown_time_count": 438,
+      "article_count": 4151,
+      "unknown_time_count": 449,
       "active_source_count": 128,
-      "repeated_title_count": 269,
+      "repeated_title_count": 276,
       "timeline": [
         {
           "date": "2016-11-02",
@@ -5116,7 +5116,7 @@
         },
         {
           "date": "2026-03-15",
-          "count": 10
+          "count": 11
         },
         {
           "date": "2026-03-16",
@@ -5180,7 +5180,7 @@
         },
         {
           "date": "2026-03-31",
-          "count": 149
+          "count": 150
         },
         {
           "date": "2026-04-01",
@@ -5188,33 +5188,33 @@
         },
         {
           "date": "2026-04-02",
-          "count": 581
+          "count": 585
         },
         {
           "date": "2026-04-03",
-          "count": 1317
+          "count": 1332
         },
         {
           "date": "2026-04-04",
-          "count": 573
+          "count": 589
         }
       ],
       "top_keywords": [
         {
           "keyword": "trump",
-          "count": 411
+          "count": 419
         },
         {
           "keyword": "iran",
-          "count": 214
+          "count": 216
         },
         {
           "keyword": "war",
-          "count": 131
+          "count": 134
         },
         {
           "keyword": "new",
-          "count": 94
+          "count": 96
         },
         {
           "keyword": "ai",
@@ -5222,26 +5222,26 @@
         },
         {
           "keyword": "us",
-          "count": 88
+          "count": 89
         },
         {
           "keyword": "how",
-          "count": 80
+          "count": 84
         },
         {
           "keyword": "after",
-          "count": 70
-        },
-        {
-          "keyword": "california",
-          "count": 64
-        },
-        {
-          "keyword": "says",
-          "count": 64
+          "count": 71
         },
         {
           "keyword": "what",
+          "count": 66
+        },
+        {
+          "keyword": "says",
+          "count": 65
+        },
+        {
+          "keyword": "california",
           "count": 64
         },
         {
@@ -5258,16 +5258,16 @@
         {
           "source_key": "guardian-us-rss",
           "name": "The Guardian US",
+          "count": 104
+        },
+        {
+          "source_key": "latimes-politics-rss",
+          "name": "Los Angeles Times Politics",
           "count": 100
         },
         {
           "source_key": "asiae-society-rss",
           "name": "Asiae Society",
-          "count": 99
-        },
-        {
-          "source_key": "latimes-politics-rss",
-          "name": "Los Angeles Times Politics",
           "count": 99
         },
         {
@@ -5315,17 +5315,17 @@
         {
           "key": "us",
           "label": "미국",
-          "count": 2542
+          "count": 2575
         },
         {
           "key": "kr",
           "label": "대한민국",
-          "count": 1405
+          "count": 1417
         },
         {
           "key": "global",
           "label": "글로벌 전문",
-          "count": 156
+          "count": 159
         }
       ],
       "top_sections": [
@@ -5334,21 +5334,21 @@
           "label": "정치",
           "hub": "us",
           "hub_label": "미국",
-          "count": 854
+          "count": 875
         },
         {
           "key": "us-technology",
           "label": "기술",
           "hub": "us",
           "hub_label": "미국",
-          "count": 656
+          "count": 664
         },
         {
           "key": "us-world",
           "label": "세계",
           "hub": "us",
           "hub_label": "미국",
-          "count": 452
+          "count": 453
         },
         {
           "key": "kr-economy",
@@ -5362,14 +5362,14 @@
           "label": "경제",
           "hub": "us",
           "hub_label": "미국",
-          "count": 346
+          "count": 347
         },
         {
           "key": "kr-society",
           "label": "사회",
           "hub": "kr",
           "hub_label": "대한민국",
-          "count": 329
+          "count": 340
         },
         {
           "key": "kr-politics",
@@ -5390,14 +5390,14 @@
           "label": "시장",
           "hub": "us",
           "hub_label": "미국",
-          "count": 234
+          "count": 236
         },
         {
           "key": "kr-sports",
           "label": "스포츠",
           "hub": "kr",
           "hub_label": "대한민국",
-          "count": 153
+          "count": 154
         },
         {
           "key": "kr-local",
@@ -5411,17 +5411,17 @@
           "label": "코인",
           "hub": "global",
           "hub_label": "글로벌 전문",
-          "count": 59
+          "count": 61
         }
       ],
       "language_counts": [
         {
           "language": "en",
-          "count": 2690
+          "count": 2725
         },
         {
           "language": "ko",
-          "count": 1413
+          "count": 1426
         }
       ],
       "repeated_titles": [
@@ -5469,6 +5469,15 @@
           "latest_published_at": null,
           "canonical_url": "https://www.nbcnews.com/politics/supreme-court",
           "sort_timestamp": 0
+        },
+        {
+          "title_hash": "1ba172554ef1c7fcb4ab3d83322e6f471392708251d575eb55dfe385f79a6b1c",
+          "title": "🚨 [CRITICAL] 호르무즈 해협 알림",
+          "article_count": 4,
+          "source_count": 1,
+          "latest_published_at": "2026-04-04T12:35:54+00:00",
+          "canonical_url": "https://www.aljazeera.com/news/2026/4/4/iaea-says-projectile-hits-near-irans-bushehr-nuclear-plant-killing-one?traffic_source=rss",
+          "sort_timestamp": 1775306154
         },
         {
           "title_hash": "baa93cefedde733ac1d2a7396338313d79a6c2e25456c48005f132f984edd88e",
@@ -5595,18 +5604,163 @@
           "latest_published_at": "2026-04-02T20:26:51+00:00",
           "canonical_url": "https://www.cnbc.com/2026/04/02/tesla-tsla-q1-2026-vehicle-delivery-production.html",
           "sort_timestamp": 1775161611
-        },
-        {
-          "title_hash": "772db532b6f9bb5d5518a79c36e78c5a8e7d5020c415b3a949f11fa4286284de",
-          "title": "Amazon to add 3.5% fuel and logistics surcharge for sellers as Iran war drives up energy prices",
-          "article_count": 3,
-          "source_count": 3,
-          "latest_published_at": "2026-04-02T18:59:44+00:00",
-          "canonical_url": "https://www.cnbc.com/2026/04/02/amazon-add-3point5percent-fuel-and-logistics-surcharge-for-sellers-amid-iran-war.html",
-          "sort_timestamp": 1775156384
         }
       ],
       "recent_samples": [
+        {
+          "stable_key": "45351fcbd1b51ab9f26f2af38d6d3e17c30a0b7fa77afead72ad06ff41a36b0b",
+          "source_key": "mk-sports-rss",
+          "source_name": "Maeil Business Sports",
+          "category": "kr-sports",
+          "hub": "kr",
+          "hub_label": "대한민국",
+          "section_label": "스포츠",
+          "language": "ko",
+          "title": "SK슈가글라이더즈, 경남개발공사 꺾고 19연승 질주…최지혜 11골 맹활약",
+          "canonical_url": "https://www.mk.co.kr/news/sports/12008050",
+          "published_at": "2026-04-04T12:36:40+00:00",
+          "title_hash": "1ef82972bcc70728f9b6e5b845feef40a7da3d50c03b92151d21a59deccb4fc2",
+          "keywords": [
+            "sk슈가글라이더즈",
+            "경남개발공사",
+            "꺾고",
+            "19연승",
+            "질주",
+            "최지혜"
+          ]
+        },
+        {
+          "stable_key": "5a9c5ee07d6b9631aff56af21d9fe69bdf881d5251f98f945a53cfc9020ebeb7",
+          "source_key": "telegram-claw-summary",
+          "source_name": "Telegram @clawnewssummary",
+          "category": "military",
+          "hub": "global",
+          "hub_label": "글로벌 전문",
+          "section_label": "군사",
+          "language": "ko",
+          "title": "🚨 [CRITICAL] 호르무즈 해협 알림",
+          "canonical_url": "https://www.aljazeera.com/news/2026/4/4/iaea-says-projectile-hits-near-irans-bushehr-nuclear-plant-killing-one?traffic_source=rss",
+          "published_at": "2026-04-04T12:35:54+00:00",
+          "title_hash": "1ba172554ef1c7fcb4ab3d83322e6f471392708251d575eb55dfe385f79a6b1c",
+          "keywords": [
+            "critical",
+            "호르무즈",
+            "해협",
+            "알림",
+            "critical 호르무즈",
+            "호르무즈 해협"
+          ]
+        },
+        {
+          "stable_key": "37a65778c41b92f3f3cbe5b5383784eeb5bf86e149a2215ddc94c781a559f691",
+          "source_key": "bloomberg-markets-rss",
+          "source_name": "Bloomberg Markets",
+          "category": "us-markets",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "시장",
+          "language": "en",
+          "title": "Easter Candy Sales Decline",
+          "canonical_url": "https://www.bloomberg.com/news/videos/2026-04-04/easter-candy-sales-decline-video",
+          "published_at": "2026-04-04T12:32:11+00:00",
+          "title_hash": "9f0f99ea583bb40ae2eabb9a4cd6302bcbc5f4bbac6ee209fcebc067a4ded9db",
+          "keywords": [
+            "easter",
+            "candy",
+            "sales",
+            "decline",
+            "easter candy",
+            "candy sales"
+          ]
+        },
+        {
+          "stable_key": "5d24ec76c68fc623b5d8662b0d3e0a2f93dab9b70496c233dc0d647c0edd01aa",
+          "source_key": "forbes-innovation-rss",
+          "source_name": "Forbes Innovation",
+          "category": "us-technology",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "기술",
+          "language": "en",
+          "title": "New Password Stealer Bypasses 2FA—Chrome, Edge And Firefox Targeted",
+          "canonical_url": "https://www.forbes.com/sites/daveywinder/2026/04/04/new-password-stealer-bypasses-2fa-chrome-edge-and-firefox-targeted",
+          "published_at": "2026-04-04T12:30:11+00:00",
+          "title_hash": "84489bcf1187b6a17a653c10b066ff21aa23ad7b5b4c239f04eb4fff67163907",
+          "keywords": [
+            "new",
+            "password",
+            "stealer",
+            "bypasses",
+            "2fa",
+            "chrome"
+          ]
+        },
+        {
+          "stable_key": "e4e1fd84971849c109de3fbb513fd18121f1b2589bab860ffbf86faf10438d86",
+          "source_key": "newsweek-feed",
+          "source_name": "Newsweek Feed",
+          "category": "us-technology",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "기술",
+          "language": "en",
+          "title": "Southwest Passenger Books 2 Seats—Not Ready For What They Notice In App",
+          "canonical_url": "https://www.newsweek.com/southwest-passenger-books-2-seats-sees-strange-app-behavior-11779265",
+          "published_at": "2026-04-04T12:30:00+00:00",
+          "title_hash": "ec770aedd819ee0a426c60e55f05eab71548ed5e48d212211bc5963206cda782",
+          "keywords": [
+            "southwest",
+            "passenger",
+            "books",
+            "seats",
+            "not",
+            "ready"
+          ]
+        },
+        {
+          "stable_key": "1df12942ae9c5f1e714cbc60c51d708b0201460ece8fd0c9a7f2baae1204d4bf",
+          "source_key": "nypost-feed",
+          "source_name": "New York Post Feed",
+          "category": "us-politics",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "정치",
+          "language": "en",
+          "title": "Congress demands Dept of War release 46 secret UFO videos : ‘You’re gonna see some weird f–king s–t’",
+          "canonical_url": "https://nypost.com/2026/04/04/us-news/congress-demands-dept-of-war-release-46-secret-ufo-videos-youre-gonna-see-some-weird-f-king-s-t",
+          "published_at": "2026-04-04T12:30:00+00:00",
+          "title_hash": "74858410bfc5cb521b1034708cd585d94cef147462d25414707a89df8e2250c2",
+          "keywords": [
+            "congress",
+            "demands",
+            "dept",
+            "war",
+            "release",
+            "secret"
+          ]
+        },
+        {
+          "stable_key": "132ae4d9fc7edfa6664078ddec77dd11bc3c02fb73b22b8d65ebe2c3904bd7c5",
+          "source_key": "forbes-innovation-rss",
+          "source_name": "Forbes Innovation",
+          "category": "us-technology",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "기술",
+          "language": "en",
+          "title": "Meet The Lizard That Shoots Blood From Its Eyes — A Herpetologist Explains",
+          "canonical_url": "https://www.forbes.com/sites/scotttravers/2026/04/04/meet-the-lizard-that-shoots-blood-from-its-eyes---a-herpetologist-explains",
+          "published_at": "2026-04-04T12:30:00+00:00",
+          "title_hash": "f45c812b8f095ae95d297b56bef21eb80700ca8667f7d94c18d7fcc9f9e7b3ca",
+          "keywords": [
+            "meet",
+            "lizard",
+            "shoots",
+            "blood",
+            "eyes",
+            "herpetologist"
+          ]
+        },
         {
           "stable_key": "321a0a3ab9e4779f8ee7777e7c112d9baecbd95ae01d85f1e995334dfe38204d",
           "source_key": "forbes-business-rss",
@@ -5916,6 +6070,50 @@
           ]
         },
         {
+          "stable_key": "457d97995c83a140cd8d22ed0a8d16f3386dd88ad79ce58c263fb984b06cf585",
+          "source_key": "bloomberg-tech-rss",
+          "source_name": "Bloomberg Technology",
+          "category": "us-technology",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "기술",
+          "language": "en",
+          "title": "Russia’s VPN Crackdown Caused Bank Outage, Telegram Founder Says",
+          "canonical_url": "https://www.bloomberg.com/news/articles/2026-04-04/russia-s-vpn-crackdown-caused-bank-outage-telegram-founder-says",
+          "published_at": "2026-04-04T12:07:17+00:00",
+          "title_hash": "5fae583ca35de60b0b3e6c3c6ad2d5d3e295248a12fa016d9d78fa51195106dd",
+          "keywords": [
+            "russia",
+            "vpn",
+            "crackdown",
+            "caused",
+            "bank",
+            "outage"
+          ]
+        },
+        {
+          "stable_key": "e46f01e997b104deb59017fd9030371cea8dc4c50c8a957deed5f86837f70f9d",
+          "source_key": "bloomberg-politics-rss",
+          "source_name": "Bloomberg Politics",
+          "category": "us-politics",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "정치",
+          "language": "en",
+          "title": "Russia’s VPN Crackdown Caused Bank Outage, Telegram Founder Says",
+          "canonical_url": "https://www.bloomberg.com/news/articles/2026-04-04/russia-s-vpn-crackdown-caused-bank-outage-telegram-founder-says",
+          "published_at": "2026-04-04T12:07:17+00:00",
+          "title_hash": "5fae583ca35de60b0b3e6c3c6ad2d5d3e295248a12fa016d9d78fa51195106dd",
+          "keywords": [
+            "russia",
+            "vpn",
+            "crackdown",
+            "caused",
+            "bank",
+            "outage"
+          ]
+        },
+        {
           "stable_key": "a1389d756e0341707fff2dad61d63a15f128c41849e1aae45cdff80318b93a84",
           "source_key": "telegram-dada-news2",
           "source_name": "Telegram @dada_news2",
@@ -6067,204 +6265,6 @@
             "직장인들",
             "따져볼",
             "것은"
-          ]
-        },
-        {
-          "stable_key": "33a517cb96165bd4e641b58f97ec2fdb076fda38a94d82cb7db0c03c07e74d73",
-          "source_key": "fox-us-rss",
-          "source_name": "Fox News US",
-          "category": "us-politics",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "정치",
-          "language": "en",
-          "title": "Artist fumes after tribute honoring slain Iryna Zarutska gets scrubbed amid woke blowback",
-          "canonical_url": "https://www.foxnews.com/us/artist-fumes-after-tribute-honoring-slain-iryna-zarutska-gets-scrubbed-amid-woke-blowback",
-          "published_at": "2026-04-04T12:00:59+00:00",
-          "title_hash": "7d113e258e7d9617dffc36c08e25d51e1cffb1adc2b8d9b600b7e3106ba74ef3",
-          "keywords": [
-            "artist",
-            "fumes",
-            "after",
-            "tribute",
-            "honoring",
-            "slain"
-          ]
-        },
-        {
-          "stable_key": "2d86d619769144b71b5ed6a4285a3ee35ceceebc21582d456ca1b6fd8e858a59",
-          "source_key": "asiae-society-rss",
-          "source_name": "Asiae Society",
-          "category": "kr-society",
-          "hub": "kr",
-          "hub_label": "대한민국",
-          "section_label": "사회",
-          "language": "ko",
-          "title": "1218회 로또 '3, 28, 31, 32, 42, 45'…1등 18명 17억1000만원씩",
-          "canonical_url": "https://www.asiae.co.kr/article/2026040421002013807",
-          "published_at": "2026-04-04T12:00:20+00:00",
-          "title_hash": "df4be1f15c45e92afb83681649e2a6ce1280a2e5c40d89cc7281a86053033148",
-          "keywords": [
-            "1218회",
-            "로또",
-            "1등",
-            "18명",
-            "17억1000만원씩",
-            "1218회 로또"
-          ]
-        },
-        {
-          "stable_key": "3f3f815da0bf7055ea68eb578cb64b93cb149ec8ea24e234ec890f355851aeb6",
-          "source_key": "nyt-business-rss",
-          "source_name": "New York Times Business",
-          "category": "us-economy",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "경제",
-          "language": "en",
-          "title": "Trump Slashed Funding for Science. Now the U.S. Faces a Costly Brain Drain.",
-          "canonical_url": "https://www.nytimes.com/2026/04/04/business/dealbook/trump-brain-drain-academia.html",
-          "published_at": "2026-04-04T12:00:02+00:00",
-          "title_hash": "a6659f10f52a68e34e9596186fdbe5d1215000d8bbcf28d632578dcba2e655f4",
-          "keywords": [
-            "trump",
-            "slashed",
-            "funding",
-            "science",
-            "now",
-            "faces"
-          ]
-        },
-        {
-          "stable_key": "e3ec45b546239abd37edb5153939d6699e900b1398d1590f1ecfeba7e9d63101",
-          "source_key": "cnbc-top-rss",
-          "source_name": "CNBC Top News",
-          "category": "us-world",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "세계",
-          "language": "en",
-          "title": "The Chinese box office isn't the Hollywood kingmaker it used to be. Here's why",
-          "canonical_url": "https://www.cnbc.com/2026/04/04/china-box-office-hollywood-films.html",
-          "published_at": "2026-04-04T12:00:01+00:00",
-          "title_hash": "cd4f59eb0394d54b5cb20c840dab573eef3fbec5144348d1d2b618b3f321ead4",
-          "keywords": [
-            "chinese",
-            "box",
-            "office",
-            "isn",
-            "hollywood",
-            "kingmaker"
-          ]
-        },
-        {
-          "stable_key": "0b70c7ff760db194b96a0aa2e49e8a4e8f4641e7164d4c10957df889e245d823",
-          "source_key": "cnbc-top-rss",
-          "source_name": "CNBC Top News",
-          "category": "us-technology",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "기술",
-          "language": "en",
-          "title": "Apple at 50: The iPhone maker 'blew a 5-year lead' on AI, but former insiders say it can still win",
-          "canonical_url": "https://www.cnbc.com/2026/04/04/apple-50-anniversary-ai-iphone-siri.html",
-          "published_at": "2026-04-04T12:00:01+00:00",
-          "title_hash": "cb7c39cf96f4846d5af6f02de0edbcd7d6c2dbb8dca4644baf941d2839b9b330",
-          "keywords": [
-            "apple",
-            "iphone",
-            "maker",
-            "blew",
-            "year",
-            "lead"
-          ]
-        },
-        {
-          "stable_key": "429065c67313512eb113ed343168f7469e9c203ff1c3ea04cf7c6b1c152723fa",
-          "source_key": "cnbc-tech-rss",
-          "source_name": "CNBC Technology",
-          "category": "us-technology",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "기술",
-          "language": "en",
-          "title": "Apple at 50: The iPhone maker 'blew a 5-year lead' on AI, but former insiders say it can still win",
-          "canonical_url": "https://www.cnbc.com/2026/04/04/apple-50-anniversary-ai-iphone-siri.html",
-          "published_at": "2026-04-04T12:00:01+00:00",
-          "title_hash": "cb7c39cf96f4846d5af6f02de0edbcd7d6c2dbb8dca4644baf941d2839b9b330",
-          "keywords": [
-            "apple",
-            "iphone",
-            "maker",
-            "blew",
-            "year",
-            "lead"
-          ]
-        },
-        {
-          "stable_key": "7f7256de5f9d96195589b5521a982f10f1978d24d691326bf6767350e70b3f8c",
-          "source_key": "wired-rss",
-          "source_name": "Wired RSS",
-          "category": "us-technology",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "기술",
-          "language": "en",
-          "title": "Best Ski Clothes (2026): Patagonia, Arc’teryx, Burton, and More",
-          "canonical_url": "https://www.wired.com/gallery/best-ski-clothes",
-          "published_at": "2026-04-04T12:00:00+00:00",
-          "title_hash": "6344ecffa45b513e67c4836fb11189daf622a0bd3076fea5bed55c2a7cf16c54",
-          "keywords": [
-            "best",
-            "ski",
-            "clothes",
-            "patagonia",
-            "arc",
-            "teryx"
-          ]
-        },
-        {
-          "stable_key": "b601c177e51eedee9e37cadc525dc1506454db8995f1df4b194e535c6d9a2366",
-          "source_key": "washingtonexaminer-feed",
-          "source_name": "Washington Examiner Feed",
-          "category": "us-technology",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "기술",
-          "language": "en",
-          "title": "What if your ‘doctor’ has 300 million followers and zero accountability?",
-          "canonical_url": "https://www.washingtonexaminer.com/op-eds/4510497/doctor-300-million-followers-zero-accountability",
-          "published_at": "2026-04-04T12:00:00+00:00",
-          "title_hash": "cc7ec452f30077e4408eb5506623e69f5501aac4be143c2230dd0af0a8e6af93",
-          "keywords": [
-            "what",
-            "if",
-            "your",
-            "doctor",
-            "has",
-            "million"
-          ]
-        },
-        {
-          "stable_key": "ae0692745495d44bde985634b4157b33f73b8d78937b60938cf2442ca30bff82",
-          "source_key": "washingtonexaminer-feed",
-          "source_name": "Washington Examiner Feed",
-          "category": "us-markets",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "시장",
-          "language": "en",
-          "title": "Iran war reality check: Global markets still dictate American energy prices",
-          "canonical_url": "https://www.washingtonexaminer.com/op-eds/4515340/iran-war-global-markets-dictate-american-energy-prices",
-          "published_at": "2026-04-04T12:00:00+00:00",
-          "title_hash": "a5049e87c95ac06d9f3ada910879d65d746498e3c754060e45747a8420044e66",
-          "keywords": [
-            "iran",
-            "war",
-            "reality",
-            "check",
-            "global",
-            "markets"
           ]
         }
       ]
