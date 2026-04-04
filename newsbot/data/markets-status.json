@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-04T15:35:34.028706+00:00",
+  "generated_at": "2026-04-04T16:01:42.314914+00:00",
   "overall_status": "warning",
   "providers": {
     "stocks": {
@@ -7,7 +7,7 @@
       "stale": false,
       "provider": "finviz-public",
       "message": "Using public Finviz fallback because NEWSBOT_FMP_API_KEY is not configured. Public Finviz snapshot is capped at the top 100 stocks to avoid rate limits.",
-      "as_of": "2026-04-04T15:35:34.028706+00:00",
+      "as_of": "2026-04-04T16:01:42.314914+00:00",
       "row_count": 100
     },
     "korea": {
@@ -23,7 +23,7 @@
       "stale": false,
       "provider": "coingecko",
       "message": null,
-      "as_of": "2026-04-04T15:35:35.787Z",
+      "as_of": "2026-04-04T16:01:41.143Z",
       "row_count": 120
     }
   }
