@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-04-04T17:24:37.297655+00:00",
+  "generated_at": "2026-04-04T17:55:16.851496+00:00",
   "retention_days": 90,
   "default_window": "7d",
-  "lifetime_total_articles": 4681,
-  "lifetime_unknown_time_count": 618,
+  "lifetime_total_articles": 4712,
+  "lifetime_unknown_time_count": 629,
   "available_windows": [
     {
       "key": "24h",
@@ -29,36 +29,36 @@
   "windows": {
     "24h": {
       "label": "24h",
-      "article_count": 1247,
+      "article_count": 1244,
       "unknown_time_count": 0,
       "active_source_count": 89,
-      "repeated_title_count": 92,
+      "repeated_title_count": 93,
       "timeline": [
         {
           "date": "2026-04-03",
-          "count": 387
+          "count": 366
         },
         {
           "date": "2026-04-04",
-          "count": 860
+          "count": 878
         }
       ],
       "top_keywords": [
         {
           "keyword": "trump",
-          "count": 144
+          "count": 143
         },
         {
           "keyword": "iran",
-          "count": 65
+          "count": 64
         },
         {
           "keyword": "new",
-          "count": 33
+          "count": 34
         },
         {
           "keyword": "war",
-          "count": 31
+          "count": 30
         },
         {
           "keyword": "after",
@@ -73,23 +73,23 @@
           "count": 22
         },
         {
+          "keyword": "ai",
+          "count": 21
+        },
+        {
           "keyword": "how",
           "count": 21
         },
         {
-          "keyword": "ai",
-          "count": 20
-        },
-        {
-          "keyword": "over",
+          "keyword": "about",
           "count": 19
         },
         {
-          "keyword": "about",
+          "keyword": "missing",
           "count": 18
         },
         {
-          "keyword": "artemis",
+          "keyword": "over",
           "count": 18
         }
       ],
@@ -102,7 +102,7 @@
         {
           "source_key": "nypost-feed",
           "name": "New York Post Feed",
-          "count": 56
+          "count": 60
         },
         {
           "source_key": "donga-society-rss",
@@ -110,14 +110,19 @@
           "count": 51
         },
         {
-          "source_key": "thehill-feed",
-          "name": "The Hill Feed",
-          "count": 49
-        },
-        {
           "source_key": "forbes-innovation-rss",
           "name": "Forbes Innovation",
-          "count": 43
+          "count": 45
+        },
+        {
+          "source_key": "thehill-feed",
+          "name": "The Hill Feed",
+          "count": 45
+        },
+        {
+          "source_key": "newsweek-feed",
+          "name": "Newsweek Feed",
+          "count": 42
         },
         {
           "source_key": "asiae-society-rss",
@@ -125,14 +130,9 @@
           "count": 39
         },
         {
-          "source_key": "newsweek-feed",
-          "name": "Newsweek Feed",
-          "count": 38
-        },
-        {
           "source_key": "forbes-business-rss",
           "name": "Forbes Business",
-          "count": 37
+          "count": 38
         },
         {
           "source_key": "mk-sports-rss",
@@ -140,14 +140,14 @@
           "count": 36
         },
         {
-          "source_key": "breitbart-feed",
-          "name": "Breitbart Feed",
-          "count": 35
-        },
-        {
           "source_key": "cbs-us-rss",
           "name": "CBS News US",
           "count": 35
+        },
+        {
+          "source_key": "breitbart-feed",
+          "name": "Breitbart Feed",
+          "count": 34
         },
         {
           "source_key": "donga-culture-rss",
@@ -164,12 +164,12 @@
         {
           "key": "kr",
           "label": "대한민국",
-          "count": 387
+          "count": 386
         },
         {
           "key": "global",
           "label": "글로벌 전문",
-          "count": 57
+          "count": 55
         }
       ],
       "top_sections": [
@@ -178,7 +178,7 @@
           "label": "정치",
           "hub": "us",
           "hub_label": "미국",
-          "count": 298
+          "count": 293
         },
         {
           "key": "us-technology",
@@ -199,14 +199,14 @@
           "label": "세계",
           "hub": "us",
           "hub_label": "미국",
-          "count": 137
+          "count": 135
         },
         {
           "key": "us-economy",
           "label": "경제",
           "hub": "us",
           "hub_label": "미국",
-          "count": 88
+          "count": 90
         },
         {
           "key": "kr-economy",
@@ -220,7 +220,7 @@
           "label": "시장",
           "hub": "us",
           "hub_label": "미국",
-          "count": 70
+          "count": 75
         },
         {
           "key": "kr-sports",
@@ -234,7 +234,7 @@
           "label": "정치",
           "hub": "kr",
           "hub_label": "대한민국",
-          "count": 57
+          "count": 56
         },
         {
           "key": "kr-culture",
@@ -248,7 +248,7 @@
           "label": "테크",
           "hub": "global",
           "hub_label": "글로벌 전문",
-          "count": 28
+          "count": 27
         },
         {
           "key": "crypto",
@@ -261,11 +261,11 @@
       "language_counts": [
         {
           "language": "en",
-          "count": 846
+          "count": 844
         },
         {
           "language": "ko",
-          "count": 401
+          "count": 400
         }
       ],
       "repeated_titles": [
@@ -369,6 +369,15 @@
           "sort_timestamp": 1775246880
         },
         {
+          "title_hash": "5300790d32f5768ba28c16e716a7f170e962ddaadf48522ad4f527d02f5ed87f",
+          "title": "NYT Connections Hints Today: Sunday, April 5 Clues And Answers (#1029)",
+          "article_count": 2,
+          "source_count": 2,
+          "latest_published_at": "2026-04-04T17:41:35+00:00",
+          "canonical_url": "https://www.forbes.com/sites/erikkain/2026/04/04/nyt-connections-sunday-april-5-answers",
+          "sort_timestamp": 1775324495
+        },
+        {
           "title_hash": "620e7057fdca863941b86ae1e538d7fe07d5e8d0646c6a21a7e8ebb9c55017e6",
           "title": "Judge halts Trump effort requiring colleges to show they don't consider race in admissions",
           "article_count": 2,
@@ -439,15 +448,6 @@
           "latest_published_at": "2026-04-04T13:37:51+00:00",
           "canonical_url": "https://www.forbes.com/sites/daveywinder/2026/04/04/linkedin-account-attack-alert-issued-for-12-billion-users",
           "sort_timestamp": 1775309871
-        },
-        {
-          "title_hash": "b3190cb1d923fbe8e75d53a02629d37ff3e7ebc08379e0be9bd3407d02f91006",
-          "title": "Did Trump help write the latest White House East Wing court filing?",
-          "article_count": 2,
-          "source_count": 2,
-          "latest_published_at": "2026-04-04T13:35:50+00:00",
-          "canonical_url": "https://www.cbsnews.com/news/east-wing-trump-administration-court-filing-appeal-construction",
-          "sort_timestamp": 1775309750
         }
       ],
       "recent_samples": [
@@ -496,6 +496,314 @@
           ]
         },
         {
+          "stable_key": "d22f1cfd1ed68df67cbbe9d5c7eab682d1aab74cb97cfab572fb25e39871f391",
+          "source_key": "verge-rss",
+          "source_name": "The Verge RSS",
+          "category": "us-technology",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "기술",
+          "language": "en",
+          "title": "A folk musician became a target for AI fakes and a copyright troll",
+          "canonical_url": "https://www.theverge.com/entertainment/907111/murphy-campbell-folk-music-ai-copyright",
+          "published_at": "2026-04-04T17:52:10+00:00",
+          "title_hash": "8ef9c977843a6df2ba3432fae228909dece74ea0a3d1793ff6537b0f2b0c958e",
+          "keywords": [
+            "folk",
+            "musician",
+            "became",
+            "target",
+            "ai",
+            "fakes"
+          ]
+        },
+        {
+          "stable_key": "121ea95a4019007043883aff9dfa6ea509e191dd9acb7ed44b45ff73bd013c91",
+          "source_key": "nypost-feed",
+          "source_name": "New York Post Feed",
+          "category": "us-markets",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "시장",
+          "language": "en",
+          "title": "Fresh humiliation for Chairman Xi Jinping as new Xiong’an megacity stalls: ‘Well behind’",
+          "canonical_url": "https://nypost.com/2026/04/04/world-news/fresh-humiliation-for-chairman-xi-jinping-as-new-xiongan-megacity-stalls",
+          "published_at": "2026-04-04T17:47:01+00:00",
+          "title_hash": "002a917eb2996cc1ce2b319a769568175052c4e5a9a31cb2530e9a0810880eb1",
+          "keywords": [
+            "fresh",
+            "humiliation",
+            "chairman",
+            "xi",
+            "jinping",
+            "new"
+          ]
+        },
+        {
+          "stable_key": "5e734b57ba517acb87234ccec8b253b1c37fe3cb81cba976eb46196dcf2a91ce",
+          "source_key": "washingtonexaminer-feed",
+          "source_name": "Washington Examiner Feed",
+          "category": "us-politics",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "정치",
+          "language": "en",
+          "title": "Rubio deports Iranian Gen. Soleimani’s niece over support for terrorism",
+          "canonical_url": "https://www.washingtonexaminer.com/policy/immigration/4516321/rubio-deport-iran-soleimani-niece-support-terrorism",
+          "published_at": "2026-04-04T17:45:46+00:00",
+          "title_hash": "f8970433a6a8f3adb1ac338c3dbf7dfd212d2edc648ac80d986528f70048f5ad",
+          "keywords": [
+            "rubio",
+            "deports",
+            "iranian",
+            "gen",
+            "soleimani",
+            "niece"
+          ]
+        },
+        {
+          "stable_key": "15a11e100f6d2824062b3d51ff40ec760c6809685db137c3ee49ec6cd14ddcdc",
+          "source_key": "nypost-feed",
+          "source_name": "New York Post Feed",
+          "category": "us-politics",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "정치",
+          "language": "en",
+          "title": "Gavin Newsom to spend $19M in taxpayer funds on New York PR firm to polish California’s image",
+          "canonical_url": "https://nypost.com/2026/04/04/us-news/gavin-newsom-to-spend-19m-in-taxpayer-funds-on-new-york-pr-firm-to-help-polish-californias-image",
+          "published_at": "2026-04-04T17:42:39+00:00",
+          "title_hash": "0dcb6f618a7097de17287d32051e4b3195e94877d1421e9017e7f7dbf7445ee5",
+          "keywords": [
+            "gavin",
+            "newsom",
+            "spend",
+            "19m",
+            "taxpayer",
+            "funds"
+          ]
+        },
+        {
+          "stable_key": "b607205687a0420374044cb81b0030f699a111cb966e5b5ae83d490b8aad304d",
+          "source_key": "forbes-innovation-rss",
+          "source_name": "Forbes Innovation",
+          "category": "us-technology",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "기술",
+          "language": "en",
+          "title": "NYT Connections Hints Today: Sunday, April 5 Clues And Answers (#1029)",
+          "canonical_url": "https://www.forbes.com/sites/erikkain/2026/04/04/nyt-connections-sunday-april-5-answers",
+          "published_at": "2026-04-04T17:41:35+00:00",
+          "title_hash": "5300790d32f5768ba28c16e716a7f170e962ddaadf48522ad4f527d02f5ed87f",
+          "keywords": [
+            "nyt",
+            "connections",
+            "hints",
+            "today",
+            "sunday",
+            "april"
+          ]
+        },
+        {
+          "stable_key": "39e8b53713725df1570b3d864466c71be3057ebc453ff8bbe12599599053b881",
+          "source_key": "forbes-business-rss",
+          "source_name": "Forbes Business",
+          "category": "us-economy",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "경제",
+          "language": "en",
+          "title": "NYT Connections Hints Today: Sunday, April 5 Clues And Answers (#1029)",
+          "canonical_url": "https://www.forbes.com/sites/erikkain/2026/04/04/nyt-connections-sunday-april-5-answers",
+          "published_at": "2026-04-04T17:41:35+00:00",
+          "title_hash": "5300790d32f5768ba28c16e716a7f170e962ddaadf48522ad4f527d02f5ed87f",
+          "keywords": [
+            "nyt",
+            "connections",
+            "hints",
+            "today",
+            "sunday",
+            "april"
+          ]
+        },
+        {
+          "stable_key": "e095270704c173a7a9d0c972d8ae7cf66df06391f8d03bbdd112f0827bde314d",
+          "source_key": "nypost-feed",
+          "source_name": "New York Post Feed",
+          "category": "us-politics",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "정치",
+          "language": "en",
+          "title": "Bucks investigated for Giannis Antetokounmpo injury shenanigans — as ex-MVP hints at frayed relationship",
+          "canonical_url": "https://nypost.com/2026/04/04/sports/bucks-under-nba-investigation-for-giannis-antetokounmpo-tanking-shenanigans",
+          "published_at": "2026-04-04T17:40:36+00:00",
+          "title_hash": "b67a39cb3845e3cd66d68b834bcab7b943e705c97d61ba781d5daad88ea279bc",
+          "keywords": [
+            "bucks",
+            "investigated",
+            "giannis",
+            "antetokounmpo",
+            "injury",
+            "shenanigans"
+          ]
+        },
+        {
+          "stable_key": "8f5a1a179c4274c5eac618e313f257e3a0cb4122b06d9a55b222a749c7941c54",
+          "source_key": "fox-politics-rss",
+          "source_name": "Fox News Politics",
+          "category": "us-politics",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "정치",
+          "language": "en",
+          "title": "ICE arrests relatives of slain Iranian general Soleimani living in US after Rubio revokes their green cards",
+          "canonical_url": "https://www.foxnews.com/politics/ice-arrests-relatives-slain-iranian-general-soleimani-living-us-rubio-revokes-green-cards",
+          "published_at": "2026-04-04T17:38:47+00:00",
+          "title_hash": "5c622d2ca6e8e3372cfb8006766709dccfcfc93b76734e5e53a9163e3d45ca79",
+          "keywords": [
+            "ice",
+            "arrests",
+            "relatives",
+            "slain",
+            "iranian",
+            "general"
+          ]
+        },
+        {
+          "stable_key": "d96244ad5cc2a20946d1c2d28f0559b5ab13c74be7ef0e28e5695331f830bc7f",
+          "source_key": "forbes-innovation-rss",
+          "source_name": "Forbes Innovation",
+          "category": "us-technology",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "기술",
+          "language": "en",
+          "title": "Mysterious Samsung Galaxy S26 Model Revealed",
+          "canonical_url": "https://www.forbes.com/sites/ewanspence/2026/04/04/samsung-galaxy-s26-128gb-enterprise-edition-specs-price",
+          "published_at": "2026-04-04T17:33:51+00:00",
+          "title_hash": "3bcd9e3331df0c6026f4dc8dc65de1864e411e7fa3aae59fd2357f5fe104665c",
+          "keywords": [
+            "mysterious",
+            "samsung",
+            "galaxy",
+            "s26",
+            "model",
+            "revealed"
+          ]
+        },
+        {
+          "stable_key": "1c3e83a7fb4a8fd0d2a69b47dcd0a0014c4b6eb770bfae3707b15663c5a11650",
+          "source_key": "nypost-feed",
+          "source_name": "New York Post Feed",
+          "category": "us-markets",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "시장",
+          "language": "en",
+          "title": "After troubled offseason, Puka Nacua taking the right steps towards change",
+          "canonical_url": "https://nypost.com/2026/04/04/sports/rams-wr-puka-nacua-in-rehab-after-troubled-offseason",
+          "published_at": "2026-04-04T17:31:13+00:00",
+          "title_hash": "2b83b8add03937a8b81b2ff9d36b02ca51ebac3432e7262336a7e847930278d9",
+          "keywords": [
+            "after",
+            "troubled",
+            "offseason",
+            "puka",
+            "nacua",
+            "taking"
+          ]
+        },
+        {
+          "stable_key": "949c78c4fb03624c0a2b10babf43c53e92dc99c122d3c6d657499b71da1f4bc1",
+          "source_key": "newsweek-feed",
+          "source_name": "Newsweek Feed",
+          "category": "us-technology",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "기술",
+          "language": "en",
+          "title": "Michigan vs. Arizona Betting Odds, Player Props, Best Bets Against The Spread",
+          "canonical_url": "https://www.newsweek.com/sports/betting/michigan-vs-arizona-betting-odds-player-props-best-bets-against-the-spread-11782958",
+          "published_at": "2026-04-04T17:31:01+00:00",
+          "title_hash": "074d9f5e5d543e8c0a211f57639072598c30465d27ff3f3ad47d14e52d4099e7",
+          "keywords": [
+            "michigan",
+            "vs",
+            "arizona",
+            "betting",
+            "odds",
+            "player"
+          ]
+        },
+        {
+          "stable_key": "3618b8b618fda5ff0982425086d53d7f794d24bd01ee8c7bbb166e8a3a7d4d6d",
+          "source_key": "newsweek-feed",
+          "source_name": "Newsweek Feed",
+          "category": "us-markets",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "시장",
+          "language": "en",
+          "title": "Pirates&#039; Konnor Griffin Shares Message About Unforgettable Debut",
+          "canonical_url": "https://www.newsweek.com/pirates-konnor-griffin-shares-message-about-unforgettable-debut-11783141",
+          "published_at": "2026-04-04T17:29:17+00:00",
+          "title_hash": "66dd6809f3ba56df926031131a80e51f0a3d4594fa592ed6d6b8873563d715e3",
+          "keywords": [
+            "pirates",
+            "konnor",
+            "griffin",
+            "shares",
+            "message",
+            "about"
+          ]
+        },
+        {
+          "stable_key": "cf7f8b40eea56f1422bc31919c6e83a63683bf6e10d35cb1b37e0989e74650d4",
+          "source_key": "newsweek-feed",
+          "source_name": "Newsweek Feed",
+          "category": "us-world",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "세계",
+          "language": "en",
+          "title": "Mets Add Former World Series Champion on Minors Deal: Report",
+          "canonical_url": "https://www.newsweek.com/mets-add-former-world-series-champion-on-minors-deal-report-11783002",
+          "published_at": "2026-04-04T17:27:55+00:00",
+          "title_hash": "65073ef8b57a19142e17de5f03375ae1d1903ab3bd443b3ef9dc3dae8c539bee",
+          "keywords": [
+            "mets",
+            "add",
+            "former",
+            "world",
+            "series",
+            "champion"
+          ]
+        },
+        {
+          "stable_key": "6698cd1ab8ceab3d8e2263665c6b39eee1edfdba891dcc2db459524fbf21ab70",
+          "source_key": "newsweek-feed",
+          "source_name": "Newsweek Feed",
+          "category": "us-technology",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "기술",
+          "language": "en",
+          "title": "Jeremiyah Love Draws Concerning Comparison Ahead of NFL Draft",
+          "canonical_url": "https://www.newsweek.com/sports/nfl/jeremiyah-love-draws-concerning-comparison-ahead-of-nfl-draft-11783294",
+          "published_at": "2026-04-04T17:27:09+00:00",
+          "title_hash": "ce4a198561da69bf2d09de520eae736c96741908220bc141688d5ba3c13e537d",
+          "keywords": [
+            "jeremiyah",
+            "love",
+            "draws",
+            "concerning",
+            "comparison",
+            "ahead"
+          ]
+        },
+        {
           "stable_key": "fec45a9d652faec5819a0ed61c7adb18f1b1e5f8fe1ab1559dd1195d37c7d0e5",
           "source_key": "newsweek-feed",
           "source_name": "Newsweek Feed",
@@ -515,6 +823,28 @@
             "blames",
             "downing",
             "iran"
+          ]
+        },
+        {
+          "stable_key": "6a7980e9bda41fee2c66836e22eea72cc2dba57ce9fd8d0470fd6a50c1a4d687",
+          "source_key": "yahoo-news-rss",
+          "source_name": "Yahoo News RSS",
+          "category": "us-markets",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "시장",
+          "language": "en",
+          "title": "The Case for Owning a Broad Market ETF Instead of Picking Stocks",
+          "canonical_url": "https://finance.yahoo.com/markets/stocks/articles/case-owning-broad-market-etf-172000995.html",
+          "published_at": "2026-04-04T17:20:00+00:00",
+          "title_hash": "ed63b344f66fb1f2c4856acadb40c7c68422d82212e30de339b90ea1a13d4c6c",
+          "keywords": [
+            "case",
+            "owning",
+            "broad",
+            "market",
+            "etf",
+            "instead"
           ]
         },
         {
@@ -559,6 +889,28 @@
             "troubling",
             "after",
             "exiting"
+          ]
+        },
+        {
+          "stable_key": "1c996983896989d2c0f57de94c795964b49c3a81cce224dcae42cb2d79593c4c",
+          "source_key": "bloomberg-politics-rss",
+          "source_name": "Bloomberg Politics",
+          "category": "us-politics",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "정치",
+          "language": "en",
+          "title": "Peru’s Presidential Front-Runners Shift With Election Days Away",
+          "canonical_url": "https://www.bloomberg.com/news/articles/2026-04-04/peru-s-presidential-front-runners-shift-with-election-days-away",
+          "published_at": "2026-04-04T17:16:16+00:00",
+          "title_hash": "d8642e27292ee3dddfb19d42860fe60d27f47296901392622fcb8f977e9a0dee",
+          "keywords": [
+            "peru",
+            "presidential",
+            "front",
+            "runners",
+            "shift",
+            "election"
           ]
         },
         {
@@ -672,6 +1024,28 @@
           ]
         },
         {
+          "stable_key": "09bbe9f9c4fb2e0cfa0b2503a0b0f3dee69db3752556f468491b5efd28d5d81a",
+          "source_key": "fortune-feed",
+          "source_name": "Fortune Feed",
+          "category": "us-economy",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "경제",
+          "language": "en",
+          "title": "The economy can shed jobs and still keep the labor market balanced, as Trump’s immigration crackdown turns breakeven hiring negative",
+          "canonical_url": "https://fortune.com/2026/04/04/breakeven-hiring-negative-job-market-unemployment-rate-trump-immigration-crackdown",
+          "published_at": "2026-04-04T17:11:23+00:00",
+          "title_hash": "18aaf8be58576f88904d0f2f2357fbf5a75e430807f1745619ca4a23a2e611b4",
+          "keywords": [
+            "economy",
+            "can",
+            "shed",
+            "jobs",
+            "still",
+            "keep"
+          ]
+        },
+        {
           "stable_key": "f2c95f14c3dfc09c8e1d0e372a750e7e24b9dcd7da73a018f16e9e7f89b6bea2",
           "source_key": "motherjones-feed",
           "source_name": "Mother Jones Feed",
@@ -736,389 +1110,15 @@
             "soleimani",
             "relatives"
           ]
-        },
-        {
-          "stable_key": "53fffb60b80d071af3a7db3d09194381773effff71f6af4614a36cbb4b0fb1eb",
-          "source_key": "thehill-feed",
-          "source_name": "The Hill Feed",
-          "category": "us-politics",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "정치",
-          "language": "en",
-          "title": "Trump crossed an oily line of state sovereignty in California — your state is next",
-          "canonical_url": "https://thehill.com/opinion/white-house/5815066-trump-pipeline-order-california",
-          "published_at": "2026-04-04T17:00:00+00:00",
-          "title_hash": "c911c04772daa2bf21aeea60c83b222c1712f04b4f25d9643f409a3ee0319fdd",
-          "keywords": [
-            "trump",
-            "crossed",
-            "oily",
-            "line",
-            "state",
-            "sovereignty"
-          ]
-        },
-        {
-          "stable_key": "8042dd023814788028ea09846fa66d143a85ecede4303afb474fb7ec9f6baae6",
-          "source_key": "bloomberg-politics-rss",
-          "source_name": "Bloomberg Politics",
-          "category": "us-politics",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "정치",
-          "language": "en",
-          "title": "Trump’s Victory Rhetoric Undercut by Downed US Jet in Iran War",
-          "canonical_url": "https://www.bloomberg.com/news/articles/2026-04-04/trump-s-victory-rhetoric-undercut-by-downed-us-jet-in-iran-war",
-          "published_at": "2026-04-04T16:58:53+00:00",
-          "title_hash": "f73bdf8b25f3ffd95bf4fac07441e37dea3af9869912b01726e82613c7a2cb23",
-          "keywords": [
-            "trump",
-            "victory",
-            "rhetoric",
-            "undercut",
-            "downed",
-            "us"
-          ]
-        },
-        {
-          "stable_key": "51e8b6a060d5e652ba0cf4bdb76c94c13fe43ad54ba4b753b923bfb875250c70",
-          "source_key": "salon-feed",
-          "source_name": "Salon Feed",
-          "category": "us-markets",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "시장",
-          "language": "en",
-          "title": "After Bondi’s firing, DOJ portrait swiftly removed and trashed",
-          "canonical_url": "https://www.salon.com/2026/04/04/after-bondis-firing-doj-portrait-swiftly-removed-and-trashed",
-          "published_at": "2026-04-04T16:57:46+00:00",
-          "title_hash": "c3e2c9a0e510bea1c7311d0b6f9a9d58fec9dfe3c493a1492b4864aef5b7a9ed",
-          "keywords": [
-            "after",
-            "bondi",
-            "firing",
-            "doj",
-            "portrait",
-            "swiftly"
-          ]
-        },
-        {
-          "stable_key": "d9b16cc6a05610db3fc19dd1d956daf407477cc9c72d0b88993b92d62dfa78bd",
-          "source_key": "fox-world-rss",
-          "source_name": "Fox News World",
-          "category": "us-world",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "세계",
-          "language": "en",
-          "title": "UK prosecutors charge 3, including dual Pakistani citizen, in arson attack on Jewish ambulances in London",
-          "canonical_url": "https://www.foxnews.com/world/uk-prosecutors-charge-3-including-dual-pakistani-citizen-arson-attack-jewish-ambulances-london",
-          "published_at": "2026-04-04T16:56:37+00:00",
-          "title_hash": "9db177dcd697ab9801a9d261465bc5a2963cab88756d363dbd1f651de3d662cd",
-          "keywords": [
-            "uk",
-            "prosecutors",
-            "charge",
-            "including",
-            "dual",
-            "pakistani"
-          ]
-        },
-        {
-          "stable_key": "287dc6163392f5764dfb9b4e9efeac841e28fc5237c43856ffd76f165e21ea38",
-          "source_key": "nypost-feed",
-          "source_name": "New York Post Feed",
-          "category": "us-world",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "세계",
-          "language": "en",
-          "title": "How Haley and Hanna Cavinder ‘struck while iron was hot’ to create expansive business empire after NIL fame",
-          "canonical_url": "https://nypost.com/2026/04/04/sports/how-haley-and-hanna-cavinder-struck-while-iron-was-hot-to-create-expansive-business-empire-after-nil-fame",
-          "published_at": "2026-04-04T16:56:32+00:00",
-          "title_hash": "b134e5e42e505a3eb1b53155aa68695c4a73623783edab0e663a3f3e24738e35",
-          "keywords": [
-            "how",
-            "haley",
-            "hanna",
-            "cavinder",
-            "struck",
-            "while"
-          ]
-        },
-        {
-          "stable_key": "64f256760db2897eabfd31f2f4c6aa81d91a073487fa2fe43bc27672f202cd29",
-          "source_key": "telegram-claw-summary",
-          "source_name": "Telegram @clawnewssummary",
-          "category": "military",
-          "hub": "global",
-          "hub_label": "글로벌 전문",
-          "section_label": "군사",
-          "language": "ko",
-          "title": "🚨 [CRITICAL] 호르무즈 해협 알림",
-          "canonical_url": "https://www.aljazeera.com/opinions/2026/4/4/what-the-iran-iraq-war-can-tell-us-about-the-us-israeli-war-on?traffic_source=rss",
-          "published_at": "2026-04-04T16:56:04+00:00",
-          "title_hash": "1ba172554ef1c7fcb4ab3d83322e6f471392708251d575eb55dfe385f79a6b1c",
-          "keywords": [
-            "critical",
-            "호르무즈",
-            "해협",
-            "알림",
-            "critical 호르무즈",
-            "호르무즈 해협"
-          ]
-        },
-        {
-          "stable_key": "431a3a600ab1d505cef1c123c32b5a3b7464c2728373ee58e7804f1f240398ed",
-          "source_key": "forbes-business-rss",
-          "source_name": "Forbes Business",
-          "category": "us-economy",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "경제",
-          "language": "en",
-          "title": "‘Super Mario Galaxy Movie’ Makes $48 Million On Friday—En Route To Strong Opening Weekend",
-          "canonical_url": "https://www.forbes.com/sites/conormurray/2026/04/04/super-mario-galaxy-movie-makes-48-million-on-friday-en-route-to-strong-opening-weekend",
-          "published_at": "2026-04-04T16:55:40+00:00",
-          "title_hash": "82665d30b067dfbab80ef1bee3356b25db0b72b70d8db9a4124e71a3ecfcddf9",
-          "keywords": [
-            "super",
-            "mario",
-            "galaxy",
-            "movie",
-            "makes",
-            "million"
-          ]
-        },
-        {
-          "stable_key": "cabfd47589664a5d21411f305260823ce45ef3e8202c5363d95665a0585c838f",
-          "source_key": "nypost-feed",
-          "source_name": "New York Post Feed",
-          "category": "us-markets",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "시장",
-          "language": "en",
-          "title": "Caleb Downs isn’t shy about his ‘all-time great’ ceiling in candid conversation with The Post before NFL draft",
-          "canonical_url": "https://nypost.com/2026/04/04/sports/caleb-downs-isnt-shy-about-his-nfl-ceiling-before-draft",
-          "published_at": "2026-04-04T16:54:43+00:00",
-          "title_hash": "f015229ba337151bbc3f80eba2984955ad533462931aedd9462702739f7eed4a",
-          "keywords": [
-            "caleb",
-            "downs",
-            "isn",
-            "shy",
-            "about",
-            "his"
-          ]
-        },
-        {
-          "stable_key": "8d70c77d7193d89fd31b5330eb542d1c108653573f6b00552ad80fb625519ee4",
-          "source_key": "nypost-feed",
-          "source_name": "New York Post Feed",
-          "category": "us-world",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "세계",
-          "language": "en",
-          "title": "Artemis II astronauts are more than halfway to the moon as they seek to break Apollo 13’s record",
-          "canonical_url": "https://nypost.com/2026/04/04/world-news/artemis-ii-astronauts-are-more-than-halfway-to-the-moon-as-they-seek-to-break-apollo-13s-record",
-          "published_at": "2026-04-04T16:54:30+00:00",
-          "title_hash": "c06ddb6ed2f9c1aa79a3134f5bfcdc2b522ce8c2c4816ab035684091ef3859a0",
-          "keywords": [
-            "artemis",
-            "ii",
-            "astronauts",
-            "more",
-            "than",
-            "halfway"
-          ]
-        },
-        {
-          "stable_key": "1b00430e1f74805b23007c6f686a930f67f5d87cccbadb8a517851a4a05c5bc7",
-          "source_key": "nypost-feed",
-          "source_name": "New York Post Feed",
-          "category": "us-markets",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "시장",
-          "language": "en",
-          "title": "Artist fumes after tribute honoring slain Iryna Zarutska gets scrubbed amid woke blowback",
-          "canonical_url": "https://nypost.com/2026/04/04/us-news/artist-fumes-after-tribute-honoring-slain-iryna-zarutska-gets-scrubbed-amid-woke-blowback",
-          "published_at": "2026-04-04T16:54:03+00:00",
-          "title_hash": "7d113e258e7d9617dffc36c08e25d51e1cffb1adc2b8d9b600b7e3106ba74ef3",
-          "keywords": [
-            "artist",
-            "fumes",
-            "after",
-            "tribute",
-            "honoring",
-            "slain"
-          ]
-        },
-        {
-          "stable_key": "90f0ed8cf5d9247a74558b67c8f4b3cedc228aa50e4036f9ed4bc0d07c19df3f",
-          "source_key": "newsweek-feed",
-          "source_name": "Newsweek Feed",
-          "category": "us-technology",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "기술",
-          "language": "en",
-          "title": "IRS Issues ‘Act Now’ Tax Refund Alert Ahead of Filing Deadline",
-          "canonical_url": "https://www.newsweek.com/irs-tax-refund-alert-filing-deadline-11782850",
-          "published_at": "2026-04-04T16:51:47+00:00",
-          "title_hash": "df5324ec6cc36061ffdc3483f5838523baf31b27ea4dfc9f4fc433ddf4ea1ab8",
-          "keywords": [
-            "irs",
-            "issues",
-            "act",
-            "now",
-            "tax",
-            "refund"
-          ]
-        },
-        {
-          "stable_key": "f62eb172f3b834283704825e64793dfafe3efeddd56e2585a03583f1c62b0d5b",
-          "source_key": "nypost-feed",
-          "source_name": "New York Post Feed",
-          "category": "us-technology",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "기술",
-          "language": "en",
-          "title": "Kylie Kelce ripped by fans for groaning about questions on Travis and Taylor Swift’s wedding",
-          "canonical_url": "https://pagesix.com/2026/04/04/entertainment/kylie-kelce-ripped-by-fans-for-groaning-about-questions-on-travis-and-taylor-swifts-wedding",
-          "published_at": "2026-04-04T16:50:12+00:00",
-          "title_hash": "4cd8b9928bc229375401ce59e93ced17c6187462c793d6f11b33861d36db8e17",
-          "keywords": [
-            "kylie",
-            "kelce",
-            "ripped",
-            "fans",
-            "groaning",
-            "about"
-          ]
-        },
-        {
-          "stable_key": "7e0aeb66a3e6db513a58a29f55cd1c2055ef0042c319d7d40039744f22c1cf11",
-          "source_key": "nypost-feed",
-          "source_name": "New York Post Feed",
-          "category": "us-politics",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "정치",
-          "language": "en",
-          "title": "Trump blasts LA homeless agency’s ‘abysmal record’ in plan to slash nearly $400M in federal funds",
-          "canonical_url": "https://nypost.com/2026/04/04/us-news/trump-blasts-la-homeless-agencys-abysmal-record-in-plan-to-slash-nearly-400m-in-federal-funds",
-          "published_at": "2026-04-04T16:50:11+00:00",
-          "title_hash": "6290662c9e836ee2f1c3093bfb10bd23821025b2906e2b3e99a1e146a6ac862d",
-          "keywords": [
-            "trump",
-            "blasts",
-            "la",
-            "homeless",
-            "agency",
-            "abysmal"
-          ]
-        },
-        {
-          "stable_key": "5cf5cf220bbf324a4f854742d6a5cbf14922e2ea1c8ad01aab994bf4742d7fb6",
-          "source_key": "thehill-feed",
-          "source_name": "The Hill Feed",
-          "category": "us-politics",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "정치",
-          "language": "en",
-          "title": "Graham backs Trump’s Iran ultimatum as deadline approaches: ‘Choose wisely’",
-          "canonical_url": "https://thehill.com/homenews/senate/5816309-graham-backs-trump-iran-threats",
-          "published_at": "2026-04-04T16:47:33+00:00",
-          "title_hash": "6af92c921748251b3ccd405cc41c65bbcccfd2a73819f9d3119329dd76dc4abd",
-          "keywords": [
-            "graham",
-            "backs",
-            "trump",
-            "iran",
-            "ultimatum",
-            "deadline"
-          ]
-        },
-        {
-          "stable_key": "5431222bea70aec0805f10ea34739a3f0dcb17c69e980e1145c80a23bfc66b86",
-          "source_key": "coindesk-rss",
-          "source_name": "CoinDesk",
-          "category": "crypto",
-          "hub": "global",
-          "hub_label": "글로벌 전문",
-          "section_label": "코인",
-          "language": "en",
-          "title": "Ex-UK Chancellor backs bitcoin as alternative to failing systems",
-          "canonical_url": "https://www.coindesk.com/markets/2026/04/03/ex-uk-chancellor-backs-bitcoin-as-alternative-to-failing-systems",
-          "published_at": "2026-04-04T16:44:48+00:00",
-          "title_hash": "f09481c637457a23b980ed0e99d81ca9efceeaaca2c9fbe2a55494a4e48eefe1",
-          "keywords": [
-            "ex",
-            "uk",
-            "chancellor",
-            "backs",
-            "bitcoin",
-            "alternative"
-          ]
-        },
-        {
-          "stable_key": "6604241650963dc00368adf934c79a152cc3e309afdbf7105b44712856b1d432",
-          "source_key": "nypost-feed",
-          "source_name": "New York Post Feed",
-          "category": "us-world",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "세계",
-          "language": "en",
-          "title": "Cleanest cruise lines in the world revealed — plus who notched up worst for the grossest reason",
-          "canonical_url": "https://nypost.com/2026/04/04/lifestyle/cleanest-cruise-lines-in-the-world-revealed-but-who-topped-the-list-for-the-most-norovirus-outbreaks",
-          "published_at": "2026-04-04T16:44:16+00:00",
-          "title_hash": "7867b3dda6a302bb96cced48f811353e823378e6848122ebd5d432a6945df995",
-          "keywords": [
-            "cleanest",
-            "cruise",
-            "lines",
-            "world",
-            "revealed",
-            "plus"
-          ]
-        },
-        {
-          "stable_key": "a138e88a12bd9c14b383fbfb7f413aab77d6a1dccb210eebceb10d8a51e3e60b",
-          "source_key": "nyt-world-rss",
-          "source_name": "New York Times World",
-          "category": "us-world",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "세계",
-          "language": "en",
-          "title": "U.S. Fighter Jet Downed Over Iran Was Probably Based at R.A.F. Lakenheath, U.K. Airfield",
-          "canonical_url": "https://www.nytimes.com/2026/04/04/world/middleeast/iran-war-fighter-jet-f15-raf-lakenheath.html",
-          "published_at": "2026-04-04T16:43:42+00:00",
-          "title_hash": "fe47f9154311b37c0583e9323232d310c8075ba2c7ec3879af5248b51f1d7b81",
-          "keywords": [
-            "fighter",
-            "jet",
-            "downed",
-            "over",
-            "iran",
-            "probably"
-          ]
         }
       ]
     },
     "7d": {
       "label": "7d",
-      "article_count": 3369,
+      "article_count": 3389,
       "unknown_time_count": 0,
       "active_source_count": 101,
-      "repeated_title_count": 192,
+      "repeated_title_count": 193,
       "timeline": [
         {
           "date": "2026-03-28",
@@ -1142,21 +1142,21 @@
         },
         {
           "date": "2026-04-02",
-          "count": 610
+          "count": 611
         },
         {
           "date": "2026-04-03",
-          "count": 1377
+          "count": 1378
         },
         {
           "date": "2026-04-04",
-          "count": 860
+          "count": 878
         }
       ],
       "top_keywords": [
         {
           "keyword": "trump",
-          "count": 390
+          "count": 391
         },
         {
           "keyword": "iran",
@@ -1168,7 +1168,7 @@
         },
         {
           "keyword": "new",
-          "count": 77
+          "count": 79
         },
         {
           "keyword": "us",
@@ -1176,15 +1176,15 @@
         },
         {
           "keyword": "after",
-          "count": 71
+          "count": 72
+        },
+        {
+          "keyword": "ai",
+          "count": 60
         },
         {
           "keyword": "what",
           "count": 60
-        },
-        {
-          "keyword": "ai",
-          "count": 59
         },
         {
           "keyword": "says",
@@ -1196,7 +1196,7 @@
         },
         {
           "keyword": "about",
-          "count": 49
+          "count": 50
         },
         {
           "keyword": "bondi",
@@ -1230,14 +1230,14 @@
           "count": 97
         },
         {
+          "source_key": "yahoo-news-rss",
+          "name": "Yahoo News RSS",
+          "count": 84
+        },
+        {
           "source_key": "asiae-politics-rss",
           "name": "Asiae Politics",
           "count": 82
-        },
-        {
-          "source_key": "yahoo-news-rss",
-          "name": "Yahoo News RSS",
-          "count": 81
         },
         {
           "source_key": "asiae-culture-rss",
@@ -1262,14 +1262,14 @@
         {
           "source_key": "nypost-feed",
           "name": "New York Post Feed",
-          "count": 56
+          "count": 60
         }
       ],
       "top_hubs": [
         {
           "key": "us",
           "label": "미국",
-          "count": 2009
+          "count": 2029
         },
         {
           "key": "kr",
@@ -1288,21 +1288,21 @@
           "label": "정치",
           "hub": "us",
           "hub_label": "미국",
-          "count": 759
+          "count": 765
         },
         {
           "key": "us-technology",
           "label": "기술",
           "hub": "us",
           "hub_label": "미국",
-          "count": 502
+          "count": 508
         },
         {
           "key": "us-world",
           "label": "세계",
           "hub": "us",
           "hub_label": "미국",
-          "count": 349
+          "count": 350
         },
         {
           "key": "kr-economy",
@@ -1326,6 +1326,13 @@
           "count": 237
         },
         {
+          "key": "us-economy",
+          "label": "경제",
+          "hub": "us",
+          "hub_label": "미국",
+          "count": 226
+        },
+        {
           "key": "kr-culture",
           "label": "문화",
           "hub": "kr",
@@ -1333,18 +1340,11 @@
           "count": 226
         },
         {
-          "key": "us-economy",
-          "label": "경제",
-          "hub": "us",
-          "hub_label": "미국",
-          "count": 224
-        },
-        {
           "key": "us-markets",
           "label": "시장",
           "hub": "us",
           "hub_label": "미국",
-          "count": 175
+          "count": 180
         },
         {
           "key": "kr-sports",
@@ -1371,7 +1371,7 @@
       "language_counts": [
         {
           "language": "en",
-          "count": 2129
+          "count": 2149
         },
         {
           "language": "ko",
@@ -1542,6 +1542,15 @@
           "sort_timestamp": 1775120793
         },
         {
+          "title_hash": "5300790d32f5768ba28c16e716a7f170e962ddaadf48522ad4f527d02f5ed87f",
+          "title": "NYT Connections Hints Today: Sunday, April 5 Clues And Answers (#1029)",
+          "article_count": 2,
+          "source_count": 2,
+          "latest_published_at": "2026-04-04T17:41:35+00:00",
+          "canonical_url": "https://www.forbes.com/sites/erikkain/2026/04/04/nyt-connections-sunday-april-5-answers",
+          "sort_timestamp": 1775324495
+        },
+        {
           "title_hash": "620e7057fdca863941b86ae1e538d7fe07d5e8d0646c6a21a7e8ebb9c55017e6",
           "title": "Judge halts Trump effort requiring colleges to show they don't consider race in admissions",
           "article_count": 2,
@@ -1549,15 +1558,6 @@
           "latest_published_at": "2026-04-04T17:13:03+00:00",
           "canonical_url": "https://www.npr.org/2026/04/04/nx-s1-5773915/judge-halts-trump-effort-college-admissions-race",
           "sort_timestamp": 1775322783
-        },
-        {
-          "title_hash": "7d113e258e7d9617dffc36c08e25d51e1cffb1adc2b8d9b600b7e3106ba74ef3",
-          "title": "Artist fumes after tribute honoring slain Iryna Zarutska gets scrubbed amid woke blowback",
-          "article_count": 2,
-          "source_count": 2,
-          "latest_published_at": "2026-04-04T16:54:03+00:00",
-          "canonical_url": "https://nypost.com/2026/04/04/us-news/artist-fumes-after-tribute-honoring-slain-iryna-zarutska-gets-scrubbed-amid-woke-blowback",
-          "sort_timestamp": 1775321643
         }
       ],
       "recent_samples": [
@@ -1606,6 +1606,314 @@
           ]
         },
         {
+          "stable_key": "d22f1cfd1ed68df67cbbe9d5c7eab682d1aab74cb97cfab572fb25e39871f391",
+          "source_key": "verge-rss",
+          "source_name": "The Verge RSS",
+          "category": "us-technology",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "기술",
+          "language": "en",
+          "title": "A folk musician became a target for AI fakes and a copyright troll",
+          "canonical_url": "https://www.theverge.com/entertainment/907111/murphy-campbell-folk-music-ai-copyright",
+          "published_at": "2026-04-04T17:52:10+00:00",
+          "title_hash": "8ef9c977843a6df2ba3432fae228909dece74ea0a3d1793ff6537b0f2b0c958e",
+          "keywords": [
+            "folk",
+            "musician",
+            "became",
+            "target",
+            "ai",
+            "fakes"
+          ]
+        },
+        {
+          "stable_key": "121ea95a4019007043883aff9dfa6ea509e191dd9acb7ed44b45ff73bd013c91",
+          "source_key": "nypost-feed",
+          "source_name": "New York Post Feed",
+          "category": "us-markets",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "시장",
+          "language": "en",
+          "title": "Fresh humiliation for Chairman Xi Jinping as new Xiong’an megacity stalls: ‘Well behind’",
+          "canonical_url": "https://nypost.com/2026/04/04/world-news/fresh-humiliation-for-chairman-xi-jinping-as-new-xiongan-megacity-stalls",
+          "published_at": "2026-04-04T17:47:01+00:00",
+          "title_hash": "002a917eb2996cc1ce2b319a769568175052c4e5a9a31cb2530e9a0810880eb1",
+          "keywords": [
+            "fresh",
+            "humiliation",
+            "chairman",
+            "xi",
+            "jinping",
+            "new"
+          ]
+        },
+        {
+          "stable_key": "5e734b57ba517acb87234ccec8b253b1c37fe3cb81cba976eb46196dcf2a91ce",
+          "source_key": "washingtonexaminer-feed",
+          "source_name": "Washington Examiner Feed",
+          "category": "us-politics",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "정치",
+          "language": "en",
+          "title": "Rubio deports Iranian Gen. Soleimani’s niece over support for terrorism",
+          "canonical_url": "https://www.washingtonexaminer.com/policy/immigration/4516321/rubio-deport-iran-soleimani-niece-support-terrorism",
+          "published_at": "2026-04-04T17:45:46+00:00",
+          "title_hash": "f8970433a6a8f3adb1ac338c3dbf7dfd212d2edc648ac80d986528f70048f5ad",
+          "keywords": [
+            "rubio",
+            "deports",
+            "iranian",
+            "gen",
+            "soleimani",
+            "niece"
+          ]
+        },
+        {
+          "stable_key": "15a11e100f6d2824062b3d51ff40ec760c6809685db137c3ee49ec6cd14ddcdc",
+          "source_key": "nypost-feed",
+          "source_name": "New York Post Feed",
+          "category": "us-politics",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "정치",
+          "language": "en",
+          "title": "Gavin Newsom to spend $19M in taxpayer funds on New York PR firm to polish California’s image",
+          "canonical_url": "https://nypost.com/2026/04/04/us-news/gavin-newsom-to-spend-19m-in-taxpayer-funds-on-new-york-pr-firm-to-help-polish-californias-image",
+          "published_at": "2026-04-04T17:42:39+00:00",
+          "title_hash": "0dcb6f618a7097de17287d32051e4b3195e94877d1421e9017e7f7dbf7445ee5",
+          "keywords": [
+            "gavin",
+            "newsom",
+            "spend",
+            "19m",
+            "taxpayer",
+            "funds"
+          ]
+        },
+        {
+          "stable_key": "b607205687a0420374044cb81b0030f699a111cb966e5b5ae83d490b8aad304d",
+          "source_key": "forbes-innovation-rss",
+          "source_name": "Forbes Innovation",
+          "category": "us-technology",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "기술",
+          "language": "en",
+          "title": "NYT Connections Hints Today: Sunday, April 5 Clues And Answers (#1029)",
+          "canonical_url": "https://www.forbes.com/sites/erikkain/2026/04/04/nyt-connections-sunday-april-5-answers",
+          "published_at": "2026-04-04T17:41:35+00:00",
+          "title_hash": "5300790d32f5768ba28c16e716a7f170e962ddaadf48522ad4f527d02f5ed87f",
+          "keywords": [
+            "nyt",
+            "connections",
+            "hints",
+            "today",
+            "sunday",
+            "april"
+          ]
+        },
+        {
+          "stable_key": "39e8b53713725df1570b3d864466c71be3057ebc453ff8bbe12599599053b881",
+          "source_key": "forbes-business-rss",
+          "source_name": "Forbes Business",
+          "category": "us-economy",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "경제",
+          "language": "en",
+          "title": "NYT Connections Hints Today: Sunday, April 5 Clues And Answers (#1029)",
+          "canonical_url": "https://www.forbes.com/sites/erikkain/2026/04/04/nyt-connections-sunday-april-5-answers",
+          "published_at": "2026-04-04T17:41:35+00:00",
+          "title_hash": "5300790d32f5768ba28c16e716a7f170e962ddaadf48522ad4f527d02f5ed87f",
+          "keywords": [
+            "nyt",
+            "connections",
+            "hints",
+            "today",
+            "sunday",
+            "april"
+          ]
+        },
+        {
+          "stable_key": "e095270704c173a7a9d0c972d8ae7cf66df06391f8d03bbdd112f0827bde314d",
+          "source_key": "nypost-feed",
+          "source_name": "New York Post Feed",
+          "category": "us-politics",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "정치",
+          "language": "en",
+          "title": "Bucks investigated for Giannis Antetokounmpo injury shenanigans — as ex-MVP hints at frayed relationship",
+          "canonical_url": "https://nypost.com/2026/04/04/sports/bucks-under-nba-investigation-for-giannis-antetokounmpo-tanking-shenanigans",
+          "published_at": "2026-04-04T17:40:36+00:00",
+          "title_hash": "b67a39cb3845e3cd66d68b834bcab7b943e705c97d61ba781d5daad88ea279bc",
+          "keywords": [
+            "bucks",
+            "investigated",
+            "giannis",
+            "antetokounmpo",
+            "injury",
+            "shenanigans"
+          ]
+        },
+        {
+          "stable_key": "8f5a1a179c4274c5eac618e313f257e3a0cb4122b06d9a55b222a749c7941c54",
+          "source_key": "fox-politics-rss",
+          "source_name": "Fox News Politics",
+          "category": "us-politics",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "정치",
+          "language": "en",
+          "title": "ICE arrests relatives of slain Iranian general Soleimani living in US after Rubio revokes their green cards",
+          "canonical_url": "https://www.foxnews.com/politics/ice-arrests-relatives-slain-iranian-general-soleimani-living-us-rubio-revokes-green-cards",
+          "published_at": "2026-04-04T17:38:47+00:00",
+          "title_hash": "5c622d2ca6e8e3372cfb8006766709dccfcfc93b76734e5e53a9163e3d45ca79",
+          "keywords": [
+            "ice",
+            "arrests",
+            "relatives",
+            "slain",
+            "iranian",
+            "general"
+          ]
+        },
+        {
+          "stable_key": "d96244ad5cc2a20946d1c2d28f0559b5ab13c74be7ef0e28e5695331f830bc7f",
+          "source_key": "forbes-innovation-rss",
+          "source_name": "Forbes Innovation",
+          "category": "us-technology",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "기술",
+          "language": "en",
+          "title": "Mysterious Samsung Galaxy S26 Model Revealed",
+          "canonical_url": "https://www.forbes.com/sites/ewanspence/2026/04/04/samsung-galaxy-s26-128gb-enterprise-edition-specs-price",
+          "published_at": "2026-04-04T17:33:51+00:00",
+          "title_hash": "3bcd9e3331df0c6026f4dc8dc65de1864e411e7fa3aae59fd2357f5fe104665c",
+          "keywords": [
+            "mysterious",
+            "samsung",
+            "galaxy",
+            "s26",
+            "model",
+            "revealed"
+          ]
+        },
+        {
+          "stable_key": "1c3e83a7fb4a8fd0d2a69b47dcd0a0014c4b6eb770bfae3707b15663c5a11650",
+          "source_key": "nypost-feed",
+          "source_name": "New York Post Feed",
+          "category": "us-markets",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "시장",
+          "language": "en",
+          "title": "After troubled offseason, Puka Nacua taking the right steps towards change",
+          "canonical_url": "https://nypost.com/2026/04/04/sports/rams-wr-puka-nacua-in-rehab-after-troubled-offseason",
+          "published_at": "2026-04-04T17:31:13+00:00",
+          "title_hash": "2b83b8add03937a8b81b2ff9d36b02ca51ebac3432e7262336a7e847930278d9",
+          "keywords": [
+            "after",
+            "troubled",
+            "offseason",
+            "puka",
+            "nacua",
+            "taking"
+          ]
+        },
+        {
+          "stable_key": "949c78c4fb03624c0a2b10babf43c53e92dc99c122d3c6d657499b71da1f4bc1",
+          "source_key": "newsweek-feed",
+          "source_name": "Newsweek Feed",
+          "category": "us-technology",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "기술",
+          "language": "en",
+          "title": "Michigan vs. Arizona Betting Odds, Player Props, Best Bets Against The Spread",
+          "canonical_url": "https://www.newsweek.com/sports/betting/michigan-vs-arizona-betting-odds-player-props-best-bets-against-the-spread-11782958",
+          "published_at": "2026-04-04T17:31:01+00:00",
+          "title_hash": "074d9f5e5d543e8c0a211f57639072598c30465d27ff3f3ad47d14e52d4099e7",
+          "keywords": [
+            "michigan",
+            "vs",
+            "arizona",
+            "betting",
+            "odds",
+            "player"
+          ]
+        },
+        {
+          "stable_key": "3618b8b618fda5ff0982425086d53d7f794d24bd01ee8c7bbb166e8a3a7d4d6d",
+          "source_key": "newsweek-feed",
+          "source_name": "Newsweek Feed",
+          "category": "us-markets",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "시장",
+          "language": "en",
+          "title": "Pirates&#039; Konnor Griffin Shares Message About Unforgettable Debut",
+          "canonical_url": "https://www.newsweek.com/pirates-konnor-griffin-shares-message-about-unforgettable-debut-11783141",
+          "published_at": "2026-04-04T17:29:17+00:00",
+          "title_hash": "66dd6809f3ba56df926031131a80e51f0a3d4594fa592ed6d6b8873563d715e3",
+          "keywords": [
+            "pirates",
+            "konnor",
+            "griffin",
+            "shares",
+            "message",
+            "about"
+          ]
+        },
+        {
+          "stable_key": "cf7f8b40eea56f1422bc31919c6e83a63683bf6e10d35cb1b37e0989e74650d4",
+          "source_key": "newsweek-feed",
+          "source_name": "Newsweek Feed",
+          "category": "us-world",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "세계",
+          "language": "en",
+          "title": "Mets Add Former World Series Champion on Minors Deal: Report",
+          "canonical_url": "https://www.newsweek.com/mets-add-former-world-series-champion-on-minors-deal-report-11783002",
+          "published_at": "2026-04-04T17:27:55+00:00",
+          "title_hash": "65073ef8b57a19142e17de5f03375ae1d1903ab3bd443b3ef9dc3dae8c539bee",
+          "keywords": [
+            "mets",
+            "add",
+            "former",
+            "world",
+            "series",
+            "champion"
+          ]
+        },
+        {
+          "stable_key": "6698cd1ab8ceab3d8e2263665c6b39eee1edfdba891dcc2db459524fbf21ab70",
+          "source_key": "newsweek-feed",
+          "source_name": "Newsweek Feed",
+          "category": "us-technology",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "기술",
+          "language": "en",
+          "title": "Jeremiyah Love Draws Concerning Comparison Ahead of NFL Draft",
+          "canonical_url": "https://www.newsweek.com/sports/nfl/jeremiyah-love-draws-concerning-comparison-ahead-of-nfl-draft-11783294",
+          "published_at": "2026-04-04T17:27:09+00:00",
+          "title_hash": "ce4a198561da69bf2d09de520eae736c96741908220bc141688d5ba3c13e537d",
+          "keywords": [
+            "jeremiyah",
+            "love",
+            "draws",
+            "concerning",
+            "comparison",
+            "ahead"
+          ]
+        },
+        {
           "stable_key": "fec45a9d652faec5819a0ed61c7adb18f1b1e5f8fe1ab1559dd1195d37c7d0e5",
           "source_key": "newsweek-feed",
           "source_name": "Newsweek Feed",
@@ -1625,6 +1933,28 @@
             "blames",
             "downing",
             "iran"
+          ]
+        },
+        {
+          "stable_key": "6a7980e9bda41fee2c66836e22eea72cc2dba57ce9fd8d0470fd6a50c1a4d687",
+          "source_key": "yahoo-news-rss",
+          "source_name": "Yahoo News RSS",
+          "category": "us-markets",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "시장",
+          "language": "en",
+          "title": "The Case for Owning a Broad Market ETF Instead of Picking Stocks",
+          "canonical_url": "https://finance.yahoo.com/markets/stocks/articles/case-owning-broad-market-etf-172000995.html",
+          "published_at": "2026-04-04T17:20:00+00:00",
+          "title_hash": "ed63b344f66fb1f2c4856acadb40c7c68422d82212e30de339b90ea1a13d4c6c",
+          "keywords": [
+            "case",
+            "owning",
+            "broad",
+            "market",
+            "etf",
+            "instead"
           ]
         },
         {
@@ -1669,6 +1999,28 @@
             "troubling",
             "after",
             "exiting"
+          ]
+        },
+        {
+          "stable_key": "1c996983896989d2c0f57de94c795964b49c3a81cce224dcae42cb2d79593c4c",
+          "source_key": "bloomberg-politics-rss",
+          "source_name": "Bloomberg Politics",
+          "category": "us-politics",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "정치",
+          "language": "en",
+          "title": "Peru’s Presidential Front-Runners Shift With Election Days Away",
+          "canonical_url": "https://www.bloomberg.com/news/articles/2026-04-04/peru-s-presidential-front-runners-shift-with-election-days-away",
+          "published_at": "2026-04-04T17:16:16+00:00",
+          "title_hash": "d8642e27292ee3dddfb19d42860fe60d27f47296901392622fcb8f977e9a0dee",
+          "keywords": [
+            "peru",
+            "presidential",
+            "front",
+            "runners",
+            "shift",
+            "election"
           ]
         },
         {
@@ -1782,6 +2134,28 @@
           ]
         },
         {
+          "stable_key": "09bbe9f9c4fb2e0cfa0b2503a0b0f3dee69db3752556f468491b5efd28d5d81a",
+          "source_key": "fortune-feed",
+          "source_name": "Fortune Feed",
+          "category": "us-economy",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "경제",
+          "language": "en",
+          "title": "The economy can shed jobs and still keep the labor market balanced, as Trump’s immigration crackdown turns breakeven hiring negative",
+          "canonical_url": "https://fortune.com/2026/04/04/breakeven-hiring-negative-job-market-unemployment-rate-trump-immigration-crackdown",
+          "published_at": "2026-04-04T17:11:23+00:00",
+          "title_hash": "18aaf8be58576f88904d0f2f2357fbf5a75e430807f1745619ca4a23a2e611b4",
+          "keywords": [
+            "economy",
+            "can",
+            "shed",
+            "jobs",
+            "still",
+            "keep"
+          ]
+        },
+        {
           "stable_key": "f2c95f14c3dfc09c8e1d0e372a750e7e24b9dcd7da73a018f16e9e7f89b6bea2",
           "source_key": "motherjones-feed",
           "source_name": "Mother Jones Feed",
@@ -1846,389 +2220,15 @@
             "soleimani",
             "relatives"
           ]
-        },
-        {
-          "stable_key": "53fffb60b80d071af3a7db3d09194381773effff71f6af4614a36cbb4b0fb1eb",
-          "source_key": "thehill-feed",
-          "source_name": "The Hill Feed",
-          "category": "us-politics",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "정치",
-          "language": "en",
-          "title": "Trump crossed an oily line of state sovereignty in California — your state is next",
-          "canonical_url": "https://thehill.com/opinion/white-house/5815066-trump-pipeline-order-california",
-          "published_at": "2026-04-04T17:00:00+00:00",
-          "title_hash": "c911c04772daa2bf21aeea60c83b222c1712f04b4f25d9643f409a3ee0319fdd",
-          "keywords": [
-            "trump",
-            "crossed",
-            "oily",
-            "line",
-            "state",
-            "sovereignty"
-          ]
-        },
-        {
-          "stable_key": "8042dd023814788028ea09846fa66d143a85ecede4303afb474fb7ec9f6baae6",
-          "source_key": "bloomberg-politics-rss",
-          "source_name": "Bloomberg Politics",
-          "category": "us-politics",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "정치",
-          "language": "en",
-          "title": "Trump’s Victory Rhetoric Undercut by Downed US Jet in Iran War",
-          "canonical_url": "https://www.bloomberg.com/news/articles/2026-04-04/trump-s-victory-rhetoric-undercut-by-downed-us-jet-in-iran-war",
-          "published_at": "2026-04-04T16:58:53+00:00",
-          "title_hash": "f73bdf8b25f3ffd95bf4fac07441e37dea3af9869912b01726e82613c7a2cb23",
-          "keywords": [
-            "trump",
-            "victory",
-            "rhetoric",
-            "undercut",
-            "downed",
-            "us"
-          ]
-        },
-        {
-          "stable_key": "51e8b6a060d5e652ba0cf4bdb76c94c13fe43ad54ba4b753b923bfb875250c70",
-          "source_key": "salon-feed",
-          "source_name": "Salon Feed",
-          "category": "us-markets",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "시장",
-          "language": "en",
-          "title": "After Bondi’s firing, DOJ portrait swiftly removed and trashed",
-          "canonical_url": "https://www.salon.com/2026/04/04/after-bondis-firing-doj-portrait-swiftly-removed-and-trashed",
-          "published_at": "2026-04-04T16:57:46+00:00",
-          "title_hash": "c3e2c9a0e510bea1c7311d0b6f9a9d58fec9dfe3c493a1492b4864aef5b7a9ed",
-          "keywords": [
-            "after",
-            "bondi",
-            "firing",
-            "doj",
-            "portrait",
-            "swiftly"
-          ]
-        },
-        {
-          "stable_key": "d9b16cc6a05610db3fc19dd1d956daf407477cc9c72d0b88993b92d62dfa78bd",
-          "source_key": "fox-world-rss",
-          "source_name": "Fox News World",
-          "category": "us-world",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "세계",
-          "language": "en",
-          "title": "UK prosecutors charge 3, including dual Pakistani citizen, in arson attack on Jewish ambulances in London",
-          "canonical_url": "https://www.foxnews.com/world/uk-prosecutors-charge-3-including-dual-pakistani-citizen-arson-attack-jewish-ambulances-london",
-          "published_at": "2026-04-04T16:56:37+00:00",
-          "title_hash": "9db177dcd697ab9801a9d261465bc5a2963cab88756d363dbd1f651de3d662cd",
-          "keywords": [
-            "uk",
-            "prosecutors",
-            "charge",
-            "including",
-            "dual",
-            "pakistani"
-          ]
-        },
-        {
-          "stable_key": "287dc6163392f5764dfb9b4e9efeac841e28fc5237c43856ffd76f165e21ea38",
-          "source_key": "nypost-feed",
-          "source_name": "New York Post Feed",
-          "category": "us-world",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "세계",
-          "language": "en",
-          "title": "How Haley and Hanna Cavinder ‘struck while iron was hot’ to create expansive business empire after NIL fame",
-          "canonical_url": "https://nypost.com/2026/04/04/sports/how-haley-and-hanna-cavinder-struck-while-iron-was-hot-to-create-expansive-business-empire-after-nil-fame",
-          "published_at": "2026-04-04T16:56:32+00:00",
-          "title_hash": "b134e5e42e505a3eb1b53155aa68695c4a73623783edab0e663a3f3e24738e35",
-          "keywords": [
-            "how",
-            "haley",
-            "hanna",
-            "cavinder",
-            "struck",
-            "while"
-          ]
-        },
-        {
-          "stable_key": "64f256760db2897eabfd31f2f4c6aa81d91a073487fa2fe43bc27672f202cd29",
-          "source_key": "telegram-claw-summary",
-          "source_name": "Telegram @clawnewssummary",
-          "category": "military",
-          "hub": "global",
-          "hub_label": "글로벌 전문",
-          "section_label": "군사",
-          "language": "ko",
-          "title": "🚨 [CRITICAL] 호르무즈 해협 알림",
-          "canonical_url": "https://www.aljazeera.com/opinions/2026/4/4/what-the-iran-iraq-war-can-tell-us-about-the-us-israeli-war-on?traffic_source=rss",
-          "published_at": "2026-04-04T16:56:04+00:00",
-          "title_hash": "1ba172554ef1c7fcb4ab3d83322e6f471392708251d575eb55dfe385f79a6b1c",
-          "keywords": [
-            "critical",
-            "호르무즈",
-            "해협",
-            "알림",
-            "critical 호르무즈",
-            "호르무즈 해협"
-          ]
-        },
-        {
-          "stable_key": "431a3a600ab1d505cef1c123c32b5a3b7464c2728373ee58e7804f1f240398ed",
-          "source_key": "forbes-business-rss",
-          "source_name": "Forbes Business",
-          "category": "us-economy",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "경제",
-          "language": "en",
-          "title": "‘Super Mario Galaxy Movie’ Makes $48 Million On Friday—En Route To Strong Opening Weekend",
-          "canonical_url": "https://www.forbes.com/sites/conormurray/2026/04/04/super-mario-galaxy-movie-makes-48-million-on-friday-en-route-to-strong-opening-weekend",
-          "published_at": "2026-04-04T16:55:40+00:00",
-          "title_hash": "82665d30b067dfbab80ef1bee3356b25db0b72b70d8db9a4124e71a3ecfcddf9",
-          "keywords": [
-            "super",
-            "mario",
-            "galaxy",
-            "movie",
-            "makes",
-            "million"
-          ]
-        },
-        {
-          "stable_key": "cabfd47589664a5d21411f305260823ce45ef3e8202c5363d95665a0585c838f",
-          "source_key": "nypost-feed",
-          "source_name": "New York Post Feed",
-          "category": "us-markets",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "시장",
-          "language": "en",
-          "title": "Caleb Downs isn’t shy about his ‘all-time great’ ceiling in candid conversation with The Post before NFL draft",
-          "canonical_url": "https://nypost.com/2026/04/04/sports/caleb-downs-isnt-shy-about-his-nfl-ceiling-before-draft",
-          "published_at": "2026-04-04T16:54:43+00:00",
-          "title_hash": "f015229ba337151bbc3f80eba2984955ad533462931aedd9462702739f7eed4a",
-          "keywords": [
-            "caleb",
-            "downs",
-            "isn",
-            "shy",
-            "about",
-            "his"
-          ]
-        },
-        {
-          "stable_key": "8d70c77d7193d89fd31b5330eb542d1c108653573f6b00552ad80fb625519ee4",
-          "source_key": "nypost-feed",
-          "source_name": "New York Post Feed",
-          "category": "us-world",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "세계",
-          "language": "en",
-          "title": "Artemis II astronauts are more than halfway to the moon as they seek to break Apollo 13’s record",
-          "canonical_url": "https://nypost.com/2026/04/04/world-news/artemis-ii-astronauts-are-more-than-halfway-to-the-moon-as-they-seek-to-break-apollo-13s-record",
-          "published_at": "2026-04-04T16:54:30+00:00",
-          "title_hash": "c06ddb6ed2f9c1aa79a3134f5bfcdc2b522ce8c2c4816ab035684091ef3859a0",
-          "keywords": [
-            "artemis",
-            "ii",
-            "astronauts",
-            "more",
-            "than",
-            "halfway"
-          ]
-        },
-        {
-          "stable_key": "1b00430e1f74805b23007c6f686a930f67f5d87cccbadb8a517851a4a05c5bc7",
-          "source_key": "nypost-feed",
-          "source_name": "New York Post Feed",
-          "category": "us-markets",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "시장",
-          "language": "en",
-          "title": "Artist fumes after tribute honoring slain Iryna Zarutska gets scrubbed amid woke blowback",
-          "canonical_url": "https://nypost.com/2026/04/04/us-news/artist-fumes-after-tribute-honoring-slain-iryna-zarutska-gets-scrubbed-amid-woke-blowback",
-          "published_at": "2026-04-04T16:54:03+00:00",
-          "title_hash": "7d113e258e7d9617dffc36c08e25d51e1cffb1adc2b8d9b600b7e3106ba74ef3",
-          "keywords": [
-            "artist",
-            "fumes",
-            "after",
-            "tribute",
-            "honoring",
-            "slain"
-          ]
-        },
-        {
-          "stable_key": "90f0ed8cf5d9247a74558b67c8f4b3cedc228aa50e4036f9ed4bc0d07c19df3f",
-          "source_key": "newsweek-feed",
-          "source_name": "Newsweek Feed",
-          "category": "us-technology",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "기술",
-          "language": "en",
-          "title": "IRS Issues ‘Act Now’ Tax Refund Alert Ahead of Filing Deadline",
-          "canonical_url": "https://www.newsweek.com/irs-tax-refund-alert-filing-deadline-11782850",
-          "published_at": "2026-04-04T16:51:47+00:00",
-          "title_hash": "df5324ec6cc36061ffdc3483f5838523baf31b27ea4dfc9f4fc433ddf4ea1ab8",
-          "keywords": [
-            "irs",
-            "issues",
-            "act",
-            "now",
-            "tax",
-            "refund"
-          ]
-        },
-        {
-          "stable_key": "f62eb172f3b834283704825e64793dfafe3efeddd56e2585a03583f1c62b0d5b",
-          "source_key": "nypost-feed",
-          "source_name": "New York Post Feed",
-          "category": "us-technology",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "기술",
-          "language": "en",
-          "title": "Kylie Kelce ripped by fans for groaning about questions on Travis and Taylor Swift’s wedding",
-          "canonical_url": "https://pagesix.com/2026/04/04/entertainment/kylie-kelce-ripped-by-fans-for-groaning-about-questions-on-travis-and-taylor-swifts-wedding",
-          "published_at": "2026-04-04T16:50:12+00:00",
-          "title_hash": "4cd8b9928bc229375401ce59e93ced17c6187462c793d6f11b33861d36db8e17",
-          "keywords": [
-            "kylie",
-            "kelce",
-            "ripped",
-            "fans",
-            "groaning",
-            "about"
-          ]
-        },
-        {
-          "stable_key": "7e0aeb66a3e6db513a58a29f55cd1c2055ef0042c319d7d40039744f22c1cf11",
-          "source_key": "nypost-feed",
-          "source_name": "New York Post Feed",
-          "category": "us-politics",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "정치",
-          "language": "en",
-          "title": "Trump blasts LA homeless agency’s ‘abysmal record’ in plan to slash nearly $400M in federal funds",
-          "canonical_url": "https://nypost.com/2026/04/04/us-news/trump-blasts-la-homeless-agencys-abysmal-record-in-plan-to-slash-nearly-400m-in-federal-funds",
-          "published_at": "2026-04-04T16:50:11+00:00",
-          "title_hash": "6290662c9e836ee2f1c3093bfb10bd23821025b2906e2b3e99a1e146a6ac862d",
-          "keywords": [
-            "trump",
-            "blasts",
-            "la",
-            "homeless",
-            "agency",
-            "abysmal"
-          ]
-        },
-        {
-          "stable_key": "5cf5cf220bbf324a4f854742d6a5cbf14922e2ea1c8ad01aab994bf4742d7fb6",
-          "source_key": "thehill-feed",
-          "source_name": "The Hill Feed",
-          "category": "us-politics",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "정치",
-          "language": "en",
-          "title": "Graham backs Trump’s Iran ultimatum as deadline approaches: ‘Choose wisely’",
-          "canonical_url": "https://thehill.com/homenews/senate/5816309-graham-backs-trump-iran-threats",
-          "published_at": "2026-04-04T16:47:33+00:00",
-          "title_hash": "6af92c921748251b3ccd405cc41c65bbcccfd2a73819f9d3119329dd76dc4abd",
-          "keywords": [
-            "graham",
-            "backs",
-            "trump",
-            "iran",
-            "ultimatum",
-            "deadline"
-          ]
-        },
-        {
-          "stable_key": "5431222bea70aec0805f10ea34739a3f0dcb17c69e980e1145c80a23bfc66b86",
-          "source_key": "coindesk-rss",
-          "source_name": "CoinDesk",
-          "category": "crypto",
-          "hub": "global",
-          "hub_label": "글로벌 전문",
-          "section_label": "코인",
-          "language": "en",
-          "title": "Ex-UK Chancellor backs bitcoin as alternative to failing systems",
-          "canonical_url": "https://www.coindesk.com/markets/2026/04/03/ex-uk-chancellor-backs-bitcoin-as-alternative-to-failing-systems",
-          "published_at": "2026-04-04T16:44:48+00:00",
-          "title_hash": "f09481c637457a23b980ed0e99d81ca9efceeaaca2c9fbe2a55494a4e48eefe1",
-          "keywords": [
-            "ex",
-            "uk",
-            "chancellor",
-            "backs",
-            "bitcoin",
-            "alternative"
-          ]
-        },
-        {
-          "stable_key": "6604241650963dc00368adf934c79a152cc3e309afdbf7105b44712856b1d432",
-          "source_key": "nypost-feed",
-          "source_name": "New York Post Feed",
-          "category": "us-world",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "세계",
-          "language": "en",
-          "title": "Cleanest cruise lines in the world revealed — plus who notched up worst for the grossest reason",
-          "canonical_url": "https://nypost.com/2026/04/04/lifestyle/cleanest-cruise-lines-in-the-world-revealed-but-who-topped-the-list-for-the-most-norovirus-outbreaks",
-          "published_at": "2026-04-04T16:44:16+00:00",
-          "title_hash": "7867b3dda6a302bb96cced48f811353e823378e6848122ebd5d432a6945df995",
-          "keywords": [
-            "cleanest",
-            "cruise",
-            "lines",
-            "world",
-            "revealed",
-            "plus"
-          ]
-        },
-        {
-          "stable_key": "a138e88a12bd9c14b383fbfb7f413aab77d6a1dccb210eebceb10d8a51e3e60b",
-          "source_key": "nyt-world-rss",
-          "source_name": "New York Times World",
-          "category": "us-world",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "세계",
-          "language": "en",
-          "title": "U.S. Fighter Jet Downed Over Iran Was Probably Based at R.A.F. Lakenheath, U.K. Airfield",
-          "canonical_url": "https://www.nytimes.com/2026/04/04/world/middleeast/iran-war-fighter-jet-f15-raf-lakenheath.html",
-          "published_at": "2026-04-04T16:43:42+00:00",
-          "title_hash": "fe47f9154311b37c0583e9323232d310c8075ba2c7ec3879af5248b51f1d7b81",
-          "keywords": [
-            "fighter",
-            "jet",
-            "downed",
-            "over",
-            "iran",
-            "probably"
-          ]
         }
       ]
     },
     "30d": {
       "label": "30d",
-      "article_count": 3883,
+      "article_count": 3903,
       "unknown_time_count": 0,
       "active_source_count": 102,
-      "repeated_title_count": 253,
+      "repeated_title_count": 254,
       "timeline": [
         {
           "date": "2026-03-05",
@@ -2344,21 +2344,21 @@
         },
         {
           "date": "2026-04-02",
-          "count": 610
+          "count": 611
         },
         {
           "date": "2026-04-03",
-          "count": 1377
+          "count": 1378
         },
         {
           "date": "2026-04-04",
-          "count": 860
+          "count": 878
         }
       ],
       "top_keywords": [
         {
           "keyword": "trump",
-          "count": 438
+          "count": 439
         },
         {
           "keyword": "iran",
@@ -2369,20 +2369,20 @@
           "count": 130
         },
         {
+          "keyword": "new",
+          "count": 94
+        },
+        {
           "keyword": "us",
           "count": 93
         },
         {
-          "keyword": "new",
-          "count": 92
-        },
-        {
           "keyword": "ai",
-          "count": 79
+          "count": 80
         },
         {
           "keyword": "after",
-          "count": 78
+          "count": 79
         },
         {
           "keyword": "how",
@@ -2402,7 +2402,7 @@
         },
         {
           "keyword": "about",
-          "count": 56
+          "count": 57
         }
       ],
       "top_sources": [
@@ -2452,13 +2452,13 @@
           "count": 94
         },
         {
-          "source_key": "asiae-politics-rss",
-          "name": "Asiae Politics",
-          "count": 82
-        },
-        {
           "source_key": "yahoo-news-rss",
           "name": "Yahoo News RSS",
+          "count": 85
+        },
+        {
+          "source_key": "asiae-politics-rss",
+          "name": "Asiae Politics",
           "count": 82
         },
         {
@@ -2471,7 +2471,7 @@
         {
           "key": "us",
           "label": "미국",
-          "count": 2448
+          "count": 2468
         },
         {
           "key": "kr",
@@ -2490,28 +2490,28 @@
           "label": "정치",
           "hub": "us",
           "hub_label": "미국",
-          "count": 875
+          "count": 881
         },
         {
           "key": "us-technology",
           "label": "기술",
           "hub": "us",
           "hub_label": "미국",
-          "count": 611
+          "count": 617
         },
         {
           "key": "us-world",
           "label": "세계",
           "hub": "us",
           "hub_label": "미국",
-          "count": 432
+          "count": 433
         },
         {
           "key": "us-economy",
           "label": "경제",
           "hub": "us",
           "hub_label": "미국",
-          "count": 321
+          "count": 323
         },
         {
           "key": "kr-economy",
@@ -2546,7 +2546,7 @@
           "label": "시장",
           "hub": "us",
           "hub_label": "미국",
-          "count": 209
+          "count": 214
         },
         {
           "key": "kr-sports",
@@ -2573,7 +2573,7 @@
       "language_counts": [
         {
           "language": "en",
-          "count": 2572
+          "count": 2592
         },
         {
           "language": "ko",
@@ -2808,6 +2808,314 @@
           ]
         },
         {
+          "stable_key": "d22f1cfd1ed68df67cbbe9d5c7eab682d1aab74cb97cfab572fb25e39871f391",
+          "source_key": "verge-rss",
+          "source_name": "The Verge RSS",
+          "category": "us-technology",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "기술",
+          "language": "en",
+          "title": "A folk musician became a target for AI fakes and a copyright troll",
+          "canonical_url": "https://www.theverge.com/entertainment/907111/murphy-campbell-folk-music-ai-copyright",
+          "published_at": "2026-04-04T17:52:10+00:00",
+          "title_hash": "8ef9c977843a6df2ba3432fae228909dece74ea0a3d1793ff6537b0f2b0c958e",
+          "keywords": [
+            "folk",
+            "musician",
+            "became",
+            "target",
+            "ai",
+            "fakes"
+          ]
+        },
+        {
+          "stable_key": "121ea95a4019007043883aff9dfa6ea509e191dd9acb7ed44b45ff73bd013c91",
+          "source_key": "nypost-feed",
+          "source_name": "New York Post Feed",
+          "category": "us-markets",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "시장",
+          "language": "en",
+          "title": "Fresh humiliation for Chairman Xi Jinping as new Xiong’an megacity stalls: ‘Well behind’",
+          "canonical_url": "https://nypost.com/2026/04/04/world-news/fresh-humiliation-for-chairman-xi-jinping-as-new-xiongan-megacity-stalls",
+          "published_at": "2026-04-04T17:47:01+00:00",
+          "title_hash": "002a917eb2996cc1ce2b319a769568175052c4e5a9a31cb2530e9a0810880eb1",
+          "keywords": [
+            "fresh",
+            "humiliation",
+            "chairman",
+            "xi",
+            "jinping",
+            "new"
+          ]
+        },
+        {
+          "stable_key": "5e734b57ba517acb87234ccec8b253b1c37fe3cb81cba976eb46196dcf2a91ce",
+          "source_key": "washingtonexaminer-feed",
+          "source_name": "Washington Examiner Feed",
+          "category": "us-politics",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "정치",
+          "language": "en",
+          "title": "Rubio deports Iranian Gen. Soleimani’s niece over support for terrorism",
+          "canonical_url": "https://www.washingtonexaminer.com/policy/immigration/4516321/rubio-deport-iran-soleimani-niece-support-terrorism",
+          "published_at": "2026-04-04T17:45:46+00:00",
+          "title_hash": "f8970433a6a8f3adb1ac338c3dbf7dfd212d2edc648ac80d986528f70048f5ad",
+          "keywords": [
+            "rubio",
+            "deports",
+            "iranian",
+            "gen",
+            "soleimani",
+            "niece"
+          ]
+        },
+        {
+          "stable_key": "15a11e100f6d2824062b3d51ff40ec760c6809685db137c3ee49ec6cd14ddcdc",
+          "source_key": "nypost-feed",
+          "source_name": "New York Post Feed",
+          "category": "us-politics",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "정치",
+          "language": "en",
+          "title": "Gavin Newsom to spend $19M in taxpayer funds on New York PR firm to polish California’s image",
+          "canonical_url": "https://nypost.com/2026/04/04/us-news/gavin-newsom-to-spend-19m-in-taxpayer-funds-on-new-york-pr-firm-to-help-polish-californias-image",
+          "published_at": "2026-04-04T17:42:39+00:00",
+          "title_hash": "0dcb6f618a7097de17287d32051e4b3195e94877d1421e9017e7f7dbf7445ee5",
+          "keywords": [
+            "gavin",
+            "newsom",
+            "spend",
+            "19m",
+            "taxpayer",
+            "funds"
+          ]
+        },
+        {
+          "stable_key": "b607205687a0420374044cb81b0030f699a111cb966e5b5ae83d490b8aad304d",
+          "source_key": "forbes-innovation-rss",
+          "source_name": "Forbes Innovation",
+          "category": "us-technology",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "기술",
+          "language": "en",
+          "title": "NYT Connections Hints Today: Sunday, April 5 Clues And Answers (#1029)",
+          "canonical_url": "https://www.forbes.com/sites/erikkain/2026/04/04/nyt-connections-sunday-april-5-answers",
+          "published_at": "2026-04-04T17:41:35+00:00",
+          "title_hash": "5300790d32f5768ba28c16e716a7f170e962ddaadf48522ad4f527d02f5ed87f",
+          "keywords": [
+            "nyt",
+            "connections",
+            "hints",
+            "today",
+            "sunday",
+            "april"
+          ]
+        },
+        {
+          "stable_key": "39e8b53713725df1570b3d864466c71be3057ebc453ff8bbe12599599053b881",
+          "source_key": "forbes-business-rss",
+          "source_name": "Forbes Business",
+          "category": "us-economy",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "경제",
+          "language": "en",
+          "title": "NYT Connections Hints Today: Sunday, April 5 Clues And Answers (#1029)",
+          "canonical_url": "https://www.forbes.com/sites/erikkain/2026/04/04/nyt-connections-sunday-april-5-answers",
+          "published_at": "2026-04-04T17:41:35+00:00",
+          "title_hash": "5300790d32f5768ba28c16e716a7f170e962ddaadf48522ad4f527d02f5ed87f",
+          "keywords": [
+            "nyt",
+            "connections",
+            "hints",
+            "today",
+            "sunday",
+            "april"
+          ]
+        },
+        {
+          "stable_key": "e095270704c173a7a9d0c972d8ae7cf66df06391f8d03bbdd112f0827bde314d",
+          "source_key": "nypost-feed",
+          "source_name": "New York Post Feed",
+          "category": "us-politics",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "정치",
+          "language": "en",
+          "title": "Bucks investigated for Giannis Antetokounmpo injury shenanigans — as ex-MVP hints at frayed relationship",
+          "canonical_url": "https://nypost.com/2026/04/04/sports/bucks-under-nba-investigation-for-giannis-antetokounmpo-tanking-shenanigans",
+          "published_at": "2026-04-04T17:40:36+00:00",
+          "title_hash": "b67a39cb3845e3cd66d68b834bcab7b943e705c97d61ba781d5daad88ea279bc",
+          "keywords": [
+            "bucks",
+            "investigated",
+            "giannis",
+            "antetokounmpo",
+            "injury",
+            "shenanigans"
+          ]
+        },
+        {
+          "stable_key": "8f5a1a179c4274c5eac618e313f257e3a0cb4122b06d9a55b222a749c7941c54",
+          "source_key": "fox-politics-rss",
+          "source_name": "Fox News Politics",
+          "category": "us-politics",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "정치",
+          "language": "en",
+          "title": "ICE arrests relatives of slain Iranian general Soleimani living in US after Rubio revokes their green cards",
+          "canonical_url": "https://www.foxnews.com/politics/ice-arrests-relatives-slain-iranian-general-soleimani-living-us-rubio-revokes-green-cards",
+          "published_at": "2026-04-04T17:38:47+00:00",
+          "title_hash": "5c622d2ca6e8e3372cfb8006766709dccfcfc93b76734e5e53a9163e3d45ca79",
+          "keywords": [
+            "ice",
+            "arrests",
+            "relatives",
+            "slain",
+            "iranian",
+            "general"
+          ]
+        },
+        {
+          "stable_key": "d96244ad5cc2a20946d1c2d28f0559b5ab13c74be7ef0e28e5695331f830bc7f",
+          "source_key": "forbes-innovation-rss",
+          "source_name": "Forbes Innovation",
+          "category": "us-technology",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "기술",
+          "language": "en",
+          "title": "Mysterious Samsung Galaxy S26 Model Revealed",
+          "canonical_url": "https://www.forbes.com/sites/ewanspence/2026/04/04/samsung-galaxy-s26-128gb-enterprise-edition-specs-price",
+          "published_at": "2026-04-04T17:33:51+00:00",
+          "title_hash": "3bcd9e3331df0c6026f4dc8dc65de1864e411e7fa3aae59fd2357f5fe104665c",
+          "keywords": [
+            "mysterious",
+            "samsung",
+            "galaxy",
+            "s26",
+            "model",
+            "revealed"
+          ]
+        },
+        {
+          "stable_key": "1c3e83a7fb4a8fd0d2a69b47dcd0a0014c4b6eb770bfae3707b15663c5a11650",
+          "source_key": "nypost-feed",
+          "source_name": "New York Post Feed",
+          "category": "us-markets",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "시장",
+          "language": "en",
+          "title": "After troubled offseason, Puka Nacua taking the right steps towards change",
+          "canonical_url": "https://nypost.com/2026/04/04/sports/rams-wr-puka-nacua-in-rehab-after-troubled-offseason",
+          "published_at": "2026-04-04T17:31:13+00:00",
+          "title_hash": "2b83b8add03937a8b81b2ff9d36b02ca51ebac3432e7262336a7e847930278d9",
+          "keywords": [
+            "after",
+            "troubled",
+            "offseason",
+            "puka",
+            "nacua",
+            "taking"
+          ]
+        },
+        {
+          "stable_key": "949c78c4fb03624c0a2b10babf43c53e92dc99c122d3c6d657499b71da1f4bc1",
+          "source_key": "newsweek-feed",
+          "source_name": "Newsweek Feed",
+          "category": "us-technology",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "기술",
+          "language": "en",
+          "title": "Michigan vs. Arizona Betting Odds, Player Props, Best Bets Against The Spread",
+          "canonical_url": "https://www.newsweek.com/sports/betting/michigan-vs-arizona-betting-odds-player-props-best-bets-against-the-spread-11782958",
+          "published_at": "2026-04-04T17:31:01+00:00",
+          "title_hash": "074d9f5e5d543e8c0a211f57639072598c30465d27ff3f3ad47d14e52d4099e7",
+          "keywords": [
+            "michigan",
+            "vs",
+            "arizona",
+            "betting",
+            "odds",
+            "player"
+          ]
+        },
+        {
+          "stable_key": "3618b8b618fda5ff0982425086d53d7f794d24bd01ee8c7bbb166e8a3a7d4d6d",
+          "source_key": "newsweek-feed",
+          "source_name": "Newsweek Feed",
+          "category": "us-markets",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "시장",
+          "language": "en",
+          "title": "Pirates&#039; Konnor Griffin Shares Message About Unforgettable Debut",
+          "canonical_url": "https://www.newsweek.com/pirates-konnor-griffin-shares-message-about-unforgettable-debut-11783141",
+          "published_at": "2026-04-04T17:29:17+00:00",
+          "title_hash": "66dd6809f3ba56df926031131a80e51f0a3d4594fa592ed6d6b8873563d715e3",
+          "keywords": [
+            "pirates",
+            "konnor",
+            "griffin",
+            "shares",
+            "message",
+            "about"
+          ]
+        },
+        {
+          "stable_key": "cf7f8b40eea56f1422bc31919c6e83a63683bf6e10d35cb1b37e0989e74650d4",
+          "source_key": "newsweek-feed",
+          "source_name": "Newsweek Feed",
+          "category": "us-world",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "세계",
+          "language": "en",
+          "title": "Mets Add Former World Series Champion on Minors Deal: Report",
+          "canonical_url": "https://www.newsweek.com/mets-add-former-world-series-champion-on-minors-deal-report-11783002",
+          "published_at": "2026-04-04T17:27:55+00:00",
+          "title_hash": "65073ef8b57a19142e17de5f03375ae1d1903ab3bd443b3ef9dc3dae8c539bee",
+          "keywords": [
+            "mets",
+            "add",
+            "former",
+            "world",
+            "series",
+            "champion"
+          ]
+        },
+        {
+          "stable_key": "6698cd1ab8ceab3d8e2263665c6b39eee1edfdba891dcc2db459524fbf21ab70",
+          "source_key": "newsweek-feed",
+          "source_name": "Newsweek Feed",
+          "category": "us-technology",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "기술",
+          "language": "en",
+          "title": "Jeremiyah Love Draws Concerning Comparison Ahead of NFL Draft",
+          "canonical_url": "https://www.newsweek.com/sports/nfl/jeremiyah-love-draws-concerning-comparison-ahead-of-nfl-draft-11783294",
+          "published_at": "2026-04-04T17:27:09+00:00",
+          "title_hash": "ce4a198561da69bf2d09de520eae736c96741908220bc141688d5ba3c13e537d",
+          "keywords": [
+            "jeremiyah",
+            "love",
+            "draws",
+            "concerning",
+            "comparison",
+            "ahead"
+          ]
+        },
+        {
           "stable_key": "fec45a9d652faec5819a0ed61c7adb18f1b1e5f8fe1ab1559dd1195d37c7d0e5",
           "source_key": "newsweek-feed",
           "source_name": "Newsweek Feed",
@@ -2827,6 +3135,28 @@
             "blames",
             "downing",
             "iran"
+          ]
+        },
+        {
+          "stable_key": "6a7980e9bda41fee2c66836e22eea72cc2dba57ce9fd8d0470fd6a50c1a4d687",
+          "source_key": "yahoo-news-rss",
+          "source_name": "Yahoo News RSS",
+          "category": "us-markets",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "시장",
+          "language": "en",
+          "title": "The Case for Owning a Broad Market ETF Instead of Picking Stocks",
+          "canonical_url": "https://finance.yahoo.com/markets/stocks/articles/case-owning-broad-market-etf-172000995.html",
+          "published_at": "2026-04-04T17:20:00+00:00",
+          "title_hash": "ed63b344f66fb1f2c4856acadb40c7c68422d82212e30de339b90ea1a13d4c6c",
+          "keywords": [
+            "case",
+            "owning",
+            "broad",
+            "market",
+            "etf",
+            "instead"
           ]
         },
         {
@@ -2871,6 +3201,28 @@
             "troubling",
             "after",
             "exiting"
+          ]
+        },
+        {
+          "stable_key": "1c996983896989d2c0f57de94c795964b49c3a81cce224dcae42cb2d79593c4c",
+          "source_key": "bloomberg-politics-rss",
+          "source_name": "Bloomberg Politics",
+          "category": "us-politics",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "정치",
+          "language": "en",
+          "title": "Peru’s Presidential Front-Runners Shift With Election Days Away",
+          "canonical_url": "https://www.bloomberg.com/news/articles/2026-04-04/peru-s-presidential-front-runners-shift-with-election-days-away",
+          "published_at": "2026-04-04T17:16:16+00:00",
+          "title_hash": "d8642e27292ee3dddfb19d42860fe60d27f47296901392622fcb8f977e9a0dee",
+          "keywords": [
+            "peru",
+            "presidential",
+            "front",
+            "runners",
+            "shift",
+            "election"
           ]
         },
         {
@@ -2984,6 +3336,28 @@
           ]
         },
         {
+          "stable_key": "09bbe9f9c4fb2e0cfa0b2503a0b0f3dee69db3752556f468491b5efd28d5d81a",
+          "source_key": "fortune-feed",
+          "source_name": "Fortune Feed",
+          "category": "us-economy",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "경제",
+          "language": "en",
+          "title": "The economy can shed jobs and still keep the labor market balanced, as Trump’s immigration crackdown turns breakeven hiring negative",
+          "canonical_url": "https://fortune.com/2026/04/04/breakeven-hiring-negative-job-market-unemployment-rate-trump-immigration-crackdown",
+          "published_at": "2026-04-04T17:11:23+00:00",
+          "title_hash": "18aaf8be58576f88904d0f2f2357fbf5a75e430807f1745619ca4a23a2e611b4",
+          "keywords": [
+            "economy",
+            "can",
+            "shed",
+            "jobs",
+            "still",
+            "keep"
+          ]
+        },
+        {
           "stable_key": "f2c95f14c3dfc09c8e1d0e372a750e7e24b9dcd7da73a018f16e9e7f89b6bea2",
           "source_key": "motherjones-feed",
           "source_name": "Mother Jones Feed",
@@ -3048,389 +3422,15 @@
             "soleimani",
             "relatives"
           ]
-        },
-        {
-          "stable_key": "53fffb60b80d071af3a7db3d09194381773effff71f6af4614a36cbb4b0fb1eb",
-          "source_key": "thehill-feed",
-          "source_name": "The Hill Feed",
-          "category": "us-politics",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "정치",
-          "language": "en",
-          "title": "Trump crossed an oily line of state sovereignty in California — your state is next",
-          "canonical_url": "https://thehill.com/opinion/white-house/5815066-trump-pipeline-order-california",
-          "published_at": "2026-04-04T17:00:00+00:00",
-          "title_hash": "c911c04772daa2bf21aeea60c83b222c1712f04b4f25d9643f409a3ee0319fdd",
-          "keywords": [
-            "trump",
-            "crossed",
-            "oily",
-            "line",
-            "state",
-            "sovereignty"
-          ]
-        },
-        {
-          "stable_key": "8042dd023814788028ea09846fa66d143a85ecede4303afb474fb7ec9f6baae6",
-          "source_key": "bloomberg-politics-rss",
-          "source_name": "Bloomberg Politics",
-          "category": "us-politics",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "정치",
-          "language": "en",
-          "title": "Trump’s Victory Rhetoric Undercut by Downed US Jet in Iran War",
-          "canonical_url": "https://www.bloomberg.com/news/articles/2026-04-04/trump-s-victory-rhetoric-undercut-by-downed-us-jet-in-iran-war",
-          "published_at": "2026-04-04T16:58:53+00:00",
-          "title_hash": "f73bdf8b25f3ffd95bf4fac07441e37dea3af9869912b01726e82613c7a2cb23",
-          "keywords": [
-            "trump",
-            "victory",
-            "rhetoric",
-            "undercut",
-            "downed",
-            "us"
-          ]
-        },
-        {
-          "stable_key": "51e8b6a060d5e652ba0cf4bdb76c94c13fe43ad54ba4b753b923bfb875250c70",
-          "source_key": "salon-feed",
-          "source_name": "Salon Feed",
-          "category": "us-markets",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "시장",
-          "language": "en",
-          "title": "After Bondi’s firing, DOJ portrait swiftly removed and trashed",
-          "canonical_url": "https://www.salon.com/2026/04/04/after-bondis-firing-doj-portrait-swiftly-removed-and-trashed",
-          "published_at": "2026-04-04T16:57:46+00:00",
-          "title_hash": "c3e2c9a0e510bea1c7311d0b6f9a9d58fec9dfe3c493a1492b4864aef5b7a9ed",
-          "keywords": [
-            "after",
-            "bondi",
-            "firing",
-            "doj",
-            "portrait",
-            "swiftly"
-          ]
-        },
-        {
-          "stable_key": "d9b16cc6a05610db3fc19dd1d956daf407477cc9c72d0b88993b92d62dfa78bd",
-          "source_key": "fox-world-rss",
-          "source_name": "Fox News World",
-          "category": "us-world",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "세계",
-          "language": "en",
-          "title": "UK prosecutors charge 3, including dual Pakistani citizen, in arson attack on Jewish ambulances in London",
-          "canonical_url": "https://www.foxnews.com/world/uk-prosecutors-charge-3-including-dual-pakistani-citizen-arson-attack-jewish-ambulances-london",
-          "published_at": "2026-04-04T16:56:37+00:00",
-          "title_hash": "9db177dcd697ab9801a9d261465bc5a2963cab88756d363dbd1f651de3d662cd",
-          "keywords": [
-            "uk",
-            "prosecutors",
-            "charge",
-            "including",
-            "dual",
-            "pakistani"
-          ]
-        },
-        {
-          "stable_key": "287dc6163392f5764dfb9b4e9efeac841e28fc5237c43856ffd76f165e21ea38",
-          "source_key": "nypost-feed",
-          "source_name": "New York Post Feed",
-          "category": "us-world",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "세계",
-          "language": "en",
-          "title": "How Haley and Hanna Cavinder ‘struck while iron was hot’ to create expansive business empire after NIL fame",
-          "canonical_url": "https://nypost.com/2026/04/04/sports/how-haley-and-hanna-cavinder-struck-while-iron-was-hot-to-create-expansive-business-empire-after-nil-fame",
-          "published_at": "2026-04-04T16:56:32+00:00",
-          "title_hash": "b134e5e42e505a3eb1b53155aa68695c4a73623783edab0e663a3f3e24738e35",
-          "keywords": [
-            "how",
-            "haley",
-            "hanna",
-            "cavinder",
-            "struck",
-            "while"
-          ]
-        },
-        {
-          "stable_key": "64f256760db2897eabfd31f2f4c6aa81d91a073487fa2fe43bc27672f202cd29",
-          "source_key": "telegram-claw-summary",
-          "source_name": "Telegram @clawnewssummary",
-          "category": "military",
-          "hub": "global",
-          "hub_label": "글로벌 전문",
-          "section_label": "군사",
-          "language": "ko",
-          "title": "🚨 [CRITICAL] 호르무즈 해협 알림",
-          "canonical_url": "https://www.aljazeera.com/opinions/2026/4/4/what-the-iran-iraq-war-can-tell-us-about-the-us-israeli-war-on?traffic_source=rss",
-          "published_at": "2026-04-04T16:56:04+00:00",
-          "title_hash": "1ba172554ef1c7fcb4ab3d83322e6f471392708251d575eb55dfe385f79a6b1c",
-          "keywords": [
-            "critical",
-            "호르무즈",
-            "해협",
-            "알림",
-            "critical 호르무즈",
-            "호르무즈 해협"
-          ]
-        },
-        {
-          "stable_key": "431a3a600ab1d505cef1c123c32b5a3b7464c2728373ee58e7804f1f240398ed",
-          "source_key": "forbes-business-rss",
-          "source_name": "Forbes Business",
-          "category": "us-economy",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "경제",
-          "language": "en",
-          "title": "‘Super Mario Galaxy Movie’ Makes $48 Million On Friday—En Route To Strong Opening Weekend",
-          "canonical_url": "https://www.forbes.com/sites/conormurray/2026/04/04/super-mario-galaxy-movie-makes-48-million-on-friday-en-route-to-strong-opening-weekend",
-          "published_at": "2026-04-04T16:55:40+00:00",
-          "title_hash": "82665d30b067dfbab80ef1bee3356b25db0b72b70d8db9a4124e71a3ecfcddf9",
-          "keywords": [
-            "super",
-            "mario",
-            "galaxy",
-            "movie",
-            "makes",
-            "million"
-          ]
-        },
-        {
-          "stable_key": "cabfd47589664a5d21411f305260823ce45ef3e8202c5363d95665a0585c838f",
-          "source_key": "nypost-feed",
-          "source_name": "New York Post Feed",
-          "category": "us-markets",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "시장",
-          "language": "en",
-          "title": "Caleb Downs isn’t shy about his ‘all-time great’ ceiling in candid conversation with The Post before NFL draft",
-          "canonical_url": "https://nypost.com/2026/04/04/sports/caleb-downs-isnt-shy-about-his-nfl-ceiling-before-draft",
-          "published_at": "2026-04-04T16:54:43+00:00",
-          "title_hash": "f015229ba337151bbc3f80eba2984955ad533462931aedd9462702739f7eed4a",
-          "keywords": [
-            "caleb",
-            "downs",
-            "isn",
-            "shy",
-            "about",
-            "his"
-          ]
-        },
-        {
-          "stable_key": "8d70c77d7193d89fd31b5330eb542d1c108653573f6b00552ad80fb625519ee4",
-          "source_key": "nypost-feed",
-          "source_name": "New York Post Feed",
-          "category": "us-world",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "세계",
-          "language": "en",
-          "title": "Artemis II astronauts are more than halfway to the moon as they seek to break Apollo 13’s record",
-          "canonical_url": "https://nypost.com/2026/04/04/world-news/artemis-ii-astronauts-are-more-than-halfway-to-the-moon-as-they-seek-to-break-apollo-13s-record",
-          "published_at": "2026-04-04T16:54:30+00:00",
-          "title_hash": "c06ddb6ed2f9c1aa79a3134f5bfcdc2b522ce8c2c4816ab035684091ef3859a0",
-          "keywords": [
-            "artemis",
-            "ii",
-            "astronauts",
-            "more",
-            "than",
-            "halfway"
-          ]
-        },
-        {
-          "stable_key": "1b00430e1f74805b23007c6f686a930f67f5d87cccbadb8a517851a4a05c5bc7",
-          "source_key": "nypost-feed",
-          "source_name": "New York Post Feed",
-          "category": "us-markets",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "시장",
-          "language": "en",
-          "title": "Artist fumes after tribute honoring slain Iryna Zarutska gets scrubbed amid woke blowback",
-          "canonical_url": "https://nypost.com/2026/04/04/us-news/artist-fumes-after-tribute-honoring-slain-iryna-zarutska-gets-scrubbed-amid-woke-blowback",
-          "published_at": "2026-04-04T16:54:03+00:00",
-          "title_hash": "7d113e258e7d9617dffc36c08e25d51e1cffb1adc2b8d9b600b7e3106ba74ef3",
-          "keywords": [
-            "artist",
-            "fumes",
-            "after",
-            "tribute",
-            "honoring",
-            "slain"
-          ]
-        },
-        {
-          "stable_key": "90f0ed8cf5d9247a74558b67c8f4b3cedc228aa50e4036f9ed4bc0d07c19df3f",
-          "source_key": "newsweek-feed",
-          "source_name": "Newsweek Feed",
-          "category": "us-technology",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "기술",
-          "language": "en",
-          "title": "IRS Issues ‘Act Now’ Tax Refund Alert Ahead of Filing Deadline",
-          "canonical_url": "https://www.newsweek.com/irs-tax-refund-alert-filing-deadline-11782850",
-          "published_at": "2026-04-04T16:51:47+00:00",
-          "title_hash": "df5324ec6cc36061ffdc3483f5838523baf31b27ea4dfc9f4fc433ddf4ea1ab8",
-          "keywords": [
-            "irs",
-            "issues",
-            "act",
-            "now",
-            "tax",
-            "refund"
-          ]
-        },
-        {
-          "stable_key": "f62eb172f3b834283704825e64793dfafe3efeddd56e2585a03583f1c62b0d5b",
-          "source_key": "nypost-feed",
-          "source_name": "New York Post Feed",
-          "category": "us-technology",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "기술",
-          "language": "en",
-          "title": "Kylie Kelce ripped by fans for groaning about questions on Travis and Taylor Swift’s wedding",
-          "canonical_url": "https://pagesix.com/2026/04/04/entertainment/kylie-kelce-ripped-by-fans-for-groaning-about-questions-on-travis-and-taylor-swifts-wedding",
-          "published_at": "2026-04-04T16:50:12+00:00",
-          "title_hash": "4cd8b9928bc229375401ce59e93ced17c6187462c793d6f11b33861d36db8e17",
-          "keywords": [
-            "kylie",
-            "kelce",
-            "ripped",
-            "fans",
-            "groaning",
-            "about"
-          ]
-        },
-        {
-          "stable_key": "7e0aeb66a3e6db513a58a29f55cd1c2055ef0042c319d7d40039744f22c1cf11",
-          "source_key": "nypost-feed",
-          "source_name": "New York Post Feed",
-          "category": "us-politics",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "정치",
-          "language": "en",
-          "title": "Trump blasts LA homeless agency’s ‘abysmal record’ in plan to slash nearly $400M in federal funds",
-          "canonical_url": "https://nypost.com/2026/04/04/us-news/trump-blasts-la-homeless-agencys-abysmal-record-in-plan-to-slash-nearly-400m-in-federal-funds",
-          "published_at": "2026-04-04T16:50:11+00:00",
-          "title_hash": "6290662c9e836ee2f1c3093bfb10bd23821025b2906e2b3e99a1e146a6ac862d",
-          "keywords": [
-            "trump",
-            "blasts",
-            "la",
-            "homeless",
-            "agency",
-            "abysmal"
-          ]
-        },
-        {
-          "stable_key": "5cf5cf220bbf324a4f854742d6a5cbf14922e2ea1c8ad01aab994bf4742d7fb6",
-          "source_key": "thehill-feed",
-          "source_name": "The Hill Feed",
-          "category": "us-politics",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "정치",
-          "language": "en",
-          "title": "Graham backs Trump’s Iran ultimatum as deadline approaches: ‘Choose wisely’",
-          "canonical_url": "https://thehill.com/homenews/senate/5816309-graham-backs-trump-iran-threats",
-          "published_at": "2026-04-04T16:47:33+00:00",
-          "title_hash": "6af92c921748251b3ccd405cc41c65bbcccfd2a73819f9d3119329dd76dc4abd",
-          "keywords": [
-            "graham",
-            "backs",
-            "trump",
-            "iran",
-            "ultimatum",
-            "deadline"
-          ]
-        },
-        {
-          "stable_key": "5431222bea70aec0805f10ea34739a3f0dcb17c69e980e1145c80a23bfc66b86",
-          "source_key": "coindesk-rss",
-          "source_name": "CoinDesk",
-          "category": "crypto",
-          "hub": "global",
-          "hub_label": "글로벌 전문",
-          "section_label": "코인",
-          "language": "en",
-          "title": "Ex-UK Chancellor backs bitcoin as alternative to failing systems",
-          "canonical_url": "https://www.coindesk.com/markets/2026/04/03/ex-uk-chancellor-backs-bitcoin-as-alternative-to-failing-systems",
-          "published_at": "2026-04-04T16:44:48+00:00",
-          "title_hash": "f09481c637457a23b980ed0e99d81ca9efceeaaca2c9fbe2a55494a4e48eefe1",
-          "keywords": [
-            "ex",
-            "uk",
-            "chancellor",
-            "backs",
-            "bitcoin",
-            "alternative"
-          ]
-        },
-        {
-          "stable_key": "6604241650963dc00368adf934c79a152cc3e309afdbf7105b44712856b1d432",
-          "source_key": "nypost-feed",
-          "source_name": "New York Post Feed",
-          "category": "us-world",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "세계",
-          "language": "en",
-          "title": "Cleanest cruise lines in the world revealed — plus who notched up worst for the grossest reason",
-          "canonical_url": "https://nypost.com/2026/04/04/lifestyle/cleanest-cruise-lines-in-the-world-revealed-but-who-topped-the-list-for-the-most-norovirus-outbreaks",
-          "published_at": "2026-04-04T16:44:16+00:00",
-          "title_hash": "7867b3dda6a302bb96cced48f811353e823378e6848122ebd5d432a6945df995",
-          "keywords": [
-            "cleanest",
-            "cruise",
-            "lines",
-            "world",
-            "revealed",
-            "plus"
-          ]
-        },
-        {
-          "stable_key": "a138e88a12bd9c14b383fbfb7f413aab77d6a1dccb210eebceb10d8a51e3e60b",
-          "source_key": "nyt-world-rss",
-          "source_name": "New York Times World",
-          "category": "us-world",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "세계",
-          "language": "en",
-          "title": "U.S. Fighter Jet Downed Over Iran Was Probably Based at R.A.F. Lakenheath, U.K. Airfield",
-          "canonical_url": "https://www.nytimes.com/2026/04/04/world/middleeast/iran-war-fighter-jet-f15-raf-lakenheath.html",
-          "published_at": "2026-04-04T16:43:42+00:00",
-          "title_hash": "fe47f9154311b37c0583e9323232d310c8075ba2c7ec3879af5248b51f1d7b81",
-          "keywords": [
-            "fighter",
-            "jet",
-            "downed",
-            "over",
-            "iran",
-            "probably"
-          ]
         }
       ]
     },
     "90d": {
       "label": "90d",
-      "article_count": 3970,
+      "article_count": 3990,
       "unknown_time_count": 0,
       "active_source_count": 102,
-      "repeated_title_count": 255,
+      "repeated_title_count": 256,
       "timeline": [
         {
           "date": "2026-01-07",
@@ -3694,21 +3694,21 @@
         },
         {
           "date": "2026-04-02",
-          "count": 610
+          "count": 611
         },
         {
           "date": "2026-04-03",
-          "count": 1377
+          "count": 1378
         },
         {
           "date": "2026-04-04",
-          "count": 860
+          "count": 878
         }
       ],
       "top_keywords": [
         {
           "keyword": "trump",
-          "count": 440
+          "count": 441
         },
         {
           "keyword": "iran",
@@ -3720,7 +3720,7 @@
         },
         {
           "keyword": "new",
-          "count": 96
+          "count": 98
         },
         {
           "keyword": "us",
@@ -3728,7 +3728,7 @@
         },
         {
           "keyword": "ai",
-          "count": 88
+          "count": 89
         },
         {
           "keyword": "how",
@@ -3736,7 +3736,7 @@
         },
         {
           "keyword": "after",
-          "count": 79
+          "count": 80
         },
         {
           "keyword": "what",
@@ -3807,13 +3807,13 @@
           "count": 88
         },
         {
-          "source_key": "asiae-politics-rss",
-          "name": "Asiae Politics",
-          "count": 82
-        },
-        {
           "source_key": "yahoo-news-rss",
           "name": "Yahoo News RSS",
+          "count": 85
+        },
+        {
+          "source_key": "asiae-politics-rss",
+          "name": "Asiae Politics",
           "count": 82
         }
       ],
@@ -3821,7 +3821,7 @@
         {
           "key": "us",
           "label": "미국",
-          "count": 2532
+          "count": 2552
         },
         {
           "key": "kr",
@@ -3840,28 +3840,28 @@
           "label": "정치",
           "hub": "us",
           "hub_label": "미국",
-          "count": 875
+          "count": 881
         },
         {
           "key": "us-technology",
           "label": "기술",
           "hub": "us",
           "hub_label": "미국",
-          "count": 671
+          "count": 677
         },
         {
           "key": "us-world",
           "label": "세계",
           "hub": "us",
           "hub_label": "미국",
-          "count": 433
+          "count": 434
         },
         {
           "key": "us-economy",
           "label": "경제",
           "hub": "us",
           "hub_label": "미국",
-          "count": 321
+          "count": 323
         },
         {
           "key": "kr-economy",
@@ -3889,7 +3889,7 @@
           "label": "시장",
           "hub": "us",
           "hub_label": "미국",
-          "count": 232
+          "count": 237
         },
         {
           "key": "kr-culture",
@@ -3923,7 +3923,7 @@
       "language_counts": [
         {
           "language": "en",
-          "count": 2658
+          "count": 2678
         },
         {
           "language": "ko",
@@ -4158,6 +4158,314 @@
           ]
         },
         {
+          "stable_key": "d22f1cfd1ed68df67cbbe9d5c7eab682d1aab74cb97cfab572fb25e39871f391",
+          "source_key": "verge-rss",
+          "source_name": "The Verge RSS",
+          "category": "us-technology",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "기술",
+          "language": "en",
+          "title": "A folk musician became a target for AI fakes and a copyright troll",
+          "canonical_url": "https://www.theverge.com/entertainment/907111/murphy-campbell-folk-music-ai-copyright",
+          "published_at": "2026-04-04T17:52:10+00:00",
+          "title_hash": "8ef9c977843a6df2ba3432fae228909dece74ea0a3d1793ff6537b0f2b0c958e",
+          "keywords": [
+            "folk",
+            "musician",
+            "became",
+            "target",
+            "ai",
+            "fakes"
+          ]
+        },
+        {
+          "stable_key": "121ea95a4019007043883aff9dfa6ea509e191dd9acb7ed44b45ff73bd013c91",
+          "source_key": "nypost-feed",
+          "source_name": "New York Post Feed",
+          "category": "us-markets",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "시장",
+          "language": "en",
+          "title": "Fresh humiliation for Chairman Xi Jinping as new Xiong’an megacity stalls: ‘Well behind’",
+          "canonical_url": "https://nypost.com/2026/04/04/world-news/fresh-humiliation-for-chairman-xi-jinping-as-new-xiongan-megacity-stalls",
+          "published_at": "2026-04-04T17:47:01+00:00",
+          "title_hash": "002a917eb2996cc1ce2b319a769568175052c4e5a9a31cb2530e9a0810880eb1",
+          "keywords": [
+            "fresh",
+            "humiliation",
+            "chairman",
+            "xi",
+            "jinping",
+            "new"
+          ]
+        },
+        {
+          "stable_key": "5e734b57ba517acb87234ccec8b253b1c37fe3cb81cba976eb46196dcf2a91ce",
+          "source_key": "washingtonexaminer-feed",
+          "source_name": "Washington Examiner Feed",
+          "category": "us-politics",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "정치",
+          "language": "en",
+          "title": "Rubio deports Iranian Gen. Soleimani’s niece over support for terrorism",
+          "canonical_url": "https://www.washingtonexaminer.com/policy/immigration/4516321/rubio-deport-iran-soleimani-niece-support-terrorism",
+          "published_at": "2026-04-04T17:45:46+00:00",
+          "title_hash": "f8970433a6a8f3adb1ac338c3dbf7dfd212d2edc648ac80d986528f70048f5ad",
+          "keywords": [
+            "rubio",
+            "deports",
+            "iranian",
+            "gen",
+            "soleimani",
+            "niece"
+          ]
+        },
+        {
+          "stable_key": "15a11e100f6d2824062b3d51ff40ec760c6809685db137c3ee49ec6cd14ddcdc",
+          "source_key": "nypost-feed",
+          "source_name": "New York Post Feed",
+          "category": "us-politics",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "정치",
+          "language": "en",
+          "title": "Gavin Newsom to spend $19M in taxpayer funds on New York PR firm to polish California’s image",
+          "canonical_url": "https://nypost.com/2026/04/04/us-news/gavin-newsom-to-spend-19m-in-taxpayer-funds-on-new-york-pr-firm-to-help-polish-californias-image",
+          "published_at": "2026-04-04T17:42:39+00:00",
+          "title_hash": "0dcb6f618a7097de17287d32051e4b3195e94877d1421e9017e7f7dbf7445ee5",
+          "keywords": [
+            "gavin",
+            "newsom",
+            "spend",
+            "19m",
+            "taxpayer",
+            "funds"
+          ]
+        },
+        {
+          "stable_key": "b607205687a0420374044cb81b0030f699a111cb966e5b5ae83d490b8aad304d",
+          "source_key": "forbes-innovation-rss",
+          "source_name": "Forbes Innovation",
+          "category": "us-technology",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "기술",
+          "language": "en",
+          "title": "NYT Connections Hints Today: Sunday, April 5 Clues And Answers (#1029)",
+          "canonical_url": "https://www.forbes.com/sites/erikkain/2026/04/04/nyt-connections-sunday-april-5-answers",
+          "published_at": "2026-04-04T17:41:35+00:00",
+          "title_hash": "5300790d32f5768ba28c16e716a7f170e962ddaadf48522ad4f527d02f5ed87f",
+          "keywords": [
+            "nyt",
+            "connections",
+            "hints",
+            "today",
+            "sunday",
+            "april"
+          ]
+        },
+        {
+          "stable_key": "39e8b53713725df1570b3d864466c71be3057ebc453ff8bbe12599599053b881",
+          "source_key": "forbes-business-rss",
+          "source_name": "Forbes Business",
+          "category": "us-economy",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "경제",
+          "language": "en",
+          "title": "NYT Connections Hints Today: Sunday, April 5 Clues And Answers (#1029)",
+          "canonical_url": "https://www.forbes.com/sites/erikkain/2026/04/04/nyt-connections-sunday-april-5-answers",
+          "published_at": "2026-04-04T17:41:35+00:00",
+          "title_hash": "5300790d32f5768ba28c16e716a7f170e962ddaadf48522ad4f527d02f5ed87f",
+          "keywords": [
+            "nyt",
+            "connections",
+            "hints",
+            "today",
+            "sunday",
+            "april"
+          ]
+        },
+        {
+          "stable_key": "e095270704c173a7a9d0c972d8ae7cf66df06391f8d03bbdd112f0827bde314d",
+          "source_key": "nypost-feed",
+          "source_name": "New York Post Feed",
+          "category": "us-politics",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "정치",
+          "language": "en",
+          "title": "Bucks investigated for Giannis Antetokounmpo injury shenanigans — as ex-MVP hints at frayed relationship",
+          "canonical_url": "https://nypost.com/2026/04/04/sports/bucks-under-nba-investigation-for-giannis-antetokounmpo-tanking-shenanigans",
+          "published_at": "2026-04-04T17:40:36+00:00",
+          "title_hash": "b67a39cb3845e3cd66d68b834bcab7b943e705c97d61ba781d5daad88ea279bc",
+          "keywords": [
+            "bucks",
+            "investigated",
+            "giannis",
+            "antetokounmpo",
+            "injury",
+            "shenanigans"
+          ]
+        },
+        {
+          "stable_key": "8f5a1a179c4274c5eac618e313f257e3a0cb4122b06d9a55b222a749c7941c54",
+          "source_key": "fox-politics-rss",
+          "source_name": "Fox News Politics",
+          "category": "us-politics",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "정치",
+          "language": "en",
+          "title": "ICE arrests relatives of slain Iranian general Soleimani living in US after Rubio revokes their green cards",
+          "canonical_url": "https://www.foxnews.com/politics/ice-arrests-relatives-slain-iranian-general-soleimani-living-us-rubio-revokes-green-cards",
+          "published_at": "2026-04-04T17:38:47+00:00",
+          "title_hash": "5c622d2ca6e8e3372cfb8006766709dccfcfc93b76734e5e53a9163e3d45ca79",
+          "keywords": [
+            "ice",
+            "arrests",
+            "relatives",
+            "slain",
+            "iranian",
+            "general"
+          ]
+        },
+        {
+          "stable_key": "d96244ad5cc2a20946d1c2d28f0559b5ab13c74be7ef0e28e5695331f830bc7f",
+          "source_key": "forbes-innovation-rss",
+          "source_name": "Forbes Innovation",
+          "category": "us-technology",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "기술",
+          "language": "en",
+          "title": "Mysterious Samsung Galaxy S26 Model Revealed",
+          "canonical_url": "https://www.forbes.com/sites/ewanspence/2026/04/04/samsung-galaxy-s26-128gb-enterprise-edition-specs-price",
+          "published_at": "2026-04-04T17:33:51+00:00",
+          "title_hash": "3bcd9e3331df0c6026f4dc8dc65de1864e411e7fa3aae59fd2357f5fe104665c",
+          "keywords": [
+            "mysterious",
+            "samsung",
+            "galaxy",
+            "s26",
+            "model",
+            "revealed"
+          ]
+        },
+        {
+          "stable_key": "1c3e83a7fb4a8fd0d2a69b47dcd0a0014c4b6eb770bfae3707b15663c5a11650",
+          "source_key": "nypost-feed",
+          "source_name": "New York Post Feed",
+          "category": "us-markets",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "시장",
+          "language": "en",
+          "title": "After troubled offseason, Puka Nacua taking the right steps towards change",
+          "canonical_url": "https://nypost.com/2026/04/04/sports/rams-wr-puka-nacua-in-rehab-after-troubled-offseason",
+          "published_at": "2026-04-04T17:31:13+00:00",
+          "title_hash": "2b83b8add03937a8b81b2ff9d36b02ca51ebac3432e7262336a7e847930278d9",
+          "keywords": [
+            "after",
+            "troubled",
+            "offseason",
+            "puka",
+            "nacua",
+            "taking"
+          ]
+        },
+        {
+          "stable_key": "949c78c4fb03624c0a2b10babf43c53e92dc99c122d3c6d657499b71da1f4bc1",
+          "source_key": "newsweek-feed",
+          "source_name": "Newsweek Feed",
+          "category": "us-technology",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "기술",
+          "language": "en",
+          "title": "Michigan vs. Arizona Betting Odds, Player Props, Best Bets Against The Spread",
+          "canonical_url": "https://www.newsweek.com/sports/betting/michigan-vs-arizona-betting-odds-player-props-best-bets-against-the-spread-11782958",
+          "published_at": "2026-04-04T17:31:01+00:00",
+          "title_hash": "074d9f5e5d543e8c0a211f57639072598c30465d27ff3f3ad47d14e52d4099e7",
+          "keywords": [
+            "michigan",
+            "vs",
+            "arizona",
+            "betting",
+            "odds",
+            "player"
+          ]
+        },
+        {
+          "stable_key": "3618b8b618fda5ff0982425086d53d7f794d24bd01ee8c7bbb166e8a3a7d4d6d",
+          "source_key": "newsweek-feed",
+          "source_name": "Newsweek Feed",
+          "category": "us-markets",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "시장",
+          "language": "en",
+          "title": "Pirates&#039; Konnor Griffin Shares Message About Unforgettable Debut",
+          "canonical_url": "https://www.newsweek.com/pirates-konnor-griffin-shares-message-about-unforgettable-debut-11783141",
+          "published_at": "2026-04-04T17:29:17+00:00",
+          "title_hash": "66dd6809f3ba56df926031131a80e51f0a3d4594fa592ed6d6b8873563d715e3",
+          "keywords": [
+            "pirates",
+            "konnor",
+            "griffin",
+            "shares",
+            "message",
+            "about"
+          ]
+        },
+        {
+          "stable_key": "cf7f8b40eea56f1422bc31919c6e83a63683bf6e10d35cb1b37e0989e74650d4",
+          "source_key": "newsweek-feed",
+          "source_name": "Newsweek Feed",
+          "category": "us-world",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "세계",
+          "language": "en",
+          "title": "Mets Add Former World Series Champion on Minors Deal: Report",
+          "canonical_url": "https://www.newsweek.com/mets-add-former-world-series-champion-on-minors-deal-report-11783002",
+          "published_at": "2026-04-04T17:27:55+00:00",
+          "title_hash": "65073ef8b57a19142e17de5f03375ae1d1903ab3bd443b3ef9dc3dae8c539bee",
+          "keywords": [
+            "mets",
+            "add",
+            "former",
+            "world",
+            "series",
+            "champion"
+          ]
+        },
+        {
+          "stable_key": "6698cd1ab8ceab3d8e2263665c6b39eee1edfdba891dcc2db459524fbf21ab70",
+          "source_key": "newsweek-feed",
+          "source_name": "Newsweek Feed",
+          "category": "us-technology",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "기술",
+          "language": "en",
+          "title": "Jeremiyah Love Draws Concerning Comparison Ahead of NFL Draft",
+          "canonical_url": "https://www.newsweek.com/sports/nfl/jeremiyah-love-draws-concerning-comparison-ahead-of-nfl-draft-11783294",
+          "published_at": "2026-04-04T17:27:09+00:00",
+          "title_hash": "ce4a198561da69bf2d09de520eae736c96741908220bc141688d5ba3c13e537d",
+          "keywords": [
+            "jeremiyah",
+            "love",
+            "draws",
+            "concerning",
+            "comparison",
+            "ahead"
+          ]
+        },
+        {
           "stable_key": "fec45a9d652faec5819a0ed61c7adb18f1b1e5f8fe1ab1559dd1195d37c7d0e5",
           "source_key": "newsweek-feed",
           "source_name": "Newsweek Feed",
@@ -4177,6 +4485,28 @@
             "blames",
             "downing",
             "iran"
+          ]
+        },
+        {
+          "stable_key": "6a7980e9bda41fee2c66836e22eea72cc2dba57ce9fd8d0470fd6a50c1a4d687",
+          "source_key": "yahoo-news-rss",
+          "source_name": "Yahoo News RSS",
+          "category": "us-markets",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "시장",
+          "language": "en",
+          "title": "The Case for Owning a Broad Market ETF Instead of Picking Stocks",
+          "canonical_url": "https://finance.yahoo.com/markets/stocks/articles/case-owning-broad-market-etf-172000995.html",
+          "published_at": "2026-04-04T17:20:00+00:00",
+          "title_hash": "ed63b344f66fb1f2c4856acadb40c7c68422d82212e30de339b90ea1a13d4c6c",
+          "keywords": [
+            "case",
+            "owning",
+            "broad",
+            "market",
+            "etf",
+            "instead"
           ]
         },
         {
@@ -4221,6 +4551,28 @@
             "troubling",
             "after",
             "exiting"
+          ]
+        },
+        {
+          "stable_key": "1c996983896989d2c0f57de94c795964b49c3a81cce224dcae42cb2d79593c4c",
+          "source_key": "bloomberg-politics-rss",
+          "source_name": "Bloomberg Politics",
+          "category": "us-politics",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "정치",
+          "language": "en",
+          "title": "Peru’s Presidential Front-Runners Shift With Election Days Away",
+          "canonical_url": "https://www.bloomberg.com/news/articles/2026-04-04/peru-s-presidential-front-runners-shift-with-election-days-away",
+          "published_at": "2026-04-04T17:16:16+00:00",
+          "title_hash": "d8642e27292ee3dddfb19d42860fe60d27f47296901392622fcb8f977e9a0dee",
+          "keywords": [
+            "peru",
+            "presidential",
+            "front",
+            "runners",
+            "shift",
+            "election"
           ]
         },
         {
@@ -4334,6 +4686,28 @@
           ]
         },
         {
+          "stable_key": "09bbe9f9c4fb2e0cfa0b2503a0b0f3dee69db3752556f468491b5efd28d5d81a",
+          "source_key": "fortune-feed",
+          "source_name": "Fortune Feed",
+          "category": "us-economy",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "경제",
+          "language": "en",
+          "title": "The economy can shed jobs and still keep the labor market balanced, as Trump’s immigration crackdown turns breakeven hiring negative",
+          "canonical_url": "https://fortune.com/2026/04/04/breakeven-hiring-negative-job-market-unemployment-rate-trump-immigration-crackdown",
+          "published_at": "2026-04-04T17:11:23+00:00",
+          "title_hash": "18aaf8be58576f88904d0f2f2357fbf5a75e430807f1745619ca4a23a2e611b4",
+          "keywords": [
+            "economy",
+            "can",
+            "shed",
+            "jobs",
+            "still",
+            "keep"
+          ]
+        },
+        {
           "stable_key": "f2c95f14c3dfc09c8e1d0e372a750e7e24b9dcd7da73a018f16e9e7f89b6bea2",
           "source_key": "motherjones-feed",
           "source_name": "Mother Jones Feed",
@@ -4398,389 +4772,15 @@
             "soleimani",
             "relatives"
           ]
-        },
-        {
-          "stable_key": "53fffb60b80d071af3a7db3d09194381773effff71f6af4614a36cbb4b0fb1eb",
-          "source_key": "thehill-feed",
-          "source_name": "The Hill Feed",
-          "category": "us-politics",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "정치",
-          "language": "en",
-          "title": "Trump crossed an oily line of state sovereignty in California — your state is next",
-          "canonical_url": "https://thehill.com/opinion/white-house/5815066-trump-pipeline-order-california",
-          "published_at": "2026-04-04T17:00:00+00:00",
-          "title_hash": "c911c04772daa2bf21aeea60c83b222c1712f04b4f25d9643f409a3ee0319fdd",
-          "keywords": [
-            "trump",
-            "crossed",
-            "oily",
-            "line",
-            "state",
-            "sovereignty"
-          ]
-        },
-        {
-          "stable_key": "8042dd023814788028ea09846fa66d143a85ecede4303afb474fb7ec9f6baae6",
-          "source_key": "bloomberg-politics-rss",
-          "source_name": "Bloomberg Politics",
-          "category": "us-politics",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "정치",
-          "language": "en",
-          "title": "Trump’s Victory Rhetoric Undercut by Downed US Jet in Iran War",
-          "canonical_url": "https://www.bloomberg.com/news/articles/2026-04-04/trump-s-victory-rhetoric-undercut-by-downed-us-jet-in-iran-war",
-          "published_at": "2026-04-04T16:58:53+00:00",
-          "title_hash": "f73bdf8b25f3ffd95bf4fac07441e37dea3af9869912b01726e82613c7a2cb23",
-          "keywords": [
-            "trump",
-            "victory",
-            "rhetoric",
-            "undercut",
-            "downed",
-            "us"
-          ]
-        },
-        {
-          "stable_key": "51e8b6a060d5e652ba0cf4bdb76c94c13fe43ad54ba4b753b923bfb875250c70",
-          "source_key": "salon-feed",
-          "source_name": "Salon Feed",
-          "category": "us-markets",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "시장",
-          "language": "en",
-          "title": "After Bondi’s firing, DOJ portrait swiftly removed and trashed",
-          "canonical_url": "https://www.salon.com/2026/04/04/after-bondis-firing-doj-portrait-swiftly-removed-and-trashed",
-          "published_at": "2026-04-04T16:57:46+00:00",
-          "title_hash": "c3e2c9a0e510bea1c7311d0b6f9a9d58fec9dfe3c493a1492b4864aef5b7a9ed",
-          "keywords": [
-            "after",
-            "bondi",
-            "firing",
-            "doj",
-            "portrait",
-            "swiftly"
-          ]
-        },
-        {
-          "stable_key": "d9b16cc6a05610db3fc19dd1d956daf407477cc9c72d0b88993b92d62dfa78bd",
-          "source_key": "fox-world-rss",
-          "source_name": "Fox News World",
-          "category": "us-world",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "세계",
-          "language": "en",
-          "title": "UK prosecutors charge 3, including dual Pakistani citizen, in arson attack on Jewish ambulances in London",
-          "canonical_url": "https://www.foxnews.com/world/uk-prosecutors-charge-3-including-dual-pakistani-citizen-arson-attack-jewish-ambulances-london",
-          "published_at": "2026-04-04T16:56:37+00:00",
-          "title_hash": "9db177dcd697ab9801a9d261465bc5a2963cab88756d363dbd1f651de3d662cd",
-          "keywords": [
-            "uk",
-            "prosecutors",
-            "charge",
-            "including",
-            "dual",
-            "pakistani"
-          ]
-        },
-        {
-          "stable_key": "287dc6163392f5764dfb9b4e9efeac841e28fc5237c43856ffd76f165e21ea38",
-          "source_key": "nypost-feed",
-          "source_name": "New York Post Feed",
-          "category": "us-world",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "세계",
-          "language": "en",
-          "title": "How Haley and Hanna Cavinder ‘struck while iron was hot’ to create expansive business empire after NIL fame",
-          "canonical_url": "https://nypost.com/2026/04/04/sports/how-haley-and-hanna-cavinder-struck-while-iron-was-hot-to-create-expansive-business-empire-after-nil-fame",
-          "published_at": "2026-04-04T16:56:32+00:00",
-          "title_hash": "b134e5e42e505a3eb1b53155aa68695c4a73623783edab0e663a3f3e24738e35",
-          "keywords": [
-            "how",
-            "haley",
-            "hanna",
-            "cavinder",
-            "struck",
-            "while"
-          ]
-        },
-        {
-          "stable_key": "64f256760db2897eabfd31f2f4c6aa81d91a073487fa2fe43bc27672f202cd29",
-          "source_key": "telegram-claw-summary",
-          "source_name": "Telegram @clawnewssummary",
-          "category": "military",
-          "hub": "global",
-          "hub_label": "글로벌 전문",
-          "section_label": "군사",
-          "language": "ko",
-          "title": "🚨 [CRITICAL] 호르무즈 해협 알림",
-          "canonical_url": "https://www.aljazeera.com/opinions/2026/4/4/what-the-iran-iraq-war-can-tell-us-about-the-us-israeli-war-on?traffic_source=rss",
-          "published_at": "2026-04-04T16:56:04+00:00",
-          "title_hash": "1ba172554ef1c7fcb4ab3d83322e6f471392708251d575eb55dfe385f79a6b1c",
-          "keywords": [
-            "critical",
-            "호르무즈",
-            "해협",
-            "알림",
-            "critical 호르무즈",
-            "호르무즈 해협"
-          ]
-        },
-        {
-          "stable_key": "431a3a600ab1d505cef1c123c32b5a3b7464c2728373ee58e7804f1f240398ed",
-          "source_key": "forbes-business-rss",
-          "source_name": "Forbes Business",
-          "category": "us-economy",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "경제",
-          "language": "en",
-          "title": "‘Super Mario Galaxy Movie’ Makes $48 Million On Friday—En Route To Strong Opening Weekend",
-          "canonical_url": "https://www.forbes.com/sites/conormurray/2026/04/04/super-mario-galaxy-movie-makes-48-million-on-friday-en-route-to-strong-opening-weekend",
-          "published_at": "2026-04-04T16:55:40+00:00",
-          "title_hash": "82665d30b067dfbab80ef1bee3356b25db0b72b70d8db9a4124e71a3ecfcddf9",
-          "keywords": [
-            "super",
-            "mario",
-            "galaxy",
-            "movie",
-            "makes",
-            "million"
-          ]
-        },
-        {
-          "stable_key": "cabfd47589664a5d21411f305260823ce45ef3e8202c5363d95665a0585c838f",
-          "source_key": "nypost-feed",
-          "source_name": "New York Post Feed",
-          "category": "us-markets",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "시장",
-          "language": "en",
-          "title": "Caleb Downs isn’t shy about his ‘all-time great’ ceiling in candid conversation with The Post before NFL draft",
-          "canonical_url": "https://nypost.com/2026/04/04/sports/caleb-downs-isnt-shy-about-his-nfl-ceiling-before-draft",
-          "published_at": "2026-04-04T16:54:43+00:00",
-          "title_hash": "f015229ba337151bbc3f80eba2984955ad533462931aedd9462702739f7eed4a",
-          "keywords": [
-            "caleb",
-            "downs",
-            "isn",
-            "shy",
-            "about",
-            "his"
-          ]
-        },
-        {
-          "stable_key": "8d70c77d7193d89fd31b5330eb542d1c108653573f6b00552ad80fb625519ee4",
-          "source_key": "nypost-feed",
-          "source_name": "New York Post Feed",
-          "category": "us-world",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "세계",
-          "language": "en",
-          "title": "Artemis II astronauts are more than halfway to the moon as they seek to break Apollo 13’s record",
-          "canonical_url": "https://nypost.com/2026/04/04/world-news/artemis-ii-astronauts-are-more-than-halfway-to-the-moon-as-they-seek-to-break-apollo-13s-record",
-          "published_at": "2026-04-04T16:54:30+00:00",
-          "title_hash": "c06ddb6ed2f9c1aa79a3134f5bfcdc2b522ce8c2c4816ab035684091ef3859a0",
-          "keywords": [
-            "artemis",
-            "ii",
-            "astronauts",
-            "more",
-            "than",
-            "halfway"
-          ]
-        },
-        {
-          "stable_key": "1b00430e1f74805b23007c6f686a930f67f5d87cccbadb8a517851a4a05c5bc7",
-          "source_key": "nypost-feed",
-          "source_name": "New York Post Feed",
-          "category": "us-markets",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "시장",
-          "language": "en",
-          "title": "Artist fumes after tribute honoring slain Iryna Zarutska gets scrubbed amid woke blowback",
-          "canonical_url": "https://nypost.com/2026/04/04/us-news/artist-fumes-after-tribute-honoring-slain-iryna-zarutska-gets-scrubbed-amid-woke-blowback",
-          "published_at": "2026-04-04T16:54:03+00:00",
-          "title_hash": "7d113e258e7d9617dffc36c08e25d51e1cffb1adc2b8d9b600b7e3106ba74ef3",
-          "keywords": [
-            "artist",
-            "fumes",
-            "after",
-            "tribute",
-            "honoring",
-            "slain"
-          ]
-        },
-        {
-          "stable_key": "90f0ed8cf5d9247a74558b67c8f4b3cedc228aa50e4036f9ed4bc0d07c19df3f",
-          "source_key": "newsweek-feed",
-          "source_name": "Newsweek Feed",
-          "category": "us-technology",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "기술",
-          "language": "en",
-          "title": "IRS Issues ‘Act Now’ Tax Refund Alert Ahead of Filing Deadline",
-          "canonical_url": "https://www.newsweek.com/irs-tax-refund-alert-filing-deadline-11782850",
-          "published_at": "2026-04-04T16:51:47+00:00",
-          "title_hash": "df5324ec6cc36061ffdc3483f5838523baf31b27ea4dfc9f4fc433ddf4ea1ab8",
-          "keywords": [
-            "irs",
-            "issues",
-            "act",
-            "now",
-            "tax",
-            "refund"
-          ]
-        },
-        {
-          "stable_key": "f62eb172f3b834283704825e64793dfafe3efeddd56e2585a03583f1c62b0d5b",
-          "source_key": "nypost-feed",
-          "source_name": "New York Post Feed",
-          "category": "us-technology",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "기술",
-          "language": "en",
-          "title": "Kylie Kelce ripped by fans for groaning about questions on Travis and Taylor Swift’s wedding",
-          "canonical_url": "https://pagesix.com/2026/04/04/entertainment/kylie-kelce-ripped-by-fans-for-groaning-about-questions-on-travis-and-taylor-swifts-wedding",
-          "published_at": "2026-04-04T16:50:12+00:00",
-          "title_hash": "4cd8b9928bc229375401ce59e93ced17c6187462c793d6f11b33861d36db8e17",
-          "keywords": [
-            "kylie",
-            "kelce",
-            "ripped",
-            "fans",
-            "groaning",
-            "about"
-          ]
-        },
-        {
-          "stable_key": "7e0aeb66a3e6db513a58a29f55cd1c2055ef0042c319d7d40039744f22c1cf11",
-          "source_key": "nypost-feed",
-          "source_name": "New York Post Feed",
-          "category": "us-politics",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "정치",
-          "language": "en",
-          "title": "Trump blasts LA homeless agency’s ‘abysmal record’ in plan to slash nearly $400M in federal funds",
-          "canonical_url": "https://nypost.com/2026/04/04/us-news/trump-blasts-la-homeless-agencys-abysmal-record-in-plan-to-slash-nearly-400m-in-federal-funds",
-          "published_at": "2026-04-04T16:50:11+00:00",
-          "title_hash": "6290662c9e836ee2f1c3093bfb10bd23821025b2906e2b3e99a1e146a6ac862d",
-          "keywords": [
-            "trump",
-            "blasts",
-            "la",
-            "homeless",
-            "agency",
-            "abysmal"
-          ]
-        },
-        {
-          "stable_key": "5cf5cf220bbf324a4f854742d6a5cbf14922e2ea1c8ad01aab994bf4742d7fb6",
-          "source_key": "thehill-feed",
-          "source_name": "The Hill Feed",
-          "category": "us-politics",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "정치",
-          "language": "en",
-          "title": "Graham backs Trump’s Iran ultimatum as deadline approaches: ‘Choose wisely’",
-          "canonical_url": "https://thehill.com/homenews/senate/5816309-graham-backs-trump-iran-threats",
-          "published_at": "2026-04-04T16:47:33+00:00",
-          "title_hash": "6af92c921748251b3ccd405cc41c65bbcccfd2a73819f9d3119329dd76dc4abd",
-          "keywords": [
-            "graham",
-            "backs",
-            "trump",
-            "iran",
-            "ultimatum",
-            "deadline"
-          ]
-        },
-        {
-          "stable_key": "5431222bea70aec0805f10ea34739a3f0dcb17c69e980e1145c80a23bfc66b86",
-          "source_key": "coindesk-rss",
-          "source_name": "CoinDesk",
-          "category": "crypto",
-          "hub": "global",
-          "hub_label": "글로벌 전문",
-          "section_label": "코인",
-          "language": "en",
-          "title": "Ex-UK Chancellor backs bitcoin as alternative to failing systems",
-          "canonical_url": "https://www.coindesk.com/markets/2026/04/03/ex-uk-chancellor-backs-bitcoin-as-alternative-to-failing-systems",
-          "published_at": "2026-04-04T16:44:48+00:00",
-          "title_hash": "f09481c637457a23b980ed0e99d81ca9efceeaaca2c9fbe2a55494a4e48eefe1",
-          "keywords": [
-            "ex",
-            "uk",
-            "chancellor",
-            "backs",
-            "bitcoin",
-            "alternative"
-          ]
-        },
-        {
-          "stable_key": "6604241650963dc00368adf934c79a152cc3e309afdbf7105b44712856b1d432",
-          "source_key": "nypost-feed",
-          "source_name": "New York Post Feed",
-          "category": "us-world",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "세계",
-          "language": "en",
-          "title": "Cleanest cruise lines in the world revealed — plus who notched up worst for the grossest reason",
-          "canonical_url": "https://nypost.com/2026/04/04/lifestyle/cleanest-cruise-lines-in-the-world-revealed-but-who-topped-the-list-for-the-most-norovirus-outbreaks",
-          "published_at": "2026-04-04T16:44:16+00:00",
-          "title_hash": "7867b3dda6a302bb96cced48f811353e823378e6848122ebd5d432a6945df995",
-          "keywords": [
-            "cleanest",
-            "cruise",
-            "lines",
-            "world",
-            "revealed",
-            "plus"
-          ]
-        },
-        {
-          "stable_key": "a138e88a12bd9c14b383fbfb7f413aab77d6a1dccb210eebceb10d8a51e3e60b",
-          "source_key": "nyt-world-rss",
-          "source_name": "New York Times World",
-          "category": "us-world",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "세계",
-          "language": "en",
-          "title": "U.S. Fighter Jet Downed Over Iran Was Probably Based at R.A.F. Lakenheath, U.K. Airfield",
-          "canonical_url": "https://www.nytimes.com/2026/04/04/world/middleeast/iran-war-fighter-jet-f15-raf-lakenheath.html",
-          "published_at": "2026-04-04T16:43:42+00:00",
-          "title_hash": "fe47f9154311b37c0583e9323232d310c8075ba2c7ec3879af5248b51f1d7b81",
-          "keywords": [
-            "fighter",
-            "jet",
-            "downed",
-            "over",
-            "iran",
-            "probably"
-          ]
         }
       ]
     },
     "all": {
       "label": "All",
-      "article_count": 4681,
-      "unknown_time_count": 618,
+      "article_count": 4712,
+      "unknown_time_count": 629,
       "active_source_count": 130,
-      "repeated_title_count": 335,
+      "repeated_title_count": 338,
       "timeline": [
         {
           "date": "2016-11-02",
@@ -5188,21 +5188,21 @@
         },
         {
           "date": "2026-04-02",
-          "count": 610
+          "count": 611
         },
         {
           "date": "2026-04-03",
-          "count": 1377
+          "count": 1378
         },
         {
           "date": "2026-04-04",
-          "count": 860
+          "count": 878
         }
       ],
       "top_keywords": [
         {
           "keyword": "trump",
-          "count": 472
+          "count": 474
         },
         {
           "keyword": "iran",
@@ -5213,16 +5213,16 @@
           "count": 141
         },
         {
+          "keyword": "new",
+          "count": 106
+        },
+        {
           "keyword": "us",
           "count": 106
         },
         {
-          "keyword": "new",
-          "count": 104
-        },
-        {
           "keyword": "ai",
-          "count": 98
+          "count": 99
         },
         {
           "keyword": "how",
@@ -5230,15 +5230,15 @@
         },
         {
           "keyword": "after",
-          "count": 84
+          "count": 85
+        },
+        {
+          "keyword": "says",
+          "count": 75
         },
         {
           "keyword": "what",
           "count": 75
-        },
-        {
-          "keyword": "says",
-          "count": 74
         },
         {
           "keyword": "california",
@@ -5258,7 +5258,7 @@
         {
           "source_key": "naver-kr-society",
           "name": "NAVER News Search",
-          "count": 134
+          "count": 142
         },
         {
           "source_key": "guardian-us-rss",
@@ -5306,21 +5306,21 @@
           "count": 88
         },
         {
-          "source_key": "asiae-politics-rss",
-          "name": "Asiae Politics",
-          "count": 82
+          "source_key": "yahoo-news-rss",
+          "name": "Yahoo News RSS",
+          "count": 85
         }
       ],
       "top_hubs": [
         {
           "key": "us",
           "label": "미국",
-          "count": 2907
+          "count": 2928
         },
         {
           "key": "kr",
           "label": "대한민국",
-          "count": 1604
+          "count": 1614
         },
         {
           "key": "global",
@@ -5334,35 +5334,35 @@
           "label": "정치",
           "hub": "us",
           "hub_label": "미국",
-          "count": 973
+          "count": 980
         },
         {
           "key": "us-technology",
           "label": "기술",
           "hub": "us",
           "hub_label": "미국",
-          "count": 772
+          "count": 778
         },
         {
           "key": "us-world",
           "label": "세계",
           "hub": "us",
           "hub_label": "미국",
-          "count": 486
+          "count": 487
         },
         {
           "key": "kr-society",
           "label": "사회",
           "hub": "kr",
           "hub_label": "대한민국",
-          "count": 450
+          "count": 458
         },
         {
           "key": "us-economy",
           "label": "경제",
           "hub": "us",
           "hub_label": "미국",
-          "count": 393
+          "count": 395
         },
         {
           "key": "kr-economy",
@@ -5383,14 +5383,14 @@
           "label": "시장",
           "hub": "us",
           "hub_label": "미국",
-          "count": 283
+          "count": 288
         },
         {
           "key": "kr-culture",
           "label": "문화",
           "hub": "kr",
           "hub_label": "대한민국",
-          "count": 253
+          "count": 255
         },
         {
           "key": "kr-sports",
@@ -5417,11 +5417,11 @@
       "language_counts": [
         {
           "language": "en",
-          "count": 3063
+          "count": 3084
         },
         {
           "language": "ko",
-          "count": 1618
+          "count": 1628
         }
       ],
       "repeated_titles": [
@@ -5652,6 +5652,314 @@
           ]
         },
         {
+          "stable_key": "d22f1cfd1ed68df67cbbe9d5c7eab682d1aab74cb97cfab572fb25e39871f391",
+          "source_key": "verge-rss",
+          "source_name": "The Verge RSS",
+          "category": "us-technology",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "기술",
+          "language": "en",
+          "title": "A folk musician became a target for AI fakes and a copyright troll",
+          "canonical_url": "https://www.theverge.com/entertainment/907111/murphy-campbell-folk-music-ai-copyright",
+          "published_at": "2026-04-04T17:52:10+00:00",
+          "title_hash": "8ef9c977843a6df2ba3432fae228909dece74ea0a3d1793ff6537b0f2b0c958e",
+          "keywords": [
+            "folk",
+            "musician",
+            "became",
+            "target",
+            "ai",
+            "fakes"
+          ]
+        },
+        {
+          "stable_key": "121ea95a4019007043883aff9dfa6ea509e191dd9acb7ed44b45ff73bd013c91",
+          "source_key": "nypost-feed",
+          "source_name": "New York Post Feed",
+          "category": "us-markets",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "시장",
+          "language": "en",
+          "title": "Fresh humiliation for Chairman Xi Jinping as new Xiong’an megacity stalls: ‘Well behind’",
+          "canonical_url": "https://nypost.com/2026/04/04/world-news/fresh-humiliation-for-chairman-xi-jinping-as-new-xiongan-megacity-stalls",
+          "published_at": "2026-04-04T17:47:01+00:00",
+          "title_hash": "002a917eb2996cc1ce2b319a769568175052c4e5a9a31cb2530e9a0810880eb1",
+          "keywords": [
+            "fresh",
+            "humiliation",
+            "chairman",
+            "xi",
+            "jinping",
+            "new"
+          ]
+        },
+        {
+          "stable_key": "5e734b57ba517acb87234ccec8b253b1c37fe3cb81cba976eb46196dcf2a91ce",
+          "source_key": "washingtonexaminer-feed",
+          "source_name": "Washington Examiner Feed",
+          "category": "us-politics",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "정치",
+          "language": "en",
+          "title": "Rubio deports Iranian Gen. Soleimani’s niece over support for terrorism",
+          "canonical_url": "https://www.washingtonexaminer.com/policy/immigration/4516321/rubio-deport-iran-soleimani-niece-support-terrorism",
+          "published_at": "2026-04-04T17:45:46+00:00",
+          "title_hash": "f8970433a6a8f3adb1ac338c3dbf7dfd212d2edc648ac80d986528f70048f5ad",
+          "keywords": [
+            "rubio",
+            "deports",
+            "iranian",
+            "gen",
+            "soleimani",
+            "niece"
+          ]
+        },
+        {
+          "stable_key": "15a11e100f6d2824062b3d51ff40ec760c6809685db137c3ee49ec6cd14ddcdc",
+          "source_key": "nypost-feed",
+          "source_name": "New York Post Feed",
+          "category": "us-politics",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "정치",
+          "language": "en",
+          "title": "Gavin Newsom to spend $19M in taxpayer funds on New York PR firm to polish California’s image",
+          "canonical_url": "https://nypost.com/2026/04/04/us-news/gavin-newsom-to-spend-19m-in-taxpayer-funds-on-new-york-pr-firm-to-help-polish-californias-image",
+          "published_at": "2026-04-04T17:42:39+00:00",
+          "title_hash": "0dcb6f618a7097de17287d32051e4b3195e94877d1421e9017e7f7dbf7445ee5",
+          "keywords": [
+            "gavin",
+            "newsom",
+            "spend",
+            "19m",
+            "taxpayer",
+            "funds"
+          ]
+        },
+        {
+          "stable_key": "b607205687a0420374044cb81b0030f699a111cb966e5b5ae83d490b8aad304d",
+          "source_key": "forbes-innovation-rss",
+          "source_name": "Forbes Innovation",
+          "category": "us-technology",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "기술",
+          "language": "en",
+          "title": "NYT Connections Hints Today: Sunday, April 5 Clues And Answers (#1029)",
+          "canonical_url": "https://www.forbes.com/sites/erikkain/2026/04/04/nyt-connections-sunday-april-5-answers",
+          "published_at": "2026-04-04T17:41:35+00:00",
+          "title_hash": "5300790d32f5768ba28c16e716a7f170e962ddaadf48522ad4f527d02f5ed87f",
+          "keywords": [
+            "nyt",
+            "connections",
+            "hints",
+            "today",
+            "sunday",
+            "april"
+          ]
+        },
+        {
+          "stable_key": "39e8b53713725df1570b3d864466c71be3057ebc453ff8bbe12599599053b881",
+          "source_key": "forbes-business-rss",
+          "source_name": "Forbes Business",
+          "category": "us-economy",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "경제",
+          "language": "en",
+          "title": "NYT Connections Hints Today: Sunday, April 5 Clues And Answers (#1029)",
+          "canonical_url": "https://www.forbes.com/sites/erikkain/2026/04/04/nyt-connections-sunday-april-5-answers",
+          "published_at": "2026-04-04T17:41:35+00:00",
+          "title_hash": "5300790d32f5768ba28c16e716a7f170e962ddaadf48522ad4f527d02f5ed87f",
+          "keywords": [
+            "nyt",
+            "connections",
+            "hints",
+            "today",
+            "sunday",
+            "april"
+          ]
+        },
+        {
+          "stable_key": "e095270704c173a7a9d0c972d8ae7cf66df06391f8d03bbdd112f0827bde314d",
+          "source_key": "nypost-feed",
+          "source_name": "New York Post Feed",
+          "category": "us-politics",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "정치",
+          "language": "en",
+          "title": "Bucks investigated for Giannis Antetokounmpo injury shenanigans — as ex-MVP hints at frayed relationship",
+          "canonical_url": "https://nypost.com/2026/04/04/sports/bucks-under-nba-investigation-for-giannis-antetokounmpo-tanking-shenanigans",
+          "published_at": "2026-04-04T17:40:36+00:00",
+          "title_hash": "b67a39cb3845e3cd66d68b834bcab7b943e705c97d61ba781d5daad88ea279bc",
+          "keywords": [
+            "bucks",
+            "investigated",
+            "giannis",
+            "antetokounmpo",
+            "injury",
+            "shenanigans"
+          ]
+        },
+        {
+          "stable_key": "8f5a1a179c4274c5eac618e313f257e3a0cb4122b06d9a55b222a749c7941c54",
+          "source_key": "fox-politics-rss",
+          "source_name": "Fox News Politics",
+          "category": "us-politics",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "정치",
+          "language": "en",
+          "title": "ICE arrests relatives of slain Iranian general Soleimani living in US after Rubio revokes their green cards",
+          "canonical_url": "https://www.foxnews.com/politics/ice-arrests-relatives-slain-iranian-general-soleimani-living-us-rubio-revokes-green-cards",
+          "published_at": "2026-04-04T17:38:47+00:00",
+          "title_hash": "5c622d2ca6e8e3372cfb8006766709dccfcfc93b76734e5e53a9163e3d45ca79",
+          "keywords": [
+            "ice",
+            "arrests",
+            "relatives",
+            "slain",
+            "iranian",
+            "general"
+          ]
+        },
+        {
+          "stable_key": "d96244ad5cc2a20946d1c2d28f0559b5ab13c74be7ef0e28e5695331f830bc7f",
+          "source_key": "forbes-innovation-rss",
+          "source_name": "Forbes Innovation",
+          "category": "us-technology",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "기술",
+          "language": "en",
+          "title": "Mysterious Samsung Galaxy S26 Model Revealed",
+          "canonical_url": "https://www.forbes.com/sites/ewanspence/2026/04/04/samsung-galaxy-s26-128gb-enterprise-edition-specs-price",
+          "published_at": "2026-04-04T17:33:51+00:00",
+          "title_hash": "3bcd9e3331df0c6026f4dc8dc65de1864e411e7fa3aae59fd2357f5fe104665c",
+          "keywords": [
+            "mysterious",
+            "samsung",
+            "galaxy",
+            "s26",
+            "model",
+            "revealed"
+          ]
+        },
+        {
+          "stable_key": "1c3e83a7fb4a8fd0d2a69b47dcd0a0014c4b6eb770bfae3707b15663c5a11650",
+          "source_key": "nypost-feed",
+          "source_name": "New York Post Feed",
+          "category": "us-markets",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "시장",
+          "language": "en",
+          "title": "After troubled offseason, Puka Nacua taking the right steps towards change",
+          "canonical_url": "https://nypost.com/2026/04/04/sports/rams-wr-puka-nacua-in-rehab-after-troubled-offseason",
+          "published_at": "2026-04-04T17:31:13+00:00",
+          "title_hash": "2b83b8add03937a8b81b2ff9d36b02ca51ebac3432e7262336a7e847930278d9",
+          "keywords": [
+            "after",
+            "troubled",
+            "offseason",
+            "puka",
+            "nacua",
+            "taking"
+          ]
+        },
+        {
+          "stable_key": "949c78c4fb03624c0a2b10babf43c53e92dc99c122d3c6d657499b71da1f4bc1",
+          "source_key": "newsweek-feed",
+          "source_name": "Newsweek Feed",
+          "category": "us-technology",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "기술",
+          "language": "en",
+          "title": "Michigan vs. Arizona Betting Odds, Player Props, Best Bets Against The Spread",
+          "canonical_url": "https://www.newsweek.com/sports/betting/michigan-vs-arizona-betting-odds-player-props-best-bets-against-the-spread-11782958",
+          "published_at": "2026-04-04T17:31:01+00:00",
+          "title_hash": "074d9f5e5d543e8c0a211f57639072598c30465d27ff3f3ad47d14e52d4099e7",
+          "keywords": [
+            "michigan",
+            "vs",
+            "arizona",
+            "betting",
+            "odds",
+            "player"
+          ]
+        },
+        {
+          "stable_key": "3618b8b618fda5ff0982425086d53d7f794d24bd01ee8c7bbb166e8a3a7d4d6d",
+          "source_key": "newsweek-feed",
+          "source_name": "Newsweek Feed",
+          "category": "us-markets",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "시장",
+          "language": "en",
+          "title": "Pirates&#039; Konnor Griffin Shares Message About Unforgettable Debut",
+          "canonical_url": "https://www.newsweek.com/pirates-konnor-griffin-shares-message-about-unforgettable-debut-11783141",
+          "published_at": "2026-04-04T17:29:17+00:00",
+          "title_hash": "66dd6809f3ba56df926031131a80e51f0a3d4594fa592ed6d6b8873563d715e3",
+          "keywords": [
+            "pirates",
+            "konnor",
+            "griffin",
+            "shares",
+            "message",
+            "about"
+          ]
+        },
+        {
+          "stable_key": "cf7f8b40eea56f1422bc31919c6e83a63683bf6e10d35cb1b37e0989e74650d4",
+          "source_key": "newsweek-feed",
+          "source_name": "Newsweek Feed",
+          "category": "us-world",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "세계",
+          "language": "en",
+          "title": "Mets Add Former World Series Champion on Minors Deal: Report",
+          "canonical_url": "https://www.newsweek.com/mets-add-former-world-series-champion-on-minors-deal-report-11783002",
+          "published_at": "2026-04-04T17:27:55+00:00",
+          "title_hash": "65073ef8b57a19142e17de5f03375ae1d1903ab3bd443b3ef9dc3dae8c539bee",
+          "keywords": [
+            "mets",
+            "add",
+            "former",
+            "world",
+            "series",
+            "champion"
+          ]
+        },
+        {
+          "stable_key": "6698cd1ab8ceab3d8e2263665c6b39eee1edfdba891dcc2db459524fbf21ab70",
+          "source_key": "newsweek-feed",
+          "source_name": "Newsweek Feed",
+          "category": "us-technology",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "기술",
+          "language": "en",
+          "title": "Jeremiyah Love Draws Concerning Comparison Ahead of NFL Draft",
+          "canonical_url": "https://www.newsweek.com/sports/nfl/jeremiyah-love-draws-concerning-comparison-ahead-of-nfl-draft-11783294",
+          "published_at": "2026-04-04T17:27:09+00:00",
+          "title_hash": "ce4a198561da69bf2d09de520eae736c96741908220bc141688d5ba3c13e537d",
+          "keywords": [
+            "jeremiyah",
+            "love",
+            "draws",
+            "concerning",
+            "comparison",
+            "ahead"
+          ]
+        },
+        {
           "stable_key": "fec45a9d652faec5819a0ed61c7adb18f1b1e5f8fe1ab1559dd1195d37c7d0e5",
           "source_key": "newsweek-feed",
           "source_name": "Newsweek Feed",
@@ -5671,6 +5979,28 @@
             "blames",
             "downing",
             "iran"
+          ]
+        },
+        {
+          "stable_key": "6a7980e9bda41fee2c66836e22eea72cc2dba57ce9fd8d0470fd6a50c1a4d687",
+          "source_key": "yahoo-news-rss",
+          "source_name": "Yahoo News RSS",
+          "category": "us-markets",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "시장",
+          "language": "en",
+          "title": "The Case for Owning a Broad Market ETF Instead of Picking Stocks",
+          "canonical_url": "https://finance.yahoo.com/markets/stocks/articles/case-owning-broad-market-etf-172000995.html",
+          "published_at": "2026-04-04T17:20:00+00:00",
+          "title_hash": "ed63b344f66fb1f2c4856acadb40c7c68422d82212e30de339b90ea1a13d4c6c",
+          "keywords": [
+            "case",
+            "owning",
+            "broad",
+            "market",
+            "etf",
+            "instead"
           ]
         },
         {
@@ -5715,6 +6045,28 @@
             "troubling",
             "after",
             "exiting"
+          ]
+        },
+        {
+          "stable_key": "1c996983896989d2c0f57de94c795964b49c3a81cce224dcae42cb2d79593c4c",
+          "source_key": "bloomberg-politics-rss",
+          "source_name": "Bloomberg Politics",
+          "category": "us-politics",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "정치",
+          "language": "en",
+          "title": "Peru’s Presidential Front-Runners Shift With Election Days Away",
+          "canonical_url": "https://www.bloomberg.com/news/articles/2026-04-04/peru-s-presidential-front-runners-shift-with-election-days-away",
+          "published_at": "2026-04-04T17:16:16+00:00",
+          "title_hash": "d8642e27292ee3dddfb19d42860fe60d27f47296901392622fcb8f977e9a0dee",
+          "keywords": [
+            "peru",
+            "presidential",
+            "front",
+            "runners",
+            "shift",
+            "election"
           ]
         },
         {
@@ -5828,6 +6180,28 @@
           ]
         },
         {
+          "stable_key": "09bbe9f9c4fb2e0cfa0b2503a0b0f3dee69db3752556f468491b5efd28d5d81a",
+          "source_key": "fortune-feed",
+          "source_name": "Fortune Feed",
+          "category": "us-economy",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "경제",
+          "language": "en",
+          "title": "The economy can shed jobs and still keep the labor market balanced, as Trump’s immigration crackdown turns breakeven hiring negative",
+          "canonical_url": "https://fortune.com/2026/04/04/breakeven-hiring-negative-job-market-unemployment-rate-trump-immigration-crackdown",
+          "published_at": "2026-04-04T17:11:23+00:00",
+          "title_hash": "18aaf8be58576f88904d0f2f2357fbf5a75e430807f1745619ca4a23a2e611b4",
+          "keywords": [
+            "economy",
+            "can",
+            "shed",
+            "jobs",
+            "still",
+            "keep"
+          ]
+        },
+        {
           "stable_key": "f2c95f14c3dfc09c8e1d0e372a750e7e24b9dcd7da73a018f16e9e7f89b6bea2",
           "source_key": "motherjones-feed",
           "source_name": "Mother Jones Feed",
@@ -5891,380 +6265,6 @@
             "cards",
             "soleimani",
             "relatives"
-          ]
-        },
-        {
-          "stable_key": "53fffb60b80d071af3a7db3d09194381773effff71f6af4614a36cbb4b0fb1eb",
-          "source_key": "thehill-feed",
-          "source_name": "The Hill Feed",
-          "category": "us-politics",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "정치",
-          "language": "en",
-          "title": "Trump crossed an oily line of state sovereignty in California — your state is next",
-          "canonical_url": "https://thehill.com/opinion/white-house/5815066-trump-pipeline-order-california",
-          "published_at": "2026-04-04T17:00:00+00:00",
-          "title_hash": "c911c04772daa2bf21aeea60c83b222c1712f04b4f25d9643f409a3ee0319fdd",
-          "keywords": [
-            "trump",
-            "crossed",
-            "oily",
-            "line",
-            "state",
-            "sovereignty"
-          ]
-        },
-        {
-          "stable_key": "8042dd023814788028ea09846fa66d143a85ecede4303afb474fb7ec9f6baae6",
-          "source_key": "bloomberg-politics-rss",
-          "source_name": "Bloomberg Politics",
-          "category": "us-politics",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "정치",
-          "language": "en",
-          "title": "Trump’s Victory Rhetoric Undercut by Downed US Jet in Iran War",
-          "canonical_url": "https://www.bloomberg.com/news/articles/2026-04-04/trump-s-victory-rhetoric-undercut-by-downed-us-jet-in-iran-war",
-          "published_at": "2026-04-04T16:58:53+00:00",
-          "title_hash": "f73bdf8b25f3ffd95bf4fac07441e37dea3af9869912b01726e82613c7a2cb23",
-          "keywords": [
-            "trump",
-            "victory",
-            "rhetoric",
-            "undercut",
-            "downed",
-            "us"
-          ]
-        },
-        {
-          "stable_key": "51e8b6a060d5e652ba0cf4bdb76c94c13fe43ad54ba4b753b923bfb875250c70",
-          "source_key": "salon-feed",
-          "source_name": "Salon Feed",
-          "category": "us-markets",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "시장",
-          "language": "en",
-          "title": "After Bondi’s firing, DOJ portrait swiftly removed and trashed",
-          "canonical_url": "https://www.salon.com/2026/04/04/after-bondis-firing-doj-portrait-swiftly-removed-and-trashed",
-          "published_at": "2026-04-04T16:57:46+00:00",
-          "title_hash": "c3e2c9a0e510bea1c7311d0b6f9a9d58fec9dfe3c493a1492b4864aef5b7a9ed",
-          "keywords": [
-            "after",
-            "bondi",
-            "firing",
-            "doj",
-            "portrait",
-            "swiftly"
-          ]
-        },
-        {
-          "stable_key": "d9b16cc6a05610db3fc19dd1d956daf407477cc9c72d0b88993b92d62dfa78bd",
-          "source_key": "fox-world-rss",
-          "source_name": "Fox News World",
-          "category": "us-world",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "세계",
-          "language": "en",
-          "title": "UK prosecutors charge 3, including dual Pakistani citizen, in arson attack on Jewish ambulances in London",
-          "canonical_url": "https://www.foxnews.com/world/uk-prosecutors-charge-3-including-dual-pakistani-citizen-arson-attack-jewish-ambulances-london",
-          "published_at": "2026-04-04T16:56:37+00:00",
-          "title_hash": "9db177dcd697ab9801a9d261465bc5a2963cab88756d363dbd1f651de3d662cd",
-          "keywords": [
-            "uk",
-            "prosecutors",
-            "charge",
-            "including",
-            "dual",
-            "pakistani"
-          ]
-        },
-        {
-          "stable_key": "287dc6163392f5764dfb9b4e9efeac841e28fc5237c43856ffd76f165e21ea38",
-          "source_key": "nypost-feed",
-          "source_name": "New York Post Feed",
-          "category": "us-world",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "세계",
-          "language": "en",
-          "title": "How Haley and Hanna Cavinder ‘struck while iron was hot’ to create expansive business empire after NIL fame",
-          "canonical_url": "https://nypost.com/2026/04/04/sports/how-haley-and-hanna-cavinder-struck-while-iron-was-hot-to-create-expansive-business-empire-after-nil-fame",
-          "published_at": "2026-04-04T16:56:32+00:00",
-          "title_hash": "b134e5e42e505a3eb1b53155aa68695c4a73623783edab0e663a3f3e24738e35",
-          "keywords": [
-            "how",
-            "haley",
-            "hanna",
-            "cavinder",
-            "struck",
-            "while"
-          ]
-        },
-        {
-          "stable_key": "64f256760db2897eabfd31f2f4c6aa81d91a073487fa2fe43bc27672f202cd29",
-          "source_key": "telegram-claw-summary",
-          "source_name": "Telegram @clawnewssummary",
-          "category": "military",
-          "hub": "global",
-          "hub_label": "글로벌 전문",
-          "section_label": "군사",
-          "language": "ko",
-          "title": "🚨 [CRITICAL] 호르무즈 해협 알림",
-          "canonical_url": "https://www.aljazeera.com/opinions/2026/4/4/what-the-iran-iraq-war-can-tell-us-about-the-us-israeli-war-on?traffic_source=rss",
-          "published_at": "2026-04-04T16:56:04+00:00",
-          "title_hash": "1ba172554ef1c7fcb4ab3d83322e6f471392708251d575eb55dfe385f79a6b1c",
-          "keywords": [
-            "critical",
-            "호르무즈",
-            "해협",
-            "알림",
-            "critical 호르무즈",
-            "호르무즈 해협"
-          ]
-        },
-        {
-          "stable_key": "431a3a600ab1d505cef1c123c32b5a3b7464c2728373ee58e7804f1f240398ed",
-          "source_key": "forbes-business-rss",
-          "source_name": "Forbes Business",
-          "category": "us-economy",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "경제",
-          "language": "en",
-          "title": "‘Super Mario Galaxy Movie’ Makes $48 Million On Friday—En Route To Strong Opening Weekend",
-          "canonical_url": "https://www.forbes.com/sites/conormurray/2026/04/04/super-mario-galaxy-movie-makes-48-million-on-friday-en-route-to-strong-opening-weekend",
-          "published_at": "2026-04-04T16:55:40+00:00",
-          "title_hash": "82665d30b067dfbab80ef1bee3356b25db0b72b70d8db9a4124e71a3ecfcddf9",
-          "keywords": [
-            "super",
-            "mario",
-            "galaxy",
-            "movie",
-            "makes",
-            "million"
-          ]
-        },
-        {
-          "stable_key": "cabfd47589664a5d21411f305260823ce45ef3e8202c5363d95665a0585c838f",
-          "source_key": "nypost-feed",
-          "source_name": "New York Post Feed",
-          "category": "us-markets",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "시장",
-          "language": "en",
-          "title": "Caleb Downs isn’t shy about his ‘all-time great’ ceiling in candid conversation with The Post before NFL draft",
-          "canonical_url": "https://nypost.com/2026/04/04/sports/caleb-downs-isnt-shy-about-his-nfl-ceiling-before-draft",
-          "published_at": "2026-04-04T16:54:43+00:00",
-          "title_hash": "f015229ba337151bbc3f80eba2984955ad533462931aedd9462702739f7eed4a",
-          "keywords": [
-            "caleb",
-            "downs",
-            "isn",
-            "shy",
-            "about",
-            "his"
-          ]
-        },
-        {
-          "stable_key": "8d70c77d7193d89fd31b5330eb542d1c108653573f6b00552ad80fb625519ee4",
-          "source_key": "nypost-feed",
-          "source_name": "New York Post Feed",
-          "category": "us-world",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "세계",
-          "language": "en",
-          "title": "Artemis II astronauts are more than halfway to the moon as they seek to break Apollo 13’s record",
-          "canonical_url": "https://nypost.com/2026/04/04/world-news/artemis-ii-astronauts-are-more-than-halfway-to-the-moon-as-they-seek-to-break-apollo-13s-record",
-          "published_at": "2026-04-04T16:54:30+00:00",
-          "title_hash": "c06ddb6ed2f9c1aa79a3134f5bfcdc2b522ce8c2c4816ab035684091ef3859a0",
-          "keywords": [
-            "artemis",
-            "ii",
-            "astronauts",
-            "more",
-            "than",
-            "halfway"
-          ]
-        },
-        {
-          "stable_key": "1b00430e1f74805b23007c6f686a930f67f5d87cccbadb8a517851a4a05c5bc7",
-          "source_key": "nypost-feed",
-          "source_name": "New York Post Feed",
-          "category": "us-markets",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "시장",
-          "language": "en",
-          "title": "Artist fumes after tribute honoring slain Iryna Zarutska gets scrubbed amid woke blowback",
-          "canonical_url": "https://nypost.com/2026/04/04/us-news/artist-fumes-after-tribute-honoring-slain-iryna-zarutska-gets-scrubbed-amid-woke-blowback",
-          "published_at": "2026-04-04T16:54:03+00:00",
-          "title_hash": "7d113e258e7d9617dffc36c08e25d51e1cffb1adc2b8d9b600b7e3106ba74ef3",
-          "keywords": [
-            "artist",
-            "fumes",
-            "after",
-            "tribute",
-            "honoring",
-            "slain"
-          ]
-        },
-        {
-          "stable_key": "90f0ed8cf5d9247a74558b67c8f4b3cedc228aa50e4036f9ed4bc0d07c19df3f",
-          "source_key": "newsweek-feed",
-          "source_name": "Newsweek Feed",
-          "category": "us-technology",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "기술",
-          "language": "en",
-          "title": "IRS Issues ‘Act Now’ Tax Refund Alert Ahead of Filing Deadline",
-          "canonical_url": "https://www.newsweek.com/irs-tax-refund-alert-filing-deadline-11782850",
-          "published_at": "2026-04-04T16:51:47+00:00",
-          "title_hash": "df5324ec6cc36061ffdc3483f5838523baf31b27ea4dfc9f4fc433ddf4ea1ab8",
-          "keywords": [
-            "irs",
-            "issues",
-            "act",
-            "now",
-            "tax",
-            "refund"
-          ]
-        },
-        {
-          "stable_key": "f62eb172f3b834283704825e64793dfafe3efeddd56e2585a03583f1c62b0d5b",
-          "source_key": "nypost-feed",
-          "source_name": "New York Post Feed",
-          "category": "us-technology",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "기술",
-          "language": "en",
-          "title": "Kylie Kelce ripped by fans for groaning about questions on Travis and Taylor Swift’s wedding",
-          "canonical_url": "https://pagesix.com/2026/04/04/entertainment/kylie-kelce-ripped-by-fans-for-groaning-about-questions-on-travis-and-taylor-swifts-wedding",
-          "published_at": "2026-04-04T16:50:12+00:00",
-          "title_hash": "4cd8b9928bc229375401ce59e93ced17c6187462c793d6f11b33861d36db8e17",
-          "keywords": [
-            "kylie",
-            "kelce",
-            "ripped",
-            "fans",
-            "groaning",
-            "about"
-          ]
-        },
-        {
-          "stable_key": "7e0aeb66a3e6db513a58a29f55cd1c2055ef0042c319d7d40039744f22c1cf11",
-          "source_key": "nypost-feed",
-          "source_name": "New York Post Feed",
-          "category": "us-politics",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "정치",
-          "language": "en",
-          "title": "Trump blasts LA homeless agency’s ‘abysmal record’ in plan to slash nearly $400M in federal funds",
-          "canonical_url": "https://nypost.com/2026/04/04/us-news/trump-blasts-la-homeless-agencys-abysmal-record-in-plan-to-slash-nearly-400m-in-federal-funds",
-          "published_at": "2026-04-04T16:50:11+00:00",
-          "title_hash": "6290662c9e836ee2f1c3093bfb10bd23821025b2906e2b3e99a1e146a6ac862d",
-          "keywords": [
-            "trump",
-            "blasts",
-            "la",
-            "homeless",
-            "agency",
-            "abysmal"
-          ]
-        },
-        {
-          "stable_key": "5cf5cf220bbf324a4f854742d6a5cbf14922e2ea1c8ad01aab994bf4742d7fb6",
-          "source_key": "thehill-feed",
-          "source_name": "The Hill Feed",
-          "category": "us-politics",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "정치",
-          "language": "en",
-          "title": "Graham backs Trump’s Iran ultimatum as deadline approaches: ‘Choose wisely’",
-          "canonical_url": "https://thehill.com/homenews/senate/5816309-graham-backs-trump-iran-threats",
-          "published_at": "2026-04-04T16:47:33+00:00",
-          "title_hash": "6af92c921748251b3ccd405cc41c65bbcccfd2a73819f9d3119329dd76dc4abd",
-          "keywords": [
-            "graham",
-            "backs",
-            "trump",
-            "iran",
-            "ultimatum",
-            "deadline"
-          ]
-        },
-        {
-          "stable_key": "5431222bea70aec0805f10ea34739a3f0dcb17c69e980e1145c80a23bfc66b86",
-          "source_key": "coindesk-rss",
-          "source_name": "CoinDesk",
-          "category": "crypto",
-          "hub": "global",
-          "hub_label": "글로벌 전문",
-          "section_label": "코인",
-          "language": "en",
-          "title": "Ex-UK Chancellor backs bitcoin as alternative to failing systems",
-          "canonical_url": "https://www.coindesk.com/markets/2026/04/03/ex-uk-chancellor-backs-bitcoin-as-alternative-to-failing-systems",
-          "published_at": "2026-04-04T16:44:48+00:00",
-          "title_hash": "f09481c637457a23b980ed0e99d81ca9efceeaaca2c9fbe2a55494a4e48eefe1",
-          "keywords": [
-            "ex",
-            "uk",
-            "chancellor",
-            "backs",
-            "bitcoin",
-            "alternative"
-          ]
-        },
-        {
-          "stable_key": "6604241650963dc00368adf934c79a152cc3e309afdbf7105b44712856b1d432",
-          "source_key": "nypost-feed",
-          "source_name": "New York Post Feed",
-          "category": "us-world",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "세계",
-          "language": "en",
-          "title": "Cleanest cruise lines in the world revealed — plus who notched up worst for the grossest reason",
-          "canonical_url": "https://nypost.com/2026/04/04/lifestyle/cleanest-cruise-lines-in-the-world-revealed-but-who-topped-the-list-for-the-most-norovirus-outbreaks",
-          "published_at": "2026-04-04T16:44:16+00:00",
-          "title_hash": "7867b3dda6a302bb96cced48f811353e823378e6848122ebd5d432a6945df995",
-          "keywords": [
-            "cleanest",
-            "cruise",
-            "lines",
-            "world",
-            "revealed",
-            "plus"
-          ]
-        },
-        {
-          "stable_key": "a138e88a12bd9c14b383fbfb7f413aab77d6a1dccb210eebceb10d8a51e3e60b",
-          "source_key": "nyt-world-rss",
-          "source_name": "New York Times World",
-          "category": "us-world",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "세계",
-          "language": "en",
-          "title": "U.S. Fighter Jet Downed Over Iran Was Probably Based at R.A.F. Lakenheath, U.K. Airfield",
-          "canonical_url": "https://www.nytimes.com/2026/04/04/world/middleeast/iran-war-fighter-jet-f15-raf-lakenheath.html",
-          "published_at": "2026-04-04T16:43:42+00:00",
-          "title_hash": "fe47f9154311b37c0583e9323232d310c8075ba2c7ec3879af5248b51f1d7b81",
-          "keywords": [
-            "fighter",
-            "jet",
-            "downed",
-            "over",
-            "iran",
-            "probably"
           ]
         }
       ]
