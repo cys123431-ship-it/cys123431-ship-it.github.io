@@ -1,0 +1,1185 @@
+{
+  "generated_at": "2026-04-04T12:30:46.554335+00:00",
+  "top_cards": [
+    {
+      "label": "US stocks tracked",
+      "value": 100,
+      "detail": "Using public Finviz fallback because NEWSBOT_FMP_API_KEY is not configured. Public Finviz snapshot is capped at the top 100 stocks to avoid rate limits.",
+      "status": "ok"
+    },
+    {
+      "label": "Crypto assets tracked",
+      "value": 120,
+      "detail": "coingecko",
+      "status": "ok"
+    },
+    {
+      "label": "Stock advancers",
+      "value": 52,
+      "detail": "Decliners 48",
+      "status": "ok"
+    },
+    {
+      "label": "Crypto advancers",
+      "value": 47,
+      "detail": "Decliners 69",
+      "status": "ok"
+    }
+  ],
+  "status": {
+    "generated_at": "2026-04-04T12:30:46.554335+00:00",
+    "overall_status": "ok",
+    "providers": {
+      "stocks": {
+        "status": "ok",
+        "stale": false,
+        "provider": "finviz-public",
+        "message": "Using public Finviz fallback because NEWSBOT_FMP_API_KEY is not configured. Public Finviz snapshot is capped at the top 100 stocks to avoid rate limits.",
+        "as_of": "2026-04-04T12:30:46.554335+00:00",
+        "row_count": 100
+      },
+      "crypto": {
+        "status": "ok",
+        "stale": false,
+        "provider": "coingecko",
+        "message": null,
+        "as_of": "2026-04-04T12:30:04.619Z",
+        "row_count": 120
+      }
+    }
+  },
+  "stocks": {
+    "status": "ok",
+    "stale": false,
+    "message": "Using public Finviz fallback because NEWSBOT_FMP_API_KEY is not configured. Public Finviz snapshot is capped at the top 100 stocks to avoid rate limits.",
+    "benchmarks": [
+      {
+        "asset_type": "stock",
+        "symbol": "SPY",
+        "name": "SPDR S&P 500 ETF TRUST",
+        "exchange": "US",
+        "country": "USA",
+        "sector_or_category": "Benchmark",
+        "industry": "ETF",
+        "last": 655.83,
+        "change_pct": 0.09,
+        "market_cap": null,
+        "volume": 67950074.0,
+        "avg_volume": 89.53,
+        "pe": null,
+        "dividend_yield": null,
+        "as_of": "2026-04-04T12:30:46.554335+00:00",
+        "detail_url": "https://finviz.com/quote.ashx?t=SPY&p=d",
+        "high_52w": 697.84,
+        "low_52w": 481.8
+      },
+      {
+        "asset_type": "stock",
+        "symbol": "QQQ",
+        "name": "Invesco QQQ Trust Series 1",
+        "exchange": "US",
+        "country": "USA",
+        "sector_or_category": "Benchmark",
+        "industry": "ETF",
+        "last": 584.98,
+        "change_pct": 0.11,
+        "market_cap": null,
+        "volume": 50542221.0,
+        "avg_volume": 66.15,
+        "pe": null,
+        "dividend_yield": null,
+        "as_of": "2026-04-04T12:30:46.554335+00:00",
+        "detail_url": "https://finviz.com/quote.ashx?t=QQQ&p=d",
+        "high_52w": 637.01,
+        "low_52w": 402.39
+      },
+      {
+        "asset_type": "stock",
+        "symbol": "DIA",
+        "name": "Spdr Dow Jones Industrial Average ETF Trust",
+        "exchange": "US",
+        "country": "USA",
+        "sector_or_category": "Benchmark",
+        "industry": "ETF",
+        "last": 465.06,
+        "change_pct": -0.09,
+        "market_cap": null,
+        "volume": 3804420.0,
+        "avg_volume": 7.27,
+        "pe": null,
+        "dividend_yield": null,
+        "as_of": "2026-04-04T12:30:46.554335+00:00",
+        "detail_url": "https://finviz.com/quote.ashx?t=DIA&p=d",
+        "high_52w": 505.3,
+        "low_52w": 366.32
+      },
+      {
+        "asset_type": "stock",
+        "symbol": "IWM",
+        "name": "iShares Russell 2000 ETF",
+        "exchange": "US",
+        "country": "USA",
+        "sector_or_category": "Benchmark",
+        "industry": "ETF",
+        "last": 251.29,
+        "change_pct": 0.69,
+        "market_cap": null,
+        "volume": 30169638.0,
+        "avg_volume": 45.09,
+        "pe": null,
+        "dividend_yield": null,
+        "as_of": "2026-04-04T12:30:46.554335+00:00",
+        "detail_url": "https://finviz.com/quote.ashx?t=IWM&p=d",
+        "high_52w": 271.6,
+        "low_52w": 171.73
+      }
+    ],
+    "breadth": {
+      "advancers": 52,
+      "decliners": 48,
+      "unchanged": 0,
+      "new_highs": 0,
+      "new_lows": 0
+    },
+    "top_gainers": [
+      {
+        "symbol": "INTC",
+        "name": "Intel Corp",
+        "change_pct": 4.89,
+        "last": 50.38,
+        "market_cap": 251650000000.0,
+        "volume": 116777096.0,
+        "detail_url": "https://finviz.com/quote.ashx?t=INTC&p=d"
+      },
+      {
+        "symbol": "AMD",
+        "name": "Advanced Micro Devices Inc",
+        "change_pct": 3.47,
+        "last": 217.5,
+        "market_cap": 354610000000.0,
+        "volume": 38260180.0,
+        "detail_url": "https://finviz.com/quote.ashx?t=AMD&p=d"
+      },
+      {
+        "symbol": "NFLX",
+        "name": "Netflix Inc",
+        "change_pct": 3.25,
+        "last": 98.66,
+        "market_cap": 416560000000.0,
+        "volume": 36802920.0,
+        "detail_url": "https://finviz.com/quote.ashx?t=NFLX&p=d"
+      },
+      {
+        "symbol": "TTE",
+        "name": "TotalEnergies SE",
+        "change_pct": 2.91,
+        "last": 92.39,
+        "market_cap": 196300000000.0,
+        "volume": 2799719.0,
+        "detail_url": "https://finviz.com/quote.ashx?t=TTE&p=d"
+      },
+      {
+        "symbol": "IBM",
+        "name": "International Business Machines Corp",
+        "change_pct": 2.06,
+        "last": 248.16,
+        "market_cap": 232780000000.0,
+        "volume": 3223365.0,
+        "detail_url": "https://finviz.com/quote.ashx?t=IBM&p=d"
+      },
+      {
+        "symbol": "COST",
+        "name": "Costco Wholesale Corp",
+        "change_pct": 1.85,
+        "last": 1014.96,
+        "market_cap": 450290000000.0,
+        "volume": 1824303.0,
+        "detail_url": "https://finviz.com/quote.ashx?t=COST&p=d"
+      }
+    ],
+    "top_losers": [
+      {
+        "symbol": "TSLA",
+        "name": "Tesla Inc",
+        "change_pct": -5.42,
+        "last": 360.59,
+        "market_cap": 1353090000000.0,
+        "volume": 82517479.0,
+        "detail_url": "https://finviz.com/quote.ashx?t=TSLA&p=d"
+      },
+      {
+        "symbol": "GE",
+        "name": "GE Aerospace",
+        "change_pct": -3.94,
+        "last": 281.16,
+        "market_cap": 294880000000.0,
+        "volume": 5310111.0,
+        "detail_url": "https://finviz.com/quote.ashx?t=GE&p=d"
+      },
+      {
+        "symbol": "ARM",
+        "name": "Arm Holdings plc. ADR",
+        "change_pct": -3.84,
+        "last": 149.11,
+        "market_cap": 158350000000.0,
+        "volume": 8141912.0,
+        "detail_url": "https://finviz.com/quote.ashx?t=ARM&p=d"
+      },
+      {
+        "symbol": "ASML",
+        "name": "ASML Holding NV",
+        "change_pct": -3.13,
+        "last": 1317.23,
+        "market_cap": 507690000000.0,
+        "volume": 1880920.0,
+        "detail_url": "https://finviz.com/quote.ashx?t=ASML&p=d"
+      },
+      {
+        "symbol": "ABBV",
+        "name": "Abbvie Inc",
+        "change_pct": -2.86,
+        "last": 208.84,
+        "market_cap": 369260000000.0,
+        "volume": 5083736.0,
+        "detail_url": "https://finviz.com/quote.ashx?t=ABBV&p=d"
+      },
+      {
+        "symbol": "ISRG",
+        "name": "Intuitive Surgical Inc",
+        "change_pct": -2.67,
+        "last": 452.07,
+        "market_cap": 160540000000.0,
+        "volume": 1644245.0,
+        "detail_url": "https://finviz.com/quote.ashx?t=ISRG&p=d"
+      }
+    ],
+    "most_active": [
+      {
+        "symbol": "NVDA",
+        "name": "NVIDIA Corp",
+        "change_pct": 0.93,
+        "last": 177.39,
+        "market_cap": 4310580000000.0,
+        "volume": 141787111.0,
+        "detail_url": "https://finviz.com/quote.ashx?t=NVDA&p=d"
+      },
+      {
+        "symbol": "INTC",
+        "name": "Intel Corp",
+        "change_pct": 4.89,
+        "last": 50.38,
+        "market_cap": 251650000000.0,
+        "volume": 116777096.0,
+        "detail_url": "https://finviz.com/quote.ashx?t=INTC&p=d"
+      },
+      {
+        "symbol": "TSLA",
+        "name": "Tesla Inc",
+        "change_pct": -5.42,
+        "last": 360.59,
+        "market_cap": 1353090000000.0,
+        "volume": 82517479.0,
+        "detail_url": "https://finviz.com/quote.ashx?t=TSLA&p=d"
+      },
+      {
+        "symbol": "MU",
+        "name": "Micron Technology Inc",
+        "change_pct": -0.44,
+        "last": 366.24,
+        "market_cap": 413020000000.0,
+        "volume": 51254239.0,
+        "detail_url": "https://finviz.com/quote.ashx?t=MU&p=d"
+      },
+      {
+        "symbol": "AMD",
+        "name": "Advanced Micro Devices Inc",
+        "change_pct": 3.47,
+        "last": 217.5,
+        "market_cap": 354610000000.0,
+        "volume": 38260180.0,
+        "detail_url": "https://finviz.com/quote.ashx?t=AMD&p=d"
+      },
+      {
+        "symbol": "NFLX",
+        "name": "Netflix Inc",
+        "change_pct": 3.25,
+        "last": 98.66,
+        "market_cap": 416560000000.0,
+        "volume": 36802920.0,
+        "detail_url": "https://finviz.com/quote.ashx?t=NFLX&p=d"
+      }
+    ],
+    "group_performance": [
+      {
+        "label": "Technology",
+        "market_cap": 19436340000000.0,
+        "count": 27,
+        "change_pct": 0.409941084586913
+      },
+      {
+        "label": "Communication Services",
+        "market_cap": 9811060000000.0,
+        "count": 8,
+        "change_pct": -0.26354806718132395
+      },
+      {
+        "label": "Financial",
+        "market_cap": 5872270000000.0,
+        "count": 18,
+        "change_pct": -0.05713800625652431
+      },
+      {
+        "label": "Consumer Cyclical",
+        "market_cap": 4736680000000.0,
+        "count": 7,
+        "change_pct": -2.0167028171630763
+      },
+      {
+        "label": "Healthcare",
+        "market_cap": 4166100000000.0,
+        "count": 14,
+        "change_pct": -0.8244308345935047
+      },
+      {
+        "label": "Consumer Defensive",
+        "market_cap": 2576390000000.0,
+        "count": 6,
+        "change_pct": 0.845617744207981
+      },
+      {
+        "label": "Industrials",
+        "market_cap": 2027630000000.0,
+        "count": 10,
+        "change_pct": -0.5547765617987502
+      },
+      {
+        "label": "Energy",
+        "market_cap": 1683960000000.0,
+        "count": 5,
+        "change_pct": 0.8399982184849997
+      }
+    ],
+    "heatmap": [
+      {
+        "label": "NVDA",
+        "subLabel": "Technology",
+        "change_pct": 0.93,
+        "value": 4310580000000.0,
+        "size": 4,
+        "detail_url": "https://finviz.com/quote.ashx?t=NVDA&p=d"
+      },
+      {
+        "label": "AAPL",
+        "subLabel": "Technology",
+        "change_pct": 0.11,
+        "value": 3757200000000.0,
+        "size": 4,
+        "detail_url": "https://finviz.com/quote.ashx?t=AAPL&p=d"
+      },
+      {
+        "label": "GOOGL",
+        "subLabel": "Communication Services",
+        "change_pct": -0.54,
+        "value": 3570810000000.0,
+        "size": 4,
+        "detail_url": "https://finviz.com/quote.ashx?t=GOOGL&p=d"
+      },
+      {
+        "label": "GOOG",
+        "subLabel": "Communication Services",
+        "change_pct": -0.15,
+        "value": 3570810000000.0,
+        "size": 4,
+        "detail_url": "https://finviz.com/quote.ashx?t=GOOG&p=d"
+      },
+      {
+        "label": "MSFT",
+        "subLabel": "Technology",
+        "change_pct": 1.11,
+        "value": 2773180000000.0,
+        "size": 3,
+        "detail_url": "https://finviz.com/quote.ashx?t=MSFT&p=d"
+      },
+      {
+        "label": "AMZN",
+        "subLabel": "Consumer Cyclical",
+        "change_pct": -0.38,
+        "value": 2251860000000.0,
+        "size": 3,
+        "detail_url": "https://finviz.com/quote.ashx?t=AMZN&p=d"
+      },
+      {
+        "label": "TSM",
+        "subLabel": "Technology",
+        "change_pct": -0.72,
+        "value": 1758430000000.0,
+        "size": 2,
+        "detail_url": "https://finviz.com/quote.ashx?t=TSM&p=d"
+      },
+      {
+        "label": "AVGO",
+        "subLabel": "Technology",
+        "change_pct": 0.34,
+        "value": 1489290000000.0,
+        "size": 2,
+        "detail_url": "https://finviz.com/quote.ashx?t=AVGO&p=d"
+      },
+      {
+        "label": "META",
+        "subLabel": "Communication Services",
+        "change_pct": -0.82,
+        "value": 1453130000000.0,
+        "size": 2,
+        "detail_url": "https://finviz.com/quote.ashx?t=META&p=d"
+      },
+      {
+        "label": "TSLA",
+        "subLabel": "Consumer Cyclical",
+        "change_pct": -5.42,
+        "value": 1353090000000.0,
+        "size": 2,
+        "detail_url": "https://finviz.com/quote.ashx?t=TSLA&p=d"
+      },
+      {
+        "label": "BRK-B",
+        "subLabel": "Financial",
+        "change_pct": -0.24,
+        "value": 1029190000000.0,
+        "size": 1,
+        "detail_url": "https://finviz.com/quote.ashx?t=BRK-B&p=d"
+      },
+      {
+        "label": "WMT",
+        "subLabel": "Consumer Defensive",
+        "change_pct": 0.84,
+        "value": 1002850000000.0,
+        "size": 1,
+        "detail_url": "https://finviz.com/quote.ashx?t=WMT&p=d"
+      },
+      {
+        "label": "LLY",
+        "subLabel": "Healthcare",
+        "change_pct": -1.98,
+        "value": 883950000000.0,
+        "size": 1,
+        "detail_url": "https://finviz.com/quote.ashx?t=LLY&p=d"
+      },
+      {
+        "label": "JPM",
+        "subLabel": "Financial",
+        "change_pct": -0.26,
+        "value": 794550000000.0,
+        "size": 1,
+        "detail_url": "https://finviz.com/quote.ashx?t=JPM&p=d"
+      },
+      {
+        "label": "XOM",
+        "subLabel": "Energy",
+        "change_pct": -0.06,
+        "value": 669560000000.0,
+        "size": 1,
+        "detail_url": "https://finviz.com/quote.ashx?t=XOM&p=d"
+      },
+      {
+        "label": "JNJ",
+        "subLabel": "Healthcare",
+        "change_pct": -0.44,
+        "value": 585390000000.0,
+        "size": 1,
+        "detail_url": "https://finviz.com/quote.ashx?t=JNJ&p=d"
+      },
+      {
+        "label": "V",
+        "subLabel": "Financial",
+        "change_pct": 0.77,
+        "value": 573330000000.0,
+        "size": 1,
+        "detail_url": "https://finviz.com/quote.ashx?t=V&p=d"
+      },
+      {
+        "label": "ASML",
+        "subLabel": "Technology",
+        "change_pct": -3.13,
+        "value": 507690000000.0,
+        "size": 1,
+        "detail_url": "https://finviz.com/quote.ashx?t=ASML&p=d"
+      },
+      {
+        "label": "COST",
+        "subLabel": "Consumer Defensive",
+        "change_pct": 1.85,
+        "value": 450290000000.0,
+        "size": 1,
+        "detail_url": "https://finviz.com/quote.ashx?t=COST&p=d"
+      },
+      {
+        "label": "MA",
+        "subLabel": "Financial",
+        "change_pct": 0.36,
+        "value": 440060000000.0,
+        "size": 1,
+        "detail_url": "https://finviz.com/quote.ashx?t=MA&p=d"
+      },
+      {
+        "label": "ORCL",
+        "subLabel": "Technology",
+        "change_pct": 0.79,
+        "value": 421000000000.0,
+        "size": 1,
+        "detail_url": "https://finviz.com/quote.ashx?t=ORCL&p=d"
+      },
+      {
+        "label": "NFLX",
+        "subLabel": "Communication Services",
+        "change_pct": 3.25,
+        "value": 416560000000.0,
+        "size": 1,
+        "detail_url": "https://finviz.com/quote.ashx?t=NFLX&p=d"
+      },
+      {
+        "label": "MU",
+        "subLabel": "Technology",
+        "change_pct": -0.44,
+        "value": 413020000000.0,
+        "size": 1,
+        "detail_url": "https://finviz.com/quote.ashx?t=MU&p=d"
+      },
+      {
+        "label": "CVX",
+        "subLabel": "Energy",
+        "change_pct": 0.79,
+        "value": 397020000000.0,
+        "size": 1,
+        "detail_url": "https://finviz.com/quote.ashx?t=CVX&p=d"
+      }
+    ]
+  },
+  "crypto": {
+    "status": "ok",
+    "stale": false,
+    "message": null,
+    "benchmarks": [
+      {
+        "asset_type": "crypto",
+        "symbol": "BTC",
+        "name": "Bitcoin",
+        "exchange": "CoinGecko",
+        "country": "Global",
+        "sector_or_category": "",
+        "industry": "Crypto",
+        "last": 67106.0,
+        "change_pct": 0.26695,
+        "market_cap": 1343172280270.0,
+        "volume": 21516593321.0,
+        "avg_volume": null,
+        "pe": null,
+        "dividend_yield": null,
+        "as_of": "2026-04-04T12:30:01.990Z",
+        "detail_url": "https://www.coingecko.com/en/coins/bitcoin",
+        "high_52w": 67171.0,
+        "low_52w": 66559.0
+      },
+      {
+        "asset_type": "crypto",
+        "symbol": "ETH",
+        "name": "Ethereum",
+        "exchange": "CoinGecko",
+        "country": "Global",
+        "sector_or_category": "",
+        "industry": "Crypto",
+        "last": 2051.28,
+        "change_pct": -0.43068,
+        "market_cap": 247623927830.0,
+        "volume": 6564150488.0,
+        "avg_volume": null,
+        "pe": null,
+        "dividend_yield": null,
+        "as_of": "2026-04-04T12:30:02.372Z",
+        "detail_url": "https://www.coingecko.com/en/coins/ethereum",
+        "high_52w": 2060.15,
+        "low_52w": 2044.16
+      },
+      {
+        "asset_type": "crypto",
+        "symbol": "XRP",
+        "name": "XRP",
+        "exchange": "CoinGecko",
+        "country": "Global",
+        "sector_or_category": "",
+        "industry": "Crypto",
+        "last": 1.31,
+        "change_pct": -1.07895,
+        "market_cap": 80490447436.0,
+        "volume": 918262591.0,
+        "avg_volume": null,
+        "pe": null,
+        "dividend_yield": null,
+        "as_of": "2026-04-04T12:30:04.506Z",
+        "detail_url": "https://www.coingecko.com/en/coins/ripple",
+        "high_52w": 1.33,
+        "low_52w": 1.31
+      },
+      {
+        "asset_type": "crypto",
+        "symbol": "SOL",
+        "name": "Solana",
+        "exchange": "CoinGecko",
+        "country": "Global",
+        "sector_or_category": "",
+        "industry": "Crypto",
+        "last": 80.2,
+        "change_pct": 0.05884,
+        "market_cap": 45945585817.0,
+        "volume": 1722153406.0,
+        "avg_volume": null,
+        "pe": null,
+        "dividend_yield": null,
+        "as_of": "2026-04-04T12:30:04.554Z",
+        "detail_url": "https://www.coingecko.com/en/coins/solana",
+        "high_52w": 80.54,
+        "low_52w": 79.26
+      }
+    ],
+    "breadth": {
+      "advancers": 47,
+      "decliners": 69,
+      "unchanged": 4,
+      "new_highs": 56,
+      "new_lows": 52
+    },
+    "top_gainers": [
+      {
+        "symbol": "DEXE",
+        "name": "DeXe",
+        "change_pct": 9.41309,
+        "last": 8.82,
+        "market_cap": 412518601.0,
+        "volume": 13488096.0,
+        "detail_url": "https://www.coingecko.com/en/coins/dexe"
+      },
+      {
+        "symbol": "VET",
+        "name": "VeChain",
+        "change_pct": 8.88989,
+        "last": 0.00760713,
+        "market_cap": 656675830.0,
+        "volume": 33759954.0,
+        "detail_url": "https://www.coingecko.com/en/coins/vechain"
+      },
+      {
+        "symbol": "ETC",
+        "name": "Ethereum Classic",
+        "change_pct": 5.30976,
+        "last": 8.46,
+        "market_cap": 1318607984.0,
+        "volume": 42084122.0,
+        "detail_url": "https://www.coingecko.com/en/coins/ethereum-classic"
+      },
+      {
+        "symbol": "CAKE",
+        "name": "PancakeSwap",
+        "change_pct": 5.14459,
+        "last": 1.41,
+        "market_cap": 483106883.0,
+        "volume": 28635017.0,
+        "detail_url": "https://www.coingecko.com/en/coins/pancakeswap-token"
+      },
+      {
+        "symbol": "ALGO",
+        "name": "Algorand",
+        "change_pct": 3.70189,
+        "last": 0.124057,
+        "market_cap": 1102049531.0,
+        "volume": 148992760.0,
+        "detail_url": "https://www.coingecko.com/en/coins/algorand"
+      },
+      {
+        "symbol": "XDC",
+        "name": "XDC Network",
+        "change_pct": 3.2367,
+        "last": 0.03107454,
+        "market_cap": 622675695.0,
+        "volume": 16107971.0,
+        "detail_url": "https://www.coingecko.com/en/coins/xdce-crowd-sale"
+      }
+    ],
+    "top_losers": [
+      {
+        "symbol": "NIGHT",
+        "name": "Midnight",
+        "change_pct": -4.61312,
+        "last": 0.042091,
+        "market_cap": 698912498.0,
+        "volume": 69220497.0,
+        "detail_url": "https://www.coingecko.com/en/coins/midnight-3"
+      },
+      {
+        "symbol": "STABLE",
+        "name": "​​Stable",
+        "change_pct": -4.36364,
+        "last": 0.02690311,
+        "market_cap": 578012470.0,
+        "volume": 16125887.0,
+        "detail_url": "https://www.coingecko.com/en/coins/stable-2"
+      },
+      {
+        "symbol": "QNT",
+        "name": "Quant",
+        "change_pct": -3.33662,
+        "last": 73.73,
+        "market_cap": 1072290717.0,
+        "volume": 12627909.0,
+        "detail_url": "https://www.coingecko.com/en/coins/quant-network"
+      },
+      {
+        "symbol": "WLD",
+        "name": "Worldcoin",
+        "change_pct": -3.26203,
+        "last": 0.263686,
+        "market_cap": 853884945.0,
+        "volume": 59112305.0,
+        "detail_url": "https://www.coingecko.com/en/coins/worldcoin-wld"
+      },
+      {
+        "symbol": "XTZ",
+        "name": "Tezos",
+        "change_pct": -2.93408,
+        "last": 0.344107,
+        "market_cap": 372444801.0,
+        "volume": 10989095.0,
+        "detail_url": "https://www.coingecko.com/en/coins/tezos"
+      },
+      {
+        "symbol": "XMR",
+        "name": "Monero",
+        "change_pct": -2.79489,
+        "last": 315.8,
+        "market_cap": 5827259690.0,
+        "volume": 71576390.0,
+        "detail_url": "https://www.coingecko.com/en/coins/monero"
+      }
+    ],
+    "most_active": [
+      {
+        "symbol": "USDT",
+        "name": "Tether",
+        "change_pct": -0.00539,
+        "last": 0.999886,
+        "market_cap": 184148544532.0,
+        "volume": 33434799793.0,
+        "detail_url": "https://www.coingecko.com/en/coins/tether"
+      },
+      {
+        "symbol": "BTC",
+        "name": "Bitcoin",
+        "change_pct": 0.26695,
+        "last": 67106.0,
+        "market_cap": 1343172280270.0,
+        "volume": 21516593321.0,
+        "detail_url": "https://www.coingecko.com/en/coins/bitcoin"
+      },
+      {
+        "symbol": "ETH",
+        "name": "Ethereum",
+        "change_pct": -0.43068,
+        "last": 2051.28,
+        "market_cap": 247623927830.0,
+        "volume": 6564150488.0,
+        "detail_url": "https://www.coingecko.com/en/coins/ethereum"
+      },
+      {
+        "symbol": "USDC",
+        "name": "USDC",
+        "change_pct": 0.02498,
+        "last": 1.0,
+        "market_cap": 77534382436.0,
+        "volume": 4607778929.0,
+        "detail_url": "https://www.coingecko.com/en/coins/usd-coin"
+      },
+      {
+        "symbol": "SOL",
+        "name": "Solana",
+        "change_pct": 0.05884,
+        "last": 80.2,
+        "market_cap": 45945585817.0,
+        "volume": 1722153406.0,
+        "detail_url": "https://www.coingecko.com/en/coins/solana"
+      },
+      {
+        "symbol": "XRP",
+        "name": "XRP",
+        "change_pct": -1.07895,
+        "last": 1.31,
+        "market_cap": 80490447436.0,
+        "volume": 918262591.0,
+        "detail_url": "https://www.coingecko.com/en/coins/ripple"
+      }
+    ],
+    "group_performance": [
+      {
+        "label": "Smart Contract Platform",
+        "market_cap": 1952337495651.5579,
+        "change_pct": 0.30048382666233897,
+        "volume": 36268572200.580956
+      },
+      {
+        "label": "Layer 1 (L1)",
+        "market_cap": 1921181210833.4634,
+        "change_pct": 0.28999767255490927,
+        "volume": 34742053316.545334
+      },
+      {
+        "label": "Proof of Work (PoW)",
+        "market_cap": 1385357876216.078,
+        "change_pct": 0.29021055435054577,
+        "volume": 22724571489.54556
+      },
+      {
+        "label": "World Liberty Financial Portfolio",
+        "market_cap": 560105395319.2762,
+        "change_pct": -0.015443693374072014,
+        "volume": 46147541381.3849
+      },
+      {
+        "label": "Proof of Stake (PoS)",
+        "market_cap": 444847197685.9754,
+        "change_pct": 0.3756492390764041,
+        "volume": 10888497187.387173
+      },
+      {
+        "label": "Stablecoins",
+        "market_cap": 311007891864.1429,
+        "change_pct": 0.22523929461321182,
+        "volume": 39882559618.84722
+      },
+      {
+        "label": "USD Stablecoin",
+        "market_cap": 306069726199.48145,
+        "change_pct": 0.2364866992188627,
+        "volume": 39652127025.37306
+      },
+      {
+        "label": "Fiat-backed Stablecoin",
+        "market_cap": 299743467892.0904,
+        "change_pct": 0.2107936585668708,
+        "volume": 38982714190.26785
+      }
+    ],
+    "heatmap": [
+      {
+        "label": "Smart Contract Platform",
+        "subLabel": "Category",
+        "change_pct": 0.30048382666233897,
+        "value": 1952337495651.5579,
+        "size": 4,
+        "detail_url": "https://www.coingecko.com/en/categories"
+      },
+      {
+        "label": "Layer 1 (L1)",
+        "subLabel": "Category",
+        "change_pct": 0.28999767255490927,
+        "value": 1921181210833.4634,
+        "size": 4,
+        "detail_url": "https://www.coingecko.com/en/categories"
+      },
+      {
+        "label": "Proof of Work (PoW)",
+        "subLabel": "Category",
+        "change_pct": 0.29021055435054577,
+        "value": 1385357876216.078,
+        "size": 3,
+        "detail_url": "https://www.coingecko.com/en/categories"
+      },
+      {
+        "label": "World Liberty Financial Portfolio",
+        "subLabel": "Category",
+        "change_pct": -0.015443693374072014,
+        "value": 560105395319.2762,
+        "size": 2,
+        "detail_url": "https://www.coingecko.com/en/categories"
+      },
+      {
+        "label": "Proof of Stake (PoS)",
+        "subLabel": "Category",
+        "change_pct": 0.3756492390764041,
+        "value": 444847197685.9754,
+        "size": 1,
+        "detail_url": "https://www.coingecko.com/en/categories"
+      },
+      {
+        "label": "Stablecoins",
+        "subLabel": "Category",
+        "change_pct": 0.22523929461321182,
+        "value": 311007891864.1429,
+        "size": 1,
+        "detail_url": "https://www.coingecko.com/en/categories"
+      },
+      {
+        "label": "USD Stablecoin",
+        "subLabel": "Category",
+        "change_pct": 0.2364866992188627,
+        "value": 306069726199.48145,
+        "size": 1,
+        "detail_url": "https://www.coingecko.com/en/categories"
+      },
+      {
+        "label": "Fiat-backed Stablecoin",
+        "subLabel": "Category",
+        "change_pct": 0.2107936585668708,
+        "value": 299743467892.0904,
+        "size": 1,
+        "detail_url": "https://www.coingecko.com/en/categories"
+      },
+      {
+        "label": "Made in USA",
+        "subLabel": "Category",
+        "change_pct": 0.49521006527390393,
+        "value": 294512799645.1088,
+        "size": 1,
+        "detail_url": "https://www.coingecko.com/en/categories"
+      },
+      {
+        "label": "Exchange-based Tokens",
+        "subLabel": "Category",
+        "change_pct": 0.8914037508012852,
+        "value": 129921442112.27977,
+        "size": 1,
+        "detail_url": "https://www.coingecko.com/en/categories"
+      },
+      {
+        "label": "Made in China",
+        "subLabel": "Category",
+        "change_pct": 1.2461475985331827,
+        "value": 122943440244.05481,
+        "size": 1,
+        "detail_url": "https://www.coingecko.com/en/categories"
+      },
+      {
+        "label": "Alleged SEC Securities",
+        "subLabel": "Category",
+        "change_pct": 1.0187458381474546,
+        "value": 120772519183.36801,
+        "size": 1,
+        "detail_url": "https://www.coingecko.com/en/categories"
+      },
+      {
+        "label": "Base Native",
+        "subLabel": "Category",
+        "change_pct": 0.6159200469431445,
+        "value": 118021302506.56546,
+        "size": 1,
+        "detail_url": "https://www.coingecko.com/en/categories"
+      },
+      {
+        "label": "Centralized Exchange (CEX) Token",
+        "subLabel": "Category",
+        "change_pct": 0.804620474704811,
+        "value": 112309999857.4163,
+        "size": 1,
+        "detail_url": "https://www.coingecko.com/en/categories"
+      },
+      {
+        "label": "MiCA-Compliant Stablecoin",
+        "subLabel": "Category",
+        "change_pct": 0.42595058946528147,
+        "value": 78186301711.70966,
+        "size": 1,
+        "detail_url": "https://www.coingecko.com/en/categories"
+      },
+      {
+        "label": "Real World Assets (RWA)",
+        "subLabel": "Category",
+        "change_pct": 0.9210680871901646,
+        "value": 54325416500.19091,
+        "size": 1,
+        "detail_url": "https://www.coingecko.com/en/categories"
+      },
+      {
+        "label": "CoinList Launchpad",
+        "subLabel": "Category",
+        "change_pct": 1.9529730876612292,
+        "value": 53201109298.513054,
+        "size": 1,
+        "detail_url": "https://www.coingecko.com/en/categories"
+      },
+      {
+        "label": "Decentralized Finance (DeFi)",
+        "subLabel": "Category",
+        "change_pct": 0.6475642870269259,
+        "value": 49392579473.325874,
+        "size": 1,
+        "detail_url": "https://www.coingecko.com/en/categories"
+      },
+      {
+        "label": "Meme",
+        "subLabel": "Category",
+        "change_pct": -24.126273313533666,
+        "value": 33106558854.155804,
+        "size": 1,
+        "detail_url": "https://www.coingecko.com/en/categories"
+      },
+      {
+        "label": "Governance",
+        "subLabel": "Category",
+        "change_pct": 1.1995936856631986,
+        "value": 25747841995.9512,
+        "size": 1,
+        "detail_url": "https://www.coingecko.com/en/categories"
+      },
+      {
+        "label": "Artificial Intelligence (AI)",
+        "subLabel": "Category",
+        "change_pct": 2.5661572933835917,
+        "value": 21395430115.69363,
+        "size": 1,
+        "detail_url": "https://www.coingecko.com/en/categories"
+      },
+      {
+        "label": "Infrastructure",
+        "subLabel": "Category",
+        "change_pct": 1.6434735384619112,
+        "value": 20741134961.778877,
+        "size": 1,
+        "detail_url": "https://www.coingecko.com/en/categories"
+      },
+      {
+        "label": "Dog-Themed",
+        "subLabel": "Category",
+        "change_pct": 0.6222448170418291,
+        "value": 18967548599.31247,
+        "size": 1,
+        "detail_url": "https://www.coingecko.com/en/categories"
+      },
+      {
+        "label": "Privacy",
+        "subLabel": "Category",
+        "change_pct": 0.195469021689908,
+        "value": 18601072215.487545,
+        "size": 1,
+        "detail_url": "https://www.coingecko.com/en/categories"
+      }
+    ],
+    "trending": [
+      {
+        "symbol": "SIREN",
+        "name": "Siren",
+        "market_cap_rank": 173,
+        "detail_url": "https://www.coingecko.com/en/coins/siren-2"
+      },
+      {
+        "symbol": "EDGE",
+        "name": "edgeX",
+        "market_cap_rank": 119,
+        "detail_url": "https://www.coingecko.com/en/coins/edgex"
+      },
+      {
+        "symbol": "HYPE",
+        "name": "Hyperliquid",
+        "market_cap_rank": 16,
+        "detail_url": "https://www.coingecko.com/en/coins/hyperliquid"
+      },
+      {
+        "symbol": "MON",
+        "name": "Monad",
+        "market_cap_rank": 128,
+        "detail_url": "https://www.coingecko.com/en/coins/monad"
+      },
+      {
+        "symbol": "PIPPIN",
+        "name": "pippin",
+        "market_cap_rank": 530,
+        "detail_url": "https://www.coingecko.com/en/coins/pippin"
+      },
+      {
+        "symbol": "BTC",
+        "name": "Bitcoin",
+        "market_cap_rank": 1,
+        "detail_url": "https://www.coingecko.com/en/coins/bitcoin"
+      },
+      {
+        "symbol": "PUFFER",
+        "name": "Puffer",
+        "market_cap_rank": 936,
+        "detail_url": "https://www.coingecko.com/en/coins/puffer"
+      },
+      {
+        "symbol": "SUI",
+        "name": "Sui",
+        "market_cap_rank": 32,
+        "detail_url": "https://www.coingecko.com/en/coins/sui"
+      }
+    ]
+  },
+  "market_news": [
+    {
+      "title": "Search for Missing US Airman in Iran",
+      "source_name": "Bloomberg Markets",
+      "canonical_url": "https://www.bloomberg.com/news/videos/2026-04-04/search-for-missing-us-airman-in-iran-video",
+      "published_at": "2026-04-04T12:21:51+00:00",
+      "section_label": "시장"
+    },
+    {
+      "title": "[디지털투데이] 구글 연구진, 체인별 ‘양자공격’ 취약 구간 정리…비트코인은 송금 중 위험",
+      "source_name": "Telegram @dada_news2",
+      "canonical_url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=653620",
+      "published_at": "2026-04-04T12:06:50+00:00",
+      "section_label": "코인"
+    },
+    {
+      "title": "Solana's quantum-threat readiness reveals harsh tradeoff: security vs speed",
+      "source_name": "CoinDesk",
+      "canonical_url": "https://www.coindesk.com/tech/2026/04/04/solana-s-quantum-threat-readiness-reveals-harsh-tradeoff-security-vs-speed",
+      "published_at": "2026-04-04T12:00:00+00:00",
+      "section_label": "코인"
+    },
+    {
+      "title": "The US should shape the global climate adaptation market",
+      "source_name": "The Hill Feed",
+      "canonical_url": "https://thehill.com/opinion/energy-environment/5814681-climate-adaptation-investment-gap",
+      "published_at": "2026-04-04T12:00:00+00:00",
+      "section_label": "시장"
+    },
+    {
+      "title": "Iran war reality check: Global markets still dictate American energy prices",
+      "source_name": "Washington Examiner Feed",
+      "canonical_url": "https://www.washingtonexaminer.com/op-eds/4515340/iran-war-global-markets-dictate-american-energy-prices",
+      "published_at": "2026-04-04T12:00:00+00:00",
+      "section_label": "시장"
+    },
+    {
+      "title": "Five data sources say the same thing about bitcoin market. It's thinning from the inside",
+      "source_name": "CoinDesk",
+      "canonical_url": "https://www.coindesk.com/markets/2026/04/03/five-data-sources-say-the-same-thing-about-bitcoin-market-it-s-thinning-from-the-inside",
+      "published_at": "2026-04-04T11:30:00+00:00",
+      "section_label": "코인"
+    },
+    {
+      "title": "Politicians want to stop your March Madness predictions",
+      "source_name": "Washington Examiner Feed",
+      "canonical_url": "https://www.washingtonexaminer.com/op-eds/4513935/politicians-want-to-stop-march-madness-betting-predictions",
+      "published_at": "2026-04-04T11:00:00+00:00",
+      "section_label": "시장"
+    },
+    {
+      "title": "Iran war enters its 6th week as military searches for downed jet crew member",
+      "source_name": "NPR Top Stories",
+      "canonical_url": "https://www.npr.org/2026/04/04/nx-s1-5773436/iran-war-updates",
+      "published_at": "2026-04-04T10:48:27+00:00",
+      "section_label": "시장"
+    },
+    {
+      "title": "No mediocre worker is safe — the bar for keeping your job just went up",
+      "source_name": "Business Insider Feed",
+      "canonical_url": "https://www.businessinsider.com/companies-replacing-workers-executives-recruiters-hiring-slowdown-job-market-economy-2026-4",
+      "published_at": "2026-04-04T10:45:01+00:00",
+      "section_label": "시장"
+    },
+    {
+      "title": "The Fog of War Against Iran",
+      "source_name": "National Review Feed",
+      "canonical_url": "https://www.nationalreview.com/2026/04/the-fog-of-war-against-iran",
+      "published_at": "2026-04-04T10:30:23+00:00",
+      "section_label": "시장"
+    }
+  ]
+}

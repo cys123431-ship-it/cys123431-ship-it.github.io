@@ -1,0 +1,139 @@
+<!doctype html>
+<html lang="ko">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>newsbot analysis</title>
+    <meta
+      name="description"
+      content="newsbot analysis dashboard for the full stream of collected news"
+    />
+    <link rel="stylesheet" href="../assets/style.css" />
+  </head>
+  <body>
+    <nav class="surface-switcher" aria-label="View switcher">
+      <a class="surface-link" href="../">News</a>
+      <a class="surface-link is-active" href="./">Analysis</a>
+      <a class="surface-link" href="../markets/">Markets</a>
+    </nav>
+
+    <header class="compact-summary-header compact-summary-header-analysis">
+      <div class="compact-summary-top">
+        <div class="compact-summary-copy">
+          <p class="eyebrow">newsbot analytics</p>
+          <h1>analysis</h1>
+          <p class="compact-summary-description">
+            수집된 전체 뉴스 흐름에서 키워드, 타임라인, 반복 제목을 요약합니다.
+          </p>
+        </div>
+        <div class="compact-summary-meta">
+          <span class="summary-chip">Retention 90 days</span>
+          <span class="summary-chip">Keywords, timelines, repeats</span>
+          <span class="summary-chip">Last refresh <time datetime="2026-04-04T12:30:46.554335+00:00">2026-04-04T12:30:46.554335+00:00</time></span>
+        </div>
+      </div>
+      <div class="compact-summary-status-strip">
+        <p class="compact-summary-status-copy">최종 게시 전 원본 수집 흐름까지 포함한 누적 분석 보기입니다.</p>
+        <p id="analysis-status" class="compact-summary-status-line">Loading analysis data.</p>
+      </div>
+    </header>
+
+    <main class="shell analysis-shell">
+      <section class="toolbar analysis-toolbar compact-toolbar">
+        <div id="analysis-window-tabs" class="pill-row analysis-window-tabs"></div>
+      </section>
+
+      <section id="analysis-kpis" class="analysis-kpis" aria-label="Key metrics"></section>
+
+      <section class="analysis-panel analysis-panel-wide">
+        <div class="analysis-panel-head">
+          <div>
+            <p class="analysis-kicker">Timeline</p>
+            <h2>Article timeline</h2>
+          </div>
+        </div>
+        <div id="analysis-timeline" class="analysis-chart-slot"></div>
+      </section>
+
+      <section class="analysis-table-panel analysis-focus-switcher">
+        <div class="analysis-panel-head">
+          <div>
+            <p class="analysis-kicker">Focus</p>
+            <h2>Open one content panel</h2>
+          </div>
+        </div>
+        <div id="analysis-focus-tabs" class="pill-row analysis-focus-tabs"></div>
+      </section>
+
+      <section id="analysis-repeated-panel" class="analysis-table-panel" hidden>
+        <div class="analysis-panel-head">
+          <div>
+            <p class="analysis-kicker">Repeated Titles</p>
+            <h2>Repeated headline groups</h2>
+          </div>
+        </div>
+        <div id="analysis-repeated" class="analysis-table-slot"></div>
+      </section>
+
+      <section id="analysis-samples-panel" class="analysis-table-panel" hidden>
+        <div class="analysis-panel-head">
+          <div>
+            <p class="analysis-kicker">Recent Samples</p>
+            <h2>Recent collected samples</h2>
+          </div>
+        </div>
+        <div id="analysis-samples" class="analysis-table-slot"></div>
+      </section>
+
+      <details id="analysis-more-analytics" class="analysis-more-analytics">
+        <summary>More analytics</summary>
+        <div class="analysis-grid analysis-more-grid">
+          <section class="analysis-panel analysis-more-panel">
+            <div class="analysis-panel-head">
+              <div>
+                <p class="analysis-kicker">Keywords</p>
+                <h2>Top keywords</h2>
+              </div>
+            </div>
+            <div id="analysis-keywords" class="analysis-list-slot analysis-more-list-slot"></div>
+          </section>
+
+          <section class="analysis-panel analysis-more-panel">
+            <div class="analysis-panel-head">
+              <div>
+                <p class="analysis-kicker">Sources</p>
+                <h2>Source share</h2>
+              </div>
+            </div>
+            <div id="analysis-sources" class="analysis-list-slot analysis-more-list-slot"></div>
+          </section>
+
+          <section class="analysis-panel analysis-more-panel">
+            <div class="analysis-panel-head">
+              <div>
+                <p class="analysis-kicker">Sections</p>
+                <h2>Hub and section share</h2>
+              </div>
+            </div>
+            <div id="analysis-sections" class="analysis-list-slot analysis-more-list-slot"></div>
+          </section>
+
+          <section class="analysis-panel analysis-more-panel">
+            <div class="analysis-panel-head">
+              <div>
+                <p class="analysis-kicker">Languages</p>
+                <h2>Language mix</h2>
+              </div>
+            </div>
+            <div id="analysis-languages" class="analysis-list-slot analysis-more-list-slot"></div>
+          </section>
+        </div>
+      </details>
+
+      <noscript class="noscript-note">This analysis page needs JavaScript to render charts and tables.</noscript>
+    </main>
+
+    <script id="analysis-bootstrap" type="application/json">{"data_url":"../data/analysis-dashboard.json","default_window":"7d"}</script>
+    <script src="../assets/analysis.js"></script>
+  </body>
+</html>
