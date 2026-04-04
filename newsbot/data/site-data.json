@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-04-04T12:39:30.222355+00:00",
-  "article_count": 1863,
+  "generated_at": "2026-04-04T12:43:26.947103+00:00",
+  "article_count": 1907,
   "removed_article_count": 0,
   "removed_articles_log_path": "data/removed-articles.txt",
   "page_size": 25,
-  "healthy_source_count": 131,
+  "healthy_source_count": 133,
   "warning_source_count": 0,
-  "failed_source_count": 3,
+  "failed_source_count": 1,
   "hubs": [
     {
       "key": "kr",
       "label": "한국",
       "description": "한국 주요 신문사와 방송사 기사 흐름을 정치, 경제, 사회, 문화, 지역, 스포츠로 나눠 모아봅니다.",
       "order": 10,
-      "count": 577,
+      "count": 617,
       "categories": [
         {
           "key": "kr-politics",
@@ -22,7 +22,7 @@
           "hub_label": "대한민국",
           "description": "",
           "order": 10,
-          "count": 100
+          "count": 118
         },
         {
           "key": "kr-economy",
@@ -31,7 +31,7 @@
           "hub_label": "대한민국",
           "description": "",
           "order": 20,
-          "count": 151
+          "count": 169
         },
         {
           "key": "kr-society",
@@ -40,7 +40,7 @@
           "hub_label": "대한민국",
           "description": "",
           "order": 30,
-          "count": 135
+          "count": 139
         },
         {
           "key": "kr-culture",
@@ -76,7 +76,7 @@
       "label": "미국",
       "description": "미국 주요 언론사와 방송사 보도를 정치, 경제, 시장, 세계, 기술 흐름으로 묶습니다.",
       "order": 20,
-      "count": 1167,
+      "count": 1171,
       "categories": [
         {
           "key": "us-politics",
@@ -85,7 +85,7 @@
           "hub_label": "미국",
           "description": "",
           "order": 10,
-          "count": 427
+          "count": 429
         },
         {
           "key": "us-economy",
@@ -112,7 +112,7 @@
           "hub_label": "미국",
           "description": "",
           "order": 40,
-          "count": 161
+          "count": 162
         },
         {
           "key": "us-technology",
@@ -121,7 +121,7 @@
           "hub_label": "미국",
           "description": "",
           "order": 50,
-          "count": 304
+          "count": 305
         }
       ]
     },
@@ -197,7 +197,7 @@
       "hub_label": "대한민국",
       "description": "",
       "order": 10,
-      "count": 100
+      "count": 118
     },
     {
       "key": "kr-economy",
@@ -206,7 +206,7 @@
       "hub_label": "대한민국",
       "description": "",
       "order": 20,
-      "count": 151
+      "count": 169
     },
     {
       "key": "kr-society",
@@ -215,7 +215,7 @@
       "hub_label": "대한민국",
       "description": "",
       "order": 30,
-      "count": 135
+      "count": 139
     },
     {
       "key": "kr-culture",
@@ -251,7 +251,7 @@
       "hub_label": "미국",
       "description": "",
       "order": 10,
-      "count": 427
+      "count": 429
     },
     {
       "key": "us-economy",
@@ -278,7 +278,7 @@
       "hub_label": "미국",
       "description": "",
       "order": 40,
-      "count": 161
+      "count": 162
     },
     {
       "key": "us-technology",
@@ -287,7 +287,7 @@
       "hub_label": "미국",
       "description": "",
       "order": 50,
-      "count": 304
+      "count": 305
     }
   ],
   "sources": [
@@ -305,7 +305,7 @@
       "source_key": "naver-kr-society",
       "name": "NAVER News Search",
       "category": "kr-society",
-      "count": 23,
+      "count": 27,
       "hub": "kr",
       "section": "kr-society",
       "section_label": "사회",
@@ -342,6 +342,16 @@
       "publisher_group": "business"
     },
     {
+      "source_key": "ap-politics-discovery",
+      "name": "Associated Press Politics",
+      "category": "us-politics",
+      "count": 19,
+      "hub": "us",
+      "section": "us-politics",
+      "section_label": "정치",
+      "publisher_group": "agency"
+    },
+    {
       "source_key": "mk-sports-rss",
       "name": "Maeil Business Sports",
       "category": "kr-sports",
@@ -350,6 +360,16 @@
       "section": "kr-sports",
       "section_label": "스포츠",
       "publisher_group": "newspaper"
+    },
+    {
+      "source_key": "thehill-feed",
+      "name": "The Hill Feed",
+      "category": null,
+      "count": 19,
+      "hub": "global",
+      "section": null,
+      "section_label": "자동 분류",
+      "publisher_group": "internet"
     },
     {
       "source_key": "yahoo-news-rss",
@@ -440,16 +460,6 @@
       "section": "military",
       "section_label": "군사",
       "publisher_group": "government"
-    },
-    {
-      "source_key": "ap-politics-discovery",
-      "name": "Associated Press Politics",
-      "category": "us-politics",
-      "count": 18,
-      "hub": "us",
-      "section": "us-politics",
-      "section_label": "정치",
-      "publisher_group": "agency"
     },
     {
       "source_key": "coindesk-rss",
@@ -822,18 +832,28 @@
       "publisher_group": "broadcast"
     },
     {
-      "source_key": "semafor-feed",
-      "name": "Semafor Feed",
-      "category": null,
+      "source_key": "pressian-economy-rss",
+      "name": "Pressian Economy",
+      "category": "kr-economy",
       "count": 18,
-      "hub": "global",
-      "section": null,
-      "section_label": "자동 분류",
+      "hub": "kr",
+      "section": "kr-economy",
+      "section_label": "경제",
       "publisher_group": "internet"
     },
     {
-      "source_key": "thehill-feed",
-      "name": "The Hill Feed",
+      "source_key": "pressian-politics-rss",
+      "name": "Pressian Politics",
+      "category": "kr-politics",
+      "count": 18,
+      "hub": "kr",
+      "section": "kr-politics",
+      "section_label": "정치",
+      "publisher_group": "internet"
+    },
+    {
+      "source_key": "semafor-feed",
+      "name": "Semafor Feed",
       "category": null,
       "count": 18,
       "hub": "global",
@@ -1062,6 +1082,16 @@
       "publisher_group": "broadcast"
     },
     {
+      "source_key": "usatoday-news-discovery",
+      "name": "USA Today News",
+      "category": null,
+      "count": 16,
+      "hub": "global",
+      "section": null,
+      "section_label": "자동 분류",
+      "publisher_group": "newspaper"
+    },
+    {
       "source_key": "bloomberg-markets-rss",
       "name": "Bloomberg Markets",
       "category": "us-markets",
@@ -1089,6 +1119,16 @@
       "hub": "us",
       "section": "us-markets",
       "section_label": "시장",
+      "publisher_group": "broadcast"
+    },
+    {
+      "source_key": "cbs-world-rss",
+      "name": "CBS News World",
+      "category": "us-world",
+      "count": 15,
+      "hub": "us",
+      "section": "us-world",
+      "section_label": "세계",
       "publisher_group": "broadcast"
     },
     {
@@ -1132,16 +1172,6 @@
       "publisher_group": "business"
     },
     {
-      "source_key": "usatoday-news-discovery",
-      "name": "USA Today News",
-      "category": null,
-      "count": 15,
-      "hub": "global",
-      "section": null,
-      "section_label": "자동 분류",
-      "publisher_group": "newspaper"
-    },
-    {
       "source_key": "businessinsider-feed",
       "name": "Business Insider Feed",
       "category": null,
@@ -1159,16 +1189,6 @@
       "hub": "us",
       "section": "us-economy",
       "section_label": "경제",
-      "publisher_group": "broadcast"
-    },
-    {
-      "source_key": "cbs-world-rss",
-      "name": "CBS News World",
-      "category": "us-world",
-      "count": 14,
-      "hub": "us",
-      "section": "us-world",
-      "section_label": "세계",
       "publisher_group": "broadcast"
     },
     {
@@ -1957,7 +1977,7 @@
       "status": "ok",
       "fetched_count": 30,
       "accepted_count": 18,
-      "published_count": 14,
+      "published_count": 15,
       "message": null,
       "error": null
     },
@@ -2029,7 +2049,7 @@
       "status": "ok",
       "fetched_count": 100,
       "accepted_count": 18,
-      "published_count": 18,
+      "published_count": 19,
       "message": null,
       "error": null
     },
@@ -2557,7 +2577,7 @@
       "status": "ok",
       "fetched_count": 30,
       "accepted_count": 18,
-      "published_count": 18,
+      "published_count": 19,
       "message": null,
       "error": null
     },
@@ -2629,7 +2649,7 @@
       "status": "ok",
       "fetched_count": 30,
       "accepted_count": 16,
-      "published_count": 15,
+      "published_count": 16,
       "message": null,
       "error": null
     },
@@ -2665,7 +2685,7 @@
       "status": "ok",
       "fetched_count": 30,
       "accepted_count": 18,
-      "published_count": 23,
+      "published_count": 27,
       "message": null,
       "error": null
     },
@@ -2950,24 +2970,24 @@
       "source_name": "Pressian Politics",
       "category": "kr-politics",
       "trust_level": 80,
-      "status": "failed",
-      "fetched_count": 0,
-      "accepted_count": 0,
-      "published_count": 0,
-      "message": "",
-      "error": ""
+      "status": "ok",
+      "fetched_count": 25,
+      "accepted_count": 18,
+      "published_count": 18,
+      "message": null,
+      "error": null
     },
     {
       "source_key": "pressian-economy-rss",
       "source_name": "Pressian Economy",
       "category": "kr-economy",
       "trust_level": 80,
-      "status": "failed",
-      "fetched_count": 0,
-      "accepted_count": 0,
-      "published_count": 0,
-      "message": "",
-      "error": ""
+      "status": "ok",
+      "fetched_count": 25,
+      "accepted_count": 18,
+      "published_count": 18,
+      "message": null,
+      "error": null
     },
     {
       "source_key": "etoday-economy-rss",
@@ -3163,6 +3183,82 @@
     }
   ],
   "articles": [
+    {
+      "title": "국힘 서울 지지율 13%로 '풀썩'hellip;배현진 quot;후보들이 안 나서, 간판 교체해야quot;",
+      "canonical_url": "https://www.pressian.com/pages/articles/2026040409060075375&ref=rss",
+      "link_label": "www.pressian.com/pages/articles/2026040409060075375&ref...",
+      "source_key": "pressian-politics-rss",
+      "source_name": "Pressian Politics",
+      "source_names": [
+        "Pressian Politics"
+      ],
+      "primary_category": "kr-politics",
+      "hub": "kr",
+      "hub_label": "대한민국",
+      "section_key": "kr-politics",
+      "section_label": "정치",
+      "published_at": "2026-04-04T19:51:04+00:00",
+      "trust_level": 80,
+      "language": "ko",
+      "sort_timestamp": 1775332264
+    },
+    {
+      "title": "경기 與후보적합도 김동연middot;추미애 격차 더 벌어졌다hellip;金 35.0%, 秋 21.5%",
+      "canonical_url": "https://www.pressian.com/pages/articles/2026040413054743167&ref=rss",
+      "link_label": "www.pressian.com/pages/articles/2026040413054743167&ref...",
+      "source_key": "pressian-politics-rss",
+      "source_name": "Pressian Politics",
+      "source_names": [
+        "Pressian Politics"
+      ],
+      "primary_category": "kr-politics",
+      "hub": "kr",
+      "hub_label": "대한민국",
+      "section_key": "kr-politics",
+      "section_label": "정치",
+      "published_at": "2026-04-04T13:10:04+00:00",
+      "trust_level": 80,
+      "language": "ko",
+      "sort_timestamp": 1775308204
+    },
+    {
+      "title": "Iran War Live Updates: U.S. Searches for Missing Airman as Israel Launches Fresh Strikes on Tehran",
+      "canonical_url": "https://www.nytimes.com/live/2026/04/04/world/iran-war-trump-news",
+      "link_label": "www.nytimes.com/live/2026/04/04/world/iran-war-trump-news",
+      "source_key": "nyt-world-rss",
+      "source_name": "New York Times World",
+      "source_names": [
+        "New York Times World"
+      ],
+      "primary_category": "us-world",
+      "hub": "us",
+      "hub_label": "미국",
+      "section_key": "us-world",
+      "section_label": "세계",
+      "published_at": "2026-04-04T12:37:02+00:00",
+      "trust_level": 95,
+      "language": "en",
+      "sort_timestamp": 1775306222
+    },
+    {
+      "title": "U.S. races to find missing crew member after fighter jet shot down over Iran",
+      "canonical_url": "https://www.cbsnews.com/video/us-races-to-find-missing-crew-member-after-fighter-jet-shot-down-over-iran",
+      "link_label": "www.cbsnews.com/video/us-races-to-find-missing-crew-me...",
+      "source_key": "cbs-world-rss",
+      "source_name": "CBS News World",
+      "source_names": [
+        "CBS News World"
+      ],
+      "primary_category": "us-world",
+      "hub": "us",
+      "hub_label": "미국",
+      "section_key": "us-world",
+      "section_label": "세계",
+      "published_at": "2026-04-04T12:36:46+00:00",
+      "trust_level": 87,
+      "language": "en",
+      "sort_timestamp": 1775306206
+    },
     {
       "title": "SK슈가글라이더즈, 경남개발공사 꺾고 19연승 질주…최지혜 11골 맹활약",
       "canonical_url": "https://www.mk.co.kr/news/sports/12008050",
@@ -3449,6 +3545,25 @@
       "sort_timestamp": 1775304998
     },
     {
+      "title": "Bolton: Trump likely in ‘panic mode’ after Iran attacks US fighter jets",
+      "canonical_url": "https://thehill.com/policy/defense/5816042-john-bolton-donald-trump-iran-us-fighter-jets",
+      "link_label": "thehill.com/policy/defense/5816042-john-bolton-don...",
+      "source_key": "thehill-feed",
+      "source_name": "The Hill Feed",
+      "source_names": [
+        "The Hill Feed"
+      ],
+      "primary_category": "us-politics",
+      "hub": "us",
+      "hub_label": "미국",
+      "section_key": "us-politics",
+      "section_label": "정치",
+      "published_at": "2026-04-04T12:15:22+00:00",
+      "trust_level": 80,
+      "language": "en",
+      "sort_timestamp": 1775304922
+    },
+    {
       "title": "Chiefs Are Eyeing a Major Draft Day Trade: Report",
       "canonical_url": "https://www.newsweek.com/sports/nfl/chiefs-are-eyeing-a-major-draft-day-trade-report-11782136",
       "link_label": "www.newsweek.com/sports/nfl/chiefs-are-eyeing-a-major-d...",
@@ -3485,25 +3600,6 @@
       "trust_level": 70,
       "language": "en",
       "sort_timestamp": 1775304900
-    },
-    {
-      "title": "Iran War Live Updates: U.S. Searches for Missing Airman as Israel Launches Fresh Strikes on Tehran",
-      "canonical_url": "https://www.nytimes.com/live/2026/04/04/world/iran-war-trump-news",
-      "link_label": "www.nytimes.com/live/2026/04/04/world/iran-war-trump-news",
-      "source_key": "nyt-world-rss",
-      "source_name": "New York Times World",
-      "source_names": [
-        "New York Times World"
-      ],
-      "primary_category": "us-world",
-      "hub": "us",
-      "hub_label": "미국",
-      "section_key": "us-world",
-      "section_label": "세계",
-      "published_at": "2026-04-04T12:13:24+00:00",
-      "trust_level": 95,
-      "language": "en",
-      "sort_timestamp": 1775304804
     },
     {
       "title": "[Ai타임스] 알리바바, 차세대 영상 모델 ‘완2.7-비디오’ 공개",
@@ -4534,6 +4630,25 @@
       "trust_level": 78,
       "language": "en",
       "sort_timestamp": 1775302200
+    },
+    {
+      "title": "장동혁 quot;결국 2차 특검은 이재명 '공소취소' 비밀병기였다quot;",
+      "canonical_url": "https://www.pressian.com/pages/articles/2026040411273702832&ref=rss",
+      "link_label": "www.pressian.com/pages/articles/2026040411273702832&ref...",
+      "source_key": "pressian-politics-rss",
+      "source_name": "Pressian Politics",
+      "source_names": [
+        "Pressian Politics"
+      ],
+      "primary_category": "kr-politics",
+      "hub": "kr",
+      "hub_label": "대한민국",
+      "section_key": "kr-politics",
+      "section_label": "정치",
+      "published_at": "2026-04-04T11:27:37+00:00",
+      "trust_level": 80,
+      "language": "ko",
+      "sort_timestamp": 1775302057
     },
     {
       "title": "Rahm Emanuel is latest Dem to bash his party’s lunatic obsessions",
@@ -7688,7 +7803,8 @@
       "source_key": "donga-society-rss",
       "source_name": "DongA Society",
       "source_names": [
-        "DongA Society"
+        "DongA Society",
+        "NAVER News Search"
       ],
       "primary_category": "kr-society",
       "hub": "kr",
@@ -7856,6 +7972,25 @@
       "sort_timestamp": 1775292277
     },
     {
+      "title": "김부겸 공개지지한 홍준표, 거듭 지지선언 quot;더는 진영논리 지배하는 시대 안된다quot;",
+      "canonical_url": "https://www.pressian.com/pages/articles/2026040408405933932&ref=rss",
+      "link_label": "www.pressian.com/pages/articles/2026040408405933932&ref...",
+      "source_key": "pressian-politics-rss",
+      "source_name": "Pressian Politics",
+      "source_names": [
+        "Pressian Politics"
+      ],
+      "primary_category": "kr-politics",
+      "hub": "kr",
+      "hub_label": "대한민국",
+      "section_key": "kr-politics",
+      "section_label": "정치",
+      "published_at": "2026-04-04T08:43:19+00:00",
+      "trust_level": 80,
+      "language": "ko",
+      "sort_timestamp": 1775292199
+    },
+    {
       "title": "용인시, '2026년 제2차 진로·진학레시피 학부모 특강' 성료",
       "canonical_url": "https://www.asiae.co.kr/article/2026040417375278145",
       "link_label": "www.asiae.co.kr/article/2026040417375278145",
@@ -7949,6 +8084,44 @@
       "trust_level": 82,
       "language": "en",
       "sort_timestamp": 1775291400
+    },
+    {
+      "title": "quot;싸움 아닌 해결사 필요quot; 기업인middot;자영업자 등 민생 현장 줄잇는 김동연 지지선언",
+      "canonical_url": "https://www.pressian.com/pages/articles/2026040319042458177&ref=rss",
+      "link_label": "www.pressian.com/pages/articles/2026040319042458177&ref...",
+      "source_key": "pressian-politics-rss",
+      "source_name": "Pressian Politics",
+      "source_names": [
+        "Pressian Politics"
+      ],
+      "primary_category": "kr-politics",
+      "hub": "kr",
+      "hub_label": "대한민국",
+      "section_key": "kr-politics",
+      "section_label": "정치",
+      "published_at": "2026-04-04T08:28:33+00:00",
+      "trust_level": 80,
+      "language": "ko",
+      "sort_timestamp": 1775291313
+    },
+    {
+      "title": "한국에 맞는 기본소득 모델, 가능할까?",
+      "canonical_url": "https://www.pressian.com/pages/articles/2026040315263216596&ref=rss",
+      "link_label": "www.pressian.com/pages/articles/2026040315263216596&ref...",
+      "source_key": "pressian-economy-rss",
+      "source_name": "Pressian Economy",
+      "source_names": [
+        "Pressian Economy"
+      ],
+      "primary_category": "kr-economy",
+      "hub": "kr",
+      "hub_label": "대한민국",
+      "section_key": "kr-economy",
+      "section_label": "경제",
+      "published_at": "2026-04-04T08:27:21+00:00",
+      "trust_level": 80,
+      "language": "ko",
+      "sort_timestamp": 1775291241
     },
     {
       "title": "Moms for Liberty wanted seat on school board. Trump gave them voice in White House",
@@ -8781,7 +8954,8 @@
       "source_key": "asiae-society-rss",
       "source_name": "Asiae Society",
       "source_names": [
-        "Asiae Society"
+        "Asiae Society",
+        "NAVER News Search"
       ],
       "primary_category": "kr-society",
       "hub": "kr",
@@ -11151,6 +11325,25 @@
       "trust_level": 82,
       "language": "ko",
       "sort_timestamp": 1775267640
+    },
+    {
+      "title": "'뉴민주당'의 부상hellip;만약 김부겸이 대구시장에 당선된다면?",
+      "canonical_url": "https://www.pressian.com/pages/articles/2026040310010275432&ref=rss",
+      "link_label": "www.pressian.com/pages/articles/2026040310010275432&ref...",
+      "source_key": "pressian-politics-rss",
+      "source_name": "Pressian Politics",
+      "source_names": [
+        "Pressian Politics"
+      ],
+      "primary_category": "kr-politics",
+      "hub": "kr",
+      "hub_label": "대한민국",
+      "section_key": "kr-politics",
+      "section_label": "정치",
+      "published_at": "2026-04-04T01:53:22+00:00",
+      "trust_level": 80,
+      "language": "ko",
+      "sort_timestamp": 1775267602
     },
     {
       "title": "靑서 이재용과 셀카 찍은 필릭스…‘갤럭시 일편단심’에 JY ‘미소’",
@@ -14498,6 +14691,25 @@
       "sort_timestamp": 1775250360
     },
     {
+      "title": "이진숙 quot;'시민경선'으로 대구시민 선택 받겠다quot;hellip;사실상 무소속 출마 선언",
+      "canonical_url": "https://www.pressian.com/pages/articles/2026040321033844410&ref=rss",
+      "link_label": "www.pressian.com/pages/articles/2026040321033844410&ref...",
+      "source_key": "pressian-economy-rss",
+      "source_name": "Pressian Economy",
+      "source_names": [
+        "Pressian Economy"
+      ],
+      "primary_category": "kr-economy",
+      "hub": "kr",
+      "hub_label": "대한민국",
+      "section_key": "kr-economy",
+      "section_label": "경제",
+      "published_at": "2026-04-03T21:03:51+00:00",
+      "trust_level": 80,
+      "language": "ko",
+      "sort_timestamp": 1775250231
+    },
+    {
       "title": "White House asks Congress to spend big on defense",
       "canonical_url": "https://www.semafor.com/article/04/03/2026/white-house-asks-congress-to-spend-big-on-defense",
       "link_label": "www.semafor.com/article/04/03/2026/white-house-asks-co...",
@@ -14918,6 +15130,25 @@
       "published_at": "2026-04-03T20:43:25+00:00",
       "trust_level": 85,
       "language": "en",
+      "sort_timestamp": 1775249005
+    },
+    {
+      "title": "법원 '주호영 컷오프' 가처분 기각hellip;무소속 출마?",
+      "canonical_url": "https://www.pressian.com/pages/articles/2026040318064546839&ref=rss",
+      "link_label": "www.pressian.com/pages/articles/2026040318064546839&ref...",
+      "source_key": "pressian-politics-rss",
+      "source_name": "Pressian Politics",
+      "source_names": [
+        "Pressian Politics"
+      ],
+      "primary_category": "kr-politics",
+      "hub": "kr",
+      "hub_label": "대한민국",
+      "section_key": "kr-politics",
+      "section_label": "정치",
+      "published_at": "2026-04-03T20:43:25+00:00",
+      "trust_level": 80,
+      "language": "ko",
       "sort_timestamp": 1775249005
     },
     {
@@ -15974,6 +16205,25 @@
       "sort_timestamp": 1775243510
     },
     {
+      "title": "김민석 quot;호르무즈 통행세 고려 안해hellip;원유 수급 관리 가능 수준quot;",
+      "canonical_url": "https://www.pressian.com/pages/articles/2026040318474635223&ref=rss",
+      "link_label": "www.pressian.com/pages/articles/2026040318474635223&ref...",
+      "source_key": "pressian-politics-rss",
+      "source_name": "Pressian Politics",
+      "source_names": [
+        "Pressian Politics"
+      ],
+      "primary_category": "kr-politics",
+      "hub": "kr",
+      "hub_label": "대한민국",
+      "section_key": "kr-politics",
+      "section_label": "정치",
+      "published_at": "2026-04-03T19:10:23+00:00",
+      "trust_level": 80,
+      "language": "ko",
+      "sort_timestamp": 1775243423
+    },
+    {
       "title": "Pritzker calls on Trump officials to testify over ICE crackdown, White House blasts move as ‘political stunt’",
       "canonical_url": "https://www.foxnews.com/politics/pritzker-calls-trump-officials-testify-ice-crackdown-white-house-blasts-move-political-stunt",
       "link_label": "www.foxnews.com/politics/pritzker-calls-trump-official...",
@@ -15991,6 +16241,25 @@
       "trust_level": 84,
       "language": "en",
       "sort_timestamp": 1775243377
+    },
+    {
+      "title": "'쌍방울 녹취록' 박상용, 증인선서 거부hellip;국조특위 쳇바퀴",
+      "canonical_url": "https://www.pressian.com/pages/articles/2026040317295817185&ref=rss",
+      "link_label": "www.pressian.com/pages/articles/2026040317295817185&ref...",
+      "source_key": "pressian-politics-rss",
+      "source_name": "Pressian Politics",
+      "source_names": [
+        "Pressian Politics"
+      ],
+      "primary_category": "kr-politics",
+      "hub": "kr",
+      "hub_label": "대한민국",
+      "section_key": "kr-politics",
+      "section_label": "정치",
+      "published_at": "2026-04-03T19:09:28+00:00",
+      "trust_level": 80,
+      "language": "ko",
+      "sort_timestamp": 1775243368
     },
     {
       "title": "Iran, proxy militias threaten US universities in Lebanon as Americans urged to flee now",
@@ -16852,6 +17121,25 @@
       "sort_timestamp": 1775237348
     },
     {
+      "title": "李대통령, 정청래middot;장동혁 대표 만난다hellip;quot;중동 전쟁 불확실성 대응 차원quot;",
+      "canonical_url": "https://www.pressian.com/pages/articles/2026040316232705160&ref=rss",
+      "link_label": "www.pressian.com/pages/articles/2026040316232705160&ref...",
+      "source_key": "pressian-politics-rss",
+      "source_name": "Pressian Politics",
+      "source_names": [
+        "Pressian Politics"
+      ],
+      "primary_category": "kr-politics",
+      "hub": "kr",
+      "hub_label": "대한민국",
+      "section_key": "kr-politics",
+      "section_label": "정치",
+      "published_at": "2026-04-03T17:28:15+00:00",
+      "trust_level": 80,
+      "language": "ko",
+      "sort_timestamp": 1775237295
+    },
+    {
       "title": "NASA's Artemis II Lifts Off | Bloomberg Artemis II Special 4/1/2026",
       "canonical_url": "https://www.bloomberg.com/news/videos/2026-04-03/nasa-s-artemis-ii-lifts-off-bloomberg-special-video",
       "link_label": "www.bloomberg.com/news/videos/2026-04-03/nasa-s-artemis-...",
@@ -17348,6 +17636,44 @@
       "sort_timestamp": 1775234400
     },
     {
+      "title": "李대통령 지지율 67%hellip;중도층 긍정 평가 74%",
+      "canonical_url": "https://www.pressian.com/pages/articles/2026040312081000220&ref=rss",
+      "link_label": "www.pressian.com/pages/articles/2026040312081000220&ref...",
+      "source_key": "pressian-politics-rss",
+      "source_name": "Pressian Politics",
+      "source_names": [
+        "Pressian Politics"
+      ],
+      "primary_category": "kr-politics",
+      "hub": "kr",
+      "hub_label": "대한민국",
+      "section_key": "kr-politics",
+      "section_label": "정치",
+      "published_at": "2026-04-03T16:39:14+00:00",
+      "trust_level": 80,
+      "language": "ko",
+      "sort_timestamp": 1775234354
+    },
+    {
+      "title": "李대통령 quot;프랑스와 호르무즈 해협 안전 수송로 확보 협력quot;",
+      "canonical_url": "https://www.pressian.com/pages/articles/2026040314561099017&ref=rss",
+      "link_label": "www.pressian.com/pages/articles/2026040314561099017&ref...",
+      "source_key": "pressian-politics-rss",
+      "source_name": "Pressian Politics",
+      "source_names": [
+        "Pressian Politics"
+      ],
+      "primary_category": "kr-politics",
+      "hub": "kr",
+      "hub_label": "대한민국",
+      "section_key": "kr-politics",
+      "section_label": "정치",
+      "published_at": "2026-04-03T16:38:12+00:00",
+      "trust_level": 80,
+      "language": "ko",
+      "sort_timestamp": 1775234292
+    },
+    {
       "title": "Commentary: The Cuban Americans who want to normalize relations between the U.S. and Cuba",
       "canonical_url": "https://www.latimes.com/delos/story/2026-04-03/cuban-americans-for-cuba-against-us-embargo-nuestra-america-convoy",
       "link_label": "www.latimes.com/delos/story/2026-04-03/cuban-americans...",
@@ -17823,6 +18149,25 @@
       "sort_timestamp": 1775230043
     },
     {
+      "title": "장동혁 '4.3 추념식' 참석해 quot;왜곡 불가해도 새로운 검증middot;기록 가능quot;",
+      "canonical_url": "https://www.pressian.com/pages/articles/2026040312073822839&ref=rss",
+      "link_label": "www.pressian.com/pages/articles/2026040312073822839&ref...",
+      "source_key": "pressian-politics-rss",
+      "source_name": "Pressian Politics",
+      "source_names": [
+        "Pressian Politics"
+      ],
+      "primary_category": "kr-politics",
+      "hub": "kr",
+      "hub_label": "대한민국",
+      "section_key": "kr-politics",
+      "section_label": "정치",
+      "published_at": "2026-04-03T15:27:17+00:00",
+      "trust_level": 80,
+      "language": "ko",
+      "sort_timestamp": 1775230037
+    },
+    {
       "title": "Europe’s Right-Wing Parties Can’t Afford to Neglect Young People",
       "canonical_url": "https://www.nationalreview.com/2026/04/europes-right-wing-parties-cant-afford-to-neglect-young-people",
       "link_label": "www.nationalreview.com/2026/04/europes-right-wing-parties-can...",
@@ -18108,6 +18453,25 @@
       "sort_timestamp": 1775227955
     },
     {
+      "title": "'돈봉투 의혹' 김관영 법정 다툼에 민주당 quot;반성이 적절quot;",
+      "canonical_url": "https://www.pressian.com/pages/articles/2026040311245844994&ref=rss",
+      "link_label": "www.pressian.com/pages/articles/2026040311245844994&ref...",
+      "source_key": "pressian-politics-rss",
+      "source_name": "Pressian Politics",
+      "source_names": [
+        "Pressian Politics"
+      ],
+      "primary_category": "kr-politics",
+      "hub": "kr",
+      "hub_label": "대한민국",
+      "section_key": "kr-politics",
+      "section_label": "정치",
+      "published_at": "2026-04-03T14:50:04+00:00",
+      "trust_level": 80,
+      "language": "ko",
+      "sort_timestamp": 1775227804
+    },
+    {
       "title": "It May Take a Year to Restore Abu Dhabi Aluminum Output, EGA Says",
       "canonical_url": "https://www.bloomberg.com/news/articles/2026-04-03/ega-says-may-take-a-year-to-restore-abu-dhabi-aluminum-output",
       "link_label": "www.bloomberg.com/news/articles/2026-04-03/ega-says-may-...",
@@ -18125,6 +18489,25 @@
       "trust_level": 92,
       "language": "en",
       "sort_timestamp": 1775227798
+    },
+    {
+      "title": "주호영 quot;김부겸이 유능한 행정가? 동의 못 해quot; 견제",
+      "canonical_url": "https://www.pressian.com/pages/articles/2026040314224340412&ref=rss",
+      "link_label": "www.pressian.com/pages/articles/2026040314224340412&ref...",
+      "source_key": "pressian-politics-rss",
+      "source_name": "Pressian Politics",
+      "source_names": [
+        "Pressian Politics"
+      ],
+      "primary_category": "kr-politics",
+      "hub": "kr",
+      "hub_label": "대한민국",
+      "section_key": "kr-politics",
+      "section_label": "정치",
+      "published_at": "2026-04-03T14:49:42+00:00",
+      "trust_level": 80,
+      "language": "ko",
+      "sort_timestamp": 1775227782
     },
     {
       "title": "White House requests $1.5 trillion for defense spending in 2027 budget",
@@ -19556,6 +19939,25 @@
       "sort_timestamp": 1775217605
     },
     {
+      "title": "quot;2주 안에 종전? 제정신 아냐quot;hellip; 트럼프 호언장담에 美 정보 당국 quot;이란 미사일 건재quot;",
+      "canonical_url": "https://www.pressian.com/pages/articles/2026040311125237925&ref=rss",
+      "link_label": "www.pressian.com/pages/articles/2026040311125237925&ref...",
+      "source_key": "pressian-politics-rss",
+      "source_name": "Pressian Politics",
+      "source_names": [
+        "Pressian Politics"
+      ],
+      "primary_category": "kr-politics",
+      "hub": "kr",
+      "hub_label": "대한민국",
+      "section_key": "kr-politics",
+      "section_label": "정치",
+      "published_at": "2026-04-03T11:58:37+00:00",
+      "trust_level": 80,
+      "language": "ko",
+      "sort_timestamp": 1775217517
+    },
+    {
       "title": "호르무즈에 갇힌 일본 상선, ‘원인 미상’ 충격에 선체 2곳 구멍",
       "canonical_url": "https://www.mk.co.kr/news/economy/12007791",
       "link_label": "www.mk.co.kr/news/economy/12007791",
@@ -20052,6 +20454,25 @@
       "trust_level": 90,
       "language": "en",
       "sort_timestamp": 1775214900
+    },
+    {
+      "title": "김부겸 quot;박근혜, 대구지역 큰 어른hellip;찾아뵙는 게 예의quot;",
+      "canonical_url": "https://www.pressian.com/pages/articles/2026040310121653484&ref=rss",
+      "link_label": "www.pressian.com/pages/articles/2026040310121653484&ref...",
+      "source_key": "pressian-politics-rss",
+      "source_name": "Pressian Politics",
+      "source_names": [
+        "Pressian Politics"
+      ],
+      "primary_category": "kr-politics",
+      "hub": "kr",
+      "hub_label": "대한민국",
+      "section_key": "kr-politics",
+      "section_label": "정치",
+      "published_at": "2026-04-03T11:08:37+00:00",
+      "trust_level": 80,
+      "language": "ko",
+      "sort_timestamp": 1775214517
     },
     {
       "title": "A Year After DOGE Cuts, GSA Now Plans to Hire Hundreds of Employees",
@@ -20796,6 +21217,25 @@
       "trust_level": 84,
       "language": "en",
       "sort_timestamp": 1775210520
+    },
+    {
+      "title": "국민의힘 quot;매표용으로 나눠주는 10만원, 고유가 해결책인가quot;",
+      "canonical_url": "https://www.pressian.com/pages/articles/2026040309450727939&ref=rss",
+      "link_label": "www.pressian.com/pages/articles/2026040309450727939&ref...",
+      "source_key": "pressian-politics-rss",
+      "source_name": "Pressian Politics",
+      "source_names": [
+        "Pressian Politics"
+      ],
+      "primary_category": "kr-politics",
+      "hub": "kr",
+      "hub_label": "대한민국",
+      "section_key": "kr-politics",
+      "section_label": "정치",
+      "published_at": "2026-04-03T10:00:46+00:00",
+      "trust_level": 80,
+      "language": "ko",
+      "sort_timestamp": 1775210446
     },
     {
       "title": "States are resisting the Trump admin’s voter data power grab",
@@ -25944,6 +26384,25 @@
       "sort_timestamp": 1775135741
     },
     {
+      "title": "석유류 폭등으로 전기료 인상? 기후부 장관 quot;당장은 크지 않지만 장기화되면hellip;quot;",
+      "canonical_url": "https://www.pressian.com/pages/articles/2026040210563567246&ref=rss",
+      "link_label": "www.pressian.com/pages/articles/2026040210563567246&ref...",
+      "source_key": "pressian-economy-rss",
+      "source_name": "Pressian Economy",
+      "source_names": [
+        "Pressian Economy"
+      ],
+      "primary_category": "kr-economy",
+      "hub": "kr",
+      "hub_label": "대한민국",
+      "section_key": "kr-economy",
+      "section_label": "경제",
+      "published_at": "2026-04-02T12:58:54+00:00",
+      "trust_level": 80,
+      "language": "ko",
+      "sort_timestamp": 1775134734
+    },
+    {
       "title": "UK gathers more than 30 countries to plot ways of reopening the Strait of Hormuz",
       "canonical_url": "https://abcnews.com/Business/wireStory/uk-gathers-30-countries-plot-ways-reopening-strait-131640345",
       "link_label": "abcnews.com/Business/wireStory/uk-gathers-30-count...",
@@ -26760,6 +27219,25 @@
       "trust_level": 78,
       "language": "en",
       "sort_timestamp": 1775125800
+    },
+    {
+      "title": "3월 소비자물가 2.2% 상승hellip;'전쟁 영향' 석유류 10% 급등",
+      "canonical_url": "https://www.pressian.com/pages/articles/2026040209401975620&ref=rss",
+      "link_label": "www.pressian.com/pages/articles/2026040209401975620&ref...",
+      "source_key": "pressian-economy-rss",
+      "source_name": "Pressian Economy",
+      "source_names": [
+        "Pressian Economy"
+      ],
+      "primary_category": "kr-economy",
+      "hub": "kr",
+      "hub_label": "대한민국",
+      "section_key": "kr-economy",
+      "section_label": "경제",
+      "published_at": "2026-04-02T10:28:06+00:00",
+      "trust_level": 80,
+      "language": "ko",
+      "sort_timestamp": 1775125686
     },
     {
       "title": "How a seabird native to Hawaii has adapted to life in Honolulu's concrete jungle",
@@ -28666,6 +29144,25 @@
       "sort_timestamp": 1775043045
     },
     {
+      "title": "李대통령 quot;다주택자 대출연장 공정?quot; 언급 45일 만에 만기연장 금지된다",
+      "canonical_url": "https://www.pressian.com/pages/articles/2026040110550384863&ref=rss",
+      "link_label": "www.pressian.com/pages/articles/2026040110550384863&ref...",
+      "source_key": "pressian-economy-rss",
+      "source_name": "Pressian Economy",
+      "source_names": [
+        "Pressian Economy"
+      ],
+      "primary_category": "kr-economy",
+      "hub": "kr",
+      "hub_label": "대한민국",
+      "section_key": "kr-economy",
+      "section_label": "경제",
+      "published_at": "2026-04-01T11:29:18+00:00",
+      "trust_level": 80,
+      "language": "ko",
+      "sort_timestamp": 1775042958
+    },
+    {
       "title": "Passengers stranded in moving traffic after robotaxi outage in China's Wuhan",
       "canonical_url": "https://abcnews.com/Technology/wireStory/passengers-stranded-moving-traffic-after-robotaxi-outage-chinas-131605532",
       "link_label": "abcnews.com/Technology/wireStory/passengers-strand...",
@@ -29295,6 +29792,25 @@
       "sort_timestamp": 1774977000
     },
     {
+      "title": "경기신보, 고객자문위원회 개최로 현장 소통 강화",
+      "canonical_url": "https://www.pressian.com/pages/articles/2026033114311495252&ref=rss",
+      "link_label": "www.pressian.com/pages/articles/2026033114311495252&ref...",
+      "source_key": "pressian-economy-rss",
+      "source_name": "Pressian Economy",
+      "source_names": [
+        "Pressian Economy"
+      ],
+      "primary_category": "kr-economy",
+      "hub": "kr",
+      "hub_label": "대한민국",
+      "section_key": "kr-economy",
+      "section_label": "경제",
+      "published_at": "2026-03-31T16:50:17+00:00",
+      "trust_level": 80,
+      "language": "ko",
+      "sort_timestamp": 1774975817
+    },
+    {
       "title": "WATCH: NASA holds pre-launch news conference on Artemis II, farthest crewed flight in decades",
       "canonical_url": "https://www.pbs.org/newshour/science/watch-live-nasa-holds-pre-launch-news-conference-on-artemis-ii-farthest-crewed-flight-in-decades",
       "link_label": "www.pbs.org/newshour/science/watch-live-nasa-holds...",
@@ -29502,6 +30018,25 @@
       "trust_level": 89,
       "language": "en",
       "sort_timestamp": 1774947600
+    },
+    {
+      "title": "반도체 생산 급등 38년만 최고 폭 상승 hellip;산업생산 전월比 2.5% 상승",
+      "canonical_url": "https://www.pressian.com/pages/articles/2026033108320730474&ref=rss",
+      "link_label": "www.pressian.com/pages/articles/2026033108320730474&ref...",
+      "source_key": "pressian-economy-rss",
+      "source_name": "Pressian Economy",
+      "source_names": [
+        "Pressian Economy"
+      ],
+      "primary_category": "kr-economy",
+      "hub": "kr",
+      "hub_label": "대한민국",
+      "section_key": "kr-economy",
+      "section_label": "경제",
+      "published_at": "2026-03-31T08:32:07+00:00",
+      "trust_level": 80,
+      "language": "ko",
+      "sort_timestamp": 1774945927
     },
     {
       "title": "If OpenAI is to float on the stock market this year, it needs to start turning a profit",
@@ -29884,6 +30419,25 @@
       "sort_timestamp": 1774812300
     },
     {
+      "title": "차량 5부제, 민간에도 시행? 서울 평균 휘발유값 1900원 넘어",
+      "canonical_url": "https://www.pressian.com/pages/articles/2026032914221317623&ref=rss",
+      "link_label": "www.pressian.com/pages/articles/2026032914221317623&ref...",
+      "source_key": "pressian-economy-rss",
+      "source_name": "Pressian Economy",
+      "source_names": [
+        "Pressian Economy"
+      ],
+      "primary_category": "kr-economy",
+      "hub": "kr",
+      "hub_label": "대한민국",
+      "section_key": "kr-economy",
+      "section_label": "경제",
+      "published_at": "2026-03-29T15:28:48+00:00",
+      "trust_level": 80,
+      "language": "ko",
+      "sort_timestamp": 1774798128
+    },
+    {
       "title": "트럼프 보란듯 ICBM 엔진시험 공개한 김정은…‘이란과 달라’ 무력시위",
       "canonical_url": "https://www.mk.co.kr/news/politics/12001538",
       "link_label": "www.mk.co.kr/news/politics/12001538",
@@ -30245,6 +30799,25 @@
       "sort_timestamp": 1774556753
     },
     {
+      "title": "경기신보, '중동위기 대응 특별경영자금 및 보증' 시행",
+      "canonical_url": "https://www.pressian.com/pages/articles/2026032614582095782&ref=rss",
+      "link_label": "www.pressian.com/pages/articles/2026032614582095782&ref...",
+      "source_key": "pressian-economy-rss",
+      "source_name": "Pressian Economy",
+      "source_names": [
+        "Pressian Economy"
+      ],
+      "primary_category": "kr-economy",
+      "hub": "kr",
+      "hub_label": "대한민국",
+      "section_key": "kr-economy",
+      "section_label": "경제",
+      "published_at": "2026-03-26T15:30:19+00:00",
+      "trust_level": 80,
+      "language": "ko",
+      "sort_timestamp": 1774539019
+    },
+    {
       "title": "Jury finds Meta and YouTube liable in landmark social media addiction trial",
       "canonical_url": "https://www.cbsnews.com/video/jury-finds-meta-and-youtube-liable-in-landmark-social-media-addiction-trial",
       "link_label": "www.cbsnews.com/video/jury-finds-meta-and-youtube-liab...",
@@ -30262,6 +30835,25 @@
       "trust_level": 87,
       "language": "en",
       "sort_timestamp": 1774527120
+    },
+    {
+      "title": "한국, '보호주의 진영화' 시대 생존 전략은? '대체 불가능성'에 달렸다",
+      "canonical_url": "https://www.pressian.com/pages/articles/2026032600031748267&ref=rss",
+      "link_label": "www.pressian.com/pages/articles/2026032600031748267&ref...",
+      "source_key": "pressian-economy-rss",
+      "source_name": "Pressian Economy",
+      "source_names": [
+        "Pressian Economy"
+      ],
+      "primary_category": "kr-economy",
+      "hub": "kr",
+      "hub_label": "대한민국",
+      "section_key": "kr-economy",
+      "section_label": "경제",
+      "published_at": "2026-03-26T11:27:54+00:00",
+      "trust_level": 80,
+      "language": "ko",
+      "sort_timestamp": 1774524474
     },
     {
       "title": "Sony and Honda pull plug on the $100,000 EV that was set to debut in California",
@@ -30435,6 +31027,25 @@
       "sort_timestamp": 1774468800
     },
     {
+      "title": "quot;오세훈 용적률 상향으로 종묘 경관 훼손-개발이익 맞바꿨다quot;",
+      "canonical_url": "https://www.pressian.com/pages/articles/2026032516135240606&ref=rss",
+      "link_label": "www.pressian.com/pages/articles/2026032516135240606&ref...",
+      "source_key": "pressian-economy-rss",
+      "source_name": "Pressian Economy",
+      "source_names": [
+        "Pressian Economy"
+      ],
+      "primary_category": "kr-economy",
+      "hub": "kr",
+      "hub_label": "대한민국",
+      "section_key": "kr-economy",
+      "section_label": "경제",
+      "published_at": "2026-03-25T19:55:06+00:00",
+      "trust_level": 80,
+      "language": "ko",
+      "sort_timestamp": 1774468506
+    },
+    {
       "title": "Landmark L.A. jury verdict finds Instagram, YouTube were designed to addict kids",
       "canonical_url": "https://www.latimes.com/california/story/2026-03-25/social-media-lawsuit-trial-meta-google-verdict",
       "link_label": "www.latimes.com/california/story/2026-03-25/social-med...",
@@ -30471,6 +31082,25 @@
       "trust_level": 89,
       "language": "en",
       "sort_timestamp": 1774458000
+    },
+    {
+      "title": "1월 합계출산율 1 육박hellip;인구 감소는 지속",
+      "canonical_url": "https://www.pressian.com/pages/articles/2026032516201451210&ref=rss",
+      "link_label": "www.pressian.com/pages/articles/2026032516201451210&ref...",
+      "source_key": "pressian-economy-rss",
+      "source_name": "Pressian Economy",
+      "source_names": [
+        "Pressian Economy"
+      ],
+      "primary_category": "kr-economy",
+      "hub": "kr",
+      "hub_label": "대한민국",
+      "section_key": "kr-economy",
+      "section_label": "경제",
+      "published_at": "2026-03-25T16:29:39+00:00",
+      "trust_level": 80,
+      "language": "ko",
+      "sort_timestamp": 1774456179
     },
     {
       "title": "Supreme Court makes it harder for music and movie makers to sue for online piracy",
@@ -30511,6 +31141,25 @@
       "sort_timestamp": 1774454400
     },
     {
+      "title": "집값 상승 기대 13개월 만에 꺾였다hellip;정부, '집값 잡기' 정책 영향?",
+      "canonical_url": "https://www.pressian.com/pages/articles/2026032510462758092&ref=rss",
+      "link_label": "www.pressian.com/pages/articles/2026032510462758092&ref...",
+      "source_key": "pressian-economy-rss",
+      "source_name": "Pressian Economy",
+      "source_names": [
+        "Pressian Economy"
+      ],
+      "primary_category": "kr-economy",
+      "hub": "kr",
+      "hub_label": "대한민국",
+      "section_key": "kr-economy",
+      "section_label": "경제",
+      "published_at": "2026-03-25T13:43:12+00:00",
+      "trust_level": 80,
+      "language": "ko",
+      "sort_timestamp": 1774446192
+    },
+    {
       "title": "New Mexico jury finds Meta violated consumer protection law in landmark trial",
       "canonical_url": "https://www.cbsnews.com/video/new-mexico-jury-finds-meta-violated-consumer-protection-law-in-landmark-trial",
       "link_label": "www.cbsnews.com/video/new-mexico-jury-finds-meta-viola...",
@@ -30528,6 +31177,44 @@
       "trust_level": 87,
       "language": "en",
       "sort_timestamp": 1774444140
+    },
+    {
+      "title": "이란침공 나비효과? 이번엔 중동발 '비닐' 대란hellip;quot;결국 전쟁 끝나야 해결quot;",
+      "canonical_url": "https://www.pressian.com/pages/articles/2026032511071572730&ref=rss",
+      "link_label": "www.pressian.com/pages/articles/2026032511071572730&ref...",
+      "source_key": "pressian-economy-rss",
+      "source_name": "Pressian Economy",
+      "source_names": [
+        "Pressian Economy"
+      ],
+      "primary_category": "kr-economy",
+      "hub": "kr",
+      "hub_label": "대한민국",
+      "section_key": "kr-economy",
+      "section_label": "경제",
+      "published_at": "2026-03-25T12:28:49+00:00",
+      "trust_level": 80,
+      "language": "ko",
+      "sort_timestamp": 1774441729
+    },
+    {
+      "title": "서울 아파트 공시가격 상승과 보유세 증가? 누구 이야기일까?",
+      "canonical_url": "https://www.pressian.com/pages/articles/2026032416050976820&ref=rss",
+      "link_label": "www.pressian.com/pages/articles/2026032416050976820&ref...",
+      "source_key": "pressian-economy-rss",
+      "source_name": "Pressian Economy",
+      "source_names": [
+        "Pressian Economy"
+      ],
+      "primary_category": "kr-economy",
+      "hub": "kr",
+      "hub_label": "대한민국",
+      "section_key": "kr-economy",
+      "section_label": "경제",
+      "published_at": "2026-03-25T12:19:03+00:00",
+      "trust_level": 80,
+      "language": "ko",
+      "sort_timestamp": 1774441143
     },
     {
       "title": "As streaming subscription fees rise, more consumers opt to pay less and watch ads",
@@ -30853,6 +31540,44 @@
       "sort_timestamp": 1774357200
     },
     {
+      "title": "quot;이대통령의 '다주택자' 업무배제, 긍정적이나 여전히 부족quot;",
+      "canonical_url": "https://www.pressian.com/pages/articles/2026032410035197318&ref=rss",
+      "link_label": "www.pressian.com/pages/articles/2026032410035197318&ref...",
+      "source_key": "pressian-economy-rss",
+      "source_name": "Pressian Economy",
+      "source_names": [
+        "Pressian Economy"
+      ],
+      "primary_category": "kr-economy",
+      "hub": "kr",
+      "hub_label": "대한민국",
+      "section_key": "kr-economy",
+      "section_label": "경제",
+      "published_at": "2026-03-24T10:59:51+00:00",
+      "trust_level": 80,
+      "language": "ko",
+      "sort_timestamp": 1774349991
+    },
+    {
+      "title": "이창용, 신현송 후보자 지명에 quot;아주 다행hellip;한은에 축복quot;",
+      "canonical_url": "https://www.pressian.com/pages/articles/2026032407021774367&ref=rss",
+      "link_label": "www.pressian.com/pages/articles/2026032407021774367&ref...",
+      "source_key": "pressian-economy-rss",
+      "source_name": "Pressian Economy",
+      "source_names": [
+        "Pressian Economy"
+      ],
+      "primary_category": "kr-economy",
+      "hub": "kr",
+      "hub_label": "대한민국",
+      "section_key": "kr-economy",
+      "section_label": "경제",
+      "published_at": "2026-03-24T09:57:45+00:00",
+      "trust_level": 80,
+      "language": "ko",
+      "sort_timestamp": 1774346265
+    },
+    {
       "title": "北 김정은 \"韓 가장 적대적 국가 … 철저히 무시\"",
       "canonical_url": "https://www.mk.co.kr/news/politics/11997111",
       "link_label": "www.mk.co.kr/news/politics/11997111",
@@ -30965,6 +31690,25 @@
       "trust_level": 89,
       "language": "en",
       "sort_timestamp": 1774256400
+    },
+    {
+      "title": "당정청, '전쟁 추경' 25조 규모 편성키로",
+      "canonical_url": "https://www.pressian.com/pages/articles/2026032220071275390&ref=rss",
+      "link_label": "www.pressian.com/pages/articles/2026032220071275390&ref...",
+      "source_key": "pressian-economy-rss",
+      "source_name": "Pressian Economy",
+      "source_names": [
+        "Pressian Economy"
+      ],
+      "primary_category": "kr-economy",
+      "hub": "kr",
+      "hub_label": "대한민국",
+      "section_key": "kr-economy",
+      "section_label": "경제",
+      "published_at": "2026-03-23T06:17:37+00:00",
+      "trust_level": 80,
+      "language": "ko",
+      "sort_timestamp": 1774246657
     },
     {
       "title": "How iNaturalist app users have fun while aiding science",
@@ -33328,6 +34072,26 @@
       "sort_timestamp": 0
     },
     {
+      "title": "US military aircraft hit in Iran war are first shot down by enemy fire in over 20 years",
+      "canonical_url": "https://apnews.com/article/iran-war-fighter-jet-shot-down-trump-3a8b2d5b2cdaceb13bbb62c3f6526e71",
+      "link_label": "apnews.com/article/iran-war-fighter-jet-shot-down...",
+      "source_key": "ap-politics-discovery",
+      "source_name": "Associated Press Politics",
+      "source_names": [
+        "Associated Press Politics",
+        "Associated Press Technology"
+      ],
+      "primary_category": "us-politics",
+      "hub": "us",
+      "hub_label": "미국",
+      "section_key": "us-politics",
+      "section_label": "정치",
+      "published_at": null,
+      "trust_level": 90,
+      "language": "en",
+      "sort_timestamp": 0
+    },
+    {
       "title": "US Army tests medical readiness tracker for the first time in Africa during Justified Accord 2026",
       "canonical_url": "https://www.army.mil/article/291392/us_army_tests_medical_readiness_tracker_for_the_first_time_in_africa_during_justified_accord_2026",
       "link_label": "www.army.mil/article/291392/us_army_tests_medical_r...",
@@ -35511,6 +36275,25 @@
       "sort_timestamp": 0
     },
     {
+      "title": "일요일 아침 흐렸다 차차 개…벚꽃 절정 만끽하세요 일요일인 5일 전국이 대체로 흐리다가 오전부터 차차 맑아질 것으로 보인다. 하지만 밤부터 다시 차차 흐려져 늦은 밤에는 인천과 경기 북서부에 비가 시작될 것으로 예상된다.기상청은 4일 “내일(5일) 늦은 밤(밤 9~12시)부터 인천·경기북서부에, 모레(6일) 새벽(0~...",
+      "canonical_url": "https://www.hani.co.kr/arti/society/environment/1252661.html",
+      "link_label": "www.hani.co.kr/arti/society/environment/1252661.html",
+      "source_key": "hani-society-discovery",
+      "source_name": "Hankyoreh Society",
+      "source_names": [
+        "Hankyoreh Society"
+      ],
+      "primary_category": "kr-society",
+      "hub": "kr",
+      "hub_label": "대한민국",
+      "section_key": "kr-society",
+      "section_label": "사회",
+      "published_at": null,
+      "trust_level": 83,
+      "language": "ko",
+      "sort_timestamp": 0
+    },
+    {
       "title": "이 대통령, 10일 민주노총과 첫 간담회…노동정책 등 논의 이재명 대통령이 오는 10일 전국민주노동조합총연맹(민주노총)과 노동 정책 논의를 위한 첫 만남을 가진다.3일 청와대에 따르면, 이 대통령은 10일 청와대에서 양경수 민주노총 위원장을 포함해 민주노총 지도부와 간담회를 열고 노동 정책 방향에 대한 의견을 들을 계획이다. ...",
       "canonical_url": "https://www.hani.co.kr/arti/society/labor/1252608.html",
       "link_label": "www.hani.co.kr/arti/society/labor/1252608.html",
@@ -35980,25 +36763,6 @@
       "hub_label": "대한민국",
       "section_key": "kr-culture",
       "section_label": "문화",
-      "published_at": null,
-      "trust_level": 83,
-      "language": "ko",
-      "sort_timestamp": 0
-    },
-    {
-      "title": "내일 아침 흐렸다 차차 개…벚꽃 절정 만끽하세요 일요일인 5일 전국이 대체로 흐리다가 오전부터 차차 맑아질 것으로 보인다. 하지만 밤부터 다시 차차 흐려져 늦은 밤에는 인천과 경기 북서부에 비가 시작될 것으로 예상된다.기상청은 4일 “내일(5일) 늦은 밤(밤 9~12시)부터 인천·경기북서부에, 모레(6일) 새벽(0~...",
-      "canonical_url": "https://www.hani.co.kr/arti/society/environment/1252661.html",
-      "link_label": "www.hani.co.kr/arti/society/environment/1252661.html",
-      "source_key": "hani-society-discovery",
-      "source_name": "Hankyoreh Society",
-      "source_names": [
-        "Hankyoreh Society"
-      ],
-      "primary_category": "kr-society",
-      "hub": "kr",
-      "hub_label": "대한민국",
-      "section_key": "kr-society",
-      "section_label": "사회",
       "published_at": null,
       "trust_level": 83,
       "language": "ko",
@@ -37449,6 +38213,25 @@
       "sort_timestamp": 0
     },
     {
+      "title": "These women had their breasts removed. Then came the pain.",
+      "canonical_url": "https://www.usatoday.com/story/life/health-wellness/2026/04/04/breasts-removed-cancer-prevention-pain/89393647007",
+      "link_label": "www.usatoday.com/story/life/health-wellness/2026/04/04...",
+      "source_key": "usatoday-news-discovery",
+      "source_name": "USA Today News",
+      "source_names": [
+        "USA Today News"
+      ],
+      "primary_category": "us-technology",
+      "hub": "us",
+      "hub_label": "미국",
+      "section_key": "us-technology",
+      "section_label": "기술",
+      "published_at": null,
+      "trust_level": 82,
+      "language": "en",
+      "sort_timestamp": 0
+    },
+    {
       "title": "These new Social Security rules matter if you…",
       "canonical_url": "https://www.usatoday.com/story/money/personalfinance/retirement/2026/04/02/social-security-rules-working-retirement/89418258007",
       "link_label": "www.usatoday.com/story/money/personalfinance/retirement...",
@@ -38402,9 +39185,47 @@
       "sort_timestamp": 0
     },
     {
+      "title": "새벽길 달리던 전기택시 연석 들이받고 '불'…배터리 발화 추정",
+      "canonical_url": "https://n.news.naver.com/mnews/article/421/0008870021",
+      "link_label": "n.news.naver.com/mnews/article/421/0008870021",
+      "source_key": "naver-kr-society",
+      "source_name": "NAVER News Search",
+      "source_names": [
+        "NAVER News Search"
+      ],
+      "primary_category": "kr-society",
+      "hub": "kr",
+      "hub_label": "대한민국",
+      "section_key": "kr-society",
+      "section_label": "사회",
+      "published_at": null,
+      "trust_level": 70,
+      "language": "ko",
+      "sort_timestamp": 0
+    },
+    {
       "title": "본경선 D-1…한준호·추미애·김동연 막판 표심 잡기…\"지지 호소\"",
       "canonical_url": "https://n.news.naver.com/mnews/article/003/0013867497",
       "link_label": "n.news.naver.com/mnews/article/003/0013867497",
+      "source_key": "naver-kr-society",
+      "source_name": "NAVER News Search",
+      "source_names": [
+        "NAVER News Search"
+      ],
+      "primary_category": "kr-society",
+      "hub": "kr",
+      "hub_label": "대한민국",
+      "section_key": "kr-society",
+      "section_label": "사회",
+      "published_at": null,
+      "trust_level": 70,
+      "language": "ko",
+      "sort_timestamp": 0
+    },
+    {
+      "title": "박왕열, 마약 합수본이 수사…\"불법 수익 철저히 환수\"",
+      "canonical_url": "https://n.news.naver.com/mnews/article/437/0000485855",
+      "link_label": "n.news.naver.com/mnews/article/437/0000485855",
       "source_key": "naver-kr-society",
       "source_name": "NAVER News Search",
       "source_names": [
@@ -38690,6 +39511,44 @@
       "title": "‘노인 대중교통 무임승차 제한?’ 청와대 “계획없다”",
       "canonical_url": "https://n.news.naver.com/mnews/article/021/0002782282",
       "link_label": "n.news.naver.com/mnews/article/021/0002782282",
+      "source_key": "naver-kr-society",
+      "source_name": "NAVER News Search",
+      "source_names": [
+        "NAVER News Search"
+      ],
+      "primary_category": "kr-society",
+      "hub": "kr",
+      "hub_label": "대한민국",
+      "section_key": "kr-society",
+      "section_label": "사회",
+      "published_at": null,
+      "trust_level": 70,
+      "language": "ko",
+      "sort_timestamp": 0
+    },
+    {
+      "title": "[사사건건] '중앙지검 검사의 글'…가상인물 내세운 허위정보 처벌 사각지대",
+      "canonical_url": "https://n.news.naver.com/mnews/article/022/0004118245",
+      "link_label": "n.news.naver.com/mnews/article/022/0004118245",
+      "source_key": "naver-kr-society",
+      "source_name": "NAVER News Search",
+      "source_names": [
+        "NAVER News Search"
+      ],
+      "primary_category": "kr-society",
+      "hub": "kr",
+      "hub_label": "대한민국",
+      "section_key": "kr-society",
+      "section_label": "사회",
+      "published_at": null,
+      "trust_level": 70,
+      "language": "ko",
+      "sort_timestamp": 0
+    },
+    {
+      "title": "5월부터 농지 전수조사…“애먼 임차농만 내쫓길라” 불안",
+      "canonical_url": "https://n.news.naver.com/mnews/article/662/0000092195",
+      "link_label": "n.news.naver.com/mnews/article/662/0000092195",
       "source_key": "naver-kr-society",
       "source_name": "NAVER News Search",
       "source_names": [

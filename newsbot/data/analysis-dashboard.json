@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-04-04T12:39:30.222355+00:00",
+  "generated_at": "2026-04-04T12:43:26.947103+00:00",
   "retention_days": 90,
   "default_window": "7d",
-  "lifetime_total_articles": 4151,
-  "lifetime_unknown_time_count": 449,
+  "lifetime_total_articles": 4216,
+  "lifetime_unknown_time_count": 463,
   "available_windows": [
     {
       "key": "24h",
@@ -29,18 +29,18 @@
   "windows": {
     "24h": {
       "label": "24h",
-      "article_count": 1236,
+      "article_count": 1249,
       "unknown_time_count": 0,
-      "active_source_count": 90,
-      "repeated_title_count": 86,
+      "active_source_count": 92,
+      "repeated_title_count": 85,
       "timeline": [
         {
           "date": "2026-04-03",
-          "count": 647
+          "count": 651
         },
         {
           "date": "2026-04-04",
-          "count": 589
+          "count": 598
         }
       ],
       "top_keywords": [
@@ -61,12 +61,12 @@
           "count": 30
         },
         {
-          "keyword": "us",
+          "keyword": "what",
           "count": 27
         },
         {
-          "keyword": "what",
-          "count": 27
+          "keyword": "us",
+          "count": 26
         },
         {
           "keyword": "ai",
@@ -77,12 +77,12 @@
           "count": 23
         },
         {
-          "keyword": "how",
-          "count": 20
+          "keyword": "after",
+          "count": 21
         },
         {
-          "keyword": "after",
-          "count": 19
+          "keyword": "how",
+          "count": 20
         },
         {
           "keyword": "about",
@@ -97,7 +97,7 @@
         {
           "source_key": "thehill-feed",
           "name": "The Hill Feed",
-          "count": 66
+          "count": 65
         },
         {
           "source_key": "guardian-us-rss",
@@ -140,11 +140,6 @@
           "count": 28
         },
         {
-          "source_key": "donga-sports-rss",
-          "name": "DongA Sports",
-          "count": 28
-        },
-        {
           "source_key": "sbs-society-rss",
           "name": "SBS Society",
           "count": 28
@@ -153,18 +148,23 @@
           "source_key": "cbs-us-rss",
           "name": "CBS News US",
           "count": 27
+        },
+        {
+          "source_key": "donga-sports-rss",
+          "name": "DongA Sports",
+          "count": 27
         }
       ],
       "top_hubs": [
         {
           "key": "us",
           "label": "미국",
-          "count": 741
+          "count": 739
         },
         {
           "key": "kr",
           "label": "대한민국",
-          "count": 430
+          "count": 445
         },
         {
           "key": "global",
@@ -178,7 +178,7 @@
           "label": "정치",
           "hub": "us",
           "hub_label": "미국",
-          "count": 312
+          "count": 311
         },
         {
           "key": "us-technology",
@@ -206,21 +206,28 @@
           "label": "경제",
           "hub": "kr",
           "hub_label": "대한민국",
-          "count": 87
+          "count": 88
         },
         {
           "key": "us-economy",
           "label": "경제",
           "hub": "us",
           "hub_label": "미국",
-          "count": 85
+          "count": 84
         },
         {
           "key": "kr-sports",
           "label": "스포츠",
           "hub": "kr",
           "hub_label": "대한민국",
-          "count": 74
+          "count": 73
+        },
+        {
+          "key": "kr-politics",
+          "label": "정치",
+          "hub": "kr",
+          "hub_label": "대한민국",
+          "count": 73
         },
         {
           "key": "kr-culture",
@@ -228,13 +235,6 @@
           "hub": "kr",
           "hub_label": "대한민국",
           "count": 60
-        },
-        {
-          "key": "kr-politics",
-          "label": "정치",
-          "hub": "kr",
-          "hub_label": "대한민국",
-          "count": 58
         },
         {
           "key": "us-markets",
@@ -261,11 +261,11 @@
       "language_counts": [
         {
           "language": "en",
-          "count": 797
+          "count": 795
         },
         {
           "language": "ko",
-          "count": 439
+          "count": 454
         }
       ],
       "repeated_titles": [
@@ -452,6 +452,72 @@
       ],
       "recent_samples": [
         {
+          "stable_key": "1de42aa73cd0a9514512405f1d0dfb0b231f883f35378ae4dd91d0e76b3e2127",
+          "source_key": "pressian-politics-rss",
+          "source_name": "Pressian Politics",
+          "category": "kr-politics",
+          "hub": "kr",
+          "hub_label": "대한민국",
+          "section_label": "정치",
+          "language": "ko",
+          "title": "국힘 서울 지지율 13%로 '풀썩'hellip;배현진 quot;후보들이 안 나서, 간판 교체해야quot;",
+          "canonical_url": "https://www.pressian.com/pages/articles/2026040409060075375&ref=rss",
+          "published_at": "2026-04-04T19:51:04+00:00",
+          "title_hash": "e3a09f0b0777f897cec430e91d0dd02ee76b5af010cbfb54fc686e7753f64515",
+          "keywords": [
+            "국힘",
+            "서울",
+            "지지율",
+            "풀썩",
+            "hellip",
+            "배현진"
+          ]
+        },
+        {
+          "stable_key": "f7b58b2316c418a60299ac436eb7ec7b5386f014b9c4db19d9cce93f4e8e5c8b",
+          "source_key": "pressian-politics-rss",
+          "source_name": "Pressian Politics",
+          "category": "kr-politics",
+          "hub": "kr",
+          "hub_label": "대한민국",
+          "section_label": "정치",
+          "language": "ko",
+          "title": "경기 與후보적합도 김동연middot;추미애 격차 더 벌어졌다hellip;金 35.0%, 秋 21.5%",
+          "canonical_url": "https://www.pressian.com/pages/articles/2026040413054743167&ref=rss",
+          "published_at": "2026-04-04T13:10:04+00:00",
+          "title_hash": "0e50ccbb078f41ce6eccad8337ddcd03cc54520585a898a2470cc61a98859667",
+          "keywords": [
+            "경기",
+            "후보적합도",
+            "김동연middot",
+            "추미애",
+            "격차",
+            "벌어졌다hellip"
+          ]
+        },
+        {
+          "stable_key": "a69a4a594296edc8dadd56f9190dba4e747dfb1042bd88eecc3f5b98a9cf9c56",
+          "source_key": "cbs-world-rss",
+          "source_name": "CBS News World",
+          "category": "us-world",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "세계",
+          "language": "en",
+          "title": "U.S. races to find missing crew member after fighter jet shot down over Iran",
+          "canonical_url": "https://www.cbsnews.com/video/us-races-to-find-missing-crew-member-after-fighter-jet-shot-down-over-iran",
+          "published_at": "2026-04-04T12:36:46+00:00",
+          "title_hash": "87be5a74d903e4420a55a9b4d73288ea0f15aff60f1fadb788b9ffa59cb51d3c",
+          "keywords": [
+            "races",
+            "find",
+            "missing",
+            "crew",
+            "member",
+            "after"
+          ]
+        },
+        {
           "stable_key": "45351fcbd1b51ab9f26f2af38d6d3e17c30a0b7fa77afead72ad06ff41a36b0b",
           "source_key": "mk-sports-rss",
           "source_name": "Maeil Business Sports",
@@ -760,6 +826,28 @@
           ]
         },
         {
+          "stable_key": "0d9625e3e005bfec978a86350c7cc7f211781708767a622fdf98233cc8dd8b9e",
+          "source_key": "thehill-feed",
+          "source_name": "The Hill Feed",
+          "category": "us-politics",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "정치",
+          "language": "en",
+          "title": "Bolton: Trump likely in ‘panic mode’ after Iran attacks US fighter jets",
+          "canonical_url": "https://thehill.com/policy/defense/5816042-john-bolton-donald-trump-iran-us-fighter-jets",
+          "published_at": "2026-04-04T12:15:22+00:00",
+          "title_hash": "a41904b234b52b7ce126ad07c64513f129e75e9f60b5bd1c5249693744039dbb",
+          "keywords": [
+            "bolton",
+            "trump",
+            "likely",
+            "panic",
+            "mode",
+            "after"
+          ]
+        },
+        {
           "stable_key": "902e11598bf720667318d2c8bb723c6a0472e7d6f889dcba15922fb66c759b0f",
           "source_key": "newsweek-feed",
           "source_name": "Newsweek Feed",
@@ -1022,102 +1110,14 @@
             "missing",
             "airman"
           ]
-        },
-        {
-          "stable_key": "9f726d33ac23b3795affcd14176803ebd24f9250a35573f4466930af95b25740",
-          "source_key": "sbs-society-rss",
-          "source_name": "SBS Society",
-          "category": "kr-society",
-          "hub": "kr",
-          "hub_label": "대한민국",
-          "section_label": "사회",
-          "language": "ko",
-          "title": "순식간에 집어삼켜…난간 위 올라가 \"살려주세요\"",
-          "canonical_url": "https://news.sbs.co.kr/news/endPage.do?cooper=RSSREADER&news_id=N1008505334&plink=RSSLINK",
-          "published_at": "2026-04-04T12:04:00+00:00",
-          "title_hash": "a917d98517107a7f59cb42eeaa13f7033f08364b63528b6e9fbec350eac46261",
-          "keywords": [
-            "순식간에",
-            "집어삼켜",
-            "난간",
-            "올라가",
-            "살려주세요",
-            "순식간에 집어삼켜"
-          ]
-        },
-        {
-          "stable_key": "584eb5d5aa1d734b2a33265434d4455d54a8e45a1052c9ea8aef297ff5e993c8",
-          "source_key": "sbs-society-rss",
-          "source_name": "SBS Society",
-          "category": "kr-society",
-          "hub": "kr",
-          "hub_label": "대한민국",
-          "section_label": "사회",
-          "language": "ko",
-          "title": "'파면 1년' 반성 없는 윤…아물지 않은 상처",
-          "canonical_url": "https://news.sbs.co.kr/news/endPage.do?cooper=RSSREADER&news_id=N1008505332&plink=RSSLINK",
-          "published_at": "2026-04-04T12:04:00+00:00",
-          "title_hash": "d4c9cf3c0a54eaa4ebe8be7cec5c1f307c7e6f0deb2b8d1ec56021c8b42107cc",
-          "keywords": [
-            "파면",
-            "1년",
-            "반성",
-            "없는",
-            "아물지",
-            "않은"
-          ]
-        },
-        {
-          "stable_key": "1b2699560163708bf751641b7fb56c805df0b1ec4f605921bc7ee076ed7fba83",
-          "source_key": "sbs-politics-rss",
-          "source_name": "SBS Politics",
-          "category": "kr-politics",
-          "hub": "kr",
-          "hub_label": "대한민국",
-          "section_label": "정치",
-          "language": "ko",
-          "title": "D-60 공천 속도 내는 민주…대구 4파전 되나?",
-          "canonical_url": "https://news.sbs.co.kr/news/endPage.do?cooper=RSSREADER&news_id=N1008505333&plink=RSSLINK",
-          "published_at": "2026-04-04T12:04:00+00:00",
-          "title_hash": "deab8801224f6b463d506205110bc7ea2ef4ece7738a429b2e35d2afac5476f2",
-          "keywords": [
-            "공천",
-            "속도",
-            "내는",
-            "민주",
-            "대구",
-            "4파전"
-          ]
-        },
-        {
-          "stable_key": "f8bc1e606ae046aba16a94c95b22140958d4ee59af91ac0e2955980f6d23c72b",
-          "source_key": "sbs-economy-rss",
-          "source_name": "SBS Economy",
-          "category": "kr-economy",
-          "hub": "kr",
-          "hub_label": "대한민국",
-          "section_label": "경제",
-          "language": "ko",
-          "title": "\"수익 꽤 높네\" 몰리는 직장인들…따져볼 것은",
-          "canonical_url": "https://news.sbs.co.kr/news/endPage.do?cooper=RSSREADER&news_id=N1008505335&plink=RSSLINK",
-          "published_at": "2026-04-04T12:04:00+00:00",
-          "title_hash": "6b0d5011463a0c0d1508e49c9aa60312dca923961f7b54d34d0959048fef726b",
-          "keywords": [
-            "수익",
-            "높네",
-            "몰리는",
-            "직장인들",
-            "따져볼",
-            "것은"
-          ]
         }
       ]
     },
     "7d": {
       "label": "7d",
-      "article_count": 3024,
+      "article_count": 3061,
       "unknown_time_count": 0,
-      "active_source_count": 99,
+      "active_source_count": 101,
       "repeated_title_count": 170,
       "timeline": [
         {
@@ -1126,7 +1126,7 @@
         },
         {
           "date": "2026-03-29",
-          "count": 29
+          "count": 30
         },
         {
           "date": "2026-03-30",
@@ -1134,29 +1134,29 @@
         },
         {
           "date": "2026-03-31",
-          "count": 150
+          "count": 152
         },
         {
           "date": "2026-04-01",
-          "count": 244
+          "count": 245
         },
         {
           "date": "2026-04-02",
-          "count": 585
+          "count": 593
         },
         {
           "date": "2026-04-03",
-          "count": 1332
+          "count": 1348
         },
         {
           "date": "2026-04-04",
-          "count": 589
+          "count": 598
         }
       ],
       "top_keywords": [
         {
           "keyword": "trump",
-          "count": 343
+          "count": 344
         },
         {
           "keyword": "iran",
@@ -1176,7 +1176,7 @@
         },
         {
           "keyword": "after",
-          "count": 58
+          "count": 60
         },
         {
           "keyword": "ai",
@@ -1227,7 +1227,7 @@
         {
           "source_key": "thehill-feed",
           "name": "The Hill Feed",
-          "count": 93
+          "count": 94
         },
         {
           "source_key": "asiae-politics-rss",
@@ -1252,16 +1252,16 @@
         {
           "source_key": "nyt-world-rss",
           "name": "New York Times World",
-          "count": 59
+          "count": 60
+        },
+        {
+          "source_key": "wired-rss",
+          "name": "Wired RSS",
+          "count": 51
         },
         {
           "source_key": "donga-culture-rss",
           "name": "DongA Culture",
-          "count": 50
-        },
-        {
-          "source_key": "donga-economy-rss",
-          "name": "DongA Economy",
           "count": 50
         }
       ],
@@ -1269,12 +1269,12 @@
         {
           "key": "us",
           "label": "미국",
-          "count": 1729
+          "count": 1733
         },
         {
           "key": "kr",
           "label": "대한민국",
-          "count": 1172
+          "count": 1205
         },
         {
           "key": "global",
@@ -1288,28 +1288,28 @@
           "label": "정치",
           "hub": "us",
           "hub_label": "미국",
-          "count": 674
+          "count": 675
         },
         {
           "key": "us-technology",
           "label": "기술",
           "hub": "us",
           "hub_label": "미국",
-          "count": 415
+          "count": 416
         },
         {
           "key": "us-world",
           "label": "세계",
           "hub": "us",
           "hub_label": "미국",
-          "count": 317
+          "count": 319
         },
         {
           "key": "kr-economy",
           "label": "경제",
           "hub": "kr",
           "hub_label": "대한민국",
-          "count": 293
+          "count": 301
         },
         {
           "key": "kr-society",
@@ -1319,18 +1319,18 @@
           "count": 274
         },
         {
+          "key": "kr-politics",
+          "label": "정치",
+          "hub": "kr",
+          "hub_label": "대한민국",
+          "count": 235
+        },
+        {
           "key": "kr-culture",
           "label": "문화",
           "hub": "kr",
           "hub_label": "대한민국",
           "count": 223
-        },
-        {
-          "key": "kr-politics",
-          "label": "정치",
-          "hub": "kr",
-          "hub_label": "대한민국",
-          "count": 210
         },
         {
           "key": "us-economy",
@@ -1371,11 +1371,11 @@
       "language_counts": [
         {
           "language": "en",
-          "count": 1843
+          "count": 1847
         },
         {
           "language": "ko",
-          "count": 1181
+          "count": 1214
         }
       ],
       "repeated_titles": [
@@ -1524,6 +1524,15 @@
           "sort_timestamp": 1775156384
         },
         {
+          "title_hash": "5e0f1f755622cc5ea66302bcb4ebd7eb281dae66b93e049122881d42d9535ded",
+          "title": "Europe Pushes for a Gentler Internet for Children",
+          "article_count": 3,
+          "source_count": 3,
+          "latest_published_at": "2026-04-02T09:06:33+00:00",
+          "canonical_url": "https://www.nytimes.com/2026/04/02/world/europe/european-union-social-media-internet-regulation-children.html",
+          "sort_timestamp": 1775120793
+        },
+        {
           "title_hash": "5fae583ca35de60b0b3e6c3c6ad2d5d3e295248a12fa016d9d78fa51195106dd",
           "title": "Russia’s VPN Crackdown Caused Bank Outage, Telegram Founder Says",
           "article_count": 2,
@@ -1549,18 +1558,75 @@
           "latest_published_at": "2026-04-04T10:48:27+00:00",
           "canonical_url": "https://www.npr.org/2026/04/04/nx-s1-5773436/iran-war-updates",
           "sort_timestamp": 1775299707
-        },
-        {
-          "title_hash": "fe505a4d30f9fd3596ac1ef55fc3a754cc78e7bcfe87065ec96c7b2e1f10420c",
-          "title": "A Billionaire’s Pitch To Cut Power Bills Collides With California’s Real Costs",
-          "article_count": 2,
-          "source_count": 2,
-          "latest_published_at": "2026-04-04T10:30:00+00:00",
-          "canonical_url": "https://www.forbes.com/sites/alanohnsman/2026/04/04/a-billionaires-pitch-to-cut-power-bills-collides-with-californias-real-costs",
-          "sort_timestamp": 1775298600
         }
       ],
       "recent_samples": [
+        {
+          "stable_key": "1de42aa73cd0a9514512405f1d0dfb0b231f883f35378ae4dd91d0e76b3e2127",
+          "source_key": "pressian-politics-rss",
+          "source_name": "Pressian Politics",
+          "category": "kr-politics",
+          "hub": "kr",
+          "hub_label": "대한민국",
+          "section_label": "정치",
+          "language": "ko",
+          "title": "국힘 서울 지지율 13%로 '풀썩'hellip;배현진 quot;후보들이 안 나서, 간판 교체해야quot;",
+          "canonical_url": "https://www.pressian.com/pages/articles/2026040409060075375&ref=rss",
+          "published_at": "2026-04-04T19:51:04+00:00",
+          "title_hash": "e3a09f0b0777f897cec430e91d0dd02ee76b5af010cbfb54fc686e7753f64515",
+          "keywords": [
+            "국힘",
+            "서울",
+            "지지율",
+            "풀썩",
+            "hellip",
+            "배현진"
+          ]
+        },
+        {
+          "stable_key": "f7b58b2316c418a60299ac436eb7ec7b5386f014b9c4db19d9cce93f4e8e5c8b",
+          "source_key": "pressian-politics-rss",
+          "source_name": "Pressian Politics",
+          "category": "kr-politics",
+          "hub": "kr",
+          "hub_label": "대한민국",
+          "section_label": "정치",
+          "language": "ko",
+          "title": "경기 與후보적합도 김동연middot;추미애 격차 더 벌어졌다hellip;金 35.0%, 秋 21.5%",
+          "canonical_url": "https://www.pressian.com/pages/articles/2026040413054743167&ref=rss",
+          "published_at": "2026-04-04T13:10:04+00:00",
+          "title_hash": "0e50ccbb078f41ce6eccad8337ddcd03cc54520585a898a2470cc61a98859667",
+          "keywords": [
+            "경기",
+            "후보적합도",
+            "김동연middot",
+            "추미애",
+            "격차",
+            "벌어졌다hellip"
+          ]
+        },
+        {
+          "stable_key": "a69a4a594296edc8dadd56f9190dba4e747dfb1042bd88eecc3f5b98a9cf9c56",
+          "source_key": "cbs-world-rss",
+          "source_name": "CBS News World",
+          "category": "us-world",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "세계",
+          "language": "en",
+          "title": "U.S. races to find missing crew member after fighter jet shot down over Iran",
+          "canonical_url": "https://www.cbsnews.com/video/us-races-to-find-missing-crew-member-after-fighter-jet-shot-down-over-iran",
+          "published_at": "2026-04-04T12:36:46+00:00",
+          "title_hash": "87be5a74d903e4420a55a9b4d73288ea0f15aff60f1fadb788b9ffa59cb51d3c",
+          "keywords": [
+            "races",
+            "find",
+            "missing",
+            "crew",
+            "member",
+            "after"
+          ]
+        },
         {
           "stable_key": "45351fcbd1b51ab9f26f2af38d6d3e17c30a0b7fa77afead72ad06ff41a36b0b",
           "source_key": "mk-sports-rss",
@@ -1870,6 +1936,28 @@
           ]
         },
         {
+          "stable_key": "0d9625e3e005bfec978a86350c7cc7f211781708767a622fdf98233cc8dd8b9e",
+          "source_key": "thehill-feed",
+          "source_name": "The Hill Feed",
+          "category": "us-politics",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "정치",
+          "language": "en",
+          "title": "Bolton: Trump likely in ‘panic mode’ after Iran attacks US fighter jets",
+          "canonical_url": "https://thehill.com/policy/defense/5816042-john-bolton-donald-trump-iran-us-fighter-jets",
+          "published_at": "2026-04-04T12:15:22+00:00",
+          "title_hash": "a41904b234b52b7ce126ad07c64513f129e75e9f60b5bd1c5249693744039dbb",
+          "keywords": [
+            "bolton",
+            "trump",
+            "likely",
+            "panic",
+            "mode",
+            "after"
+          ]
+        },
+        {
           "stable_key": "902e11598bf720667318d2c8bb723c6a0472e7d6f889dcba15922fb66c759b0f",
           "source_key": "newsweek-feed",
           "source_name": "Newsweek Feed",
@@ -2132,102 +2220,14 @@
             "missing",
             "airman"
           ]
-        },
-        {
-          "stable_key": "9f726d33ac23b3795affcd14176803ebd24f9250a35573f4466930af95b25740",
-          "source_key": "sbs-society-rss",
-          "source_name": "SBS Society",
-          "category": "kr-society",
-          "hub": "kr",
-          "hub_label": "대한민국",
-          "section_label": "사회",
-          "language": "ko",
-          "title": "순식간에 집어삼켜…난간 위 올라가 \"살려주세요\"",
-          "canonical_url": "https://news.sbs.co.kr/news/endPage.do?cooper=RSSREADER&news_id=N1008505334&plink=RSSLINK",
-          "published_at": "2026-04-04T12:04:00+00:00",
-          "title_hash": "a917d98517107a7f59cb42eeaa13f7033f08364b63528b6e9fbec350eac46261",
-          "keywords": [
-            "순식간에",
-            "집어삼켜",
-            "난간",
-            "올라가",
-            "살려주세요",
-            "순식간에 집어삼켜"
-          ]
-        },
-        {
-          "stable_key": "584eb5d5aa1d734b2a33265434d4455d54a8e45a1052c9ea8aef297ff5e993c8",
-          "source_key": "sbs-society-rss",
-          "source_name": "SBS Society",
-          "category": "kr-society",
-          "hub": "kr",
-          "hub_label": "대한민국",
-          "section_label": "사회",
-          "language": "ko",
-          "title": "'파면 1년' 반성 없는 윤…아물지 않은 상처",
-          "canonical_url": "https://news.sbs.co.kr/news/endPage.do?cooper=RSSREADER&news_id=N1008505332&plink=RSSLINK",
-          "published_at": "2026-04-04T12:04:00+00:00",
-          "title_hash": "d4c9cf3c0a54eaa4ebe8be7cec5c1f307c7e6f0deb2b8d1ec56021c8b42107cc",
-          "keywords": [
-            "파면",
-            "1년",
-            "반성",
-            "없는",
-            "아물지",
-            "않은"
-          ]
-        },
-        {
-          "stable_key": "1b2699560163708bf751641b7fb56c805df0b1ec4f605921bc7ee076ed7fba83",
-          "source_key": "sbs-politics-rss",
-          "source_name": "SBS Politics",
-          "category": "kr-politics",
-          "hub": "kr",
-          "hub_label": "대한민국",
-          "section_label": "정치",
-          "language": "ko",
-          "title": "D-60 공천 속도 내는 민주…대구 4파전 되나?",
-          "canonical_url": "https://news.sbs.co.kr/news/endPage.do?cooper=RSSREADER&news_id=N1008505333&plink=RSSLINK",
-          "published_at": "2026-04-04T12:04:00+00:00",
-          "title_hash": "deab8801224f6b463d506205110bc7ea2ef4ece7738a429b2e35d2afac5476f2",
-          "keywords": [
-            "공천",
-            "속도",
-            "내는",
-            "민주",
-            "대구",
-            "4파전"
-          ]
-        },
-        {
-          "stable_key": "f8bc1e606ae046aba16a94c95b22140958d4ee59af91ac0e2955980f6d23c72b",
-          "source_key": "sbs-economy-rss",
-          "source_name": "SBS Economy",
-          "category": "kr-economy",
-          "hub": "kr",
-          "hub_label": "대한민국",
-          "section_label": "경제",
-          "language": "ko",
-          "title": "\"수익 꽤 높네\" 몰리는 직장인들…따져볼 것은",
-          "canonical_url": "https://news.sbs.co.kr/news/endPage.do?cooper=RSSREADER&news_id=N1008505335&plink=RSSLINK",
-          "published_at": "2026-04-04T12:04:00+00:00",
-          "title_hash": "6b0d5011463a0c0d1508e49c9aa60312dca923961f7b54d34d0959048fef726b",
-          "keywords": [
-            "수익",
-            "높네",
-            "몰리는",
-            "직장인들",
-            "따져볼",
-            "것은"
-          ]
         }
       ]
     },
     "30d": {
       "label": "30d",
-      "article_count": 3526,
+      "article_count": 3577,
       "unknown_time_count": 0,
-      "active_source_count": 100,
+      "active_source_count": 102,
       "repeated_title_count": 231,
       "timeline": [
         {
@@ -2300,23 +2300,23 @@
         },
         {
           "date": "2026-03-22",
-          "count": 16
+          "count": 20
         },
         {
           "date": "2026-03-23",
-          "count": 22
+          "count": 23
         },
         {
           "date": "2026-03-24",
-          "count": 53
+          "count": 55
         },
         {
           "date": "2026-03-25",
-          "count": 60
+          "count": 65
         },
         {
           "date": "2026-03-26",
-          "count": 70
+          "count": 72
         },
         {
           "date": "2026-03-27",
@@ -2328,7 +2328,7 @@
         },
         {
           "date": "2026-03-29",
-          "count": 29
+          "count": 30
         },
         {
           "date": "2026-03-30",
@@ -2336,29 +2336,29 @@
         },
         {
           "date": "2026-03-31",
-          "count": 150
+          "count": 152
         },
         {
           "date": "2026-04-01",
-          "count": 244
+          "count": 245
         },
         {
           "date": "2026-04-02",
-          "count": 585
+          "count": 593
         },
         {
           "date": "2026-04-03",
-          "count": 1332
+          "count": 1348
         },
         {
           "date": "2026-04-04",
-          "count": 589
+          "count": 598
         }
       ],
       "top_keywords": [
         {
           "keyword": "trump",
-          "count": 391
+          "count": 392
         },
         {
           "keyword": "iran",
@@ -2386,7 +2386,7 @@
         },
         {
           "keyword": "after",
-          "count": 65
+          "count": 67
         },
         {
           "keyword": "says",
@@ -2442,13 +2442,13 @@
           "count": 96
         },
         {
-          "source_key": "axios-feed",
-          "name": "Axios Feed",
-          "count": 93
-        },
-        {
           "source_key": "thehill-feed",
           "name": "The Hill Feed",
+          "count": 94
+        },
+        {
+          "source_key": "axios-feed",
+          "name": "Axios Feed",
           "count": 93
         },
         {
@@ -2471,12 +2471,12 @@
         {
           "key": "us",
           "label": "미국",
-          "count": 2169
+          "count": 2173
         },
         {
           "key": "kr",
           "label": "대한민국",
-          "count": 1230
+          "count": 1277
         },
         {
           "key": "global",
@@ -2490,28 +2490,28 @@
           "label": "정치",
           "hub": "us",
           "hub_label": "미국",
-          "count": 790
+          "count": 791
         },
         {
           "key": "us-technology",
           "label": "기술",
           "hub": "us",
           "hub_label": "미국",
-          "count": 522
+          "count": 523
         },
         {
           "key": "us-world",
           "label": "세계",
           "hub": "us",
           "hub_label": "미국",
-          "count": 400
+          "count": 402
         },
         {
           "key": "kr-economy",
           "label": "경제",
           "hub": "kr",
           "hub_label": "대한민국",
-          "count": 293
+          "count": 315
         },
         {
           "key": "us-economy",
@@ -2532,7 +2532,7 @@
           "label": "정치",
           "hub": "kr",
           "hub_label": "대한민국",
-          "count": 246
+          "count": 271
         },
         {
           "key": "kr-culture",
@@ -2573,11 +2573,11 @@
       "language_counts": [
         {
           "language": "en",
-          "count": 2287
+          "count": 2291
         },
         {
           "language": "ko",
-          "count": 1239
+          "count": 1286
         }
       ],
       "repeated_titles": [
@@ -2735,6 +2735,15 @@
           "sort_timestamp": 1775156384
         },
         {
+          "title_hash": "5e0f1f755622cc5ea66302bcb4ebd7eb281dae66b93e049122881d42d9535ded",
+          "title": "Europe Pushes for a Gentler Internet for Children",
+          "article_count": 3,
+          "source_count": 3,
+          "latest_published_at": "2026-04-02T09:06:33+00:00",
+          "canonical_url": "https://www.nytimes.com/2026/04/02/world/europe/european-union-social-media-internet-regulation-children.html",
+          "sort_timestamp": 1775120793
+        },
+        {
           "title_hash": "4c1dd58350930a93bac692cb8fe94c87409cd4ba899efbf4d5db083a6150fa17",
           "title": "How the landmark verdict against Meta and YouTube could hit their businesses",
           "article_count": 3,
@@ -2751,18 +2760,75 @@
           "latest_published_at": "2026-03-24T22:38:22+00:00",
           "canonical_url": "https://www.latimes.com/california/story/2026-03-24/new-mexico-social-media-harms-lawsuit-375-million-verdict",
           "sort_timestamp": 1774391902
-        },
-        {
-          "title_hash": "a78a0d9fa87e6e6f4a3ed6466ffede71962858107b86383da2696446a87f4362",
-          "title": "Pentagon's Anthropic bashing rekindles Silicon Valley's resistance to war",
-          "article_count": 3,
-          "source_count": 3,
-          "latest_published_at": "2026-03-20T10:00:00+00:00",
-          "canonical_url": "https://www.latimes.com/business/story/2026-03-20/pentagons-attempt-to-strong-arm-anthropic-rouses-resistance-reflection-in-silicon-valley",
-          "sort_timestamp": 1774000800
         }
       ],
       "recent_samples": [
+        {
+          "stable_key": "1de42aa73cd0a9514512405f1d0dfb0b231f883f35378ae4dd91d0e76b3e2127",
+          "source_key": "pressian-politics-rss",
+          "source_name": "Pressian Politics",
+          "category": "kr-politics",
+          "hub": "kr",
+          "hub_label": "대한민국",
+          "section_label": "정치",
+          "language": "ko",
+          "title": "국힘 서울 지지율 13%로 '풀썩'hellip;배현진 quot;후보들이 안 나서, 간판 교체해야quot;",
+          "canonical_url": "https://www.pressian.com/pages/articles/2026040409060075375&ref=rss",
+          "published_at": "2026-04-04T19:51:04+00:00",
+          "title_hash": "e3a09f0b0777f897cec430e91d0dd02ee76b5af010cbfb54fc686e7753f64515",
+          "keywords": [
+            "국힘",
+            "서울",
+            "지지율",
+            "풀썩",
+            "hellip",
+            "배현진"
+          ]
+        },
+        {
+          "stable_key": "f7b58b2316c418a60299ac436eb7ec7b5386f014b9c4db19d9cce93f4e8e5c8b",
+          "source_key": "pressian-politics-rss",
+          "source_name": "Pressian Politics",
+          "category": "kr-politics",
+          "hub": "kr",
+          "hub_label": "대한민국",
+          "section_label": "정치",
+          "language": "ko",
+          "title": "경기 與후보적합도 김동연middot;추미애 격차 더 벌어졌다hellip;金 35.0%, 秋 21.5%",
+          "canonical_url": "https://www.pressian.com/pages/articles/2026040413054743167&ref=rss",
+          "published_at": "2026-04-04T13:10:04+00:00",
+          "title_hash": "0e50ccbb078f41ce6eccad8337ddcd03cc54520585a898a2470cc61a98859667",
+          "keywords": [
+            "경기",
+            "후보적합도",
+            "김동연middot",
+            "추미애",
+            "격차",
+            "벌어졌다hellip"
+          ]
+        },
+        {
+          "stable_key": "a69a4a594296edc8dadd56f9190dba4e747dfb1042bd88eecc3f5b98a9cf9c56",
+          "source_key": "cbs-world-rss",
+          "source_name": "CBS News World",
+          "category": "us-world",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "세계",
+          "language": "en",
+          "title": "U.S. races to find missing crew member after fighter jet shot down over Iran",
+          "canonical_url": "https://www.cbsnews.com/video/us-races-to-find-missing-crew-member-after-fighter-jet-shot-down-over-iran",
+          "published_at": "2026-04-04T12:36:46+00:00",
+          "title_hash": "87be5a74d903e4420a55a9b4d73288ea0f15aff60f1fadb788b9ffa59cb51d3c",
+          "keywords": [
+            "races",
+            "find",
+            "missing",
+            "crew",
+            "member",
+            "after"
+          ]
+        },
         {
           "stable_key": "45351fcbd1b51ab9f26f2af38d6d3e17c30a0b7fa77afead72ad06ff41a36b0b",
           "source_key": "mk-sports-rss",
@@ -3072,6 +3138,28 @@
           ]
         },
         {
+          "stable_key": "0d9625e3e005bfec978a86350c7cc7f211781708767a622fdf98233cc8dd8b9e",
+          "source_key": "thehill-feed",
+          "source_name": "The Hill Feed",
+          "category": "us-politics",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "정치",
+          "language": "en",
+          "title": "Bolton: Trump likely in ‘panic mode’ after Iran attacks US fighter jets",
+          "canonical_url": "https://thehill.com/policy/defense/5816042-john-bolton-donald-trump-iran-us-fighter-jets",
+          "published_at": "2026-04-04T12:15:22+00:00",
+          "title_hash": "a41904b234b52b7ce126ad07c64513f129e75e9f60b5bd1c5249693744039dbb",
+          "keywords": [
+            "bolton",
+            "trump",
+            "likely",
+            "panic",
+            "mode",
+            "after"
+          ]
+        },
+        {
           "stable_key": "902e11598bf720667318d2c8bb723c6a0472e7d6f889dcba15922fb66c759b0f",
           "source_key": "newsweek-feed",
           "source_name": "Newsweek Feed",
@@ -3334,102 +3422,14 @@
             "missing",
             "airman"
           ]
-        },
-        {
-          "stable_key": "9f726d33ac23b3795affcd14176803ebd24f9250a35573f4466930af95b25740",
-          "source_key": "sbs-society-rss",
-          "source_name": "SBS Society",
-          "category": "kr-society",
-          "hub": "kr",
-          "hub_label": "대한민국",
-          "section_label": "사회",
-          "language": "ko",
-          "title": "순식간에 집어삼켜…난간 위 올라가 \"살려주세요\"",
-          "canonical_url": "https://news.sbs.co.kr/news/endPage.do?cooper=RSSREADER&news_id=N1008505334&plink=RSSLINK",
-          "published_at": "2026-04-04T12:04:00+00:00",
-          "title_hash": "a917d98517107a7f59cb42eeaa13f7033f08364b63528b6e9fbec350eac46261",
-          "keywords": [
-            "순식간에",
-            "집어삼켜",
-            "난간",
-            "올라가",
-            "살려주세요",
-            "순식간에 집어삼켜"
-          ]
-        },
-        {
-          "stable_key": "584eb5d5aa1d734b2a33265434d4455d54a8e45a1052c9ea8aef297ff5e993c8",
-          "source_key": "sbs-society-rss",
-          "source_name": "SBS Society",
-          "category": "kr-society",
-          "hub": "kr",
-          "hub_label": "대한민국",
-          "section_label": "사회",
-          "language": "ko",
-          "title": "'파면 1년' 반성 없는 윤…아물지 않은 상처",
-          "canonical_url": "https://news.sbs.co.kr/news/endPage.do?cooper=RSSREADER&news_id=N1008505332&plink=RSSLINK",
-          "published_at": "2026-04-04T12:04:00+00:00",
-          "title_hash": "d4c9cf3c0a54eaa4ebe8be7cec5c1f307c7e6f0deb2b8d1ec56021c8b42107cc",
-          "keywords": [
-            "파면",
-            "1년",
-            "반성",
-            "없는",
-            "아물지",
-            "않은"
-          ]
-        },
-        {
-          "stable_key": "1b2699560163708bf751641b7fb56c805df0b1ec4f605921bc7ee076ed7fba83",
-          "source_key": "sbs-politics-rss",
-          "source_name": "SBS Politics",
-          "category": "kr-politics",
-          "hub": "kr",
-          "hub_label": "대한민국",
-          "section_label": "정치",
-          "language": "ko",
-          "title": "D-60 공천 속도 내는 민주…대구 4파전 되나?",
-          "canonical_url": "https://news.sbs.co.kr/news/endPage.do?cooper=RSSREADER&news_id=N1008505333&plink=RSSLINK",
-          "published_at": "2026-04-04T12:04:00+00:00",
-          "title_hash": "deab8801224f6b463d506205110bc7ea2ef4ece7738a429b2e35d2afac5476f2",
-          "keywords": [
-            "공천",
-            "속도",
-            "내는",
-            "민주",
-            "대구",
-            "4파전"
-          ]
-        },
-        {
-          "stable_key": "f8bc1e606ae046aba16a94c95b22140958d4ee59af91ac0e2955980f6d23c72b",
-          "source_key": "sbs-economy-rss",
-          "source_name": "SBS Economy",
-          "category": "kr-economy",
-          "hub": "kr",
-          "hub_label": "대한민국",
-          "section_label": "경제",
-          "language": "ko",
-          "title": "\"수익 꽤 높네\" 몰리는 직장인들…따져볼 것은",
-          "canonical_url": "https://news.sbs.co.kr/news/endPage.do?cooper=RSSREADER&news_id=N1008505335&plink=RSSLINK",
-          "published_at": "2026-04-04T12:04:00+00:00",
-          "title_hash": "6b0d5011463a0c0d1508e49c9aa60312dca923961f7b54d34d0959048fef726b",
-          "keywords": [
-            "수익",
-            "높네",
-            "몰리는",
-            "직장인들",
-            "따져볼",
-            "것은"
-          ]
         }
       ]
     },
     "90d": {
       "label": "90d",
-      "article_count": 3609,
+      "article_count": 3660,
       "unknown_time_count": 0,
-      "active_source_count": 100,
+      "active_source_count": 102,
       "repeated_title_count": 233,
       "timeline": [
         {
@@ -3650,23 +3650,23 @@
         },
         {
           "date": "2026-03-22",
-          "count": 16
+          "count": 20
         },
         {
           "date": "2026-03-23",
-          "count": 22
+          "count": 23
         },
         {
           "date": "2026-03-24",
-          "count": 53
+          "count": 55
         },
         {
           "date": "2026-03-25",
-          "count": 60
+          "count": 65
         },
         {
           "date": "2026-03-26",
-          "count": 70
+          "count": 72
         },
         {
           "date": "2026-03-27",
@@ -3678,7 +3678,7 @@
         },
         {
           "date": "2026-03-29",
-          "count": 29
+          "count": 30
         },
         {
           "date": "2026-03-30",
@@ -3686,29 +3686,29 @@
         },
         {
           "date": "2026-03-31",
-          "count": 150
+          "count": 152
         },
         {
           "date": "2026-04-01",
-          "count": 244
+          "count": 245
         },
         {
           "date": "2026-04-02",
-          "count": 585
+          "count": 593
         },
         {
           "date": "2026-04-03",
-          "count": 1332
+          "count": 1348
         },
         {
           "date": "2026-04-04",
-          "count": 589
+          "count": 598
         }
       ],
       "top_keywords": [
         {
           "keyword": "trump",
-          "count": 393
+          "count": 394
         },
         {
           "keyword": "iran",
@@ -3736,7 +3736,7 @@
         },
         {
           "keyword": "after",
-          "count": 66
+          "count": 68
         },
         {
           "keyword": "california",
@@ -3792,13 +3792,13 @@
           "count": 96
         },
         {
-          "source_key": "axios-feed",
-          "name": "Axios Feed",
-          "count": 93
-        },
-        {
           "source_key": "thehill-feed",
           "name": "The Hill Feed",
+          "count": 94
+        },
+        {
+          "source_key": "axios-feed",
+          "name": "Axios Feed",
           "count": 93
         },
         {
@@ -3821,12 +3821,12 @@
         {
           "key": "us",
           "label": "미국",
-          "count": 2250
+          "count": 2254
         },
         {
           "key": "kr",
           "label": "대한민국",
-          "count": 1230
+          "count": 1277
         },
         {
           "key": "global",
@@ -3840,28 +3840,28 @@
           "label": "정치",
           "hub": "us",
           "hub_label": "미국",
-          "count": 790
+          "count": 791
         },
         {
           "key": "us-technology",
           "label": "기술",
           "hub": "us",
           "hub_label": "미국",
-          "count": 582
+          "count": 583
         },
         {
           "key": "us-world",
           "label": "세계",
           "hub": "us",
           "hub_label": "미국",
-          "count": 401
+          "count": 403
         },
         {
           "key": "kr-economy",
           "label": "경제",
           "hub": "kr",
           "hub_label": "대한민국",
-          "count": 293
+          "count": 315
         },
         {
           "key": "us-economy",
@@ -3882,7 +3882,7 @@
           "label": "정치",
           "hub": "kr",
           "hub_label": "대한민국",
-          "count": 246
+          "count": 271
         },
         {
           "key": "kr-culture",
@@ -3923,11 +3923,11 @@
       "language_counts": [
         {
           "language": "en",
-          "count": 2370
+          "count": 2374
         },
         {
           "language": "ko",
-          "count": 1239
+          "count": 1286
         }
       ],
       "repeated_titles": [
@@ -4085,6 +4085,15 @@
           "sort_timestamp": 1775156384
         },
         {
+          "title_hash": "5e0f1f755622cc5ea66302bcb4ebd7eb281dae66b93e049122881d42d9535ded",
+          "title": "Europe Pushes for a Gentler Internet for Children",
+          "article_count": 3,
+          "source_count": 3,
+          "latest_published_at": "2026-04-02T09:06:33+00:00",
+          "canonical_url": "https://www.nytimes.com/2026/04/02/world/europe/european-union-social-media-internet-regulation-children.html",
+          "sort_timestamp": 1775120793
+        },
+        {
           "title_hash": "4c1dd58350930a93bac692cb8fe94c87409cd4ba899efbf4d5db083a6150fa17",
           "title": "How the landmark verdict against Meta and YouTube could hit their businesses",
           "article_count": 3,
@@ -4101,18 +4110,75 @@
           "latest_published_at": "2026-03-24T22:38:22+00:00",
           "canonical_url": "https://www.latimes.com/california/story/2026-03-24/new-mexico-social-media-harms-lawsuit-375-million-verdict",
           "sort_timestamp": 1774391902
-        },
-        {
-          "title_hash": "a78a0d9fa87e6e6f4a3ed6466ffede71962858107b86383da2696446a87f4362",
-          "title": "Pentagon's Anthropic bashing rekindles Silicon Valley's resistance to war",
-          "article_count": 3,
-          "source_count": 3,
-          "latest_published_at": "2026-03-20T10:00:00+00:00",
-          "canonical_url": "https://www.latimes.com/business/story/2026-03-20/pentagons-attempt-to-strong-arm-anthropic-rouses-resistance-reflection-in-silicon-valley",
-          "sort_timestamp": 1774000800
         }
       ],
       "recent_samples": [
+        {
+          "stable_key": "1de42aa73cd0a9514512405f1d0dfb0b231f883f35378ae4dd91d0e76b3e2127",
+          "source_key": "pressian-politics-rss",
+          "source_name": "Pressian Politics",
+          "category": "kr-politics",
+          "hub": "kr",
+          "hub_label": "대한민국",
+          "section_label": "정치",
+          "language": "ko",
+          "title": "국힘 서울 지지율 13%로 '풀썩'hellip;배현진 quot;후보들이 안 나서, 간판 교체해야quot;",
+          "canonical_url": "https://www.pressian.com/pages/articles/2026040409060075375&ref=rss",
+          "published_at": "2026-04-04T19:51:04+00:00",
+          "title_hash": "e3a09f0b0777f897cec430e91d0dd02ee76b5af010cbfb54fc686e7753f64515",
+          "keywords": [
+            "국힘",
+            "서울",
+            "지지율",
+            "풀썩",
+            "hellip",
+            "배현진"
+          ]
+        },
+        {
+          "stable_key": "f7b58b2316c418a60299ac436eb7ec7b5386f014b9c4db19d9cce93f4e8e5c8b",
+          "source_key": "pressian-politics-rss",
+          "source_name": "Pressian Politics",
+          "category": "kr-politics",
+          "hub": "kr",
+          "hub_label": "대한민국",
+          "section_label": "정치",
+          "language": "ko",
+          "title": "경기 與후보적합도 김동연middot;추미애 격차 더 벌어졌다hellip;金 35.0%, 秋 21.5%",
+          "canonical_url": "https://www.pressian.com/pages/articles/2026040413054743167&ref=rss",
+          "published_at": "2026-04-04T13:10:04+00:00",
+          "title_hash": "0e50ccbb078f41ce6eccad8337ddcd03cc54520585a898a2470cc61a98859667",
+          "keywords": [
+            "경기",
+            "후보적합도",
+            "김동연middot",
+            "추미애",
+            "격차",
+            "벌어졌다hellip"
+          ]
+        },
+        {
+          "stable_key": "a69a4a594296edc8dadd56f9190dba4e747dfb1042bd88eecc3f5b98a9cf9c56",
+          "source_key": "cbs-world-rss",
+          "source_name": "CBS News World",
+          "category": "us-world",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "세계",
+          "language": "en",
+          "title": "U.S. races to find missing crew member after fighter jet shot down over Iran",
+          "canonical_url": "https://www.cbsnews.com/video/us-races-to-find-missing-crew-member-after-fighter-jet-shot-down-over-iran",
+          "published_at": "2026-04-04T12:36:46+00:00",
+          "title_hash": "87be5a74d903e4420a55a9b4d73288ea0f15aff60f1fadb788b9ffa59cb51d3c",
+          "keywords": [
+            "races",
+            "find",
+            "missing",
+            "crew",
+            "member",
+            "after"
+          ]
+        },
         {
           "stable_key": "45351fcbd1b51ab9f26f2af38d6d3e17c30a0b7fa77afead72ad06ff41a36b0b",
           "source_key": "mk-sports-rss",
@@ -4422,6 +4488,28 @@
           ]
         },
         {
+          "stable_key": "0d9625e3e005bfec978a86350c7cc7f211781708767a622fdf98233cc8dd8b9e",
+          "source_key": "thehill-feed",
+          "source_name": "The Hill Feed",
+          "category": "us-politics",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "정치",
+          "language": "en",
+          "title": "Bolton: Trump likely in ‘panic mode’ after Iran attacks US fighter jets",
+          "canonical_url": "https://thehill.com/policy/defense/5816042-john-bolton-donald-trump-iran-us-fighter-jets",
+          "published_at": "2026-04-04T12:15:22+00:00",
+          "title_hash": "a41904b234b52b7ce126ad07c64513f129e75e9f60b5bd1c5249693744039dbb",
+          "keywords": [
+            "bolton",
+            "trump",
+            "likely",
+            "panic",
+            "mode",
+            "after"
+          ]
+        },
+        {
           "stable_key": "902e11598bf720667318d2c8bb723c6a0472e7d6f889dcba15922fb66c759b0f",
           "source_key": "newsweek-feed",
           "source_name": "Newsweek Feed",
@@ -4684,103 +4772,15 @@
             "missing",
             "airman"
           ]
-        },
-        {
-          "stable_key": "9f726d33ac23b3795affcd14176803ebd24f9250a35573f4466930af95b25740",
-          "source_key": "sbs-society-rss",
-          "source_name": "SBS Society",
-          "category": "kr-society",
-          "hub": "kr",
-          "hub_label": "대한민국",
-          "section_label": "사회",
-          "language": "ko",
-          "title": "순식간에 집어삼켜…난간 위 올라가 \"살려주세요\"",
-          "canonical_url": "https://news.sbs.co.kr/news/endPage.do?cooper=RSSREADER&news_id=N1008505334&plink=RSSLINK",
-          "published_at": "2026-04-04T12:04:00+00:00",
-          "title_hash": "a917d98517107a7f59cb42eeaa13f7033f08364b63528b6e9fbec350eac46261",
-          "keywords": [
-            "순식간에",
-            "집어삼켜",
-            "난간",
-            "올라가",
-            "살려주세요",
-            "순식간에 집어삼켜"
-          ]
-        },
-        {
-          "stable_key": "584eb5d5aa1d734b2a33265434d4455d54a8e45a1052c9ea8aef297ff5e993c8",
-          "source_key": "sbs-society-rss",
-          "source_name": "SBS Society",
-          "category": "kr-society",
-          "hub": "kr",
-          "hub_label": "대한민국",
-          "section_label": "사회",
-          "language": "ko",
-          "title": "'파면 1년' 반성 없는 윤…아물지 않은 상처",
-          "canonical_url": "https://news.sbs.co.kr/news/endPage.do?cooper=RSSREADER&news_id=N1008505332&plink=RSSLINK",
-          "published_at": "2026-04-04T12:04:00+00:00",
-          "title_hash": "d4c9cf3c0a54eaa4ebe8be7cec5c1f307c7e6f0deb2b8d1ec56021c8b42107cc",
-          "keywords": [
-            "파면",
-            "1년",
-            "반성",
-            "없는",
-            "아물지",
-            "않은"
-          ]
-        },
-        {
-          "stable_key": "1b2699560163708bf751641b7fb56c805df0b1ec4f605921bc7ee076ed7fba83",
-          "source_key": "sbs-politics-rss",
-          "source_name": "SBS Politics",
-          "category": "kr-politics",
-          "hub": "kr",
-          "hub_label": "대한민국",
-          "section_label": "정치",
-          "language": "ko",
-          "title": "D-60 공천 속도 내는 민주…대구 4파전 되나?",
-          "canonical_url": "https://news.sbs.co.kr/news/endPage.do?cooper=RSSREADER&news_id=N1008505333&plink=RSSLINK",
-          "published_at": "2026-04-04T12:04:00+00:00",
-          "title_hash": "deab8801224f6b463d506205110bc7ea2ef4ece7738a429b2e35d2afac5476f2",
-          "keywords": [
-            "공천",
-            "속도",
-            "내는",
-            "민주",
-            "대구",
-            "4파전"
-          ]
-        },
-        {
-          "stable_key": "f8bc1e606ae046aba16a94c95b22140958d4ee59af91ac0e2955980f6d23c72b",
-          "source_key": "sbs-economy-rss",
-          "source_name": "SBS Economy",
-          "category": "kr-economy",
-          "hub": "kr",
-          "hub_label": "대한민국",
-          "section_label": "경제",
-          "language": "ko",
-          "title": "\"수익 꽤 높네\" 몰리는 직장인들…따져볼 것은",
-          "canonical_url": "https://news.sbs.co.kr/news/endPage.do?cooper=RSSREADER&news_id=N1008505335&plink=RSSLINK",
-          "published_at": "2026-04-04T12:04:00+00:00",
-          "title_hash": "6b0d5011463a0c0d1508e49c9aa60312dca923961f7b54d34d0959048fef726b",
-          "keywords": [
-            "수익",
-            "높네",
-            "몰리는",
-            "직장인들",
-            "따져볼",
-            "것은"
-          ]
         }
       ]
     },
     "all": {
       "label": "All",
-      "article_count": 4151,
-      "unknown_time_count": 449,
-      "active_source_count": 128,
-      "repeated_title_count": 276,
+      "article_count": 4216,
+      "unknown_time_count": 463,
+      "active_source_count": 130,
+      "repeated_title_count": 280,
       "timeline": [
         {
           "date": "2016-11-02",
@@ -5144,23 +5144,23 @@
         },
         {
           "date": "2026-03-22",
-          "count": 16
+          "count": 20
         },
         {
           "date": "2026-03-23",
-          "count": 22
+          "count": 23
         },
         {
           "date": "2026-03-24",
-          "count": 53
+          "count": 55
         },
         {
           "date": "2026-03-25",
-          "count": 60
+          "count": 65
         },
         {
           "date": "2026-03-26",
-          "count": 70
+          "count": 72
         },
         {
           "date": "2026-03-27",
@@ -5172,7 +5172,7 @@
         },
         {
           "date": "2026-03-29",
-          "count": 29
+          "count": 30
         },
         {
           "date": "2026-03-30",
@@ -5180,37 +5180,37 @@
         },
         {
           "date": "2026-03-31",
-          "count": 150
+          "count": 152
         },
         {
           "date": "2026-04-01",
-          "count": 244
+          "count": 245
         },
         {
           "date": "2026-04-02",
-          "count": 585
+          "count": 593
         },
         {
           "date": "2026-04-03",
-          "count": 1332
+          "count": 1348
         },
         {
           "date": "2026-04-04",
-          "count": 589
+          "count": 598
         }
       ],
       "top_keywords": [
         {
           "keyword": "trump",
-          "count": 419
+          "count": 420
         },
         {
           "keyword": "iran",
-          "count": 216
+          "count": 218
         },
         {
           "keyword": "war",
-          "count": 134
+          "count": 136
         },
         {
           "keyword": "new",
@@ -5218,11 +5218,11 @@
         },
         {
           "keyword": "ai",
-          "count": 92
+          "count": 93
         },
         {
           "keyword": "us",
-          "count": 89
+          "count": 91
         },
         {
           "keyword": "how",
@@ -5230,7 +5230,7 @@
         },
         {
           "keyword": "after",
-          "count": 71
+          "count": 73
         },
         {
           "keyword": "what",
@@ -5286,13 +5286,13 @@
           "count": 96
         },
         {
-          "source_key": "axios-feed",
-          "name": "Axios Feed",
-          "count": 93
-        },
-        {
           "source_key": "thehill-feed",
           "name": "The Hill Feed",
+          "count": 94
+        },
+        {
+          "source_key": "axios-feed",
+          "name": "Axios Feed",
           "count": 93
         },
         {
@@ -5315,12 +5315,12 @@
         {
           "key": "us",
           "label": "미국",
-          "count": 2575
+          "count": 2582
         },
         {
           "key": "kr",
           "label": "대한민국",
-          "count": 1417
+          "count": 1475
         },
         {
           "key": "global",
@@ -5334,28 +5334,35 @@
           "label": "정치",
           "hub": "us",
           "hub_label": "미국",
-          "count": 875
+          "count": 877
         },
         {
           "key": "us-technology",
           "label": "기술",
           "hub": "us",
           "hub_label": "미국",
-          "count": 664
+          "count": 667
         },
         {
           "key": "us-world",
           "label": "세계",
           "hub": "us",
           "hub_label": "미국",
-          "count": 453
+          "count": 455
         },
         {
           "key": "kr-economy",
           "label": "경제",
           "hub": "kr",
           "hub_label": "대한민국",
-          "count": 350
+          "count": 372
+        },
+        {
+          "key": "kr-society",
+          "label": "사회",
+          "hub": "kr",
+          "hub_label": "대한민국",
+          "count": 351
         },
         {
           "key": "us-economy",
@@ -5365,18 +5372,11 @@
           "count": 347
         },
         {
-          "key": "kr-society",
-          "label": "사회",
-          "hub": "kr",
-          "hub_label": "대한민국",
-          "count": 340
-        },
-        {
           "key": "kr-politics",
           "label": "정치",
           "hub": "kr",
           "hub_label": "대한민국",
-          "count": 258
+          "count": 283
         },
         {
           "key": "kr-culture",
@@ -5417,11 +5417,11 @@
       "language_counts": [
         {
           "language": "en",
-          "count": 2725
+          "count": 2732
         },
         {
           "language": "ko",
-          "count": 1426
+          "count": 1484
         }
       ],
       "repeated_titles": [
@@ -5607,6 +5607,72 @@
         }
       ],
       "recent_samples": [
+        {
+          "stable_key": "1de42aa73cd0a9514512405f1d0dfb0b231f883f35378ae4dd91d0e76b3e2127",
+          "source_key": "pressian-politics-rss",
+          "source_name": "Pressian Politics",
+          "category": "kr-politics",
+          "hub": "kr",
+          "hub_label": "대한민국",
+          "section_label": "정치",
+          "language": "ko",
+          "title": "국힘 서울 지지율 13%로 '풀썩'hellip;배현진 quot;후보들이 안 나서, 간판 교체해야quot;",
+          "canonical_url": "https://www.pressian.com/pages/articles/2026040409060075375&ref=rss",
+          "published_at": "2026-04-04T19:51:04+00:00",
+          "title_hash": "e3a09f0b0777f897cec430e91d0dd02ee76b5af010cbfb54fc686e7753f64515",
+          "keywords": [
+            "국힘",
+            "서울",
+            "지지율",
+            "풀썩",
+            "hellip",
+            "배현진"
+          ]
+        },
+        {
+          "stable_key": "f7b58b2316c418a60299ac436eb7ec7b5386f014b9c4db19d9cce93f4e8e5c8b",
+          "source_key": "pressian-politics-rss",
+          "source_name": "Pressian Politics",
+          "category": "kr-politics",
+          "hub": "kr",
+          "hub_label": "대한민국",
+          "section_label": "정치",
+          "language": "ko",
+          "title": "경기 與후보적합도 김동연middot;추미애 격차 더 벌어졌다hellip;金 35.0%, 秋 21.5%",
+          "canonical_url": "https://www.pressian.com/pages/articles/2026040413054743167&ref=rss",
+          "published_at": "2026-04-04T13:10:04+00:00",
+          "title_hash": "0e50ccbb078f41ce6eccad8337ddcd03cc54520585a898a2470cc61a98859667",
+          "keywords": [
+            "경기",
+            "후보적합도",
+            "김동연middot",
+            "추미애",
+            "격차",
+            "벌어졌다hellip"
+          ]
+        },
+        {
+          "stable_key": "a69a4a594296edc8dadd56f9190dba4e747dfb1042bd88eecc3f5b98a9cf9c56",
+          "source_key": "cbs-world-rss",
+          "source_name": "CBS News World",
+          "category": "us-world",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "세계",
+          "language": "en",
+          "title": "U.S. races to find missing crew member after fighter jet shot down over Iran",
+          "canonical_url": "https://www.cbsnews.com/video/us-races-to-find-missing-crew-member-after-fighter-jet-shot-down-over-iran",
+          "published_at": "2026-04-04T12:36:46+00:00",
+          "title_hash": "87be5a74d903e4420a55a9b4d73288ea0f15aff60f1fadb788b9ffa59cb51d3c",
+          "keywords": [
+            "races",
+            "find",
+            "missing",
+            "crew",
+            "member",
+            "after"
+          ]
+        },
         {
           "stable_key": "45351fcbd1b51ab9f26f2af38d6d3e17c30a0b7fa77afead72ad06ff41a36b0b",
           "source_key": "mk-sports-rss",
@@ -5916,6 +5982,28 @@
           ]
         },
         {
+          "stable_key": "0d9625e3e005bfec978a86350c7cc7f211781708767a622fdf98233cc8dd8b9e",
+          "source_key": "thehill-feed",
+          "source_name": "The Hill Feed",
+          "category": "us-politics",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "정치",
+          "language": "en",
+          "title": "Bolton: Trump likely in ‘panic mode’ after Iran attacks US fighter jets",
+          "canonical_url": "https://thehill.com/policy/defense/5816042-john-bolton-donald-trump-iran-us-fighter-jets",
+          "published_at": "2026-04-04T12:15:22+00:00",
+          "title_hash": "a41904b234b52b7ce126ad07c64513f129e75e9f60b5bd1c5249693744039dbb",
+          "keywords": [
+            "bolton",
+            "trump",
+            "likely",
+            "panic",
+            "mode",
+            "after"
+          ]
+        },
+        {
           "stable_key": "902e11598bf720667318d2c8bb723c6a0472e7d6f889dcba15922fb66c759b0f",
           "source_key": "newsweek-feed",
           "source_name": "Newsweek Feed",
@@ -6177,94 +6265,6 @@
             "find",
             "missing",
             "airman"
-          ]
-        },
-        {
-          "stable_key": "9f726d33ac23b3795affcd14176803ebd24f9250a35573f4466930af95b25740",
-          "source_key": "sbs-society-rss",
-          "source_name": "SBS Society",
-          "category": "kr-society",
-          "hub": "kr",
-          "hub_label": "대한민국",
-          "section_label": "사회",
-          "language": "ko",
-          "title": "순식간에 집어삼켜…난간 위 올라가 \"살려주세요\"",
-          "canonical_url": "https://news.sbs.co.kr/news/endPage.do?cooper=RSSREADER&news_id=N1008505334&plink=RSSLINK",
-          "published_at": "2026-04-04T12:04:00+00:00",
-          "title_hash": "a917d98517107a7f59cb42eeaa13f7033f08364b63528b6e9fbec350eac46261",
-          "keywords": [
-            "순식간에",
-            "집어삼켜",
-            "난간",
-            "올라가",
-            "살려주세요",
-            "순식간에 집어삼켜"
-          ]
-        },
-        {
-          "stable_key": "584eb5d5aa1d734b2a33265434d4455d54a8e45a1052c9ea8aef297ff5e993c8",
-          "source_key": "sbs-society-rss",
-          "source_name": "SBS Society",
-          "category": "kr-society",
-          "hub": "kr",
-          "hub_label": "대한민국",
-          "section_label": "사회",
-          "language": "ko",
-          "title": "'파면 1년' 반성 없는 윤…아물지 않은 상처",
-          "canonical_url": "https://news.sbs.co.kr/news/endPage.do?cooper=RSSREADER&news_id=N1008505332&plink=RSSLINK",
-          "published_at": "2026-04-04T12:04:00+00:00",
-          "title_hash": "d4c9cf3c0a54eaa4ebe8be7cec5c1f307c7e6f0deb2b8d1ec56021c8b42107cc",
-          "keywords": [
-            "파면",
-            "1년",
-            "반성",
-            "없는",
-            "아물지",
-            "않은"
-          ]
-        },
-        {
-          "stable_key": "1b2699560163708bf751641b7fb56c805df0b1ec4f605921bc7ee076ed7fba83",
-          "source_key": "sbs-politics-rss",
-          "source_name": "SBS Politics",
-          "category": "kr-politics",
-          "hub": "kr",
-          "hub_label": "대한민국",
-          "section_label": "정치",
-          "language": "ko",
-          "title": "D-60 공천 속도 내는 민주…대구 4파전 되나?",
-          "canonical_url": "https://news.sbs.co.kr/news/endPage.do?cooper=RSSREADER&news_id=N1008505333&plink=RSSLINK",
-          "published_at": "2026-04-04T12:04:00+00:00",
-          "title_hash": "deab8801224f6b463d506205110bc7ea2ef4ece7738a429b2e35d2afac5476f2",
-          "keywords": [
-            "공천",
-            "속도",
-            "내는",
-            "민주",
-            "대구",
-            "4파전"
-          ]
-        },
-        {
-          "stable_key": "f8bc1e606ae046aba16a94c95b22140958d4ee59af91ac0e2955980f6d23c72b",
-          "source_key": "sbs-economy-rss",
-          "source_name": "SBS Economy",
-          "category": "kr-economy",
-          "hub": "kr",
-          "hub_label": "대한민국",
-          "section_label": "경제",
-          "language": "ko",
-          "title": "\"수익 꽤 높네\" 몰리는 직장인들…따져볼 것은",
-          "canonical_url": "https://news.sbs.co.kr/news/endPage.do?cooper=RSSREADER&news_id=N1008505335&plink=RSSLINK",
-          "published_at": "2026-04-04T12:04:00+00:00",
-          "title_hash": "6b0d5011463a0c0d1508e49c9aa60312dca923961f7b54d34d0959048fef726b",
-          "keywords": [
-            "수익",
-            "높네",
-            "몰리는",
-            "직장인들",
-            "따져볼",
-            "것은"
           ]
         }
       ]

@@ -1,21 +1,29 @@
 {
-  "generated_at": "2026-04-04T12:39:30.222355+00:00",
-  "overall_status": "ok",
+  "generated_at": "2026-04-04T12:43:26.947103+00:00",
+  "overall_status": "warning",
   "providers": {
     "stocks": {
       "status": "ok",
       "stale": false,
       "provider": "finviz-public",
       "message": "Using public Finviz fallback because NEWSBOT_FMP_API_KEY is not configured. Public Finviz snapshot is capped at the top 100 stocks to avoid rate limits.",
-      "as_of": "2026-04-04T12:39:30.222355+00:00",
+      "as_of": "2026-04-04T12:43:26.947103+00:00",
       "row_count": 100
+    },
+    "korea": {
+      "status": "warning",
+      "stale": false,
+      "provider": "kis",
+      "message": "Korea stocks provider requires NEWSBOT_KIS_APP_KEY and NEWSBOT_KIS_APP_SECRET.",
+      "as_of": null,
+      "row_count": 0
     },
     "crypto": {
       "status": "ok",
       "stale": false,
       "provider": "coingecko",
       "message": null,
-      "as_of": "2026-04-04T12:39:31.088Z",
+      "as_of": "2026-04-04T12:43:28.033Z",
       "row_count": 120
     }
   }

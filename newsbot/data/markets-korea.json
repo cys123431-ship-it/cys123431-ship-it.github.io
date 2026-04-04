@@ -1,0 +1,57 @@
+{
+  "generated_at": "2026-04-04T12:43:26.947103+00:00",
+  "asset_type": "stock",
+  "provider": "kis",
+  "status": "warning",
+  "stale": false,
+  "message": "Korea stocks provider requires NEWSBOT_KIS_APP_KEY and NEWSBOT_KIS_APP_SECRET.",
+  "as_of": null,
+  "row_count": 0,
+  "presets": [
+    {
+      "key": "all",
+      "label": "All Korea"
+    },
+    {
+      "key": "mega",
+      "label": "Large Caps"
+    },
+    {
+      "key": "gainers",
+      "label": "Top Gainers"
+    },
+    {
+      "key": "active",
+      "label": "Most Active"
+    },
+    {
+      "key": "kospi",
+      "label": "KOSPI"
+    },
+    {
+      "key": "kosdaq",
+      "label": "KOSDAQ"
+    }
+  ],
+  "filter_options": {
+    "exchanges": [],
+    "sectors": [],
+    "industries": []
+  },
+  "rows": [],
+  "benchmarks": [],
+  "breadth": {
+    "advancers": 0,
+    "decliners": 0,
+    "unchanged": 0,
+    "new_highs": 0,
+    "new_lows": 0
+  },
+  "movers": {
+    "gainers": [],
+    "losers": [],
+    "active": []
+  },
+  "group_performance": [],
+  "heatmap": []
+}
