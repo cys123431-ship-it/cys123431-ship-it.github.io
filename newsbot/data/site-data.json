@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-04-04T21:53:37.410132+00:00",
+  "generated_at": "2026-04-04T22:23:06.905953+00:00",
   "article_count": 2000,
-  "removed_article_count": 364,
+  "removed_article_count": 386,
   "removed_articles_log_path": "data/removed-articles.txt",
   "page_size": 25,
-  "healthy_source_count": 132,
+  "healthy_source_count": 131,
   "warning_source_count": 0,
-  "failed_source_count": 2,
+  "failed_source_count": 3,
   "hubs": [
     {
       "key": "kr",
       "label": "한국",
       "description": "한국 주요 신문사와 방송사 기사 흐름을 정치, 경제, 사회, 문화, 지역, 스포츠로 나눠 모아봅니다.",
       "order": 10,
-      "count": 490,
+      "count": 495,
       "categories": [
         {
           "key": "kr-politics",
@@ -22,7 +22,7 @@
           "hub_label": "대한민국",
           "description": "",
           "order": 10,
-          "count": 108
+          "count": 109
         },
         {
           "key": "kr-economy",
@@ -40,7 +40,7 @@
           "hub_label": "대한민국",
           "description": "",
           "order": 30,
-          "count": 97
+          "count": 99
         },
         {
           "key": "kr-culture",
@@ -49,7 +49,7 @@
           "hub_label": "대한민국",
           "description": "",
           "order": 40,
-          "count": 76
+          "count": 77
         },
         {
           "key": "kr-local",
@@ -67,7 +67,7 @@
           "hub_label": "대한민국",
           "description": "",
           "order": 60,
-          "count": 55
+          "count": 56
         }
       ]
     },
@@ -76,7 +76,7 @@
       "label": "미국",
       "description": "미국 주요 언론사와 방송사 보도를 정치, 경제, 시장, 세계, 기술 흐름으로 묶습니다.",
       "order": 20,
-      "count": 1388,
+      "count": 1383,
       "categories": [
         {
           "key": "us-politics",
@@ -85,7 +85,7 @@
           "hub_label": "미국",
           "description": "",
           "order": 10,
-          "count": 491
+          "count": 495
         },
         {
           "key": "us-economy",
@@ -94,7 +94,7 @@
           "hub_label": "미국",
           "description": "",
           "order": 20,
-          "count": 165
+          "count": 167
         },
         {
           "key": "us-markets",
@@ -103,7 +103,7 @@
           "hub_label": "미국",
           "description": "",
           "order": 30,
-          "count": 161
+          "count": 144
         },
         {
           "key": "us-world",
@@ -112,7 +112,7 @@
           "hub_label": "미국",
           "description": "",
           "order": 40,
-          "count": 177
+          "count": 180
         },
         {
           "key": "us-technology",
@@ -121,7 +121,7 @@
           "hub_label": "미국",
           "description": "",
           "order": 50,
-          "count": 394
+          "count": 397
         }
       ]
     },
@@ -139,7 +139,7 @@
           "hub_label": "글로벌 전문",
           "description": "",
           "order": 10,
-          "count": 49
+          "count": 48
         },
         {
           "key": "tech-it",
@@ -148,7 +148,7 @@
           "hub_label": "글로벌 전문",
           "description": "",
           "order": 20,
-          "count": 52
+          "count": 54
         },
         {
           "key": "military",
@@ -157,7 +157,7 @@
           "hub_label": "글로벌 전문",
           "description": "",
           "order": 30,
-          "count": 21
+          "count": 20
         }
       ]
     }
@@ -170,7 +170,7 @@
       "hub_label": "글로벌 전문",
       "description": "",
       "order": 10,
-      "count": 49
+      "count": 48
     },
     {
       "key": "tech-it",
@@ -179,7 +179,7 @@
       "hub_label": "글로벌 전문",
       "description": "",
       "order": 20,
-      "count": 52
+      "count": 54
     },
     {
       "key": "military",
@@ -188,7 +188,7 @@
       "hub_label": "글로벌 전문",
       "description": "",
       "order": 30,
-      "count": 21
+      "count": 20
     },
     {
       "key": "kr-politics",
@@ -197,7 +197,7 @@
       "hub_label": "대한민국",
       "description": "",
       "order": 10,
-      "count": 108
+      "count": 109
     },
     {
       "key": "kr-economy",
@@ -215,7 +215,7 @@
       "hub_label": "대한민국",
       "description": "",
       "order": 30,
-      "count": 97
+      "count": 99
     },
     {
       "key": "kr-culture",
@@ -224,7 +224,7 @@
       "hub_label": "대한민국",
       "description": "",
       "order": 40,
-      "count": 76
+      "count": 77
     },
     {
       "key": "kr-local",
@@ -242,7 +242,7 @@
       "hub_label": "대한민국",
       "description": "",
       "order": 60,
-      "count": 55
+      "count": 56
     },
     {
       "key": "us-politics",
@@ -251,7 +251,7 @@
       "hub_label": "미국",
       "description": "",
       "order": 10,
-      "count": 491
+      "count": 495
     },
     {
       "key": "us-economy",
@@ -260,7 +260,7 @@
       "hub_label": "미국",
       "description": "",
       "order": 20,
-      "count": 165
+      "count": 167
     },
     {
       "key": "us-markets",
@@ -269,7 +269,7 @@
       "hub_label": "미국",
       "description": "",
       "order": 30,
-      "count": 161
+      "count": 144
     },
     {
       "key": "us-world",
@@ -278,7 +278,7 @@
       "hub_label": "미국",
       "description": "",
       "order": 40,
-      "count": 177
+      "count": 180
     },
     {
       "key": "us-technology",
@@ -287,7 +287,7 @@
       "hub_label": "미국",
       "description": "",
       "order": 50,
-      "count": 394
+      "count": 397
     }
   ],
   "sources": [
@@ -295,7 +295,7 @@
       "source_key": "nypost-feed",
       "name": "New York Post Feed",
       "category": null,
-      "count": 100,
+      "count": 103,
       "hub": "global",
       "section": null,
       "section_label": "자동 분류",
@@ -315,7 +315,7 @@
       "source_key": "newsweek-feed",
       "name": "Newsweek Feed",
       "category": null,
-      "count": 59,
+      "count": 63,
       "hub": "global",
       "section": null,
       "section_label": "자동 분류",
@@ -345,7 +345,7 @@
       "source_key": "thehill-feed",
       "name": "The Hill Feed",
       "category": null,
-      "count": 41,
+      "count": 42,
       "hub": "global",
       "section": null,
       "section_label": "자동 분류",
@@ -355,7 +355,7 @@
       "source_key": "forbes-business-rss",
       "name": "Forbes Business",
       "category": "us-economy",
-      "count": 37,
+      "count": 39,
       "hub": "us",
       "section": "us-economy",
       "section_label": "경제",
@@ -365,11 +365,21 @@
       "source_key": "forbes-innovation-rss",
       "name": "Forbes Innovation",
       "category": "us-technology",
-      "count": 34,
+      "count": 35,
       "hub": "us",
       "section": "us-technology",
       "section_label": "기술",
       "publisher_group": "business"
+    },
+    {
+      "source_key": "cbs-us-rss",
+      "name": "CBS News US",
+      "category": "us-politics",
+      "count": 30,
+      "hub": "us",
+      "section": "us-politics",
+      "section_label": "정치",
+      "publisher_group": "broadcast"
     },
     {
       "source_key": "huffpost-politics-rss",
@@ -380,16 +390,6 @@
       "section": "us-politics",
       "section_label": "정치",
       "publisher_group": "internet"
-    },
-    {
-      "source_key": "cbs-us-rss",
-      "name": "CBS News US",
-      "category": "us-politics",
-      "count": 29,
-      "hub": "us",
-      "section": "us-politics",
-      "section_label": "정치",
-      "publisher_group": "broadcast"
     },
     {
       "source_key": "bloomberg-politics-rss",
@@ -482,6 +482,16 @@
       "publisher_group": "broadcast"
     },
     {
+      "source_key": "fox-us-rss",
+      "name": "Fox News US",
+      "category": "us-politics",
+      "count": 23,
+      "hub": "us",
+      "section": "us-politics",
+      "section_label": "정치",
+      "publisher_group": "broadcast"
+    },
+    {
       "source_key": "bloomberg-tech-rss",
       "name": "Bloomberg Technology",
       "category": "us-technology",
@@ -522,16 +532,6 @@
       "publisher_group": "internet"
     },
     {
-      "source_key": "fox-us-rss",
-      "name": "Fox News US",
-      "category": "us-politics",
-      "count": 22,
-      "hub": "us",
-      "section": "us-politics",
-      "section_label": "정치",
-      "publisher_group": "broadcast"
-    },
-    {
       "source_key": "mk-society-rss",
       "name": "Maeil Business Society",
       "category": "kr-society",
@@ -540,6 +540,16 @@
       "section": "kr-society",
       "section_label": "사회",
       "publisher_group": "newspaper"
+    },
+    {
+      "source_key": "sbs-society-rss",
+      "name": "SBS Society",
+      "category": "kr-society",
+      "count": 21,
+      "hub": "kr",
+      "section": "kr-society",
+      "section_label": "사회",
+      "publisher_group": "broadcast"
     },
     {
       "source_key": "nyt-us-rss",
@@ -590,16 +600,6 @@
       "section": "kr-economy",
       "section_label": "경제",
       "publisher_group": "newspaper"
-    },
-    {
-      "source_key": "sbs-society-rss",
-      "name": "SBS Society",
-      "category": "kr-society",
-      "count": 20,
-      "hub": "kr",
-      "section": "kr-society",
-      "section_label": "사회",
-      "publisher_group": "broadcast"
     },
     {
       "source_key": "businessinsider-feed",
@@ -672,6 +672,16 @@
       "publisher_group": "newspaper"
     },
     {
+      "source_key": "donga-sports-rss",
+      "name": "DongA Sports",
+      "category": "kr-sports",
+      "count": 19,
+      "hub": "kr",
+      "section": "kr-sports",
+      "section_label": "스포츠",
+      "publisher_group": "newspaper"
+    },
+    {
       "source_key": "wired-rss",
       "name": "Wired RSS",
       "category": "us-technology",
@@ -702,6 +712,16 @@
       "publisher_group": "internet"
     },
     {
+      "source_key": "asiae-society-rss",
+      "name": "Asiae Society",
+      "category": "kr-society",
+      "count": 19,
+      "hub": "kr",
+      "section": "kr-society",
+      "section_label": "사회",
+      "publisher_group": "newspaper"
+    },
+    {
       "source_key": "fox-world-rss",
       "name": "Fox News World",
       "category": "us-world",
@@ -720,6 +740,16 @@
       "section": "kr-politics",
       "section_label": "정치",
       "publisher_group": "internet"
+    },
+    {
+      "source_key": "washingtonexaminer-feed",
+      "name": "Washington Examiner Feed",
+      "category": null,
+      "count": 19,
+      "hub": "global",
+      "section": null,
+      "section_label": "자동 분류",
+      "publisher_group": "newspaper"
     },
     {
       "source_key": "defense-rss",
@@ -752,16 +782,6 @@
       "publisher_group": "newspaper"
     },
     {
-      "source_key": "donga-sports-rss",
-      "name": "DongA Sports",
-      "category": "kr-sports",
-      "count": 18,
-      "hub": "kr",
-      "section": "kr-sports",
-      "section_label": "스포츠",
-      "publisher_group": "newspaper"
-    },
-    {
       "source_key": "pbs-politics-rss",
       "name": "PBS NewsHour Politics",
       "category": "us-politics",
@@ -770,16 +790,6 @@
       "section": "us-politics",
       "section_label": "정치",
       "publisher_group": "public-media"
-    },
-    {
-      "source_key": "cbs-technology-rss",
-      "name": "CBS News Technology",
-      "category": "us-technology",
-      "count": 18,
-      "hub": "us",
-      "section": "us-technology",
-      "section_label": "기술",
-      "publisher_group": "broadcast"
     },
     {
       "source_key": "khan-culture-rss",
@@ -852,6 +862,16 @@
       "publisher_group": "newspaper"
     },
     {
+      "source_key": "asiae-culture-rss",
+      "name": "Asiae Life",
+      "category": "kr-culture",
+      "count": 18,
+      "hub": "kr",
+      "section": "kr-culture",
+      "section_label": "문화",
+      "publisher_group": "newspaper"
+    },
+    {
       "source_key": "asiae-politics-rss",
       "name": "Asiae Politics",
       "category": "kr-politics",
@@ -859,16 +879,6 @@
       "hub": "kr",
       "section": "kr-politics",
       "section_label": "정치",
-      "publisher_group": "newspaper"
-    },
-    {
-      "source_key": "asiae-society-rss",
-      "name": "Asiae Society",
-      "category": "kr-society",
-      "count": 18,
-      "hub": "kr",
-      "section": "kr-society",
-      "section_label": "사회",
       "publisher_group": "newspaper"
     },
     {
@@ -932,16 +942,6 @@
       "publisher_group": "magazine"
     },
     {
-      "source_key": "washingtonexaminer-feed",
-      "name": "Washington Examiner Feed",
-      "category": null,
-      "count": 18,
-      "hub": "global",
-      "section": null,
-      "section_label": "자동 분류",
-      "publisher_group": "newspaper"
-    },
-    {
       "source_key": "federalist-feed",
       "name": "The Federalist Feed",
       "category": null,
@@ -972,24 +972,14 @@
       "publisher_group": "broadcast"
     },
     {
-      "source_key": "asiae-culture-rss",
-      "name": "Asiae Life",
-      "category": "kr-culture",
+      "source_key": "sbs-politics-rss",
+      "name": "SBS Politics",
+      "category": "kr-politics",
       "count": 17,
       "hub": "kr",
-      "section": "kr-culture",
-      "section_label": "문화",
-      "publisher_group": "newspaper"
-    },
-    {
-      "source_key": "federalreserve-rss",
-      "name": "Federal Reserve",
-      "category": "us-markets",
-      "count": 16,
-      "hub": "us",
-      "section": "us-markets",
-      "section_label": "시장",
-      "publisher_group": "government"
+      "section": "kr-politics",
+      "section_label": "정치",
+      "publisher_group": "broadcast"
     },
     {
       "source_key": "pbs-science-rss",
@@ -1032,6 +1022,16 @@
       "publisher_group": "broadcast"
     },
     {
+      "source_key": "cbs-technology-rss",
+      "name": "CBS News Technology",
+      "category": "us-technology",
+      "count": 16,
+      "hub": "us",
+      "section": "us-technology",
+      "section_label": "기술",
+      "publisher_group": "broadcast"
+    },
+    {
       "source_key": "latimes-tech-rss",
       "name": "Los Angeles Times Technology",
       "category": "us-technology",
@@ -1042,14 +1042,14 @@
       "publisher_group": "newspaper"
     },
     {
-      "source_key": "sbs-politics-rss",
-      "name": "SBS Politics",
-      "category": "kr-politics",
+      "source_key": "telegram-dada-news2",
+      "name": "Telegram @dada_news2",
+      "category": null,
       "count": 16,
-      "hub": "kr",
-      "section": "kr-politics",
-      "section_label": "정치",
-      "publisher_group": "broadcast"
+      "hub": "global",
+      "section": null,
+      "section_label": "자동 분류",
+      "publisher_group": "social"
     },
     {
       "source_key": "pbs-economy-rss",
@@ -1060,16 +1060,6 @@
       "section": "us-economy",
       "section_label": "경제",
       "publisher_group": "public-media"
-    },
-    {
-      "source_key": "telegram-dada-news2",
-      "name": "Telegram @dada_news2",
-      "category": null,
-      "count": 15,
-      "hub": "global",
-      "section": null,
-      "section_label": "자동 분류",
-      "publisher_group": "social"
     },
     {
       "source_key": "pbs-world-rss",
@@ -1092,14 +1082,14 @@
       "publisher_group": "internet"
     },
     {
-      "source_key": "propublica-feed",
-      "name": "ProPublica Feed",
-      "category": null,
+      "source_key": "npr-world-rss",
+      "name": "NPR World",
+      "category": "us-world",
       "count": 12,
-      "hub": "global",
-      "section": null,
-      "section_label": "자동 분류",
-      "publisher_group": "nonprofit"
+      "hub": "us",
+      "section": "us-world",
+      "section_label": "세계",
+      "publisher_group": "public-media"
     },
     {
       "source_key": "msnbc-feed",
@@ -1120,6 +1110,16 @@
       "section": null,
       "section_label": "자동 분류",
       "publisher_group": "magazine"
+    },
+    {
+      "source_key": "propublica-feed",
+      "name": "ProPublica Feed",
+      "category": null,
+      "count": 11,
+      "hub": "global",
+      "section": null,
+      "section_label": "자동 분류",
+      "publisher_group": "nonprofit"
     },
     {
       "source_key": "cbs-politics-rss",
@@ -1152,16 +1152,6 @@
       "publisher_group": "public-media"
     },
     {
-      "source_key": "npr-world-rss",
-      "name": "NPR World",
-      "category": "us-world",
-      "count": 10,
-      "hub": "us",
-      "section": "us-world",
-      "section_label": "세계",
-      "publisher_group": "public-media"
-    },
-    {
       "source_key": "motherjones-feed",
       "name": "Mother Jones Feed",
       "category": null,
@@ -1170,16 +1160,6 @@
       "section": null,
       "section_label": "자동 분류",
       "publisher_group": "magazine"
-    },
-    {
-      "source_key": "sec-rss",
-      "name": "SEC Press Releases",
-      "category": "us-markets",
-      "count": 9,
-      "hub": "us",
-      "section": "us-markets",
-      "section_label": "시장",
-      "publisher_group": "government"
     },
     {
       "source_key": "wapo-world-rss",
@@ -1262,6 +1242,16 @@
       "publisher_group": "newspaper"
     },
     {
+      "source_key": "federalreserve-rss",
+      "name": "Federal Reserve",
+      "category": "us-markets",
+      "count": 4,
+      "hub": "us",
+      "section": "us-markets",
+      "section_label": "시장",
+      "publisher_group": "government"
+    },
+    {
       "source_key": "wapo-business-rss",
       "name": "Washington Post Business",
       "category": "us-economy",
@@ -1282,6 +1272,16 @@
       "publisher_group": "newspaper"
     },
     {
+      "source_key": "sec-rss",
+      "name": "SEC Press Releases",
+      "category": "us-markets",
+      "count": 3,
+      "hub": "us",
+      "section": "us-markets",
+      "section_label": "시장",
+      "publisher_group": "government"
+    },
+    {
       "source_key": "telegram-claw-summary",
       "name": "Telegram @clawnewssummary",
       "category": null,
@@ -1299,16 +1299,6 @@
       "hub": "us",
       "section": "us-economy",
       "section_label": "경제",
-      "publisher_group": "government"
-    },
-    {
-      "source_key": "sec-crypto-rss",
-      "name": "SEC Crypto Filter",
-      "category": "crypto",
-      "count": 1,
-      "hub": "global",
-      "section": "crypto",
-      "section_label": "코인",
       "publisher_group": "government"
     }
   ],
@@ -1345,7 +1335,7 @@
       "status": "ok",
       "fetched_count": 3,
       "accepted_count": 3,
-      "published_count": 1,
+      "published_count": 0,
       "message": null,
       "error": null
     },
@@ -1405,7 +1395,7 @@
       "status": "ok",
       "fetched_count": 20,
       "accepted_count": 18,
-      "published_count": 16,
+      "published_count": 4,
       "message": null,
       "error": null
     },
@@ -1417,7 +1407,7 @@
       "status": "ok",
       "fetched_count": 25,
       "accepted_count": 18,
-      "published_count": 9,
+      "published_count": 3,
       "message": null,
       "error": null
     },
@@ -1535,8 +1525,8 @@
       "category": "us-world",
       "trust_level": 92,
       "status": "ok",
-      "fetched_count": 9,
-      "accepted_count": 9,
+      "fetched_count": 8,
+      "accepted_count": 8,
       "published_count": 9,
       "message": null,
       "error": null
@@ -1609,7 +1599,7 @@
       "status": "ok",
       "fetched_count": 25,
       "accepted_count": 18,
-      "published_count": 22,
+      "published_count": 23,
       "message": null,
       "error": null
     },
@@ -1705,7 +1695,7 @@
       "status": "ok",
       "fetched_count": 30,
       "accepted_count": 18,
-      "published_count": 29,
+      "published_count": 30,
       "message": null,
       "error": null
     },
@@ -1753,7 +1743,7 @@
       "status": "ok",
       "fetched_count": 30,
       "accepted_count": 18,
-      "published_count": 18,
+      "published_count": 16,
       "message": null,
       "error": null
     },
@@ -1789,7 +1779,7 @@
       "status": "ok",
       "fetched_count": 100,
       "accepted_count": 18,
-      "published_count": 41,
+      "published_count": 42,
       "message": null,
       "error": null
     },
@@ -1847,9 +1837,9 @@
       "category": null,
       "trust_level": 70,
       "status": "ok",
-      "fetched_count": 24,
-      "accepted_count": 17,
-      "published_count": 100,
+      "fetched_count": 23,
+      "accepted_count": 16,
+      "published_count": 103,
       "message": null,
       "error": null
     },
@@ -1873,7 +1863,7 @@
       "status": "ok",
       "fetched_count": 10,
       "accepted_count": 10,
-      "published_count": 10,
+      "published_count": 12,
       "message": null,
       "error": null
     },
@@ -1968,8 +1958,8 @@
       "trust_level": 78,
       "status": "ok",
       "fetched_count": 20,
-      "accepted_count": 8,
-      "published_count": 59,
+      "accepted_count": 11,
+      "published_count": 63,
       "message": null,
       "error": null
     },
@@ -2041,7 +2031,7 @@
       "status": "ok",
       "fetched_count": 20,
       "accepted_count": 12,
-      "published_count": 12,
+      "published_count": 11,
       "message": null,
       "error": null
     },
@@ -2136,8 +2126,8 @@
       "trust_level": 69,
       "status": "ok",
       "fetched_count": 10,
-      "accepted_count": 9,
-      "published_count": 18,
+      "accepted_count": 10,
+      "published_count": 19,
       "message": null,
       "error": null
     },
@@ -2233,7 +2223,7 @@
       "status": "ok",
       "fetched_count": 25,
       "accepted_count": 18,
-      "published_count": 37,
+      "published_count": 39,
       "message": null,
       "error": null
     },
@@ -2245,7 +2235,7 @@
       "status": "ok",
       "fetched_count": 25,
       "accepted_count": 18,
-      "published_count": 34,
+      "published_count": 35,
       "message": null,
       "error": null
     },
@@ -2388,7 +2378,7 @@
       "trust_level": 82,
       "status": "ok",
       "fetched_count": 30,
-      "accepted_count": 16,
+      "accepted_count": 15,
       "published_count": 0,
       "message": null,
       "error": null
@@ -2437,7 +2427,7 @@
       "status": "ok",
       "fetched_count": 29,
       "accepted_count": 18,
-      "published_count": 16,
+      "published_count": 17,
       "message": null,
       "error": null
     },
@@ -2461,7 +2451,7 @@
       "status": "ok",
       "fetched_count": 29,
       "accepted_count": 18,
-      "published_count": 20,
+      "published_count": 21,
       "message": null,
       "error": null
     },
@@ -2593,7 +2583,7 @@
       "status": "ok",
       "fetched_count": 50,
       "accepted_count": 18,
-      "published_count": 18,
+      "published_count": 19,
       "message": null,
       "error": null
     },
@@ -2689,7 +2679,7 @@
       "status": "ok",
       "fetched_count": 100,
       "accepted_count": 18,
-      "published_count": 18,
+      "published_count": 19,
       "message": null,
       "error": null
     },
@@ -2699,9 +2689,9 @@
       "category": "kr-culture",
       "trust_level": 84,
       "status": "ok",
-      "fetched_count": 77,
+      "fetched_count": 74,
       "accepted_count": 18,
-      "published_count": 17,
+      "published_count": 18,
       "message": null,
       "error": null
     },
@@ -2710,36 +2700,36 @@
       "source_name": "Pressian Politics",
       "category": "kr-politics",
       "trust_level": 80,
-      "status": "ok",
-      "fetched_count": 25,
-      "accepted_count": 18,
+      "status": "failed",
+      "fetched_count": 0,
+      "accepted_count": 0,
       "published_count": 19,
-      "message": null,
-      "error": null
+      "message": "",
+      "error": ""
     },
     {
       "source_key": "pressian-economy-rss",
       "source_name": "Pressian Economy",
       "category": "kr-economy",
       "trust_level": 80,
-      "status": "ok",
-      "fetched_count": 25,
-      "accepted_count": 18,
+      "status": "failed",
+      "fetched_count": 0,
+      "accepted_count": 0,
       "published_count": 18,
-      "message": null,
-      "error": null
+      "message": "",
+      "error": ""
     },
     {
       "source_key": "etoday-economy-rss",
       "source_name": "eToday Economy",
       "category": "kr-economy",
       "trust_level": 79,
-      "status": "failed",
-      "fetched_count": 0,
-      "accepted_count": 0,
+      "status": "ok",
+      "fetched_count": 2,
+      "accepted_count": 2,
       "published_count": 24,
-      "message": "Client error '403 Forbidden' for url 'https://rss.etoday.co.kr/eto/etoday_news_all.xml'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",
-      "error": "Client error '403 Forbidden' for url 'https://rss.etoday.co.kr/eto/etoday_news_all.xml'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403"
+      "message": null,
+      "error": null
     },
     {
       "source_key": "ytn-politics-discovery",
@@ -2747,8 +2737,8 @@
       "category": "kr-politics",
       "trust_level": 82,
       "status": "ok",
-      "fetched_count": 11,
-      "accepted_count": 11,
+      "fetched_count": 12,
+      "accepted_count": 12,
       "published_count": 0,
       "message": null,
       "error": null
@@ -2892,8 +2882,8 @@
       "trust_level": 55,
       "status": "ok",
       "fetched_count": 20,
-      "accepted_count": 3,
-      "published_count": 15,
+      "accepted_count": 2,
+      "published_count": 16,
       "message": null,
       "error": null
     },
@@ -2915,8 +2905,8 @@
       "category": null,
       "trust_level": 55,
       "status": "ok",
-      "fetched_count": 14,
-      "accepted_count": 5,
+      "fetched_count": 15,
+      "accepted_count": 6,
       "published_count": 2,
       "message": null,
       "error": null
@@ -2941,6 +2931,387 @@
       "trust_level": 80,
       "language": "ko",
       "sort_timestamp": 1775342489
+    },
+    {
+      "title": "Robot Police Dogs Powered by AI Take Over Atlanta&#039;s Streets",
+      "canonical_url": "https://www.newsweek.com/robot-police-dogs-powered-by-ai-take-over-atlantas-streets-11782889",
+      "link_label": "www.newsweek.com/robot-police-dogs-powered-by-ai-take-o...",
+      "source_key": "newsweek-feed",
+      "source_name": "Newsweek Feed",
+      "source_names": [
+        "Newsweek Feed"
+      ],
+      "primary_category": "us-technology",
+      "hub": "us",
+      "hub_label": "미국",
+      "section_key": "us-technology",
+      "section_label": "기술",
+      "published_at": "2026-04-04T22:16:55+00:00",
+      "trust_level": 78,
+      "language": "en",
+      "sort_timestamp": 1775341015
+    },
+    {
+      "title": "Dawn Staley Issues Powerful Response to Geno Auriemma&#039;s Public Apology",
+      "canonical_url": "https://www.newsweek.com/sports/dawn-staley-issues-powerful-response-to-geno-auriemmas-public-apology-11783918",
+      "link_label": "www.newsweek.com/sports/dawn-staley-issues-powerful-res...",
+      "source_key": "newsweek-feed",
+      "source_name": "Newsweek Feed",
+      "source_names": [
+        "Newsweek Feed"
+      ],
+      "primary_category": "us-markets",
+      "hub": "us",
+      "hub_label": "미국",
+      "section_key": "us-markets",
+      "section_label": "시장",
+      "published_at": "2026-04-04T22:16:35+00:00",
+      "trust_level": 78,
+      "language": "en",
+      "sort_timestamp": 1775340995
+    },
+    {
+      "title": "NATO Turns 77 as Trump Raises Doubts About US Commitment",
+      "canonical_url": "https://www.newsweek.com/nato-turns-77-trump-doubts-us-commitment-11783926",
+      "link_label": "www.newsweek.com/nato-turns-77-trump-doubts-us-commitme...",
+      "source_key": "newsweek-feed",
+      "source_name": "Newsweek Feed",
+      "source_names": [
+        "Newsweek Feed"
+      ],
+      "primary_category": "us-politics",
+      "hub": "us",
+      "hub_label": "미국",
+      "section_key": "us-politics",
+      "section_label": "정치",
+      "published_at": "2026-04-04T22:16:17+00:00",
+      "trust_level": 78,
+      "language": "en",
+      "sort_timestamp": 1775340977
+    },
+    {
+      "title": "Hilarious moment Sky News anchor gets the hiccups during afternoon segment",
+      "canonical_url": "https://nypost.com/2026/04/04/world-news/hilarious-moment-sky-news-anchor-gets-the-hiccups-during-afternoon-segment",
+      "link_label": "nypost.com/2026/04/04/world-news/hilarious-moment...",
+      "source_key": "nypost-feed",
+      "source_name": "New York Post Feed",
+      "source_names": [
+        "New York Post Feed"
+      ],
+      "primary_category": "us-world",
+      "hub": "us",
+      "hub_label": "미국",
+      "section_key": "us-world",
+      "section_label": "세계",
+      "published_at": "2026-04-04T22:16:14+00:00",
+      "trust_level": 70,
+      "language": "en",
+      "sort_timestamp": 1775340974
+    },
+    {
+      "title": "Getting Rid Of More Humans In AI Restructuring Market",
+      "canonical_url": "https://www.forbes.com/sites/johnwerner/2026/04/04/getting-rid-of-more-humans-in-ai-restructuring-market",
+      "link_label": "www.forbes.com/sites/johnwerner/2026/04/04/getting-ri...",
+      "source_key": "forbes-innovation-rss",
+      "source_name": "Forbes Innovation",
+      "source_names": [
+        "Forbes Innovation"
+      ],
+      "primary_category": "us-technology",
+      "hub": "us",
+      "hub_label": "미국",
+      "section_key": "us-technology",
+      "section_label": "기술",
+      "published_at": "2026-04-04T22:16:06+00:00",
+      "trust_level": 82,
+      "language": "en",
+      "sort_timestamp": 1775340966
+    },
+    {
+      "title": "🚨 [HIGH] 호르무즈 해협 알림",
+      "canonical_url": "https://www.bbc.com/news/articles/c5y90jl8veyo?at_campaign=rss&at_medium=RSS",
+      "link_label": "www.bbc.com/news/articles/c5y90jl8veyo?at_campaign=rss&at_medium=RSS",
+      "source_key": "telegram-claw-summary",
+      "source_name": "Telegram @clawnewssummary",
+      "source_names": [
+        "Telegram @clawnewssummary"
+      ],
+      "primary_category": "tech-it",
+      "hub": "global",
+      "hub_label": "글로벌 전문",
+      "section_key": "tech-it",
+      "section_label": "테크",
+      "published_at": "2026-04-04T22:13:31+00:00",
+      "trust_level": 55,
+      "language": "ko",
+      "sort_timestamp": 1775340811
+    },
+    {
+      "title": "AI 3종 세트에 비디오 판독 화면 보여주니 “두 판정 반대 아닌가요?” [발리볼 비키니]",
+      "canonical_url": "https://www.donga.com/news/Sports/article/all/20260405/133674713/1",
+      "link_label": "www.donga.com/news/Sports/article/all/20260405/13367...",
+      "source_key": "donga-sports-rss",
+      "source_name": "DongA Sports",
+      "source_names": [
+        "DongA Sports"
+      ],
+      "primary_category": "kr-sports",
+      "hub": "kr",
+      "hub_label": "대한민국",
+      "section_key": "kr-sports",
+      "section_label": "스포츠",
+      "published_at": "2026-04-04T22:12:56+00:00",
+      "trust_level": 88,
+      "language": "ko",
+      "sort_timestamp": 1775340776
+    },
+    {
+      "title": "고물가에 눌린 서민들 위안…폴란드엔 '우유 식당' 있다 [맛있는 이야기]",
+      "canonical_url": "https://www.asiae.co.kr/article/2026040115422027712",
+      "link_label": "www.asiae.co.kr/article/2026040115422027712",
+      "source_key": "asiae-culture-rss",
+      "source_name": "Asiae Life",
+      "source_names": [
+        "Asiae Life"
+      ],
+      "primary_category": "kr-culture",
+      "hub": "kr",
+      "hub_label": "대한민국",
+      "section_key": "kr-culture",
+      "section_label": "문화",
+      "published_at": "2026-04-04T22:12:00+00:00",
+      "trust_level": 84,
+      "language": "ko",
+      "sort_timestamp": 1775340720
+    },
+    {
+      "title": "D-59 공천 속도 내는 민주…대구 4파전 되나?",
+      "canonical_url": "https://news.sbs.co.kr/news/endPage.do?cooper=RSSREADER&news_id=N1008505482&plink=RSSLINK",
+      "link_label": "news.sbs.co.kr/news/endPage.do?cooper=RSSREADER&news_id=N1008505482&plink=RSSLINK",
+      "source_key": "sbs-politics-rss",
+      "source_name": "SBS Politics",
+      "source_names": [
+        "SBS Politics"
+      ],
+      "primary_category": "kr-politics",
+      "hub": "kr",
+      "hub_label": "대한민국",
+      "section_key": "kr-politics",
+      "section_label": "정치",
+      "published_at": "2026-04-04T22:10:00+00:00",
+      "trust_level": 82,
+      "language": "ko",
+      "sort_timestamp": 1775340600
+    },
+    {
+      "title": "Sunday shows preview: Trump ups threats on Iran after saying war ‘near completion’",
+      "canonical_url": "https://thehill.com/homenews/sunday-talk-shows/5816638-sunday-shows-preview-trump-ups-threats-on-iran-after-saying-war-near-completion",
+      "link_label": "thehill.com/homenews/sunday-talk-shows/5816638-sun...",
+      "source_key": "thehill-feed",
+      "source_name": "The Hill Feed",
+      "source_names": [
+        "The Hill Feed"
+      ],
+      "primary_category": "us-politics",
+      "hub": "us",
+      "hub_label": "미국",
+      "section_key": "us-politics",
+      "section_label": "정치",
+      "published_at": "2026-04-04T22:09:16+00:00",
+      "trust_level": 80,
+      "language": "en",
+      "sort_timestamp": 1775340556
+    },
+    {
+      "title": "'억대 금품수수' 강호동 농협중앙회장, 18시간 경찰 조사 뒤 귀가",
+      "canonical_url": "https://news.sbs.co.kr/news/endPage.do?cooper=RSSREADER&news_id=N1008505481&plink=RSSLINK",
+      "link_label": "news.sbs.co.kr/news/endPage.do?cooper=RSSREADER&news_id=N1008505481&plink=RSSLINK",
+      "source_key": "sbs-society-rss",
+      "source_name": "SBS Society",
+      "source_names": [
+        "SBS Society"
+      ],
+      "primary_category": "kr-society",
+      "hub": "kr",
+      "hub_label": "대한민국",
+      "section_key": "kr-society",
+      "section_label": "사회",
+      "published_at": "2026-04-04T22:07:00+00:00",
+      "trust_level": 82,
+      "language": "ko",
+      "sort_timestamp": 1775340420
+    },
+    {
+      "title": "Where Trump’s DC reconstruction projects stand in court",
+      "canonical_url": "https://www.washingtonexaminer.com/news/white-house/4515732/trump-dc-construction-project-court",
+      "link_label": "www.washingtonexaminer.com/news/white-house/4515732/trump-dc-cons...",
+      "source_key": "washingtonexaminer-feed",
+      "source_name": "Washington Examiner Feed",
+      "source_names": [
+        "Washington Examiner Feed"
+      ],
+      "primary_category": "us-politics",
+      "hub": "us",
+      "hub_label": "미국",
+      "section_key": "us-politics",
+      "section_label": "정치",
+      "published_at": "2026-04-04T22:04:03+00:00",
+      "trust_level": 69,
+      "language": "en",
+      "sort_timestamp": 1775340243
+    },
+    {
+      "title": "Paramount+ is Cancelling Crime Series With 100% Rating on Rotten Tomatoes",
+      "canonical_url": "https://www.newsweek.com/entertainment/tv/paramount-is-cancelling-crime-series-11779415",
+      "link_label": "www.newsweek.com/entertainment/tv/paramount-is-cancelli...",
+      "source_key": "newsweek-feed",
+      "source_name": "Newsweek Feed",
+      "source_names": [
+        "Newsweek Feed"
+      ],
+      "primary_category": "us-technology",
+      "hub": "us",
+      "hub_label": "미국",
+      "section_key": "us-technology",
+      "section_label": "기술",
+      "published_at": "2026-04-04T22:02:00+00:00",
+      "trust_level": 78,
+      "language": "en",
+      "sort_timestamp": 1775340120
+    },
+    {
+      "title": "Today’s Wordle #1751 Hints And Answer For Sunday, April 5",
+      "canonical_url": "https://www.forbes.com/sites/erikkain/2026/04/04/wordle-answer-sunday-april-5",
+      "link_label": "www.forbes.com/sites/erikkain/2026/04/04/wordle-answe...",
+      "source_key": "forbes-business-rss",
+      "source_name": "Forbes Business",
+      "source_names": [
+        "Forbes Business",
+        "Forbes Innovation"
+      ],
+      "primary_category": "us-economy",
+      "hub": "us",
+      "hub_label": "미국",
+      "section_key": "us-economy",
+      "section_label": "경제",
+      "published_at": "2026-04-04T22:00:35+00:00",
+      "trust_level": 82,
+      "language": "en",
+      "sort_timestamp": 1775340035
+    },
+    {
+      "title": "훔친 차로 '쌩'…음주·무면허로 사고 낸 10대 징역형",
+      "canonical_url": "https://www.asiae.co.kr/article/2026040310381997702",
+      "link_label": "www.asiae.co.kr/article/2026040310381997702",
+      "source_key": "asiae-society-rss",
+      "source_name": "Asiae Society",
+      "source_names": [
+        "Asiae Society"
+      ],
+      "primary_category": "kr-society",
+      "hub": "kr",
+      "hub_label": "대한민국",
+      "section_key": "kr-society",
+      "section_label": "사회",
+      "published_at": "2026-04-04T22:00:00+00:00",
+      "trust_level": 84,
+      "language": "ko",
+      "sort_timestamp": 1775340000
+    },
+    {
+      "title": "NJ man ends up in rehab from addictive kratom drinks he spent $60K on: Lawsuit",
+      "canonical_url": "https://nypost.com/2026/04/04/us-news/nj-man-ends-up-in-rehab-from-addictive-kratom-drinks-he-spent-60k-on-lawsuit",
+      "link_label": "nypost.com/2026/04/04/us-news/nj-man-ends-up-in-r...",
+      "source_key": "nypost-feed",
+      "source_name": "New York Post Feed",
+      "source_names": [
+        "New York Post Feed"
+      ],
+      "primary_category": "us-technology",
+      "hub": "us",
+      "hub_label": "미국",
+      "section_key": "us-technology",
+      "section_label": "기술",
+      "published_at": "2026-04-04T21:58:54+00:00",
+      "trust_level": 70,
+      "language": "en",
+      "sort_timestamp": 1775339934
+    },
+    {
+      "title": "[글로벌이코노믹] “MS, 325조 평가이익… 그런데 CEO는 0%” 오픈AI, 자본주의 뒤집은 기묘한 설계",
+      "canonical_url": "https://www.g-enews.com/article/Global-Biz/2026/04/202604050612321072fbbec65dfb_1",
+      "link_label": "www.g-enews.com/article/Global-Biz/2026/04/20260405061...",
+      "source_key": "telegram-dada-news2",
+      "source_name": "Telegram @dada_news2",
+      "source_names": [
+        "Telegram @dada_news2"
+      ],
+      "primary_category": "tech-it",
+      "hub": "global",
+      "hub_label": "글로벌 전문",
+      "section_key": "tech-it",
+      "section_label": "테크",
+      "published_at": "2026-04-04T21:55:09+00:00",
+      "trust_level": 55,
+      "language": "ko",
+      "sort_timestamp": 1775339709
+    },
+    {
+      "title": "Does not compute: Waymo’s stunning drive-thru screw-up",
+      "canonical_url": "https://nypost.com/2026/04/04/lifestyle/waymo-messes-up-pick-up-in-los-angeles-drive-thru",
+      "link_label": "nypost.com/2026/04/04/lifestyle/waymo-messes-up-p...",
+      "source_key": "nypost-feed",
+      "source_name": "New York Post Feed",
+      "source_names": [
+        "New York Post Feed"
+      ],
+      "primary_category": "us-technology",
+      "hub": "us",
+      "hub_label": "미국",
+      "section_key": "us-technology",
+      "section_label": "기술",
+      "published_at": "2026-04-04T21:54:59+00:00",
+      "trust_level": 70,
+      "language": "en",
+      "sort_timestamp": 1775339699
+    },
+    {
+      "title": "At least 13 people injured after vehicle slams into Louisiana parade: sheriff's office",
+      "canonical_url": "https://www.foxnews.com/us/people-injured-vehicle-slams-louisiana-parade-sheriffs-office",
+      "link_label": "www.foxnews.com/us/people-injured-vehicle-slams-louisi...",
+      "source_key": "fox-us-rss",
+      "source_name": "Fox News US",
+      "source_names": [
+        "Fox News US"
+      ],
+      "primary_category": "us-politics",
+      "hub": "us",
+      "hub_label": "미국",
+      "section_key": "us-politics",
+      "section_label": "정치",
+      "published_at": "2026-04-04T21:53:57+00:00",
+      "trust_level": 84,
+      "language": "en",
+      "sort_timestamp": 1775339637
+    },
+    {
+      "title": "NCAA President: Influence Of Agents In College Sports Is ‘Insane,’ Trump’s Executive Order Would ‘Create A Little Less Chaos’",
+      "canonical_url": "https://www.forbes.com/sites/adamzagoria/2026/04/04/ncaa-president-influence-of-agents-in-college-sports-is-insane-trumps-executive-order-would-create-a-little-less-chaos",
+      "link_label": "www.forbes.com/sites/adamzagoria/2026/04/04/ncaa-pres...",
+      "source_key": "forbes-business-rss",
+      "source_name": "Forbes Business",
+      "source_names": [
+        "Forbes Business"
+      ],
+      "primary_category": "us-economy",
+      "hub": "us",
+      "hub_label": "미국",
+      "section_key": "us-economy",
+      "section_label": "경제",
+      "published_at": "2026-04-04T21:53:12+00:00",
+      "trust_level": 82,
+      "language": "en",
+      "sort_timestamp": 1775339592
     },
     {
       "title": "Iran warns of ‘serious’ radiation risk after projectile hits near nuclear power plant",
@@ -3000,6 +3371,25 @@
       "sort_timestamp": 1775339408
     },
     {
+      "title": "Parker, Delle Donne among basketball greats set for Hall of Fame enshrinement",
+      "canonical_url": "https://www.cbsnews.com/news/us-olympic-women-basketball-1996-naismith-basketball-hall-of-fame",
+      "link_label": "www.cbsnews.com/news/us-olympic-women-basketball-1996-...",
+      "source_key": "cbs-us-rss",
+      "source_name": "CBS News US",
+      "source_names": [
+        "CBS News US"
+      ],
+      "primary_category": "us-politics",
+      "hub": "us",
+      "hub_label": "미국",
+      "section_key": "us-politics",
+      "section_label": "정치",
+      "published_at": "2026-04-04T21:50:02+00:00",
+      "trust_level": 87,
+      "language": "en",
+      "sort_timestamp": 1775339402
+    },
+    {
       "title": "Trump Wants to Make Deportation Deals. Autocrats Are Ready to Listen.",
       "canonical_url": "https://www.nytimes.com/2026/04/04/world/africa/trump-deportation-africa-migrants.html",
       "link_label": "www.nytimes.com/2026/04/04/world/africa/trump-deportat...",
@@ -3017,6 +3407,44 @@
       "trust_level": 95,
       "language": "en",
       "sort_timestamp": 1775339299
+    },
+    {
+      "title": "Local culture shapes the Zairean liturgy",
+      "canonical_url": "https://www.npr.org/2026/04/04/nx-s1-5769881/local-culture-shapes-the-zairean-liturgy",
+      "link_label": "www.npr.org/2026/04/04/nx-s1-5769881/local-culture...",
+      "source_key": "npr-world-rss",
+      "source_name": "NPR World",
+      "source_names": [
+        "NPR World"
+      ],
+      "primary_category": "us-world",
+      "hub": "us",
+      "hub_label": "미국",
+      "section_key": "us-world",
+      "section_label": "세계",
+      "published_at": "2026-04-04T21:45:47+00:00",
+      "trust_level": 90,
+      "language": "en",
+      "sort_timestamp": 1775339147
+    },
+    {
+      "title": "German researchers set right the story of a 9,000-year-old shaman's grave",
+      "canonical_url": "https://www.npr.org/2026/04/04/nx-s1-5763625/german-researchers-set-right-the-story-of-a-9-000-year-old-shamans-grave",
+      "link_label": "www.npr.org/2026/04/04/nx-s1-5763625/german-resear...",
+      "source_key": "npr-world-rss",
+      "source_name": "NPR World",
+      "source_names": [
+        "NPR World"
+      ],
+      "primary_category": "us-world",
+      "hub": "us",
+      "hub_label": "미국",
+      "section_key": "us-world",
+      "section_label": "세계",
+      "published_at": "2026-04-04T21:45:43+00:00",
+      "trust_level": 90,
+      "language": "en",
+      "sort_timestamp": 1775339143
     },
     {
       "title": "Hugh Hefner’s widow, Crystal Harris, marries James Ward in romantic island ceremony",
@@ -7838,25 +8266,6 @@
       "trust_level": 70,
       "language": "en",
       "sort_timestamp": 1775318773
-    },
-    {
-      "title": "🚨 [HIGH] 호르무즈 해협 알림",
-      "canonical_url": "https://www.aljazeera.com/video/newsfeed/2026/4/4/iran-says-us-israel-belong-in-stone-age-after-tehran-university-strike?traffic_source=rss",
-      "link_label": "www.aljazeera.com/video/newsfeed/2026/4/4/iran-says-us-i...?traffic_source=rss",
-      "source_key": "telegram-claw-summary",
-      "source_name": "Telegram @clawnewssummary",
-      "source_names": [
-        "Telegram @clawnewssummary"
-      ],
-      "primary_category": "military",
-      "hub": "global",
-      "hub_label": "글로벌 전문",
-      "section_key": "military",
-      "section_label": "군사",
-      "published_at": "2026-04-04T16:06:00+00:00",
-      "trust_level": 55,
-      "language": "ko",
-      "sort_timestamp": 1775318760
     },
     {
       "title": "Trump says Iran has ’48 hours before all Hell will reign down on them’ over Hormuz blockade",
@@ -40640,425 +41049,6 @@
       "trust_level": 89,
       "language": "en",
       "sort_timestamp": 1774018200
-    },
-    {
-      "title": "DOGE Goes Nuclear: How Trump Invited Silicon Valley Into America’s Nuclear Power Regulator",
-      "canonical_url": "https://www.propublica.org/article/trump-nuclear-power-nrc-safety-doge-vought",
-      "link_label": "www.propublica.org/article/trump-nuclear-power-nrc-safety...",
-      "source_key": "propublica-feed",
-      "source_name": "ProPublica Feed",
-      "source_names": [
-        "ProPublica Feed"
-      ],
-      "primary_category": "us-politics",
-      "hub": "us",
-      "hub_label": "미국",
-      "section_key": "us-politics",
-      "section_label": "정치",
-      "published_at": "2026-03-20T10:00:00+00:00",
-      "trust_level": 89,
-      "language": "en",
-      "sort_timestamp": 1774000800
-    },
-    {
-      "title": "Agencies request comment on proposals to modernize the regulatory capital framework and maintain the strength of the banking system",
-      "canonical_url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260319a.htm",
-      "link_label": "www.federalreserve.gov/newsevents/pressreleases/bcreg20260319...",
-      "source_key": "federalreserve-rss",
-      "source_name": "Federal Reserve",
-      "source_names": [
-        "Federal Reserve"
-      ],
-      "primary_category": "us-markets",
-      "hub": "us",
-      "hub_label": "미국",
-      "section_key": "us-markets",
-      "section_label": "시장",
-      "published_at": "2026-03-19T16:30:00+00:00",
-      "trust_level": 100,
-      "language": "en",
-      "sort_timestamp": 1773937800
-    },
-    {
-      "title": "AI version of the late Val Kilmer to star in new movie",
-      "canonical_url": "https://www.cbsnews.com/video/ai-version-of-the-late-val-kilmer-to-star-in-new-movie",
-      "link_label": "www.cbsnews.com/video/ai-version-of-the-late-val-kilme...",
-      "source_key": "cbs-technology-rss",
-      "source_name": "CBS News Technology",
-      "source_names": [
-        "CBS News Technology"
-      ],
-      "primary_category": "us-technology",
-      "hub": "us",
-      "hub_label": "미국",
-      "section_key": "us-technology",
-      "section_label": "기술",
-      "published_at": "2026-03-19T15:34:00+00:00",
-      "trust_level": 87,
-      "language": "en",
-      "sort_timestamp": 1773934440
-    },
-    {
-      "title": "Risks of excessive screen time for adults",
-      "canonical_url": "https://www.cbsnews.com/video/risks-of-excessive-screen-use-for-adults",
-      "link_label": "www.cbsnews.com/video/risks-of-excessive-screen-use-fo...",
-      "source_key": "cbs-technology-rss",
-      "source_name": "CBS News Technology",
-      "source_names": [
-        "CBS News Technology"
-      ],
-      "primary_category": "us-technology",
-      "hub": "us",
-      "hub_label": "미국",
-      "section_key": "us-technology",
-      "section_label": "기술",
-      "published_at": "2026-03-19T14:43:00+00:00",
-      "trust_level": 87,
-      "language": "en",
-      "sort_timestamp": 1773931380
-    },
-    {
-      "title": "Federal Reserve issues FOMC statement",
-      "canonical_url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260318a.htm",
-      "link_label": "www.federalreserve.gov/newsevents/pressreleases/monetary20260...",
-      "source_key": "federalreserve-rss",
-      "source_name": "Federal Reserve",
-      "source_names": [
-        "Federal Reserve"
-      ],
-      "primary_category": "us-markets",
-      "hub": "us",
-      "hub_label": "미국",
-      "section_key": "us-markets",
-      "section_label": "시장",
-      "published_at": "2026-03-18T18:00:00+00:00",
-      "trust_level": 100,
-      "language": "en",
-      "sort_timestamp": 1773856800
-    },
-    {
-      "title": "Federal Reserve Board and Federal Open Market Committee release economic projections from the March 17-18 FOMC meeting",
-      "canonical_url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260318b.htm",
-      "link_label": "www.federalreserve.gov/newsevents/pressreleases/monetary20260...",
-      "source_key": "federalreserve-rss",
-      "source_name": "Federal Reserve",
-      "source_names": [
-        "Federal Reserve"
-      ],
-      "primary_category": "us-markets",
-      "hub": "us",
-      "hub_label": "미국",
-      "section_key": "us-markets",
-      "section_label": "시장",
-      "published_at": "2026-03-18T18:00:00+00:00",
-      "trust_level": 100,
-      "language": "en",
-      "sort_timestamp": 1773856800
-    },
-    {
-      "title": "SEC Clarifies the Application of Federal Securities Laws to Crypto Assets",
-      "canonical_url": "https://www.sec.gov/newsroom/press-releases/2026-30-sec-clarifies-application-federal-securities-laws-crypto-assets",
-      "link_label": "www.sec.gov/newsroom/press-releases/2026-30-sec-cl...",
-      "source_key": "sec-crypto-rss",
-      "source_name": "SEC Crypto Filter",
-      "source_names": [
-        "SEC Crypto Filter",
-        "SEC Press Releases"
-      ],
-      "primary_category": "crypto",
-      "hub": "global",
-      "hub_label": "글로벌 전문",
-      "section_key": "crypto",
-      "section_label": "코인",
-      "published_at": "2026-03-17T19:45:25+00:00",
-      "trust_level": 95,
-      "language": "en",
-      "sort_timestamp": 1773776725
-    },
-    {
-      "title": "SEC Publishes Data on Public and Private Offerings, Municipal Advisors, Transfer Agents, and Securities-Based Swap Dealers",
-      "canonical_url": "https://www.sec.gov/newsroom/press-releases/2026-29-sec-publishes-data-public-private-offerings-municipal-advisors-transfer-agents-securities-based-swap",
-      "link_label": "www.sec.gov/newsroom/press-releases/2026-29-sec-pu...",
-      "source_key": "sec-rss",
-      "source_name": "SEC Press Releases",
-      "source_names": [
-        "SEC Press Releases"
-      ],
-      "primary_category": "us-markets",
-      "hub": "us",
-      "hub_label": "미국",
-      "section_key": "us-markets",
-      "section_label": "시장",
-      "published_at": "2026-03-17T19:13:00+00:00",
-      "trust_level": 95,
-      "language": "en",
-      "sort_timestamp": 1773774780
-    },
-    {
-      "title": "SEC Proposes Amendments to Exchange Act Rule 15c2-11",
-      "canonical_url": "https://www.sec.gov/newsroom/press-releases/2026-28-sec-proposes-amendments-exchange-act-rule-15c2-11",
-      "link_label": "www.sec.gov/newsroom/press-releases/2026-28-sec-pr...",
-      "source_key": "sec-rss",
-      "source_name": "SEC Press Releases",
-      "source_names": [
-        "SEC Press Releases"
-      ],
-      "primary_category": "us-markets",
-      "hub": "us",
-      "hub_label": "미국",
-      "section_key": "us-markets",
-      "section_label": "시장",
-      "published_at": "2026-03-16T19:15:00+00:00",
-      "trust_level": 95,
-      "language": "en",
-      "sort_timestamp": 1773688500
-    },
-    {
-      "title": "SEC Announces Enforcement Division Director Judge Margaret A. Ryan Has Resigned From Agency",
-      "canonical_url": "https://www.sec.gov/newsroom/press-releases/2026-27-sec-announces-enforcement-division-director-judge-margaret-ryan-has-resigned-agency",
-      "link_label": "www.sec.gov/newsroom/press-releases/2026-27-sec-an...",
-      "source_key": "sec-rss",
-      "source_name": "SEC Press Releases",
-      "source_names": [
-        "SEC Press Releases"
-      ],
-      "primary_category": "us-markets",
-      "hub": "us",
-      "hub_label": "미국",
-      "section_key": "us-markets",
-      "section_label": "시장",
-      "published_at": "2026-03-16T18:09:04+00:00",
-      "trust_level": 95,
-      "language": "en",
-      "sort_timestamp": 1773684544
-    },
-    {
-      "title": "Federal Reserve Board issues enforcement actions with former employee of Equity Bank and former employee of First State Bank of Dongola",
-      "canonical_url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260313a.htm",
-      "link_label": "www.federalreserve.gov/newsevents/pressreleases/enforcement20...",
-      "source_key": "federalreserve-rss",
-      "source_name": "Federal Reserve",
-      "source_names": [
-        "Federal Reserve"
-      ],
-      "primary_category": "us-markets",
-      "hub": "us",
-      "hub_label": "미국",
-      "section_key": "us-markets",
-      "section_label": "시장",
-      "published_at": "2026-03-13T15:00:00+00:00",
-      "trust_level": 100,
-      "language": "en",
-      "sort_timestamp": 1773414000
-    },
-    {
-      "title": "Federal Reserve Board announces approval of application by Home BancShares",
-      "canonical_url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260312a.htm",
-      "link_label": "www.federalreserve.gov/newsevents/pressreleases/orders2026031...",
-      "source_key": "federalreserve-rss",
-      "source_name": "Federal Reserve",
-      "source_names": [
-        "Federal Reserve"
-      ],
-      "primary_category": "us-markets",
-      "hub": "us",
-      "hub_label": "미국",
-      "section_key": "us-markets",
-      "section_label": "시장",
-      "published_at": "2026-03-12T20:30:00+00:00",
-      "trust_level": 100,
-      "language": "en",
-      "sort_timestamp": 1773347400
-    },
-    {
-      "title": "Federal Reserve Board announces approval of application by FirstSun Capital Bancorp",
-      "canonical_url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260311a.htm",
-      "link_label": "www.federalreserve.gov/newsevents/pressreleases/orders2026031...",
-      "source_key": "federalreserve-rss",
-      "source_name": "Federal Reserve",
-      "source_names": [
-        "Federal Reserve"
-      ],
-      "primary_category": "us-markets",
-      "hub": "us",
-      "hub_label": "미국",
-      "section_key": "us-markets",
-      "section_label": "시장",
-      "published_at": "2026-03-11T22:00:00+00:00",
-      "trust_level": 100,
-      "language": "en",
-      "sort_timestamp": 1773266400
-    },
-    {
-      "title": "Federal Reserve Board announces approval of application by Associated Banc-Corp",
-      "canonical_url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260311b.htm",
-      "link_label": "www.federalreserve.gov/newsevents/pressreleases/orders2026031...",
-      "source_key": "federalreserve-rss",
-      "source_name": "Federal Reserve",
-      "source_names": [
-        "Federal Reserve"
-      ],
-      "primary_category": "us-markets",
-      "hub": "us",
-      "hub_label": "미국",
-      "section_key": "us-markets",
-      "section_label": "시장",
-      "published_at": "2026-03-11T22:00:00+00:00",
-      "trust_level": 100,
-      "language": "en",
-      "sort_timestamp": 1773266400
-    },
-    {
-      "title": "SEC and CFTC Announce Historic Memorandum of Understanding Between Agencies",
-      "canonical_url": "https://www.sec.gov/newsroom/press-releases/2026-26-sec-cftc-announce-historic-memorandum-understanding-between-agencies",
-      "link_label": "www.sec.gov/newsroom/press-releases/2026-26-sec-cf...",
-      "source_key": "sec-rss",
-      "source_name": "SEC Press Releases",
-      "source_names": [
-        "SEC Press Releases"
-      ],
-      "primary_category": "us-markets",
-      "hub": "us",
-      "hub_label": "미국",
-      "section_key": "us-markets",
-      "section_label": "시장",
-      "published_at": "2026-03-11T19:30:00+00:00",
-      "trust_level": 95,
-      "language": "en",
-      "sort_timestamp": 1773257400
-    },
-    {
-      "title": "Federal Reserve Board announces termination of enforcement actions with Industrial and Commercial Bank of China Ltd., Industrial and Commercial Bank of China Ltd., New York Branch, Standard Chartered PLC, and Standard Chartered Bank",
-      "canonical_url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260310a.htm",
-      "link_label": "www.federalreserve.gov/newsevents/pressreleases/enforcement20...",
-      "source_key": "federalreserve-rss",
-      "source_name": "Federal Reserve",
-      "source_names": [
-        "Federal Reserve"
-      ],
-      "primary_category": "us-markets",
-      "hub": "us",
-      "hub_label": "미국",
-      "section_key": "us-markets",
-      "section_label": "시장",
-      "published_at": "2026-03-10T15:00:00+00:00",
-      "trust_level": 100,
-      "language": "en",
-      "sort_timestamp": 1773154800
-    },
-    {
-      "title": "Federal Reserve Board announces approval of notice by CBS Banc-Corp.",
-      "canonical_url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260309a.htm",
-      "link_label": "www.federalreserve.gov/newsevents/pressreleases/orders2026030...",
-      "source_key": "federalreserve-rss",
-      "source_name": "Federal Reserve",
-      "source_names": [
-        "Federal Reserve"
-      ],
-      "primary_category": "us-markets",
-      "hub": "us",
-      "hub_label": "미국",
-      "section_key": "us-markets",
-      "section_label": "시장",
-      "published_at": "2026-03-09T20:45:00+00:00",
-      "trust_level": 100,
-      "language": "en",
-      "sort_timestamp": 1773089100
-    },
-    {
-      "title": "Agencies clarify the capital treatment of tokenized securities",
-      "canonical_url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260305a.htm",
-      "link_label": "www.federalreserve.gov/newsevents/pressreleases/bcreg20260305...",
-      "source_key": "federalreserve-rss",
-      "source_name": "Federal Reserve",
-      "source_names": [
-        "Federal Reserve"
-      ],
-      "primary_category": "us-markets",
-      "hub": "us",
-      "hub_label": "미국",
-      "section_key": "us-markets",
-      "section_label": "시장",
-      "published_at": "2026-03-05T20:30:00+00:00",
-      "trust_level": 100,
-      "language": "en",
-      "sort_timestamp": 1772742600
-    },
-    {
-      "title": "Federal Reserve Board announces termination of enforcement action with Wells Fargo",
-      "canonical_url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260305a.htm",
-      "link_label": "www.federalreserve.gov/newsevents/pressreleases/enforcement20...",
-      "source_key": "federalreserve-rss",
-      "source_name": "Federal Reserve",
-      "source_names": [
-        "Federal Reserve"
-      ],
-      "primary_category": "us-markets",
-      "hub": "us",
-      "hub_label": "미국",
-      "section_key": "us-markets",
-      "section_label": "시장",
-      "published_at": "2026-03-05T16:00:00+00:00",
-      "trust_level": 100,
-      "language": "en",
-      "sort_timestamp": 1772726400
-    },
-    {
-      "title": "SEC Investor Advisory Committee to Host March 12 Meeting",
-      "canonical_url": "https://www.sec.gov/newsroom/press-releases/2026-25-sec-investor-advisory-committee-host-march-12-meeting",
-      "link_label": "www.sec.gov/newsroom/press-releases/2026-25-sec-in...",
-      "source_key": "sec-rss",
-      "source_name": "SEC Press Releases",
-      "source_names": [
-        "SEC Press Releases"
-      ],
-      "primary_category": "us-markets",
-      "hub": "us",
-      "hub_label": "미국",
-      "section_key": "us-markets",
-      "section_label": "시장",
-      "published_at": "2026-03-05T15:30:07+00:00",
-      "trust_level": 95,
-      "language": "en",
-      "sort_timestamp": 1772724607
-    },
-    {
-      "title": "SEC Announces Roundtable on Options Market Structure Reform",
-      "canonical_url": "https://www.sec.gov/newsroom/press-releases/2026-24-sec-announces-roundtable-options-market-structure-reform",
-      "link_label": "www.sec.gov/newsroom/press-releases/2026-24-sec-an...",
-      "source_key": "sec-rss",
-      "source_name": "SEC Press Releases",
-      "source_names": [
-        "SEC Press Releases"
-      ],
-      "primary_category": "us-markets",
-      "hub": "us",
-      "hub_label": "미국",
-      "section_key": "us-markets",
-      "section_label": "시장",
-      "published_at": "2026-03-05T15:09:00+00:00",
-      "trust_level": 95,
-      "language": "en",
-      "sort_timestamp": 1772723340
-    },
-    {
-      "title": "Federal Reserve Board issues enforcement actions with former employee of East Cambridge Savings Bank and former employee of United Bank",
-      "canonical_url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260303a.htm",
-      "link_label": "www.federalreserve.gov/newsevents/pressreleases/enforcement20...",
-      "source_key": "federalreserve-rss",
-      "source_name": "Federal Reserve",
-      "source_names": [
-        "Federal Reserve"
-      ],
-      "primary_category": "us-markets",
-      "hub": "us",
-      "hub_label": "미국",
-      "section_key": "us-markets",
-      "section_label": "시장",
-      "published_at": "2026-03-03T16:00:00+00:00",
-      "trust_level": 100,
-      "language": "en",
-      "sort_timestamp": 1772553600
     }
   ]
 }
