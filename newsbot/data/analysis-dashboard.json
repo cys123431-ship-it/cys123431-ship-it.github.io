@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-04-04T22:23:06.905953+00:00",
+  "generated_at": "2026-04-04T22:56:20.085503+00:00",
   "retention_days": 90,
   "default_window": "7d",
-  "lifetime_total_articles": 5075,
-  "lifetime_unknown_time_count": 759,
+  "lifetime_total_articles": 5111,
+  "lifetime_unknown_time_count": 775,
   "available_windows": [
     {
       "key": "24h",
@@ -29,80 +29,80 @@
   "windows": {
     "24h": {
       "label": "24h",
-      "article_count": 1203,
+      "article_count": 1171,
       "unknown_time_count": 0,
-      "active_source_count": 87,
-      "repeated_title_count": 75,
+      "active_source_count": 86,
+      "repeated_title_count": 69,
       "timeline": [
         {
           "date": "2026-04-03",
-          "count": 111
+          "count": 63
         },
         {
           "date": "2026-04-04",
-          "count": 1092
+          "count": 1108
         }
       ],
       "top_keywords": [
         {
           "keyword": "trump",
-          "count": 114
+          "count": 109
         },
         {
           "keyword": "iran",
-          "count": 69
+          "count": 68
         },
         {
-          "keyword": "war",
-          "count": 28
+          "keyword": "new",
+          "count": 29
         },
         {
           "keyword": "after",
           "count": 27
         },
         {
-          "keyword": "new",
-          "count": 26
+          "keyword": "war",
+          "count": 27
         },
         {
           "keyword": "ai",
-          "count": 25
+          "count": 26
         },
         {
           "keyword": "what",
-          "count": 25
+          "count": 24
         },
         {
           "keyword": "how",
-          "count": 24
+          "count": 23
         },
         {
           "keyword": "us",
-          "count": 24
+          "count": 23
         },
         {
           "keyword": "missing",
           "count": 20
         },
         {
-          "keyword": "about",
-          "count": 16
+          "keyword": "says",
+          "count": 17
         },
         {
-          "keyword": "says",
-          "count": 16
+          "keyword": "about",
+          "count": 15
         }
       ],
       "top_sources": [
         {
           "source_key": "nypost-feed",
           "name": "New York Post Feed",
-          "count": 105
+          "count": 106
         },
         {
           "source_key": "guardian-us-rss",
           "name": "The Guardian US",
-          "count": 65
+          "count": 66
         },
         {
           "source_key": "newsweek-feed",
@@ -112,12 +112,12 @@
         {
           "source_key": "donga-society-rss",
           "name": "DongA Society",
-          "count": 51
+          "count": 44
         },
         {
           "source_key": "forbes-innovation-rss",
           "name": "Forbes Innovation",
-          "count": 46
+          "count": 44
         },
         {
           "source_key": "forbes-business-rss",
@@ -127,12 +127,12 @@
         {
           "source_key": "asiae-society-rss",
           "name": "Asiae Society",
-          "count": 39
+          "count": 38
         },
         {
           "source_key": "breitbart-feed",
           "name": "Breitbart Feed",
-          "count": 38
+          "count": 37
         },
         {
           "source_key": "thehill-feed",
@@ -145,13 +145,13 @@
           "count": 33
         },
         {
-          "source_key": "donga-culture-rss",
-          "name": "DongA Culture",
-          "count": 32
-        },
-        {
           "source_key": "etoday-economy-rss",
           "name": "eToday Economy",
+          "count": 29
+        },
+        {
+          "source_key": "donga-culture-rss",
+          "name": "DongA Culture",
           "count": 28
         }
       ],
@@ -159,12 +159,12 @@
         {
           "key": "us",
           "label": "미국",
-          "count": 775
+          "count": 760
         },
         {
           "key": "kr",
           "label": "대한민국",
-          "count": 374
+          "count": 357
         },
         {
           "key": "global",
@@ -178,63 +178,63 @@
           "label": "정치",
           "hub": "us",
           "hub_label": "미국",
-          "count": 236
+          "count": 231
         },
         {
           "key": "us-technology",
           "label": "기술",
           "hub": "us",
           "hub_label": "미국",
-          "count": 224
-        },
-        {
-          "key": "kr-society",
-          "label": "사회",
-          "hub": "kr",
-          "hub_label": "대한민국",
-          "count": 137
+          "count": 223
         },
         {
           "key": "us-world",
           "label": "세계",
           "hub": "us",
           "hub_label": "미국",
-          "count": 137
+          "count": 132
         },
         {
-          "key": "us-economy",
-          "label": "경제",
-          "hub": "us",
-          "hub_label": "미국",
-          "count": 89
+          "key": "kr-society",
+          "label": "사회",
+          "hub": "kr",
+          "hub_label": "대한민국",
+          "count": 129
         },
         {
           "key": "us-markets",
           "label": "시장",
           "hub": "us",
           "hub_label": "미국",
-          "count": 89
+          "count": 88
+        },
+        {
+          "key": "us-economy",
+          "label": "경제",
+          "hub": "us",
+          "hub_label": "미국",
+          "count": 86
         },
         {
           "key": "kr-economy",
           "label": "경제",
           "hub": "kr",
           "hub_label": "대한민국",
-          "count": 79
+          "count": 77
         },
         {
           "key": "kr-sports",
           "label": "스포츠",
           "hub": "kr",
           "hub_label": "대한민국",
-          "count": 60
+          "count": 57
         },
         {
           "key": "kr-culture",
           "label": "문화",
           "hub": "kr",
           "hub_label": "대한민국",
-          "count": 51
+          "count": 47
         },
         {
           "key": "kr-politics",
@@ -261,11 +261,11 @@
       "language_counts": [
         {
           "language": "en",
-          "count": 803
+          "count": 786
         },
         {
           "language": "ko",
-          "count": 400
+          "count": 385
         }
       ],
       "repeated_titles": [
@@ -297,6 +297,15 @@
           "sort_timestamp": 1775311200
         },
         {
+          "title_hash": "3ee7c41c71fb832b098ebb846d1ecfbac956e17862cde6acc0364c1fe8953102",
+          "title": "“골프 인기 예전만 못 하네”…레저 회복세 속 ‘나홀로 하락’",
+          "article_count": 3,
+          "source_count": 3,
+          "latest_published_at": "2026-04-04T13:45:07+00:00",
+          "canonical_url": "https://www.donga.com/news/Society/article/all/20260404/133674664/1",
+          "sort_timestamp": 1775310307
+        },
+        {
           "title_hash": "baa93cefedde733ac1d2a7396338313d79a6c2e25456c48005f132f984edd88e",
           "title": "Debris from aerial interception strikes Oracle building in Dubai, UAE says",
           "article_count": 3,
@@ -322,24 +331,6 @@
           "latest_published_at": "2026-04-03T23:11:19+00:00",
           "canonical_url": "https://www.cbsnews.com/video/2-us-planes-hit-iran-search-missing-crew-member",
           "sort_timestamp": 1775257879
-        },
-        {
-          "title_hash": "f0a891a8c9938f6fa02043f37d413583c9f0b8884b80d84914abca35b13a3c18",
-          "title": "OpenAI's Fidji Simo takes medical leave, announces leadership changes",
-          "article_count": 3,
-          "source_count": 3,
-          "latest_published_at": "2026-04-03T22:40:38+00:00",
-          "canonical_url": "https://www.cnbc.com/2026/04/03/openai-fidji-simo-medical-leave-executive-changes.html",
-          "sort_timestamp": 1775256038
-        },
-        {
-          "title_hash": "525a8a4bd6324a098e5464b48c6b6a47f4c57ba0d042c10af5bdd415f2291c19",
-          "title": "4/3: CBS Evening News",
-          "article_count": 3,
-          "source_count": 3,
-          "latest_published_at": "2026-04-03T22:30:00+00:00",
-          "canonical_url": "https://www.cbsnews.com/video/040326-cbs-evening-news",
-          "sort_timestamp": 1775255400
         },
         {
           "title_hash": "92d18f733536eaf7d43973ac70b52e7d3761e588d66f5f387bc2ee7172eb87c2",
@@ -441,16 +432,135 @@
           "sort_timestamp": 1775311508
         },
         {
-          "title_hash": "3ee7c41c71fb832b098ebb846d1ecfbac956e17862cde6acc0364c1fe8953102",
-          "title": "“골프 인기 예전만 못 하네”…레저 회복세 속 ‘나홀로 하락’",
+          "title_hash": "4b2ffff6b459d0d5abb9670848605c76663201b8c41398f1e46c97e576ddd8fb",
+          "title": "LinkedIn Account Attack Alert Issued For 1.2 Billion Users",
           "article_count": 2,
           "source_count": 2,
-          "latest_published_at": "2026-04-04T13:45:07+00:00",
-          "canonical_url": "https://www.donga.com/news/Society/article/all/20260404/133674664/1",
-          "sort_timestamp": 1775310307
+          "latest_published_at": "2026-04-04T13:37:51+00:00",
+          "canonical_url": "https://www.forbes.com/sites/daveywinder/2026/04/04/linkedin-account-attack-alert-issued-for-12-billion-users",
+          "sort_timestamp": 1775309871
+        },
+        {
+          "title_hash": "b3190cb1d923fbe8e75d53a02629d37ff3e7ebc08379e0be9bd3407d02f91006",
+          "title": "Did Trump help write the latest White House East Wing court filing?",
+          "article_count": 2,
+          "source_count": 2,
+          "latest_published_at": "2026-04-04T13:35:50+00:00",
+          "canonical_url": "https://www.cbsnews.com/news/east-wing-trump-administration-court-filing-appeal-construction",
+          "sort_timestamp": 1775309750
         }
       ],
       "recent_samples": [
+        {
+          "stable_key": "1e3e4fa164f2d26b57e1c120689ea26fd8ab01170d02a55fb0e50014ad746d9c",
+          "source_key": "forbes-business-rss",
+          "source_name": "Forbes Business",
+          "category": "us-economy",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "경제",
+          "language": "en",
+          "title": "‘Harry Potter’ Takes Flight With Special ‘Finding Harry’ This Weekend",
+          "canonical_url": "https://www.forbes.com/sites/timlammers/2026/04/04/harry-potter-takes-flight-with-special-finding-harry-this-weekend",
+          "published_at": "2026-04-04T22:53:35+00:00",
+          "title_hash": "7fa40834cd9349fbbe97f988ec131f598f7ea77a3db61b0b4357d3eeba5eee4d",
+          "keywords": [
+            "harry",
+            "potter",
+            "takes",
+            "flight",
+            "special",
+            "finding"
+          ]
+        },
+        {
+          "stable_key": "a20e09ed5576f113f82d3a2250df6b8ec497d66e0720fa80a24846d8c86b825e",
+          "source_key": "nypost-feed",
+          "source_name": "New York Post Feed",
+          "category": "us-technology",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "기술",
+          "language": "en",
+          "title": "Steph Curry’s return gives Warriors much-needed dose of ‘hope’",
+          "canonical_url": "https://nypost.com/2026/04/04/sports/steph-curry-returns-sunday-against-the-rockets",
+          "published_at": "2026-04-04T22:51:20+00:00",
+          "title_hash": "1da99bbf6bc2e68f6137435b08e91894717f7ab70772d278c1c3aee55ea00535",
+          "keywords": [
+            "steph",
+            "curry",
+            "return",
+            "gives",
+            "warriors",
+            "much"
+          ]
+        },
+        {
+          "stable_key": "7f78d8b065b1800eb4783c89b19eafbdeee6e8e029e7da680e26a7bf97ba9ce7",
+          "source_key": "businessinsider-feed",
+          "source_name": "Business Insider Feed",
+          "category": "us-technology",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "기술",
+          "language": "en",
+          "title": "Simon Willison says the 'dark factory' is the next big thing in AI",
+          "canonical_url": "https://www.businessinsider.com/simon-willison-dark-factory-ai-2026-4",
+          "published_at": "2026-04-04T22:47:09+00:00",
+          "title_hash": "ee226fee1a0e3f1d0f4f11b062a4d11925475b4acd241cebbd068622609e6e60",
+          "keywords": [
+            "simon",
+            "willison",
+            "says",
+            "dark",
+            "factory",
+            "next"
+          ]
+        },
+        {
+          "stable_key": "b7637d82a2eaffb7e5d4b700a013e5c2935bc5c6d696775b568268e7aebce79c",
+          "source_key": "fox-politics-rss",
+          "source_name": "Fox News Politics",
+          "category": "us-politics",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "정치",
+          "language": "en",
+          "title": "A de facto pro forma: Why Washington fixated these sessions as the DHS shutdown dragged on through recess",
+          "canonical_url": "https://www.foxnews.com/politics/de-facto-pro-forma-why-washington-fixated-sessions-dhs-shutdown-dragged-through-recess",
+          "published_at": "2026-04-04T22:44:38+00:00",
+          "title_hash": "533be2a9d5fbecb419aa23edc30e6d442c4865c82440a41bce76586f8d75ddc3",
+          "keywords": [
+            "de",
+            "facto",
+            "pro",
+            "forma",
+            "why",
+            "washington"
+          ]
+        },
+        {
+          "stable_key": "02b97479fc45a8d48f7811f84263996fcf0427cc5ead1f71cb33acebd15d9635",
+          "source_key": "bloomberg-politics-rss",
+          "source_name": "Bloomberg Politics",
+          "category": "us-politics",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "정치",
+          "language": "en",
+          "title": "Trump Threatens Iran With ‘Hell’ as Search for Airman Continues",
+          "canonical_url": "https://www.bloomberg.com/news/articles/2026-04-04/trump-threatens-iran-with-hell-as-search-for-airman-continues",
+          "published_at": "2026-04-04T22:44:35+00:00",
+          "title_hash": "cdac4f4e10b5ab1e97be6c3ca20f03a7baac7636b586ff7f7ffa9868ad448b74",
+          "keywords": [
+            "trump",
+            "threatens",
+            "iran",
+            "hell",
+            "search",
+            "airman"
+          ]
+        },
         {
           "stable_key": "67eaa7786e70a0121346b8eb1ca94ddf7e59511cd6d1c052878347dd3a0ad74b",
           "source_key": "pressian-politics-rss",
@@ -471,6 +581,182 @@
             "그양반",
             "성격에",
             "불을"
+          ]
+        },
+        {
+          "stable_key": "8b9938feff88dc67da4c5e955a59fba8c4b6c17a9918ebdcdb6291283d5dee55",
+          "source_key": "mk-sports-rss",
+          "source_name": "Maeil Business Sports",
+          "category": "kr-sports",
+          "hub": "kr",
+          "hub_label": "대한민국",
+          "section_label": "스포츠",
+          "language": "ko",
+          "title": "“팀 승리 위해 모든 걸 쏟아붓겠다”…한화 유니폼 입는 쿠싱, 제2의 와이스 될까",
+          "canonical_url": "https://www.mk.co.kr/news/sports/12008069",
+          "published_at": "2026-04-04T22:40:00+00:00",
+          "title_hash": "1846df8a712c42a38d15b6efaa9bfd3d7d2e19d73d23ec62bb8ffbd58529b641",
+          "keywords": [
+            "승리",
+            "위해",
+            "모든",
+            "쏟아붓겠다",
+            "한화",
+            "유니폼"
+          ]
+        },
+        {
+          "stable_key": "f3b43b70a31e4546cb53ea12767ab0cf315eeb94f2df017949f7f6e3a6e5d546",
+          "source_key": "telegram-dada-news2",
+          "source_name": "Telegram @dada_news2",
+          "category": "tech-it",
+          "hub": "global",
+          "hub_label": "글로벌 전문",
+          "section_label": "테크",
+          "language": "ko",
+          "title": "[디지털데일리] 샤오미·삼성전자, 고용량 배터리·AI 강화한 모바일 신제품 출시 [위클리템]",
+          "canonical_url": "https://www.ddaily.co.kr/page/view/2026040316320796206",
+          "published_at": "2026-04-04T22:33:22+00:00",
+          "title_hash": "e9015337d5b979c1dd3f548a1ae15fb48a0f1987a90cd4fd55a679250214f221",
+          "keywords": [
+            "디지털데일리",
+            "샤오미",
+            "삼성전자",
+            "고용량",
+            "배터리",
+            "ai"
+          ]
+        },
+        {
+          "stable_key": "6b0a99bacddab198bb084ba374f88ab502e92181d6af442cab6f305df572d721",
+          "source_key": "telegram-dada-news2",
+          "source_name": "Telegram @dada_news2",
+          "category": "tech-it",
+          "hub": "global",
+          "hub_label": "글로벌 전문",
+          "section_label": "테크",
+          "language": "ko",
+          "title": "[디지털데일리] “삼성전자 32만원 간다는데”…이란 전쟁 지상전 가능성에 ‘글쎄’",
+          "canonical_url": "https://www.ddaily.co.kr/page/view/2026040409462326451",
+          "published_at": "2026-04-04T22:33:21+00:00",
+          "title_hash": "417154ce6c18804a3aa1d1b64bba3541b24a1544dbce15794061338bc2495001",
+          "keywords": [
+            "디지털데일리",
+            "삼성전자",
+            "32만원",
+            "간다는데",
+            "이란",
+            "전쟁"
+          ]
+        },
+        {
+          "stable_key": "9431f8bdb9db5a2e5d56ef62de910223f81296c7c83b3fe7622030394188dd46",
+          "source_key": "etoday-economy-rss",
+          "source_name": "eToday Economy",
+          "category": "kr-economy",
+          "hub": "kr",
+          "hub_label": "대한민국",
+          "section_label": "경제",
+          "language": "ko",
+          "title": "신세계百 ‘시코르’, 점포 수 줄이고 수익성↑…핀셋 출점 전략 통했다",
+          "canonical_url": "https://www.etoday.co.kr/news/view/2572555",
+          "published_at": "2026-04-04T22:30:00+00:00",
+          "title_hash": "6e128a5553c84477d48a2cf0cb94371dde4548c682e24aa06f4269739409bebc",
+          "keywords": [
+            "신세계",
+            "시코르",
+            "점포",
+            "줄이고",
+            "수익성",
+            "핀셋"
+          ]
+        },
+        {
+          "stable_key": "a57ec497215fdb140afaddb58dad729b34d9248ab835d80154249afc0653a18c",
+          "source_key": "asiae-culture-rss",
+          "source_name": "Asiae Life",
+          "category": "kr-culture",
+          "hub": "kr",
+          "hub_label": "대한민국",
+          "section_label": "문화",
+          "language": "ko",
+          "title": "벚꽃놀이가 아니라 벚꽃전쟁…명당 맡으러 밤샘 불사하는 '오하나미' 이야기 [日요일日문화]",
+          "canonical_url": "https://www.asiae.co.kr/article/2026040115443050816",
+          "published_at": "2026-04-04T22:30:00+00:00",
+          "title_hash": "e313f939514aadb8dacd3b1ec10f1ace169521831d885e258e4fde7974dacb7e",
+          "keywords": [
+            "벚꽃놀이가",
+            "아니라",
+            "벚꽃전쟁",
+            "명당",
+            "맡으러",
+            "밤샘"
+          ]
+        },
+        {
+          "stable_key": "6d68ada7fe8b2146ca15e010ffc1cc0537d72789526f34d9ddadc9316d7492de",
+          "source_key": "abc-us-rss",
+          "source_name": "ABC News US",
+          "category": "us-politics",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "정치",
+          "language": "en",
+          "title": "Vehicle hits revelers during Lao New Year celebration in Louisiana",
+          "canonical_url": "https://abcnews.com/US/wireStory/vehicle-hits-revelers-lao-new-year-celebration-louisiana-131733161",
+          "published_at": "2026-04-04T22:22:09+00:00",
+          "title_hash": "0a7c33f74a96cbe7ca06f8840866ce653b9795fa680ac5a03f11877603f504df",
+          "keywords": [
+            "vehicle",
+            "hits",
+            "revelers",
+            "during",
+            "lao",
+            "new"
+          ]
+        },
+        {
+          "stable_key": "797b9ba1669f223cd15a90fc409224a8634906bfa6081ebba4fc54273f903277",
+          "source_key": "guardian-us-rss",
+          "source_name": "The Guardian US",
+          "category": "us-technology",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "기술",
+          "language": "en",
+          "title": "More than 20 people injured after driver crashes into crowd at Louisiana parade",
+          "canonical_url": "https://www.theguardian.com/us-news/2026/apr/04/louisiana-parade-car-crash",
+          "published_at": "2026-04-04T22:20:45+00:00",
+          "title_hash": "91c6a9fd315e678a356857c665c48e1c96ba1a1836d8268250daf49b553764ed",
+          "keywords": [
+            "more",
+            "than",
+            "people",
+            "injured",
+            "after",
+            "driver"
+          ]
+        },
+        {
+          "stable_key": "ce7ec7b33835a1f1824f8a4f8c7119c2f349bdd10e51fe6fc929637009142bcd",
+          "source_key": "latimes-world-rss",
+          "source_name": "Los Angeles Times World",
+          "category": "us-world",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "세계",
+          "language": "en",
+          "title": "At Easter time, Iranian Christians pray for a new government and freedom of worship as war rages at home",
+          "canonical_url": "https://www.latimes.com/world-nation/story/2026-04-04/at-easter-iranian-christians-pray-as-war-rages-at-home",
+          "published_at": "2026-04-04T22:19:03+00:00",
+          "title_hash": "0b9339a8b80c853c89af4a68c95ed3147e5a1d48a24cc4c211f0a920f43f942f",
+          "keywords": [
+            "easter",
+            "time",
+            "iranian",
+            "christians",
+            "pray",
+            "new"
           ]
         },
         {
@@ -824,301 +1110,15 @@
             "사고",
             "10대"
           ]
-        },
-        {
-          "stable_key": "b6fad28b61212f9190b6288804be3ce0849c6cac514ea9a2a39fbce6dddab294",
-          "source_key": "nypost-feed",
-          "source_name": "New York Post Feed",
-          "category": "us-technology",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "기술",
-          "language": "en",
-          "title": "NJ man ends up in rehab from addictive kratom drinks he spent $60K on: Lawsuit",
-          "canonical_url": "https://nypost.com/2026/04/04/us-news/nj-man-ends-up-in-rehab-from-addictive-kratom-drinks-he-spent-60k-on-lawsuit",
-          "published_at": "2026-04-04T21:58:54+00:00",
-          "title_hash": "1a7f59681678b3857a5927558b649b6e70ed94a8291011531c9dc18adf749f9f",
-          "keywords": [
-            "nj",
-            "man",
-            "ends",
-            "up",
-            "rehab",
-            "addictive"
-          ]
-        },
-        {
-          "stable_key": "d75225a243f7a8f70769761428b0e9d8fc26eda9ad8a320a56b211db422cc054",
-          "source_key": "telegram-dada-news2",
-          "source_name": "Telegram @dada_news2",
-          "category": "tech-it",
-          "hub": "global",
-          "hub_label": "글로벌 전문",
-          "section_label": "테크",
-          "language": "ko",
-          "title": "[글로벌이코노믹] “MS, 325조 평가이익… 그런데 CEO는 0%” 오픈AI, 자본주의 뒤집은 기묘한 설계",
-          "canonical_url": "https://www.g-enews.com/article/Global-Biz/2026/04/202604050612321072fbbec65dfb_1",
-          "published_at": "2026-04-04T21:55:09+00:00",
-          "title_hash": "86a9e9de36d86b1970f21d2ae62590847140e6126b54a7dccbed0f0318e8c5ea",
-          "keywords": [
-            "글로벌이코노믹",
-            "ms",
-            "325조",
-            "평가이익",
-            "그런데",
-            "ceo는"
-          ]
-        },
-        {
-          "stable_key": "e46030cd731fc1c120db285c3ab50088038b428a09e53ecfed697fe1d4c222a5",
-          "source_key": "nypost-feed",
-          "source_name": "New York Post Feed",
-          "category": "us-technology",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "기술",
-          "language": "en",
-          "title": "Does not compute: Waymo’s stunning drive-thru screw-up",
-          "canonical_url": "https://nypost.com/2026/04/04/lifestyle/waymo-messes-up-pick-up-in-los-angeles-drive-thru",
-          "published_at": "2026-04-04T21:54:59+00:00",
-          "title_hash": "795fbc5f62f7900a3495b30103cb916f66877f68a53c43089ef57cd7906f1ef4",
-          "keywords": [
-            "does",
-            "not",
-            "compute",
-            "waymo",
-            "stunning",
-            "drive"
-          ]
-        },
-        {
-          "stable_key": "698aaa707b988d57fa0e6c064c3a615b7f4959abc76d51cedf8a40b7d0ae53ce",
-          "source_key": "fox-us-rss",
-          "source_name": "Fox News US",
-          "category": "us-politics",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "정치",
-          "language": "en",
-          "title": "At least 13 people injured after vehicle slams into Louisiana parade: sheriff's office",
-          "canonical_url": "https://www.foxnews.com/us/people-injured-vehicle-slams-louisiana-parade-sheriffs-office",
-          "published_at": "2026-04-04T21:53:57+00:00",
-          "title_hash": "37f60ce1d0fa5badf928cc61df494528a633c705268af530ffccd2ea92f9daaf",
-          "keywords": [
-            "least",
-            "people",
-            "injured",
-            "after",
-            "vehicle",
-            "slams"
-          ]
-        },
-        {
-          "stable_key": "33516a341292aae15251634a958c731db7dd886bab1c386b194dfb1b764b7389",
-          "source_key": "forbes-business-rss",
-          "source_name": "Forbes Business",
-          "category": "us-economy",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "경제",
-          "language": "en",
-          "title": "NCAA President: Influence Of Agents In College Sports Is ‘Insane,’ Trump’s Executive Order Would ‘Create A Little Less Chaos’",
-          "canonical_url": "https://www.forbes.com/sites/adamzagoria/2026/04/04/ncaa-president-influence-of-agents-in-college-sports-is-insane-trumps-executive-order-would-create-a-little-less-chaos",
-          "published_at": "2026-04-04T21:53:12+00:00",
-          "title_hash": "1a0f5ef55ddcf77e65de0d7e1460dc780526ff99cdfcaef7f4a2a2fd43d02521",
-          "keywords": [
-            "ncaa",
-            "president",
-            "influence",
-            "agents",
-            "college",
-            "sports"
-          ]
-        },
-        {
-          "stable_key": "40d2e08cf689d253fc2c3d322a2247ab39d5359059072c80fc12c7a79ff8b2f4",
-          "source_key": "washingtonexaminer-feed",
-          "source_name": "Washington Examiner Feed",
-          "category": "us-world",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "세계",
-          "language": "en",
-          "title": "Iran warns of ‘serious’ radiation risk after projectile hits near nuclear power plant",
-          "canonical_url": "https://www.washingtonexaminer.com/news/world/4516409/iran-radiation-risk-nuclear-power-plant",
-          "published_at": "2026-04-04T21:51:54+00:00",
-          "title_hash": "265b81f6ec15566f478f9b64507f8e5dc8154a8daa9bb59b842b320cb9420351",
-          "keywords": [
-            "iran",
-            "warns",
-            "serious",
-            "radiation",
-            "risk",
-            "after"
-          ]
-        },
-        {
-          "stable_key": "ecc3656cce3d630d40166f1f37d89940d12f1bf873d763614eff0c5ee80d2bbc",
-          "source_key": "telegram-dada-news2",
-          "source_name": "Telegram @dada_news2",
-          "category": "tech-it",
-          "hub": "global",
-          "hub_label": "글로벌 전문",
-          "section_label": "테크",
-          "language": "ko",
-          "title": "[글로벌이코노믹] \"클라우드 없는 AI가 진짜 무서운 이유\"... 인텔이 깨운 '자율 진화 칩'의 실체",
-          "canonical_url": "https://www.g-enews.com/article/Global-Biz/2026/04/202604050650118923f4f9a46d5b_1",
-          "published_at": "2026-04-04T21:50:31+00:00",
-          "title_hash": "305b5450f1b1fb9aaede8ec636d58aa8750f87d69b229323b36fe459f7479825",
-          "keywords": [
-            "글로벌이코노믹",
-            "클라우드",
-            "없는",
-            "ai가",
-            "진짜",
-            "무서운"
-          ]
-        },
-        {
-          "stable_key": "7b7f52e05c307883c06fe7920689eb6db832f7c55f577c49a9010728c639ae10",
-          "source_key": "newsweek-feed",
-          "source_name": "Newsweek Feed",
-          "category": "us-technology",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "기술",
-          "language": "en",
-          "title": "Will Braylon Mullins Go to the NBA? Latest Draft Projection for UConn Star",
-          "canonical_url": "https://www.newsweek.com/sports/nba/will-braylon-mullins-go-to-the-nba-latest-draft-projection-for-uconn-star-11783898",
-          "published_at": "2026-04-04T21:50:08+00:00",
-          "title_hash": "72366c8068d1bbff24e1d6834c195187f906b1423183c4b01c7f2095a544e9e6",
-          "keywords": [
-            "braylon",
-            "mullins",
-            "go",
-            "nba",
-            "latest",
-            "draft"
-          ]
-        },
-        {
-          "stable_key": "92f3f4a1ec9f74c37139da2c525daaab41aee42736886c922c67b2a8f0d39a02",
-          "source_key": "cbs-us-rss",
-          "source_name": "CBS News US",
-          "category": "us-politics",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "정치",
-          "language": "en",
-          "title": "Parker, Delle Donne among basketball greats set for Hall of Fame enshrinement",
-          "canonical_url": "https://www.cbsnews.com/news/us-olympic-women-basketball-1996-naismith-basketball-hall-of-fame",
-          "published_at": "2026-04-04T21:50:02+00:00",
-          "title_hash": "7617cec05b400c32f02b04b19c6627b48a36c372eee7ce79da8a276327f1c189",
-          "keywords": [
-            "parker",
-            "delle",
-            "donne",
-            "among",
-            "basketball",
-            "greats"
-          ]
-        },
-        {
-          "stable_key": "dccd135869ce84bc3b0d7a71d15682e7484b59c6e57338ccb438365013721df3",
-          "source_key": "npr-world-rss",
-          "source_name": "NPR World",
-          "category": "us-world",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "세계",
-          "language": "en",
-          "title": "Local culture shapes the Zairean liturgy",
-          "canonical_url": "https://www.npr.org/2026/04/04/nx-s1-5769881/local-culture-shapes-the-zairean-liturgy",
-          "published_at": "2026-04-04T21:45:47+00:00",
-          "title_hash": "6559b8fafb358d81d4d4596b777bca4bf2f22ccd2c46f235433adbe21d2ad9a8",
-          "keywords": [
-            "local",
-            "culture",
-            "shapes",
-            "zairean",
-            "liturgy",
-            "local culture"
-          ]
-        },
-        {
-          "stable_key": "ebdc6be8defc7efeb55bb2380887ab6dde83d047fb898b407cdb5041eebb4934",
-          "source_key": "npr-world-rss",
-          "source_name": "NPR World",
-          "category": "us-world",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "세계",
-          "language": "en",
-          "title": "German researchers set right the story of a 9,000-year-old shaman's grave",
-          "canonical_url": "https://www.npr.org/2026/04/04/nx-s1-5763625/german-researchers-set-right-the-story-of-a-9-000-year-old-shamans-grave",
-          "published_at": "2026-04-04T21:45:43+00:00",
-          "title_hash": "7fee675856f155f404532e57aa8145c44d1d1352d09099d7bfda16624690d9d6",
-          "keywords": [
-            "german",
-            "researchers",
-            "set",
-            "right",
-            "story",
-            "year"
-          ]
-        },
-        {
-          "stable_key": "432b20ecdd0fa1a6d8eb46378f8b11be83127c82689da2110fd0ee8b359ad869",
-          "source_key": "nypost-feed",
-          "source_name": "New York Post Feed",
-          "category": "us-markets",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "시장",
-          "language": "en",
-          "title": "Hugh Hefner’s widow, Crystal Harris, marries James Ward in romantic island ceremony",
-          "canonical_url": "https://pagesix.com/2026/04/04/celebrity-news/hugh-hefners-widow-crystal-harris-marries-james-ward-in-romantic-island-ceremony",
-          "published_at": "2026-04-04T21:44:39+00:00",
-          "title_hash": "0574c8f856b6abe0ebd271b7a5caad0a8690d4c56a3665f7cc32f732a73fdf44",
-          "keywords": [
-            "hugh",
-            "hefner",
-            "widow",
-            "crystal",
-            "harris",
-            "marries"
-          ]
-        },
-        {
-          "stable_key": "e66231010af85f6f1fefc2a777df0cef32768bc686260f2aef3cccb83954953b",
-          "source_key": "forbes-innovation-rss",
-          "source_name": "Forbes Innovation",
-          "category": "us-technology",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "기술",
-          "language": "en",
-          "title": "New Samsung Images Confirm Galaxy Z Fold 8 ‘Wide’ Details",
-          "canonical_url": "https://www.forbes.com/sites/jaymcgregor/2026/04/04/samsung-galaxy-z-fold-8-wide-leak-design-screen-one-ui-9",
-          "published_at": "2026-04-04T21:41:02+00:00",
-          "title_hash": "7f8736fa6ed901cd28d15dcd814da166fd1f8ffdd31da235d225c684d587f2ec",
-          "keywords": [
-            "new",
-            "samsung",
-            "images",
-            "confirm",
-            "galaxy",
-            "fold"
-          ]
         }
       ]
     },
     "7d": {
       "label": "7d",
-      "article_count": 3614,
+      "article_count": 3634,
       "unknown_time_count": 0,
       "active_source_count": 102,
-      "repeated_title_count": 200,
+      "repeated_title_count": 201,
       "timeline": [
         {
           "date": "2026-03-29",
@@ -1138,53 +1138,53 @@
         },
         {
           "date": "2026-04-02",
-          "count": 614
+          "count": 615
         },
         {
           "date": "2026-04-03",
-          "count": 1391
+          "count": 1394
         },
         {
           "date": "2026-04-04",
-          "count": 1092
+          "count": 1108
         }
       ],
       "top_keywords": [
         {
           "keyword": "trump",
-          "count": 415
+          "count": 417
         },
         {
           "keyword": "iran",
-          "count": 198
+          "count": 199
         },
         {
           "keyword": "war",
           "count": 100
         },
         {
+          "keyword": "new",
+          "count": 86
+        },
+        {
           "keyword": "us",
           "count": 86
         },
         {
-          "keyword": "new",
-          "count": 83
-        },
-        {
           "keyword": "after",
-          "count": 80
+          "count": 81
         },
         {
           "keyword": "ai",
-          "count": 70
+          "count": 71
+        },
+        {
+          "keyword": "says",
+          "count": 66
         },
         {
           "keyword": "what",
           "count": 66
-        },
-        {
-          "keyword": "says",
-          "count": 65
         },
         {
           "keyword": "how",
@@ -1208,7 +1208,7 @@
         {
           "source_key": "guardian-us-rss",
           "name": "The Guardian US",
-          "count": 125
+          "count": 127
         },
         {
           "source_key": "thehill-feed",
@@ -1218,12 +1218,12 @@
         {
           "source_key": "yahoo-news-rss",
           "name": "Yahoo News RSS",
-          "count": 107
+          "count": 111
         },
         {
           "source_key": "nypost-feed",
           "name": "New York Post Feed",
-          "count": 105
+          "count": 106
         },
         {
           "source_key": "asiae-society-rss",
@@ -1243,12 +1243,12 @@
         {
           "source_key": "asiae-culture-rss",
           "name": "Asiae Life",
-          "count": 78
+          "count": 79
         },
         {
           "source_key": "breitbart-feed",
           "name": "Breitbart Feed",
-          "count": 75
+          "count": 76
         },
         {
           "source_key": "axios-feed",
@@ -1265,17 +1265,17 @@
         {
           "key": "us",
           "label": "미국",
-          "count": 2219
+          "count": 2233
         },
         {
           "key": "kr",
           "label": "대한민국",
-          "count": 1243
+          "count": 1247
         },
         {
           "key": "global",
           "label": "글로벌 전문",
-          "count": 152
+          "count": 154
         }
       ],
       "top_sections": [
@@ -1284,28 +1284,28 @@
           "label": "정치",
           "hub": "us",
           "hub_label": "미국",
-          "count": 815
+          "count": 820
         },
         {
           "key": "us-technology",
           "label": "기술",
           "hub": "us",
           "hub_label": "미국",
-          "count": 573
+          "count": 578
         },
         {
           "key": "us-world",
           "label": "세계",
           "hub": "us",
           "hub_label": "미국",
-          "count": 376
+          "count": 378
         },
         {
           "key": "kr-economy",
           "label": "경제",
           "hub": "kr",
           "hub_label": "대한민국",
-          "count": 310
+          "count": 312
         },
         {
           "key": "kr-society",
@@ -1319,7 +1319,7 @@
           "label": "경제",
           "hub": "us",
           "hub_label": "미국",
-          "count": 244
+          "count": 245
         },
         {
           "key": "kr-politics",
@@ -1333,21 +1333,21 @@
           "label": "문화",
           "hub": "kr",
           "hub_label": "대한민국",
-          "count": 231
+          "count": 232
         },
         {
           "key": "us-markets",
           "label": "시장",
           "hub": "us",
           "hub_label": "미국",
-          "count": 211
+          "count": 212
         },
         {
           "key": "kr-sports",
           "label": "스포츠",
           "hub": "kr",
           "hub_label": "대한민국",
-          "count": 126
+          "count": 127
         },
         {
           "key": "crypto",
@@ -1361,17 +1361,17 @@
           "label": "테크",
           "hub": "global",
           "hub_label": "글로벌 전문",
-          "count": 60
+          "count": 62
         }
       ],
       "language_counts": [
         {
           "language": "en",
-          "count": 2345
+          "count": 2359
         },
         {
           "language": "ko",
-          "count": 1269
+          "count": 1275
         }
       ],
       "repeated_titles": [
@@ -1410,6 +1410,15 @@
           "latest_published_at": "2026-04-04T14:00:00+00:00",
           "canonical_url": "https://www.cbsnews.com/video/040426-cbs-saturday-morning",
           "sort_timestamp": 1775311200
+        },
+        {
+          "title_hash": "3ee7c41c71fb832b098ebb846d1ecfbac956e17862cde6acc0364c1fe8953102",
+          "title": "“골프 인기 예전만 못 하네”…레저 회복세 속 ‘나홀로 하락’",
+          "article_count": 3,
+          "source_count": 3,
+          "latest_published_at": "2026-04-04T13:45:07+00:00",
+          "canonical_url": "https://www.donga.com/news/Society/article/all/20260404/133674664/1",
+          "sort_timestamp": 1775310307
         },
         {
           "title_hash": "baa93cefedde733ac1d2a7396338313d79a6c2e25456c48005f132f984edd88e",
@@ -1545,18 +1554,119 @@
           "latest_published_at": "2026-04-02T09:06:33+00:00",
           "canonical_url": "https://www.nytimes.com/2026/04/02/world/europe/european-union-social-media-internet-regulation-children.html",
           "sort_timestamp": 1775120793
-        },
-        {
-          "title_hash": "92d18f733536eaf7d43973ac70b52e7d3761e588d66f5f387bc2ee7172eb87c2",
-          "title": "Today’s Wordle #1751 Hints And Answer For Sunday, April 5",
-          "article_count": 2,
-          "source_count": 2,
-          "latest_published_at": "2026-04-04T22:00:35+00:00",
-          "canonical_url": "https://www.forbes.com/sites/erikkain/2026/04/04/wordle-answer-sunday-april-5",
-          "sort_timestamp": 1775340035
         }
       ],
       "recent_samples": [
+        {
+          "stable_key": "1e3e4fa164f2d26b57e1c120689ea26fd8ab01170d02a55fb0e50014ad746d9c",
+          "source_key": "forbes-business-rss",
+          "source_name": "Forbes Business",
+          "category": "us-economy",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "경제",
+          "language": "en",
+          "title": "‘Harry Potter’ Takes Flight With Special ‘Finding Harry’ This Weekend",
+          "canonical_url": "https://www.forbes.com/sites/timlammers/2026/04/04/harry-potter-takes-flight-with-special-finding-harry-this-weekend",
+          "published_at": "2026-04-04T22:53:35+00:00",
+          "title_hash": "7fa40834cd9349fbbe97f988ec131f598f7ea77a3db61b0b4357d3eeba5eee4d",
+          "keywords": [
+            "harry",
+            "potter",
+            "takes",
+            "flight",
+            "special",
+            "finding"
+          ]
+        },
+        {
+          "stable_key": "a20e09ed5576f113f82d3a2250df6b8ec497d66e0720fa80a24846d8c86b825e",
+          "source_key": "nypost-feed",
+          "source_name": "New York Post Feed",
+          "category": "us-technology",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "기술",
+          "language": "en",
+          "title": "Steph Curry’s return gives Warriors much-needed dose of ‘hope’",
+          "canonical_url": "https://nypost.com/2026/04/04/sports/steph-curry-returns-sunday-against-the-rockets",
+          "published_at": "2026-04-04T22:51:20+00:00",
+          "title_hash": "1da99bbf6bc2e68f6137435b08e91894717f7ab70772d278c1c3aee55ea00535",
+          "keywords": [
+            "steph",
+            "curry",
+            "return",
+            "gives",
+            "warriors",
+            "much"
+          ]
+        },
+        {
+          "stable_key": "7f78d8b065b1800eb4783c89b19eafbdeee6e8e029e7da680e26a7bf97ba9ce7",
+          "source_key": "businessinsider-feed",
+          "source_name": "Business Insider Feed",
+          "category": "us-technology",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "기술",
+          "language": "en",
+          "title": "Simon Willison says the 'dark factory' is the next big thing in AI",
+          "canonical_url": "https://www.businessinsider.com/simon-willison-dark-factory-ai-2026-4",
+          "published_at": "2026-04-04T22:47:09+00:00",
+          "title_hash": "ee226fee1a0e3f1d0f4f11b062a4d11925475b4acd241cebbd068622609e6e60",
+          "keywords": [
+            "simon",
+            "willison",
+            "says",
+            "dark",
+            "factory",
+            "next"
+          ]
+        },
+        {
+          "stable_key": "b7637d82a2eaffb7e5d4b700a013e5c2935bc5c6d696775b568268e7aebce79c",
+          "source_key": "fox-politics-rss",
+          "source_name": "Fox News Politics",
+          "category": "us-politics",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "정치",
+          "language": "en",
+          "title": "A de facto pro forma: Why Washington fixated these sessions as the DHS shutdown dragged on through recess",
+          "canonical_url": "https://www.foxnews.com/politics/de-facto-pro-forma-why-washington-fixated-sessions-dhs-shutdown-dragged-through-recess",
+          "published_at": "2026-04-04T22:44:38+00:00",
+          "title_hash": "533be2a9d5fbecb419aa23edc30e6d442c4865c82440a41bce76586f8d75ddc3",
+          "keywords": [
+            "de",
+            "facto",
+            "pro",
+            "forma",
+            "why",
+            "washington"
+          ]
+        },
+        {
+          "stable_key": "02b97479fc45a8d48f7811f84263996fcf0427cc5ead1f71cb33acebd15d9635",
+          "source_key": "bloomberg-politics-rss",
+          "source_name": "Bloomberg Politics",
+          "category": "us-politics",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "정치",
+          "language": "en",
+          "title": "Trump Threatens Iran With ‘Hell’ as Search for Airman Continues",
+          "canonical_url": "https://www.bloomberg.com/news/articles/2026-04-04/trump-threatens-iran-with-hell-as-search-for-airman-continues",
+          "published_at": "2026-04-04T22:44:35+00:00",
+          "title_hash": "cdac4f4e10b5ab1e97be6c3ca20f03a7baac7636b586ff7f7ffa9868ad448b74",
+          "keywords": [
+            "trump",
+            "threatens",
+            "iran",
+            "hell",
+            "search",
+            "airman"
+          ]
+        },
         {
           "stable_key": "67eaa7786e70a0121346b8eb1ca94ddf7e59511cd6d1c052878347dd3a0ad74b",
           "source_key": "pressian-politics-rss",
@@ -1577,6 +1687,182 @@
             "그양반",
             "성격에",
             "불을"
+          ]
+        },
+        {
+          "stable_key": "8b9938feff88dc67da4c5e955a59fba8c4b6c17a9918ebdcdb6291283d5dee55",
+          "source_key": "mk-sports-rss",
+          "source_name": "Maeil Business Sports",
+          "category": "kr-sports",
+          "hub": "kr",
+          "hub_label": "대한민국",
+          "section_label": "스포츠",
+          "language": "ko",
+          "title": "“팀 승리 위해 모든 걸 쏟아붓겠다”…한화 유니폼 입는 쿠싱, 제2의 와이스 될까",
+          "canonical_url": "https://www.mk.co.kr/news/sports/12008069",
+          "published_at": "2026-04-04T22:40:00+00:00",
+          "title_hash": "1846df8a712c42a38d15b6efaa9bfd3d7d2e19d73d23ec62bb8ffbd58529b641",
+          "keywords": [
+            "승리",
+            "위해",
+            "모든",
+            "쏟아붓겠다",
+            "한화",
+            "유니폼"
+          ]
+        },
+        {
+          "stable_key": "f3b43b70a31e4546cb53ea12767ab0cf315eeb94f2df017949f7f6e3a6e5d546",
+          "source_key": "telegram-dada-news2",
+          "source_name": "Telegram @dada_news2",
+          "category": "tech-it",
+          "hub": "global",
+          "hub_label": "글로벌 전문",
+          "section_label": "테크",
+          "language": "ko",
+          "title": "[디지털데일리] 샤오미·삼성전자, 고용량 배터리·AI 강화한 모바일 신제품 출시 [위클리템]",
+          "canonical_url": "https://www.ddaily.co.kr/page/view/2026040316320796206",
+          "published_at": "2026-04-04T22:33:22+00:00",
+          "title_hash": "e9015337d5b979c1dd3f548a1ae15fb48a0f1987a90cd4fd55a679250214f221",
+          "keywords": [
+            "디지털데일리",
+            "샤오미",
+            "삼성전자",
+            "고용량",
+            "배터리",
+            "ai"
+          ]
+        },
+        {
+          "stable_key": "6b0a99bacddab198bb084ba374f88ab502e92181d6af442cab6f305df572d721",
+          "source_key": "telegram-dada-news2",
+          "source_name": "Telegram @dada_news2",
+          "category": "tech-it",
+          "hub": "global",
+          "hub_label": "글로벌 전문",
+          "section_label": "테크",
+          "language": "ko",
+          "title": "[디지털데일리] “삼성전자 32만원 간다는데”…이란 전쟁 지상전 가능성에 ‘글쎄’",
+          "canonical_url": "https://www.ddaily.co.kr/page/view/2026040409462326451",
+          "published_at": "2026-04-04T22:33:21+00:00",
+          "title_hash": "417154ce6c18804a3aa1d1b64bba3541b24a1544dbce15794061338bc2495001",
+          "keywords": [
+            "디지털데일리",
+            "삼성전자",
+            "32만원",
+            "간다는데",
+            "이란",
+            "전쟁"
+          ]
+        },
+        {
+          "stable_key": "9431f8bdb9db5a2e5d56ef62de910223f81296c7c83b3fe7622030394188dd46",
+          "source_key": "etoday-economy-rss",
+          "source_name": "eToday Economy",
+          "category": "kr-economy",
+          "hub": "kr",
+          "hub_label": "대한민국",
+          "section_label": "경제",
+          "language": "ko",
+          "title": "신세계百 ‘시코르’, 점포 수 줄이고 수익성↑…핀셋 출점 전략 통했다",
+          "canonical_url": "https://www.etoday.co.kr/news/view/2572555",
+          "published_at": "2026-04-04T22:30:00+00:00",
+          "title_hash": "6e128a5553c84477d48a2cf0cb94371dde4548c682e24aa06f4269739409bebc",
+          "keywords": [
+            "신세계",
+            "시코르",
+            "점포",
+            "줄이고",
+            "수익성",
+            "핀셋"
+          ]
+        },
+        {
+          "stable_key": "a57ec497215fdb140afaddb58dad729b34d9248ab835d80154249afc0653a18c",
+          "source_key": "asiae-culture-rss",
+          "source_name": "Asiae Life",
+          "category": "kr-culture",
+          "hub": "kr",
+          "hub_label": "대한민국",
+          "section_label": "문화",
+          "language": "ko",
+          "title": "벚꽃놀이가 아니라 벚꽃전쟁…명당 맡으러 밤샘 불사하는 '오하나미' 이야기 [日요일日문화]",
+          "canonical_url": "https://www.asiae.co.kr/article/2026040115443050816",
+          "published_at": "2026-04-04T22:30:00+00:00",
+          "title_hash": "e313f939514aadb8dacd3b1ec10f1ace169521831d885e258e4fde7974dacb7e",
+          "keywords": [
+            "벚꽃놀이가",
+            "아니라",
+            "벚꽃전쟁",
+            "명당",
+            "맡으러",
+            "밤샘"
+          ]
+        },
+        {
+          "stable_key": "6d68ada7fe8b2146ca15e010ffc1cc0537d72789526f34d9ddadc9316d7492de",
+          "source_key": "abc-us-rss",
+          "source_name": "ABC News US",
+          "category": "us-politics",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "정치",
+          "language": "en",
+          "title": "Vehicle hits revelers during Lao New Year celebration in Louisiana",
+          "canonical_url": "https://abcnews.com/US/wireStory/vehicle-hits-revelers-lao-new-year-celebration-louisiana-131733161",
+          "published_at": "2026-04-04T22:22:09+00:00",
+          "title_hash": "0a7c33f74a96cbe7ca06f8840866ce653b9795fa680ac5a03f11877603f504df",
+          "keywords": [
+            "vehicle",
+            "hits",
+            "revelers",
+            "during",
+            "lao",
+            "new"
+          ]
+        },
+        {
+          "stable_key": "797b9ba1669f223cd15a90fc409224a8634906bfa6081ebba4fc54273f903277",
+          "source_key": "guardian-us-rss",
+          "source_name": "The Guardian US",
+          "category": "us-technology",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "기술",
+          "language": "en",
+          "title": "More than 20 people injured after driver crashes into crowd at Louisiana parade",
+          "canonical_url": "https://www.theguardian.com/us-news/2026/apr/04/louisiana-parade-car-crash",
+          "published_at": "2026-04-04T22:20:45+00:00",
+          "title_hash": "91c6a9fd315e678a356857c665c48e1c96ba1a1836d8268250daf49b553764ed",
+          "keywords": [
+            "more",
+            "than",
+            "people",
+            "injured",
+            "after",
+            "driver"
+          ]
+        },
+        {
+          "stable_key": "ce7ec7b33835a1f1824f8a4f8c7119c2f349bdd10e51fe6fc929637009142bcd",
+          "source_key": "latimes-world-rss",
+          "source_name": "Los Angeles Times World",
+          "category": "us-world",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "세계",
+          "language": "en",
+          "title": "At Easter time, Iranian Christians pray for a new government and freedom of worship as war rages at home",
+          "canonical_url": "https://www.latimes.com/world-nation/story/2026-04-04/at-easter-iranian-christians-pray-as-war-rages-at-home",
+          "published_at": "2026-04-04T22:19:03+00:00",
+          "title_hash": "0b9339a8b80c853c89af4a68c95ed3147e5a1d48a24cc4c211f0a920f43f942f",
+          "keywords": [
+            "easter",
+            "time",
+            "iranian",
+            "christians",
+            "pray",
+            "new"
           ]
         },
         {
@@ -1930,301 +2216,15 @@
             "사고",
             "10대"
           ]
-        },
-        {
-          "stable_key": "b6fad28b61212f9190b6288804be3ce0849c6cac514ea9a2a39fbce6dddab294",
-          "source_key": "nypost-feed",
-          "source_name": "New York Post Feed",
-          "category": "us-technology",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "기술",
-          "language": "en",
-          "title": "NJ man ends up in rehab from addictive kratom drinks he spent $60K on: Lawsuit",
-          "canonical_url": "https://nypost.com/2026/04/04/us-news/nj-man-ends-up-in-rehab-from-addictive-kratom-drinks-he-spent-60k-on-lawsuit",
-          "published_at": "2026-04-04T21:58:54+00:00",
-          "title_hash": "1a7f59681678b3857a5927558b649b6e70ed94a8291011531c9dc18adf749f9f",
-          "keywords": [
-            "nj",
-            "man",
-            "ends",
-            "up",
-            "rehab",
-            "addictive"
-          ]
-        },
-        {
-          "stable_key": "d75225a243f7a8f70769761428b0e9d8fc26eda9ad8a320a56b211db422cc054",
-          "source_key": "telegram-dada-news2",
-          "source_name": "Telegram @dada_news2",
-          "category": "tech-it",
-          "hub": "global",
-          "hub_label": "글로벌 전문",
-          "section_label": "테크",
-          "language": "ko",
-          "title": "[글로벌이코노믹] “MS, 325조 평가이익… 그런데 CEO는 0%” 오픈AI, 자본주의 뒤집은 기묘한 설계",
-          "canonical_url": "https://www.g-enews.com/article/Global-Biz/2026/04/202604050612321072fbbec65dfb_1",
-          "published_at": "2026-04-04T21:55:09+00:00",
-          "title_hash": "86a9e9de36d86b1970f21d2ae62590847140e6126b54a7dccbed0f0318e8c5ea",
-          "keywords": [
-            "글로벌이코노믹",
-            "ms",
-            "325조",
-            "평가이익",
-            "그런데",
-            "ceo는"
-          ]
-        },
-        {
-          "stable_key": "e46030cd731fc1c120db285c3ab50088038b428a09e53ecfed697fe1d4c222a5",
-          "source_key": "nypost-feed",
-          "source_name": "New York Post Feed",
-          "category": "us-technology",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "기술",
-          "language": "en",
-          "title": "Does not compute: Waymo’s stunning drive-thru screw-up",
-          "canonical_url": "https://nypost.com/2026/04/04/lifestyle/waymo-messes-up-pick-up-in-los-angeles-drive-thru",
-          "published_at": "2026-04-04T21:54:59+00:00",
-          "title_hash": "795fbc5f62f7900a3495b30103cb916f66877f68a53c43089ef57cd7906f1ef4",
-          "keywords": [
-            "does",
-            "not",
-            "compute",
-            "waymo",
-            "stunning",
-            "drive"
-          ]
-        },
-        {
-          "stable_key": "698aaa707b988d57fa0e6c064c3a615b7f4959abc76d51cedf8a40b7d0ae53ce",
-          "source_key": "fox-us-rss",
-          "source_name": "Fox News US",
-          "category": "us-politics",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "정치",
-          "language": "en",
-          "title": "At least 13 people injured after vehicle slams into Louisiana parade: sheriff's office",
-          "canonical_url": "https://www.foxnews.com/us/people-injured-vehicle-slams-louisiana-parade-sheriffs-office",
-          "published_at": "2026-04-04T21:53:57+00:00",
-          "title_hash": "37f60ce1d0fa5badf928cc61df494528a633c705268af530ffccd2ea92f9daaf",
-          "keywords": [
-            "least",
-            "people",
-            "injured",
-            "after",
-            "vehicle",
-            "slams"
-          ]
-        },
-        {
-          "stable_key": "33516a341292aae15251634a958c731db7dd886bab1c386b194dfb1b764b7389",
-          "source_key": "forbes-business-rss",
-          "source_name": "Forbes Business",
-          "category": "us-economy",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "경제",
-          "language": "en",
-          "title": "NCAA President: Influence Of Agents In College Sports Is ‘Insane,’ Trump’s Executive Order Would ‘Create A Little Less Chaos’",
-          "canonical_url": "https://www.forbes.com/sites/adamzagoria/2026/04/04/ncaa-president-influence-of-agents-in-college-sports-is-insane-trumps-executive-order-would-create-a-little-less-chaos",
-          "published_at": "2026-04-04T21:53:12+00:00",
-          "title_hash": "1a0f5ef55ddcf77e65de0d7e1460dc780526ff99cdfcaef7f4a2a2fd43d02521",
-          "keywords": [
-            "ncaa",
-            "president",
-            "influence",
-            "agents",
-            "college",
-            "sports"
-          ]
-        },
-        {
-          "stable_key": "40d2e08cf689d253fc2c3d322a2247ab39d5359059072c80fc12c7a79ff8b2f4",
-          "source_key": "washingtonexaminer-feed",
-          "source_name": "Washington Examiner Feed",
-          "category": "us-world",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "세계",
-          "language": "en",
-          "title": "Iran warns of ‘serious’ radiation risk after projectile hits near nuclear power plant",
-          "canonical_url": "https://www.washingtonexaminer.com/news/world/4516409/iran-radiation-risk-nuclear-power-plant",
-          "published_at": "2026-04-04T21:51:54+00:00",
-          "title_hash": "265b81f6ec15566f478f9b64507f8e5dc8154a8daa9bb59b842b320cb9420351",
-          "keywords": [
-            "iran",
-            "warns",
-            "serious",
-            "radiation",
-            "risk",
-            "after"
-          ]
-        },
-        {
-          "stable_key": "ecc3656cce3d630d40166f1f37d89940d12f1bf873d763614eff0c5ee80d2bbc",
-          "source_key": "telegram-dada-news2",
-          "source_name": "Telegram @dada_news2",
-          "category": "tech-it",
-          "hub": "global",
-          "hub_label": "글로벌 전문",
-          "section_label": "테크",
-          "language": "ko",
-          "title": "[글로벌이코노믹] \"클라우드 없는 AI가 진짜 무서운 이유\"... 인텔이 깨운 '자율 진화 칩'의 실체",
-          "canonical_url": "https://www.g-enews.com/article/Global-Biz/2026/04/202604050650118923f4f9a46d5b_1",
-          "published_at": "2026-04-04T21:50:31+00:00",
-          "title_hash": "305b5450f1b1fb9aaede8ec636d58aa8750f87d69b229323b36fe459f7479825",
-          "keywords": [
-            "글로벌이코노믹",
-            "클라우드",
-            "없는",
-            "ai가",
-            "진짜",
-            "무서운"
-          ]
-        },
-        {
-          "stable_key": "7b7f52e05c307883c06fe7920689eb6db832f7c55f577c49a9010728c639ae10",
-          "source_key": "newsweek-feed",
-          "source_name": "Newsweek Feed",
-          "category": "us-technology",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "기술",
-          "language": "en",
-          "title": "Will Braylon Mullins Go to the NBA? Latest Draft Projection for UConn Star",
-          "canonical_url": "https://www.newsweek.com/sports/nba/will-braylon-mullins-go-to-the-nba-latest-draft-projection-for-uconn-star-11783898",
-          "published_at": "2026-04-04T21:50:08+00:00",
-          "title_hash": "72366c8068d1bbff24e1d6834c195187f906b1423183c4b01c7f2095a544e9e6",
-          "keywords": [
-            "braylon",
-            "mullins",
-            "go",
-            "nba",
-            "latest",
-            "draft"
-          ]
-        },
-        {
-          "stable_key": "92f3f4a1ec9f74c37139da2c525daaab41aee42736886c922c67b2a8f0d39a02",
-          "source_key": "cbs-us-rss",
-          "source_name": "CBS News US",
-          "category": "us-politics",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "정치",
-          "language": "en",
-          "title": "Parker, Delle Donne among basketball greats set for Hall of Fame enshrinement",
-          "canonical_url": "https://www.cbsnews.com/news/us-olympic-women-basketball-1996-naismith-basketball-hall-of-fame",
-          "published_at": "2026-04-04T21:50:02+00:00",
-          "title_hash": "7617cec05b400c32f02b04b19c6627b48a36c372eee7ce79da8a276327f1c189",
-          "keywords": [
-            "parker",
-            "delle",
-            "donne",
-            "among",
-            "basketball",
-            "greats"
-          ]
-        },
-        {
-          "stable_key": "dccd135869ce84bc3b0d7a71d15682e7484b59c6e57338ccb438365013721df3",
-          "source_key": "npr-world-rss",
-          "source_name": "NPR World",
-          "category": "us-world",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "세계",
-          "language": "en",
-          "title": "Local culture shapes the Zairean liturgy",
-          "canonical_url": "https://www.npr.org/2026/04/04/nx-s1-5769881/local-culture-shapes-the-zairean-liturgy",
-          "published_at": "2026-04-04T21:45:47+00:00",
-          "title_hash": "6559b8fafb358d81d4d4596b777bca4bf2f22ccd2c46f235433adbe21d2ad9a8",
-          "keywords": [
-            "local",
-            "culture",
-            "shapes",
-            "zairean",
-            "liturgy",
-            "local culture"
-          ]
-        },
-        {
-          "stable_key": "ebdc6be8defc7efeb55bb2380887ab6dde83d047fb898b407cdb5041eebb4934",
-          "source_key": "npr-world-rss",
-          "source_name": "NPR World",
-          "category": "us-world",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "세계",
-          "language": "en",
-          "title": "German researchers set right the story of a 9,000-year-old shaman's grave",
-          "canonical_url": "https://www.npr.org/2026/04/04/nx-s1-5763625/german-researchers-set-right-the-story-of-a-9-000-year-old-shamans-grave",
-          "published_at": "2026-04-04T21:45:43+00:00",
-          "title_hash": "7fee675856f155f404532e57aa8145c44d1d1352d09099d7bfda16624690d9d6",
-          "keywords": [
-            "german",
-            "researchers",
-            "set",
-            "right",
-            "story",
-            "year"
-          ]
-        },
-        {
-          "stable_key": "432b20ecdd0fa1a6d8eb46378f8b11be83127c82689da2110fd0ee8b359ad869",
-          "source_key": "nypost-feed",
-          "source_name": "New York Post Feed",
-          "category": "us-markets",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "시장",
-          "language": "en",
-          "title": "Hugh Hefner’s widow, Crystal Harris, marries James Ward in romantic island ceremony",
-          "canonical_url": "https://pagesix.com/2026/04/04/celebrity-news/hugh-hefners-widow-crystal-harris-marries-james-ward-in-romantic-island-ceremony",
-          "published_at": "2026-04-04T21:44:39+00:00",
-          "title_hash": "0574c8f856b6abe0ebd271b7a5caad0a8690d4c56a3665f7cc32f732a73fdf44",
-          "keywords": [
-            "hugh",
-            "hefner",
-            "widow",
-            "crystal",
-            "harris",
-            "marries"
-          ]
-        },
-        {
-          "stable_key": "e66231010af85f6f1fefc2a777df0cef32768bc686260f2aef3cccb83954953b",
-          "source_key": "forbes-innovation-rss",
-          "source_name": "Forbes Innovation",
-          "category": "us-technology",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "기술",
-          "language": "en",
-          "title": "New Samsung Images Confirm Galaxy Z Fold 8 ‘Wide’ Details",
-          "canonical_url": "https://www.forbes.com/sites/jaymcgregor/2026/04/04/samsung-galaxy-z-fold-8-wide-leak-design-screen-one-ui-9",
-          "published_at": "2026-04-04T21:41:02+00:00",
-          "title_hash": "7f8736fa6ed901cd28d15dcd814da166fd1f8ffdd31da235d225c684d587f2ec",
-          "keywords": [
-            "new",
-            "samsung",
-            "images",
-            "confirm",
-            "galaxy",
-            "fold"
-          ]
         }
       ]
     },
     "30d": {
       "label": "30d",
-      "article_count": 4131,
+      "article_count": 4151,
       "unknown_time_count": 0,
       "active_source_count": 103,
-      "repeated_title_count": 262,
+      "repeated_title_count": 263,
       "timeline": [
         {
           "date": "2026-03-06",
@@ -2336,25 +2336,25 @@
         },
         {
           "date": "2026-04-02",
-          "count": 614
+          "count": 615
         },
         {
           "date": "2026-04-03",
-          "count": 1391
+          "count": 1394
         },
         {
           "date": "2026-04-04",
-          "count": 1092
+          "count": 1108
         }
       ],
       "top_keywords": [
         {
           "keyword": "trump",
-          "count": 463
+          "count": 465
         },
         {
           "keyword": "iran",
-          "count": 243
+          "count": 244
         },
         {
           "keyword": "war",
@@ -2366,15 +2366,15 @@
         },
         {
           "keyword": "new",
-          "count": 98
+          "count": 101
         },
         {
           "keyword": "ai",
-          "count": 89
+          "count": 90
         },
         {
           "keyword": "after",
-          "count": 87
+          "count": 88
         },
         {
           "keyword": "how",
@@ -2382,7 +2382,7 @@
         },
         {
           "keyword": "says",
-          "count": 76
+          "count": 77
         },
         {
           "keyword": "what",
@@ -2406,7 +2406,7 @@
         {
           "source_key": "guardian-us-rss",
           "name": "The Guardian US",
-          "count": 126
+          "count": 128
         },
         {
           "source_key": "thehill-feed",
@@ -2416,12 +2416,12 @@
         {
           "source_key": "yahoo-news-rss",
           "name": "Yahoo News RSS",
-          "count": 108
+          "count": 112
         },
         {
           "source_key": "nypost-feed",
           "name": "New York Post Feed",
-          "count": 105
+          "count": 106
         },
         {
           "source_key": "asiae-society-rss",
@@ -2436,7 +2436,7 @@
         {
           "source_key": "latimes-world-rss",
           "name": "Los Angeles Times World",
-          "count": 99
+          "count": 100
         },
         {
           "source_key": "asiae-economy-rss",
@@ -2463,17 +2463,17 @@
         {
           "key": "us",
           "label": "미국",
-          "count": 2661
+          "count": 2675
         },
         {
           "key": "kr",
           "label": "대한민국",
-          "count": 1314
+          "count": 1318
         },
         {
           "key": "global",
           "label": "글로벌 전문",
-          "count": 156
+          "count": 158
         }
       ],
       "top_sections": [
@@ -2482,35 +2482,35 @@
           "label": "정치",
           "hub": "us",
           "hub_label": "미국",
-          "count": 932
+          "count": 937
         },
         {
           "key": "us-technology",
           "label": "기술",
           "hub": "us",
           "hub_label": "미국",
-          "count": 683
+          "count": 688
         },
         {
           "key": "us-world",
           "label": "세계",
           "hub": "us",
           "hub_label": "미국",
-          "count": 460
+          "count": 462
         },
         {
           "key": "us-economy",
           "label": "경제",
           "hub": "us",
           "hub_label": "미국",
-          "count": 342
+          "count": 343
         },
         {
           "key": "kr-economy",
           "label": "경제",
           "hub": "kr",
           "hub_label": "대한민국",
-          "count": 324
+          "count": 326
         },
         {
           "key": "kr-society",
@@ -2531,21 +2531,21 @@
           "label": "시장",
           "hub": "us",
           "hub_label": "미국",
-          "count": 244
+          "count": 245
         },
         {
           "key": "kr-culture",
           "label": "문화",
           "hub": "kr",
           "hub_label": "대한민국",
-          "count": 231
+          "count": 232
         },
         {
           "key": "kr-sports",
           "label": "스포츠",
           "hub": "kr",
           "hub_label": "대한민국",
-          "count": 148
+          "count": 149
         },
         {
           "key": "crypto",
@@ -2559,17 +2559,17 @@
           "label": "테크",
           "hub": "global",
           "hub_label": "글로벌 전문",
-          "count": 60
+          "count": 62
         }
       ],
       "language_counts": [
         {
           "language": "en",
-          "count": 2791
+          "count": 2805
         },
         {
           "language": "ko",
-          "count": 1340
+          "count": 1346
         }
       ],
       "repeated_titles": [
@@ -2617,6 +2617,15 @@
           "latest_published_at": "2026-04-04T14:00:00+00:00",
           "canonical_url": "https://www.cbsnews.com/video/040426-cbs-saturday-morning",
           "sort_timestamp": 1775311200
+        },
+        {
+          "title_hash": "3ee7c41c71fb832b098ebb846d1ecfbac956e17862cde6acc0364c1fe8953102",
+          "title": "“골프 인기 예전만 못 하네”…레저 회복세 속 ‘나홀로 하락’",
+          "article_count": 3,
+          "source_count": 3,
+          "latest_published_at": "2026-04-04T13:45:07+00:00",
+          "canonical_url": "https://www.donga.com/news/Society/article/all/20260404/133674664/1",
+          "sort_timestamp": 1775310307
         },
         {
           "title_hash": "baa93cefedde733ac1d2a7396338313d79a6c2e25456c48005f132f984edd88e",
@@ -2743,18 +2752,119 @@
           "latest_published_at": "2026-04-02T18:59:44+00:00",
           "canonical_url": "https://www.cnbc.com/2026/04/02/amazon-add-3point5percent-fuel-and-logistics-surcharge-for-sellers-amid-iran-war.html",
           "sort_timestamp": 1775156384
-        },
-        {
-          "title_hash": "5e0f1f755622cc5ea66302bcb4ebd7eb281dae66b93e049122881d42d9535ded",
-          "title": "Europe Pushes for a Gentler Internet for Children",
-          "article_count": 3,
-          "source_count": 3,
-          "latest_published_at": "2026-04-02T09:06:33+00:00",
-          "canonical_url": "https://www.nytimes.com/2026/04/02/world/europe/european-union-social-media-internet-regulation-children.html",
-          "sort_timestamp": 1775120793
         }
       ],
       "recent_samples": [
+        {
+          "stable_key": "1e3e4fa164f2d26b57e1c120689ea26fd8ab01170d02a55fb0e50014ad746d9c",
+          "source_key": "forbes-business-rss",
+          "source_name": "Forbes Business",
+          "category": "us-economy",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "경제",
+          "language": "en",
+          "title": "‘Harry Potter’ Takes Flight With Special ‘Finding Harry’ This Weekend",
+          "canonical_url": "https://www.forbes.com/sites/timlammers/2026/04/04/harry-potter-takes-flight-with-special-finding-harry-this-weekend",
+          "published_at": "2026-04-04T22:53:35+00:00",
+          "title_hash": "7fa40834cd9349fbbe97f988ec131f598f7ea77a3db61b0b4357d3eeba5eee4d",
+          "keywords": [
+            "harry",
+            "potter",
+            "takes",
+            "flight",
+            "special",
+            "finding"
+          ]
+        },
+        {
+          "stable_key": "a20e09ed5576f113f82d3a2250df6b8ec497d66e0720fa80a24846d8c86b825e",
+          "source_key": "nypost-feed",
+          "source_name": "New York Post Feed",
+          "category": "us-technology",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "기술",
+          "language": "en",
+          "title": "Steph Curry’s return gives Warriors much-needed dose of ‘hope’",
+          "canonical_url": "https://nypost.com/2026/04/04/sports/steph-curry-returns-sunday-against-the-rockets",
+          "published_at": "2026-04-04T22:51:20+00:00",
+          "title_hash": "1da99bbf6bc2e68f6137435b08e91894717f7ab70772d278c1c3aee55ea00535",
+          "keywords": [
+            "steph",
+            "curry",
+            "return",
+            "gives",
+            "warriors",
+            "much"
+          ]
+        },
+        {
+          "stable_key": "7f78d8b065b1800eb4783c89b19eafbdeee6e8e029e7da680e26a7bf97ba9ce7",
+          "source_key": "businessinsider-feed",
+          "source_name": "Business Insider Feed",
+          "category": "us-technology",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "기술",
+          "language": "en",
+          "title": "Simon Willison says the 'dark factory' is the next big thing in AI",
+          "canonical_url": "https://www.businessinsider.com/simon-willison-dark-factory-ai-2026-4",
+          "published_at": "2026-04-04T22:47:09+00:00",
+          "title_hash": "ee226fee1a0e3f1d0f4f11b062a4d11925475b4acd241cebbd068622609e6e60",
+          "keywords": [
+            "simon",
+            "willison",
+            "says",
+            "dark",
+            "factory",
+            "next"
+          ]
+        },
+        {
+          "stable_key": "b7637d82a2eaffb7e5d4b700a013e5c2935bc5c6d696775b568268e7aebce79c",
+          "source_key": "fox-politics-rss",
+          "source_name": "Fox News Politics",
+          "category": "us-politics",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "정치",
+          "language": "en",
+          "title": "A de facto pro forma: Why Washington fixated these sessions as the DHS shutdown dragged on through recess",
+          "canonical_url": "https://www.foxnews.com/politics/de-facto-pro-forma-why-washington-fixated-sessions-dhs-shutdown-dragged-through-recess",
+          "published_at": "2026-04-04T22:44:38+00:00",
+          "title_hash": "533be2a9d5fbecb419aa23edc30e6d442c4865c82440a41bce76586f8d75ddc3",
+          "keywords": [
+            "de",
+            "facto",
+            "pro",
+            "forma",
+            "why",
+            "washington"
+          ]
+        },
+        {
+          "stable_key": "02b97479fc45a8d48f7811f84263996fcf0427cc5ead1f71cb33acebd15d9635",
+          "source_key": "bloomberg-politics-rss",
+          "source_name": "Bloomberg Politics",
+          "category": "us-politics",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "정치",
+          "language": "en",
+          "title": "Trump Threatens Iran With ‘Hell’ as Search for Airman Continues",
+          "canonical_url": "https://www.bloomberg.com/news/articles/2026-04-04/trump-threatens-iran-with-hell-as-search-for-airman-continues",
+          "published_at": "2026-04-04T22:44:35+00:00",
+          "title_hash": "cdac4f4e10b5ab1e97be6c3ca20f03a7baac7636b586ff7f7ffa9868ad448b74",
+          "keywords": [
+            "trump",
+            "threatens",
+            "iran",
+            "hell",
+            "search",
+            "airman"
+          ]
+        },
         {
           "stable_key": "67eaa7786e70a0121346b8eb1ca94ddf7e59511cd6d1c052878347dd3a0ad74b",
           "source_key": "pressian-politics-rss",
@@ -2775,6 +2885,182 @@
             "그양반",
             "성격에",
             "불을"
+          ]
+        },
+        {
+          "stable_key": "8b9938feff88dc67da4c5e955a59fba8c4b6c17a9918ebdcdb6291283d5dee55",
+          "source_key": "mk-sports-rss",
+          "source_name": "Maeil Business Sports",
+          "category": "kr-sports",
+          "hub": "kr",
+          "hub_label": "대한민국",
+          "section_label": "스포츠",
+          "language": "ko",
+          "title": "“팀 승리 위해 모든 걸 쏟아붓겠다”…한화 유니폼 입는 쿠싱, 제2의 와이스 될까",
+          "canonical_url": "https://www.mk.co.kr/news/sports/12008069",
+          "published_at": "2026-04-04T22:40:00+00:00",
+          "title_hash": "1846df8a712c42a38d15b6efaa9bfd3d7d2e19d73d23ec62bb8ffbd58529b641",
+          "keywords": [
+            "승리",
+            "위해",
+            "모든",
+            "쏟아붓겠다",
+            "한화",
+            "유니폼"
+          ]
+        },
+        {
+          "stable_key": "f3b43b70a31e4546cb53ea12767ab0cf315eeb94f2df017949f7f6e3a6e5d546",
+          "source_key": "telegram-dada-news2",
+          "source_name": "Telegram @dada_news2",
+          "category": "tech-it",
+          "hub": "global",
+          "hub_label": "글로벌 전문",
+          "section_label": "테크",
+          "language": "ko",
+          "title": "[디지털데일리] 샤오미·삼성전자, 고용량 배터리·AI 강화한 모바일 신제품 출시 [위클리템]",
+          "canonical_url": "https://www.ddaily.co.kr/page/view/2026040316320796206",
+          "published_at": "2026-04-04T22:33:22+00:00",
+          "title_hash": "e9015337d5b979c1dd3f548a1ae15fb48a0f1987a90cd4fd55a679250214f221",
+          "keywords": [
+            "디지털데일리",
+            "샤오미",
+            "삼성전자",
+            "고용량",
+            "배터리",
+            "ai"
+          ]
+        },
+        {
+          "stable_key": "6b0a99bacddab198bb084ba374f88ab502e92181d6af442cab6f305df572d721",
+          "source_key": "telegram-dada-news2",
+          "source_name": "Telegram @dada_news2",
+          "category": "tech-it",
+          "hub": "global",
+          "hub_label": "글로벌 전문",
+          "section_label": "테크",
+          "language": "ko",
+          "title": "[디지털데일리] “삼성전자 32만원 간다는데”…이란 전쟁 지상전 가능성에 ‘글쎄’",
+          "canonical_url": "https://www.ddaily.co.kr/page/view/2026040409462326451",
+          "published_at": "2026-04-04T22:33:21+00:00",
+          "title_hash": "417154ce6c18804a3aa1d1b64bba3541b24a1544dbce15794061338bc2495001",
+          "keywords": [
+            "디지털데일리",
+            "삼성전자",
+            "32만원",
+            "간다는데",
+            "이란",
+            "전쟁"
+          ]
+        },
+        {
+          "stable_key": "9431f8bdb9db5a2e5d56ef62de910223f81296c7c83b3fe7622030394188dd46",
+          "source_key": "etoday-economy-rss",
+          "source_name": "eToday Economy",
+          "category": "kr-economy",
+          "hub": "kr",
+          "hub_label": "대한민국",
+          "section_label": "경제",
+          "language": "ko",
+          "title": "신세계百 ‘시코르’, 점포 수 줄이고 수익성↑…핀셋 출점 전략 통했다",
+          "canonical_url": "https://www.etoday.co.kr/news/view/2572555",
+          "published_at": "2026-04-04T22:30:00+00:00",
+          "title_hash": "6e128a5553c84477d48a2cf0cb94371dde4548c682e24aa06f4269739409bebc",
+          "keywords": [
+            "신세계",
+            "시코르",
+            "점포",
+            "줄이고",
+            "수익성",
+            "핀셋"
+          ]
+        },
+        {
+          "stable_key": "a57ec497215fdb140afaddb58dad729b34d9248ab835d80154249afc0653a18c",
+          "source_key": "asiae-culture-rss",
+          "source_name": "Asiae Life",
+          "category": "kr-culture",
+          "hub": "kr",
+          "hub_label": "대한민국",
+          "section_label": "문화",
+          "language": "ko",
+          "title": "벚꽃놀이가 아니라 벚꽃전쟁…명당 맡으러 밤샘 불사하는 '오하나미' 이야기 [日요일日문화]",
+          "canonical_url": "https://www.asiae.co.kr/article/2026040115443050816",
+          "published_at": "2026-04-04T22:30:00+00:00",
+          "title_hash": "e313f939514aadb8dacd3b1ec10f1ace169521831d885e258e4fde7974dacb7e",
+          "keywords": [
+            "벚꽃놀이가",
+            "아니라",
+            "벚꽃전쟁",
+            "명당",
+            "맡으러",
+            "밤샘"
+          ]
+        },
+        {
+          "stable_key": "6d68ada7fe8b2146ca15e010ffc1cc0537d72789526f34d9ddadc9316d7492de",
+          "source_key": "abc-us-rss",
+          "source_name": "ABC News US",
+          "category": "us-politics",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "정치",
+          "language": "en",
+          "title": "Vehicle hits revelers during Lao New Year celebration in Louisiana",
+          "canonical_url": "https://abcnews.com/US/wireStory/vehicle-hits-revelers-lao-new-year-celebration-louisiana-131733161",
+          "published_at": "2026-04-04T22:22:09+00:00",
+          "title_hash": "0a7c33f74a96cbe7ca06f8840866ce653b9795fa680ac5a03f11877603f504df",
+          "keywords": [
+            "vehicle",
+            "hits",
+            "revelers",
+            "during",
+            "lao",
+            "new"
+          ]
+        },
+        {
+          "stable_key": "797b9ba1669f223cd15a90fc409224a8634906bfa6081ebba4fc54273f903277",
+          "source_key": "guardian-us-rss",
+          "source_name": "The Guardian US",
+          "category": "us-technology",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "기술",
+          "language": "en",
+          "title": "More than 20 people injured after driver crashes into crowd at Louisiana parade",
+          "canonical_url": "https://www.theguardian.com/us-news/2026/apr/04/louisiana-parade-car-crash",
+          "published_at": "2026-04-04T22:20:45+00:00",
+          "title_hash": "91c6a9fd315e678a356857c665c48e1c96ba1a1836d8268250daf49b553764ed",
+          "keywords": [
+            "more",
+            "than",
+            "people",
+            "injured",
+            "after",
+            "driver"
+          ]
+        },
+        {
+          "stable_key": "ce7ec7b33835a1f1824f8a4f8c7119c2f349bdd10e51fe6fc929637009142bcd",
+          "source_key": "latimes-world-rss",
+          "source_name": "Los Angeles Times World",
+          "category": "us-world",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "세계",
+          "language": "en",
+          "title": "At Easter time, Iranian Christians pray for a new government and freedom of worship as war rages at home",
+          "canonical_url": "https://www.latimes.com/world-nation/story/2026-04-04/at-easter-iranian-christians-pray-as-war-rages-at-home",
+          "published_at": "2026-04-04T22:19:03+00:00",
+          "title_hash": "0b9339a8b80c853c89af4a68c95ed3147e5a1d48a24cc4c211f0a920f43f942f",
+          "keywords": [
+            "easter",
+            "time",
+            "iranian",
+            "christians",
+            "pray",
+            "new"
           ]
         },
         {
@@ -3128,301 +3414,15 @@
             "사고",
             "10대"
           ]
-        },
-        {
-          "stable_key": "b6fad28b61212f9190b6288804be3ce0849c6cac514ea9a2a39fbce6dddab294",
-          "source_key": "nypost-feed",
-          "source_name": "New York Post Feed",
-          "category": "us-technology",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "기술",
-          "language": "en",
-          "title": "NJ man ends up in rehab from addictive kratom drinks he spent $60K on: Lawsuit",
-          "canonical_url": "https://nypost.com/2026/04/04/us-news/nj-man-ends-up-in-rehab-from-addictive-kratom-drinks-he-spent-60k-on-lawsuit",
-          "published_at": "2026-04-04T21:58:54+00:00",
-          "title_hash": "1a7f59681678b3857a5927558b649b6e70ed94a8291011531c9dc18adf749f9f",
-          "keywords": [
-            "nj",
-            "man",
-            "ends",
-            "up",
-            "rehab",
-            "addictive"
-          ]
-        },
-        {
-          "stable_key": "d75225a243f7a8f70769761428b0e9d8fc26eda9ad8a320a56b211db422cc054",
-          "source_key": "telegram-dada-news2",
-          "source_name": "Telegram @dada_news2",
-          "category": "tech-it",
-          "hub": "global",
-          "hub_label": "글로벌 전문",
-          "section_label": "테크",
-          "language": "ko",
-          "title": "[글로벌이코노믹] “MS, 325조 평가이익… 그런데 CEO는 0%” 오픈AI, 자본주의 뒤집은 기묘한 설계",
-          "canonical_url": "https://www.g-enews.com/article/Global-Biz/2026/04/202604050612321072fbbec65dfb_1",
-          "published_at": "2026-04-04T21:55:09+00:00",
-          "title_hash": "86a9e9de36d86b1970f21d2ae62590847140e6126b54a7dccbed0f0318e8c5ea",
-          "keywords": [
-            "글로벌이코노믹",
-            "ms",
-            "325조",
-            "평가이익",
-            "그런데",
-            "ceo는"
-          ]
-        },
-        {
-          "stable_key": "e46030cd731fc1c120db285c3ab50088038b428a09e53ecfed697fe1d4c222a5",
-          "source_key": "nypost-feed",
-          "source_name": "New York Post Feed",
-          "category": "us-technology",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "기술",
-          "language": "en",
-          "title": "Does not compute: Waymo’s stunning drive-thru screw-up",
-          "canonical_url": "https://nypost.com/2026/04/04/lifestyle/waymo-messes-up-pick-up-in-los-angeles-drive-thru",
-          "published_at": "2026-04-04T21:54:59+00:00",
-          "title_hash": "795fbc5f62f7900a3495b30103cb916f66877f68a53c43089ef57cd7906f1ef4",
-          "keywords": [
-            "does",
-            "not",
-            "compute",
-            "waymo",
-            "stunning",
-            "drive"
-          ]
-        },
-        {
-          "stable_key": "698aaa707b988d57fa0e6c064c3a615b7f4959abc76d51cedf8a40b7d0ae53ce",
-          "source_key": "fox-us-rss",
-          "source_name": "Fox News US",
-          "category": "us-politics",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "정치",
-          "language": "en",
-          "title": "At least 13 people injured after vehicle slams into Louisiana parade: sheriff's office",
-          "canonical_url": "https://www.foxnews.com/us/people-injured-vehicle-slams-louisiana-parade-sheriffs-office",
-          "published_at": "2026-04-04T21:53:57+00:00",
-          "title_hash": "37f60ce1d0fa5badf928cc61df494528a633c705268af530ffccd2ea92f9daaf",
-          "keywords": [
-            "least",
-            "people",
-            "injured",
-            "after",
-            "vehicle",
-            "slams"
-          ]
-        },
-        {
-          "stable_key": "33516a341292aae15251634a958c731db7dd886bab1c386b194dfb1b764b7389",
-          "source_key": "forbes-business-rss",
-          "source_name": "Forbes Business",
-          "category": "us-economy",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "경제",
-          "language": "en",
-          "title": "NCAA President: Influence Of Agents In College Sports Is ‘Insane,’ Trump’s Executive Order Would ‘Create A Little Less Chaos’",
-          "canonical_url": "https://www.forbes.com/sites/adamzagoria/2026/04/04/ncaa-president-influence-of-agents-in-college-sports-is-insane-trumps-executive-order-would-create-a-little-less-chaos",
-          "published_at": "2026-04-04T21:53:12+00:00",
-          "title_hash": "1a0f5ef55ddcf77e65de0d7e1460dc780526ff99cdfcaef7f4a2a2fd43d02521",
-          "keywords": [
-            "ncaa",
-            "president",
-            "influence",
-            "agents",
-            "college",
-            "sports"
-          ]
-        },
-        {
-          "stable_key": "40d2e08cf689d253fc2c3d322a2247ab39d5359059072c80fc12c7a79ff8b2f4",
-          "source_key": "washingtonexaminer-feed",
-          "source_name": "Washington Examiner Feed",
-          "category": "us-world",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "세계",
-          "language": "en",
-          "title": "Iran warns of ‘serious’ radiation risk after projectile hits near nuclear power plant",
-          "canonical_url": "https://www.washingtonexaminer.com/news/world/4516409/iran-radiation-risk-nuclear-power-plant",
-          "published_at": "2026-04-04T21:51:54+00:00",
-          "title_hash": "265b81f6ec15566f478f9b64507f8e5dc8154a8daa9bb59b842b320cb9420351",
-          "keywords": [
-            "iran",
-            "warns",
-            "serious",
-            "radiation",
-            "risk",
-            "after"
-          ]
-        },
-        {
-          "stable_key": "ecc3656cce3d630d40166f1f37d89940d12f1bf873d763614eff0c5ee80d2bbc",
-          "source_key": "telegram-dada-news2",
-          "source_name": "Telegram @dada_news2",
-          "category": "tech-it",
-          "hub": "global",
-          "hub_label": "글로벌 전문",
-          "section_label": "테크",
-          "language": "ko",
-          "title": "[글로벌이코노믹] \"클라우드 없는 AI가 진짜 무서운 이유\"... 인텔이 깨운 '자율 진화 칩'의 실체",
-          "canonical_url": "https://www.g-enews.com/article/Global-Biz/2026/04/202604050650118923f4f9a46d5b_1",
-          "published_at": "2026-04-04T21:50:31+00:00",
-          "title_hash": "305b5450f1b1fb9aaede8ec636d58aa8750f87d69b229323b36fe459f7479825",
-          "keywords": [
-            "글로벌이코노믹",
-            "클라우드",
-            "없는",
-            "ai가",
-            "진짜",
-            "무서운"
-          ]
-        },
-        {
-          "stable_key": "7b7f52e05c307883c06fe7920689eb6db832f7c55f577c49a9010728c639ae10",
-          "source_key": "newsweek-feed",
-          "source_name": "Newsweek Feed",
-          "category": "us-technology",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "기술",
-          "language": "en",
-          "title": "Will Braylon Mullins Go to the NBA? Latest Draft Projection for UConn Star",
-          "canonical_url": "https://www.newsweek.com/sports/nba/will-braylon-mullins-go-to-the-nba-latest-draft-projection-for-uconn-star-11783898",
-          "published_at": "2026-04-04T21:50:08+00:00",
-          "title_hash": "72366c8068d1bbff24e1d6834c195187f906b1423183c4b01c7f2095a544e9e6",
-          "keywords": [
-            "braylon",
-            "mullins",
-            "go",
-            "nba",
-            "latest",
-            "draft"
-          ]
-        },
-        {
-          "stable_key": "92f3f4a1ec9f74c37139da2c525daaab41aee42736886c922c67b2a8f0d39a02",
-          "source_key": "cbs-us-rss",
-          "source_name": "CBS News US",
-          "category": "us-politics",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "정치",
-          "language": "en",
-          "title": "Parker, Delle Donne among basketball greats set for Hall of Fame enshrinement",
-          "canonical_url": "https://www.cbsnews.com/news/us-olympic-women-basketball-1996-naismith-basketball-hall-of-fame",
-          "published_at": "2026-04-04T21:50:02+00:00",
-          "title_hash": "7617cec05b400c32f02b04b19c6627b48a36c372eee7ce79da8a276327f1c189",
-          "keywords": [
-            "parker",
-            "delle",
-            "donne",
-            "among",
-            "basketball",
-            "greats"
-          ]
-        },
-        {
-          "stable_key": "dccd135869ce84bc3b0d7a71d15682e7484b59c6e57338ccb438365013721df3",
-          "source_key": "npr-world-rss",
-          "source_name": "NPR World",
-          "category": "us-world",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "세계",
-          "language": "en",
-          "title": "Local culture shapes the Zairean liturgy",
-          "canonical_url": "https://www.npr.org/2026/04/04/nx-s1-5769881/local-culture-shapes-the-zairean-liturgy",
-          "published_at": "2026-04-04T21:45:47+00:00",
-          "title_hash": "6559b8fafb358d81d4d4596b777bca4bf2f22ccd2c46f235433adbe21d2ad9a8",
-          "keywords": [
-            "local",
-            "culture",
-            "shapes",
-            "zairean",
-            "liturgy",
-            "local culture"
-          ]
-        },
-        {
-          "stable_key": "ebdc6be8defc7efeb55bb2380887ab6dde83d047fb898b407cdb5041eebb4934",
-          "source_key": "npr-world-rss",
-          "source_name": "NPR World",
-          "category": "us-world",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "세계",
-          "language": "en",
-          "title": "German researchers set right the story of a 9,000-year-old shaman's grave",
-          "canonical_url": "https://www.npr.org/2026/04/04/nx-s1-5763625/german-researchers-set-right-the-story-of-a-9-000-year-old-shamans-grave",
-          "published_at": "2026-04-04T21:45:43+00:00",
-          "title_hash": "7fee675856f155f404532e57aa8145c44d1d1352d09099d7bfda16624690d9d6",
-          "keywords": [
-            "german",
-            "researchers",
-            "set",
-            "right",
-            "story",
-            "year"
-          ]
-        },
-        {
-          "stable_key": "432b20ecdd0fa1a6d8eb46378f8b11be83127c82689da2110fd0ee8b359ad869",
-          "source_key": "nypost-feed",
-          "source_name": "New York Post Feed",
-          "category": "us-markets",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "시장",
-          "language": "en",
-          "title": "Hugh Hefner’s widow, Crystal Harris, marries James Ward in romantic island ceremony",
-          "canonical_url": "https://pagesix.com/2026/04/04/celebrity-news/hugh-hefners-widow-crystal-harris-marries-james-ward-in-romantic-island-ceremony",
-          "published_at": "2026-04-04T21:44:39+00:00",
-          "title_hash": "0574c8f856b6abe0ebd271b7a5caad0a8690d4c56a3665f7cc32f732a73fdf44",
-          "keywords": [
-            "hugh",
-            "hefner",
-            "widow",
-            "crystal",
-            "harris",
-            "marries"
-          ]
-        },
-        {
-          "stable_key": "e66231010af85f6f1fefc2a777df0cef32768bc686260f2aef3cccb83954953b",
-          "source_key": "forbes-innovation-rss",
-          "source_name": "Forbes Innovation",
-          "category": "us-technology",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "기술",
-          "language": "en",
-          "title": "New Samsung Images Confirm Galaxy Z Fold 8 ‘Wide’ Details",
-          "canonical_url": "https://www.forbes.com/sites/jaymcgregor/2026/04/04/samsung-galaxy-z-fold-8-wide-leak-design-screen-one-ui-9",
-          "published_at": "2026-04-04T21:41:02+00:00",
-          "title_hash": "7f8736fa6ed901cd28d15dcd814da166fd1f8ffdd31da235d225c684d587f2ec",
-          "keywords": [
-            "new",
-            "samsung",
-            "images",
-            "confirm",
-            "galaxy",
-            "fold"
-          ]
         }
       ]
     },
     "90d": {
       "label": "90d",
-      "article_count": 4220,
+      "article_count": 4240,
       "unknown_time_count": 0,
       "active_source_count": 103,
-      "repeated_title_count": 264,
+      "repeated_title_count": 265,
       "timeline": [
         {
           "date": "2026-01-07",
@@ -3686,45 +3686,45 @@
         },
         {
           "date": "2026-04-02",
-          "count": 614
+          "count": 615
         },
         {
           "date": "2026-04-03",
-          "count": 1391
+          "count": 1394
         },
         {
           "date": "2026-04-04",
-          "count": 1092
+          "count": 1108
         }
       ],
       "top_keywords": [
         {
           "keyword": "trump",
-          "count": 465
+          "count": 467
         },
         {
           "keyword": "iran",
-          "count": 243
+          "count": 244
         },
         {
           "keyword": "war",
           "count": 133
         },
         {
+          "keyword": "new",
+          "count": 105
+        },
+        {
           "keyword": "us",
           "count": 103
         },
         {
-          "keyword": "new",
-          "count": 102
-        },
-        {
           "keyword": "ai",
-          "count": 99
+          "count": 100
         },
         {
           "keyword": "after",
-          "count": 88
+          "count": 89
         },
         {
           "keyword": "how",
@@ -3732,7 +3732,7 @@
         },
         {
           "keyword": "says",
-          "count": 76
+          "count": 77
         },
         {
           "keyword": "what",
@@ -3756,7 +3756,7 @@
         {
           "source_key": "guardian-us-rss",
           "name": "The Guardian US",
-          "count": 127
+          "count": 129
         },
         {
           "source_key": "thehill-feed",
@@ -3766,12 +3766,12 @@
         {
           "source_key": "yahoo-news-rss",
           "name": "Yahoo News RSS",
-          "count": 108
+          "count": 112
         },
         {
           "source_key": "nypost-feed",
           "name": "New York Post Feed",
-          "count": 105
+          "count": 106
         },
         {
           "source_key": "asiae-society-rss",
@@ -3786,7 +3786,7 @@
         {
           "source_key": "latimes-world-rss",
           "name": "Los Angeles Times World",
-          "count": 99
+          "count": 100
         },
         {
           "source_key": "asiae-economy-rss",
@@ -3813,17 +3813,17 @@
         {
           "key": "us",
           "label": "미국",
-          "count": 2747
+          "count": 2761
         },
         {
           "key": "kr",
           "label": "대한민국",
-          "count": 1315
+          "count": 1319
         },
         {
           "key": "global",
           "label": "글로벌 전문",
-          "count": 158
+          "count": 160
         }
       ],
       "top_sections": [
@@ -3832,35 +3832,35 @@
           "label": "정치",
           "hub": "us",
           "hub_label": "미국",
-          "count": 932
+          "count": 937
         },
         {
           "key": "us-technology",
           "label": "기술",
           "hub": "us",
           "hub_label": "미국",
-          "count": 744
+          "count": 749
         },
         {
           "key": "us-world",
           "label": "세계",
           "hub": "us",
           "hub_label": "미국",
-          "count": 461
+          "count": 463
         },
         {
           "key": "us-economy",
           "label": "경제",
           "hub": "us",
           "hub_label": "미국",
-          "count": 342
+          "count": 343
         },
         {
           "key": "kr-economy",
           "label": "경제",
           "hub": "kr",
           "hub_label": "대한민국",
-          "count": 324
+          "count": 326
         },
         {
           "key": "kr-society",
@@ -3881,21 +3881,21 @@
           "label": "시장",
           "hub": "us",
           "hub_label": "미국",
-          "count": 268
+          "count": 269
         },
         {
           "key": "kr-culture",
           "label": "문화",
           "hub": "kr",
           "hub_label": "대한민국",
-          "count": 231
+          "count": 232
         },
         {
           "key": "kr-sports",
           "label": "스포츠",
           "hub": "kr",
           "hub_label": "대한민국",
-          "count": 148
+          "count": 149
         },
         {
           "key": "crypto",
@@ -3909,17 +3909,17 @@
           "label": "테크",
           "hub": "global",
           "hub_label": "글로벌 전문",
-          "count": 60
+          "count": 62
         }
       ],
       "language_counts": [
         {
           "language": "en",
-          "count": 2879
+          "count": 2893
         },
         {
           "language": "ko",
-          "count": 1341
+          "count": 1347
         }
       ],
       "repeated_titles": [
@@ -3967,6 +3967,15 @@
           "latest_published_at": "2026-04-04T14:00:00+00:00",
           "canonical_url": "https://www.cbsnews.com/video/040426-cbs-saturday-morning",
           "sort_timestamp": 1775311200
+        },
+        {
+          "title_hash": "3ee7c41c71fb832b098ebb846d1ecfbac956e17862cde6acc0364c1fe8953102",
+          "title": "“골프 인기 예전만 못 하네”…레저 회복세 속 ‘나홀로 하락’",
+          "article_count": 3,
+          "source_count": 3,
+          "latest_published_at": "2026-04-04T13:45:07+00:00",
+          "canonical_url": "https://www.donga.com/news/Society/article/all/20260404/133674664/1",
+          "sort_timestamp": 1775310307
         },
         {
           "title_hash": "baa93cefedde733ac1d2a7396338313d79a6c2e25456c48005f132f984edd88e",
@@ -4093,18 +4102,119 @@
           "latest_published_at": "2026-04-02T18:59:44+00:00",
           "canonical_url": "https://www.cnbc.com/2026/04/02/amazon-add-3point5percent-fuel-and-logistics-surcharge-for-sellers-amid-iran-war.html",
           "sort_timestamp": 1775156384
-        },
-        {
-          "title_hash": "5e0f1f755622cc5ea66302bcb4ebd7eb281dae66b93e049122881d42d9535ded",
-          "title": "Europe Pushes for a Gentler Internet for Children",
-          "article_count": 3,
-          "source_count": 3,
-          "latest_published_at": "2026-04-02T09:06:33+00:00",
-          "canonical_url": "https://www.nytimes.com/2026/04/02/world/europe/european-union-social-media-internet-regulation-children.html",
-          "sort_timestamp": 1775120793
         }
       ],
       "recent_samples": [
+        {
+          "stable_key": "1e3e4fa164f2d26b57e1c120689ea26fd8ab01170d02a55fb0e50014ad746d9c",
+          "source_key": "forbes-business-rss",
+          "source_name": "Forbes Business",
+          "category": "us-economy",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "경제",
+          "language": "en",
+          "title": "‘Harry Potter’ Takes Flight With Special ‘Finding Harry’ This Weekend",
+          "canonical_url": "https://www.forbes.com/sites/timlammers/2026/04/04/harry-potter-takes-flight-with-special-finding-harry-this-weekend",
+          "published_at": "2026-04-04T22:53:35+00:00",
+          "title_hash": "7fa40834cd9349fbbe97f988ec131f598f7ea77a3db61b0b4357d3eeba5eee4d",
+          "keywords": [
+            "harry",
+            "potter",
+            "takes",
+            "flight",
+            "special",
+            "finding"
+          ]
+        },
+        {
+          "stable_key": "a20e09ed5576f113f82d3a2250df6b8ec497d66e0720fa80a24846d8c86b825e",
+          "source_key": "nypost-feed",
+          "source_name": "New York Post Feed",
+          "category": "us-technology",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "기술",
+          "language": "en",
+          "title": "Steph Curry’s return gives Warriors much-needed dose of ‘hope’",
+          "canonical_url": "https://nypost.com/2026/04/04/sports/steph-curry-returns-sunday-against-the-rockets",
+          "published_at": "2026-04-04T22:51:20+00:00",
+          "title_hash": "1da99bbf6bc2e68f6137435b08e91894717f7ab70772d278c1c3aee55ea00535",
+          "keywords": [
+            "steph",
+            "curry",
+            "return",
+            "gives",
+            "warriors",
+            "much"
+          ]
+        },
+        {
+          "stable_key": "7f78d8b065b1800eb4783c89b19eafbdeee6e8e029e7da680e26a7bf97ba9ce7",
+          "source_key": "businessinsider-feed",
+          "source_name": "Business Insider Feed",
+          "category": "us-technology",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "기술",
+          "language": "en",
+          "title": "Simon Willison says the 'dark factory' is the next big thing in AI",
+          "canonical_url": "https://www.businessinsider.com/simon-willison-dark-factory-ai-2026-4",
+          "published_at": "2026-04-04T22:47:09+00:00",
+          "title_hash": "ee226fee1a0e3f1d0f4f11b062a4d11925475b4acd241cebbd068622609e6e60",
+          "keywords": [
+            "simon",
+            "willison",
+            "says",
+            "dark",
+            "factory",
+            "next"
+          ]
+        },
+        {
+          "stable_key": "b7637d82a2eaffb7e5d4b700a013e5c2935bc5c6d696775b568268e7aebce79c",
+          "source_key": "fox-politics-rss",
+          "source_name": "Fox News Politics",
+          "category": "us-politics",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "정치",
+          "language": "en",
+          "title": "A de facto pro forma: Why Washington fixated these sessions as the DHS shutdown dragged on through recess",
+          "canonical_url": "https://www.foxnews.com/politics/de-facto-pro-forma-why-washington-fixated-sessions-dhs-shutdown-dragged-through-recess",
+          "published_at": "2026-04-04T22:44:38+00:00",
+          "title_hash": "533be2a9d5fbecb419aa23edc30e6d442c4865c82440a41bce76586f8d75ddc3",
+          "keywords": [
+            "de",
+            "facto",
+            "pro",
+            "forma",
+            "why",
+            "washington"
+          ]
+        },
+        {
+          "stable_key": "02b97479fc45a8d48f7811f84263996fcf0427cc5ead1f71cb33acebd15d9635",
+          "source_key": "bloomberg-politics-rss",
+          "source_name": "Bloomberg Politics",
+          "category": "us-politics",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "정치",
+          "language": "en",
+          "title": "Trump Threatens Iran With ‘Hell’ as Search for Airman Continues",
+          "canonical_url": "https://www.bloomberg.com/news/articles/2026-04-04/trump-threatens-iran-with-hell-as-search-for-airman-continues",
+          "published_at": "2026-04-04T22:44:35+00:00",
+          "title_hash": "cdac4f4e10b5ab1e97be6c3ca20f03a7baac7636b586ff7f7ffa9868ad448b74",
+          "keywords": [
+            "trump",
+            "threatens",
+            "iran",
+            "hell",
+            "search",
+            "airman"
+          ]
+        },
         {
           "stable_key": "67eaa7786e70a0121346b8eb1ca94ddf7e59511cd6d1c052878347dd3a0ad74b",
           "source_key": "pressian-politics-rss",
@@ -4125,6 +4235,182 @@
             "그양반",
             "성격에",
             "불을"
+          ]
+        },
+        {
+          "stable_key": "8b9938feff88dc67da4c5e955a59fba8c4b6c17a9918ebdcdb6291283d5dee55",
+          "source_key": "mk-sports-rss",
+          "source_name": "Maeil Business Sports",
+          "category": "kr-sports",
+          "hub": "kr",
+          "hub_label": "대한민국",
+          "section_label": "스포츠",
+          "language": "ko",
+          "title": "“팀 승리 위해 모든 걸 쏟아붓겠다”…한화 유니폼 입는 쿠싱, 제2의 와이스 될까",
+          "canonical_url": "https://www.mk.co.kr/news/sports/12008069",
+          "published_at": "2026-04-04T22:40:00+00:00",
+          "title_hash": "1846df8a712c42a38d15b6efaa9bfd3d7d2e19d73d23ec62bb8ffbd58529b641",
+          "keywords": [
+            "승리",
+            "위해",
+            "모든",
+            "쏟아붓겠다",
+            "한화",
+            "유니폼"
+          ]
+        },
+        {
+          "stable_key": "f3b43b70a31e4546cb53ea12767ab0cf315eeb94f2df017949f7f6e3a6e5d546",
+          "source_key": "telegram-dada-news2",
+          "source_name": "Telegram @dada_news2",
+          "category": "tech-it",
+          "hub": "global",
+          "hub_label": "글로벌 전문",
+          "section_label": "테크",
+          "language": "ko",
+          "title": "[디지털데일리] 샤오미·삼성전자, 고용량 배터리·AI 강화한 모바일 신제품 출시 [위클리템]",
+          "canonical_url": "https://www.ddaily.co.kr/page/view/2026040316320796206",
+          "published_at": "2026-04-04T22:33:22+00:00",
+          "title_hash": "e9015337d5b979c1dd3f548a1ae15fb48a0f1987a90cd4fd55a679250214f221",
+          "keywords": [
+            "디지털데일리",
+            "샤오미",
+            "삼성전자",
+            "고용량",
+            "배터리",
+            "ai"
+          ]
+        },
+        {
+          "stable_key": "6b0a99bacddab198bb084ba374f88ab502e92181d6af442cab6f305df572d721",
+          "source_key": "telegram-dada-news2",
+          "source_name": "Telegram @dada_news2",
+          "category": "tech-it",
+          "hub": "global",
+          "hub_label": "글로벌 전문",
+          "section_label": "테크",
+          "language": "ko",
+          "title": "[디지털데일리] “삼성전자 32만원 간다는데”…이란 전쟁 지상전 가능성에 ‘글쎄’",
+          "canonical_url": "https://www.ddaily.co.kr/page/view/2026040409462326451",
+          "published_at": "2026-04-04T22:33:21+00:00",
+          "title_hash": "417154ce6c18804a3aa1d1b64bba3541b24a1544dbce15794061338bc2495001",
+          "keywords": [
+            "디지털데일리",
+            "삼성전자",
+            "32만원",
+            "간다는데",
+            "이란",
+            "전쟁"
+          ]
+        },
+        {
+          "stable_key": "9431f8bdb9db5a2e5d56ef62de910223f81296c7c83b3fe7622030394188dd46",
+          "source_key": "etoday-economy-rss",
+          "source_name": "eToday Economy",
+          "category": "kr-economy",
+          "hub": "kr",
+          "hub_label": "대한민국",
+          "section_label": "경제",
+          "language": "ko",
+          "title": "신세계百 ‘시코르’, 점포 수 줄이고 수익성↑…핀셋 출점 전략 통했다",
+          "canonical_url": "https://www.etoday.co.kr/news/view/2572555",
+          "published_at": "2026-04-04T22:30:00+00:00",
+          "title_hash": "6e128a5553c84477d48a2cf0cb94371dde4548c682e24aa06f4269739409bebc",
+          "keywords": [
+            "신세계",
+            "시코르",
+            "점포",
+            "줄이고",
+            "수익성",
+            "핀셋"
+          ]
+        },
+        {
+          "stable_key": "a57ec497215fdb140afaddb58dad729b34d9248ab835d80154249afc0653a18c",
+          "source_key": "asiae-culture-rss",
+          "source_name": "Asiae Life",
+          "category": "kr-culture",
+          "hub": "kr",
+          "hub_label": "대한민국",
+          "section_label": "문화",
+          "language": "ko",
+          "title": "벚꽃놀이가 아니라 벚꽃전쟁…명당 맡으러 밤샘 불사하는 '오하나미' 이야기 [日요일日문화]",
+          "canonical_url": "https://www.asiae.co.kr/article/2026040115443050816",
+          "published_at": "2026-04-04T22:30:00+00:00",
+          "title_hash": "e313f939514aadb8dacd3b1ec10f1ace169521831d885e258e4fde7974dacb7e",
+          "keywords": [
+            "벚꽃놀이가",
+            "아니라",
+            "벚꽃전쟁",
+            "명당",
+            "맡으러",
+            "밤샘"
+          ]
+        },
+        {
+          "stable_key": "6d68ada7fe8b2146ca15e010ffc1cc0537d72789526f34d9ddadc9316d7492de",
+          "source_key": "abc-us-rss",
+          "source_name": "ABC News US",
+          "category": "us-politics",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "정치",
+          "language": "en",
+          "title": "Vehicle hits revelers during Lao New Year celebration in Louisiana",
+          "canonical_url": "https://abcnews.com/US/wireStory/vehicle-hits-revelers-lao-new-year-celebration-louisiana-131733161",
+          "published_at": "2026-04-04T22:22:09+00:00",
+          "title_hash": "0a7c33f74a96cbe7ca06f8840866ce653b9795fa680ac5a03f11877603f504df",
+          "keywords": [
+            "vehicle",
+            "hits",
+            "revelers",
+            "during",
+            "lao",
+            "new"
+          ]
+        },
+        {
+          "stable_key": "797b9ba1669f223cd15a90fc409224a8634906bfa6081ebba4fc54273f903277",
+          "source_key": "guardian-us-rss",
+          "source_name": "The Guardian US",
+          "category": "us-technology",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "기술",
+          "language": "en",
+          "title": "More than 20 people injured after driver crashes into crowd at Louisiana parade",
+          "canonical_url": "https://www.theguardian.com/us-news/2026/apr/04/louisiana-parade-car-crash",
+          "published_at": "2026-04-04T22:20:45+00:00",
+          "title_hash": "91c6a9fd315e678a356857c665c48e1c96ba1a1836d8268250daf49b553764ed",
+          "keywords": [
+            "more",
+            "than",
+            "people",
+            "injured",
+            "after",
+            "driver"
+          ]
+        },
+        {
+          "stable_key": "ce7ec7b33835a1f1824f8a4f8c7119c2f349bdd10e51fe6fc929637009142bcd",
+          "source_key": "latimes-world-rss",
+          "source_name": "Los Angeles Times World",
+          "category": "us-world",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "세계",
+          "language": "en",
+          "title": "At Easter time, Iranian Christians pray for a new government and freedom of worship as war rages at home",
+          "canonical_url": "https://www.latimes.com/world-nation/story/2026-04-04/at-easter-iranian-christians-pray-as-war-rages-at-home",
+          "published_at": "2026-04-04T22:19:03+00:00",
+          "title_hash": "0b9339a8b80c853c89af4a68c95ed3147e5a1d48a24cc4c211f0a920f43f942f",
+          "keywords": [
+            "easter",
+            "time",
+            "iranian",
+            "christians",
+            "pray",
+            "new"
           ]
         },
         {
@@ -4478,301 +4764,15 @@
             "사고",
             "10대"
           ]
-        },
-        {
-          "stable_key": "b6fad28b61212f9190b6288804be3ce0849c6cac514ea9a2a39fbce6dddab294",
-          "source_key": "nypost-feed",
-          "source_name": "New York Post Feed",
-          "category": "us-technology",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "기술",
-          "language": "en",
-          "title": "NJ man ends up in rehab from addictive kratom drinks he spent $60K on: Lawsuit",
-          "canonical_url": "https://nypost.com/2026/04/04/us-news/nj-man-ends-up-in-rehab-from-addictive-kratom-drinks-he-spent-60k-on-lawsuit",
-          "published_at": "2026-04-04T21:58:54+00:00",
-          "title_hash": "1a7f59681678b3857a5927558b649b6e70ed94a8291011531c9dc18adf749f9f",
-          "keywords": [
-            "nj",
-            "man",
-            "ends",
-            "up",
-            "rehab",
-            "addictive"
-          ]
-        },
-        {
-          "stable_key": "d75225a243f7a8f70769761428b0e9d8fc26eda9ad8a320a56b211db422cc054",
-          "source_key": "telegram-dada-news2",
-          "source_name": "Telegram @dada_news2",
-          "category": "tech-it",
-          "hub": "global",
-          "hub_label": "글로벌 전문",
-          "section_label": "테크",
-          "language": "ko",
-          "title": "[글로벌이코노믹] “MS, 325조 평가이익… 그런데 CEO는 0%” 오픈AI, 자본주의 뒤집은 기묘한 설계",
-          "canonical_url": "https://www.g-enews.com/article/Global-Biz/2026/04/202604050612321072fbbec65dfb_1",
-          "published_at": "2026-04-04T21:55:09+00:00",
-          "title_hash": "86a9e9de36d86b1970f21d2ae62590847140e6126b54a7dccbed0f0318e8c5ea",
-          "keywords": [
-            "글로벌이코노믹",
-            "ms",
-            "325조",
-            "평가이익",
-            "그런데",
-            "ceo는"
-          ]
-        },
-        {
-          "stable_key": "e46030cd731fc1c120db285c3ab50088038b428a09e53ecfed697fe1d4c222a5",
-          "source_key": "nypost-feed",
-          "source_name": "New York Post Feed",
-          "category": "us-technology",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "기술",
-          "language": "en",
-          "title": "Does not compute: Waymo’s stunning drive-thru screw-up",
-          "canonical_url": "https://nypost.com/2026/04/04/lifestyle/waymo-messes-up-pick-up-in-los-angeles-drive-thru",
-          "published_at": "2026-04-04T21:54:59+00:00",
-          "title_hash": "795fbc5f62f7900a3495b30103cb916f66877f68a53c43089ef57cd7906f1ef4",
-          "keywords": [
-            "does",
-            "not",
-            "compute",
-            "waymo",
-            "stunning",
-            "drive"
-          ]
-        },
-        {
-          "stable_key": "698aaa707b988d57fa0e6c064c3a615b7f4959abc76d51cedf8a40b7d0ae53ce",
-          "source_key": "fox-us-rss",
-          "source_name": "Fox News US",
-          "category": "us-politics",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "정치",
-          "language": "en",
-          "title": "At least 13 people injured after vehicle slams into Louisiana parade: sheriff's office",
-          "canonical_url": "https://www.foxnews.com/us/people-injured-vehicle-slams-louisiana-parade-sheriffs-office",
-          "published_at": "2026-04-04T21:53:57+00:00",
-          "title_hash": "37f60ce1d0fa5badf928cc61df494528a633c705268af530ffccd2ea92f9daaf",
-          "keywords": [
-            "least",
-            "people",
-            "injured",
-            "after",
-            "vehicle",
-            "slams"
-          ]
-        },
-        {
-          "stable_key": "33516a341292aae15251634a958c731db7dd886bab1c386b194dfb1b764b7389",
-          "source_key": "forbes-business-rss",
-          "source_name": "Forbes Business",
-          "category": "us-economy",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "경제",
-          "language": "en",
-          "title": "NCAA President: Influence Of Agents In College Sports Is ‘Insane,’ Trump’s Executive Order Would ‘Create A Little Less Chaos’",
-          "canonical_url": "https://www.forbes.com/sites/adamzagoria/2026/04/04/ncaa-president-influence-of-agents-in-college-sports-is-insane-trumps-executive-order-would-create-a-little-less-chaos",
-          "published_at": "2026-04-04T21:53:12+00:00",
-          "title_hash": "1a0f5ef55ddcf77e65de0d7e1460dc780526ff99cdfcaef7f4a2a2fd43d02521",
-          "keywords": [
-            "ncaa",
-            "president",
-            "influence",
-            "agents",
-            "college",
-            "sports"
-          ]
-        },
-        {
-          "stable_key": "40d2e08cf689d253fc2c3d322a2247ab39d5359059072c80fc12c7a79ff8b2f4",
-          "source_key": "washingtonexaminer-feed",
-          "source_name": "Washington Examiner Feed",
-          "category": "us-world",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "세계",
-          "language": "en",
-          "title": "Iran warns of ‘serious’ radiation risk after projectile hits near nuclear power plant",
-          "canonical_url": "https://www.washingtonexaminer.com/news/world/4516409/iran-radiation-risk-nuclear-power-plant",
-          "published_at": "2026-04-04T21:51:54+00:00",
-          "title_hash": "265b81f6ec15566f478f9b64507f8e5dc8154a8daa9bb59b842b320cb9420351",
-          "keywords": [
-            "iran",
-            "warns",
-            "serious",
-            "radiation",
-            "risk",
-            "after"
-          ]
-        },
-        {
-          "stable_key": "ecc3656cce3d630d40166f1f37d89940d12f1bf873d763614eff0c5ee80d2bbc",
-          "source_key": "telegram-dada-news2",
-          "source_name": "Telegram @dada_news2",
-          "category": "tech-it",
-          "hub": "global",
-          "hub_label": "글로벌 전문",
-          "section_label": "테크",
-          "language": "ko",
-          "title": "[글로벌이코노믹] \"클라우드 없는 AI가 진짜 무서운 이유\"... 인텔이 깨운 '자율 진화 칩'의 실체",
-          "canonical_url": "https://www.g-enews.com/article/Global-Biz/2026/04/202604050650118923f4f9a46d5b_1",
-          "published_at": "2026-04-04T21:50:31+00:00",
-          "title_hash": "305b5450f1b1fb9aaede8ec636d58aa8750f87d69b229323b36fe459f7479825",
-          "keywords": [
-            "글로벌이코노믹",
-            "클라우드",
-            "없는",
-            "ai가",
-            "진짜",
-            "무서운"
-          ]
-        },
-        {
-          "stable_key": "7b7f52e05c307883c06fe7920689eb6db832f7c55f577c49a9010728c639ae10",
-          "source_key": "newsweek-feed",
-          "source_name": "Newsweek Feed",
-          "category": "us-technology",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "기술",
-          "language": "en",
-          "title": "Will Braylon Mullins Go to the NBA? Latest Draft Projection for UConn Star",
-          "canonical_url": "https://www.newsweek.com/sports/nba/will-braylon-mullins-go-to-the-nba-latest-draft-projection-for-uconn-star-11783898",
-          "published_at": "2026-04-04T21:50:08+00:00",
-          "title_hash": "72366c8068d1bbff24e1d6834c195187f906b1423183c4b01c7f2095a544e9e6",
-          "keywords": [
-            "braylon",
-            "mullins",
-            "go",
-            "nba",
-            "latest",
-            "draft"
-          ]
-        },
-        {
-          "stable_key": "92f3f4a1ec9f74c37139da2c525daaab41aee42736886c922c67b2a8f0d39a02",
-          "source_key": "cbs-us-rss",
-          "source_name": "CBS News US",
-          "category": "us-politics",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "정치",
-          "language": "en",
-          "title": "Parker, Delle Donne among basketball greats set for Hall of Fame enshrinement",
-          "canonical_url": "https://www.cbsnews.com/news/us-olympic-women-basketball-1996-naismith-basketball-hall-of-fame",
-          "published_at": "2026-04-04T21:50:02+00:00",
-          "title_hash": "7617cec05b400c32f02b04b19c6627b48a36c372eee7ce79da8a276327f1c189",
-          "keywords": [
-            "parker",
-            "delle",
-            "donne",
-            "among",
-            "basketball",
-            "greats"
-          ]
-        },
-        {
-          "stable_key": "dccd135869ce84bc3b0d7a71d15682e7484b59c6e57338ccb438365013721df3",
-          "source_key": "npr-world-rss",
-          "source_name": "NPR World",
-          "category": "us-world",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "세계",
-          "language": "en",
-          "title": "Local culture shapes the Zairean liturgy",
-          "canonical_url": "https://www.npr.org/2026/04/04/nx-s1-5769881/local-culture-shapes-the-zairean-liturgy",
-          "published_at": "2026-04-04T21:45:47+00:00",
-          "title_hash": "6559b8fafb358d81d4d4596b777bca4bf2f22ccd2c46f235433adbe21d2ad9a8",
-          "keywords": [
-            "local",
-            "culture",
-            "shapes",
-            "zairean",
-            "liturgy",
-            "local culture"
-          ]
-        },
-        {
-          "stable_key": "ebdc6be8defc7efeb55bb2380887ab6dde83d047fb898b407cdb5041eebb4934",
-          "source_key": "npr-world-rss",
-          "source_name": "NPR World",
-          "category": "us-world",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "세계",
-          "language": "en",
-          "title": "German researchers set right the story of a 9,000-year-old shaman's grave",
-          "canonical_url": "https://www.npr.org/2026/04/04/nx-s1-5763625/german-researchers-set-right-the-story-of-a-9-000-year-old-shamans-grave",
-          "published_at": "2026-04-04T21:45:43+00:00",
-          "title_hash": "7fee675856f155f404532e57aa8145c44d1d1352d09099d7bfda16624690d9d6",
-          "keywords": [
-            "german",
-            "researchers",
-            "set",
-            "right",
-            "story",
-            "year"
-          ]
-        },
-        {
-          "stable_key": "432b20ecdd0fa1a6d8eb46378f8b11be83127c82689da2110fd0ee8b359ad869",
-          "source_key": "nypost-feed",
-          "source_name": "New York Post Feed",
-          "category": "us-markets",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "시장",
-          "language": "en",
-          "title": "Hugh Hefner’s widow, Crystal Harris, marries James Ward in romantic island ceremony",
-          "canonical_url": "https://pagesix.com/2026/04/04/celebrity-news/hugh-hefners-widow-crystal-harris-marries-james-ward-in-romantic-island-ceremony",
-          "published_at": "2026-04-04T21:44:39+00:00",
-          "title_hash": "0574c8f856b6abe0ebd271b7a5caad0a8690d4c56a3665f7cc32f732a73fdf44",
-          "keywords": [
-            "hugh",
-            "hefner",
-            "widow",
-            "crystal",
-            "harris",
-            "marries"
-          ]
-        },
-        {
-          "stable_key": "e66231010af85f6f1fefc2a777df0cef32768bc686260f2aef3cccb83954953b",
-          "source_key": "forbes-innovation-rss",
-          "source_name": "Forbes Innovation",
-          "category": "us-technology",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "기술",
-          "language": "en",
-          "title": "New Samsung Images Confirm Galaxy Z Fold 8 ‘Wide’ Details",
-          "canonical_url": "https://www.forbes.com/sites/jaymcgregor/2026/04/04/samsung-galaxy-z-fold-8-wide-leak-design-screen-one-ui-9",
-          "published_at": "2026-04-04T21:41:02+00:00",
-          "title_hash": "7f8736fa6ed901cd28d15dcd814da166fd1f8ffdd31da235d225c684d587f2ec",
-          "keywords": [
-            "new",
-            "samsung",
-            "images",
-            "confirm",
-            "galaxy",
-            "fold"
-          ]
         }
       ]
     },
     "all": {
       "label": "All",
-      "article_count": 5075,
-      "unknown_time_count": 759,
+      "article_count": 5111,
+      "unknown_time_count": 775,
       "active_source_count": 131,
-      "repeated_title_count": 359,
+      "repeated_title_count": 361,
       "timeline": [
         {
           "date": "2016-11-02",
@@ -5192,25 +5192,25 @@
         },
         {
           "date": "2026-04-02",
-          "count": 614
+          "count": 615
         },
         {
           "date": "2026-04-03",
-          "count": 1391
+          "count": 1394
         },
         {
           "date": "2026-04-04",
-          "count": 1092
+          "count": 1108
         }
       ],
       "top_keywords": [
         {
           "keyword": "trump",
-          "count": 502
+          "count": 504
         },
         {
           "keyword": "iran",
-          "count": 257
+          "count": 258
         },
         {
           "keyword": "war",
@@ -5222,11 +5222,11 @@
         },
         {
           "keyword": "new",
-          "count": 111
+          "count": 114
         },
         {
           "keyword": "ai",
-          "count": 110
+          "count": 111
         },
         {
           "keyword": "how",
@@ -5234,11 +5234,11 @@
         },
         {
           "keyword": "after",
-          "count": 95
+          "count": 96
         },
         {
           "keyword": "says",
-          "count": 83
+          "count": 84
         },
         {
           "keyword": "what",
@@ -5255,19 +5255,19 @@
       ],
       "top_sources": [
         {
+          "source_key": "naver-kr-society",
+          "name": "NAVER News Search",
+          "count": 241
+        },
+        {
           "source_key": "semafor-feed",
           "name": "Semafor Feed",
           "count": 238
         },
         {
-          "source_key": "naver-kr-society",
-          "name": "NAVER News Search",
-          "count": 226
-        },
-        {
           "source_key": "guardian-us-rss",
           "name": "The Guardian US",
-          "count": 131
+          "count": 133
         },
         {
           "source_key": "thehill-feed",
@@ -5277,12 +5277,12 @@
         {
           "source_key": "yahoo-news-rss",
           "name": "Yahoo News RSS",
-          "count": 108
+          "count": 112
         },
         {
           "source_key": "nypost-feed",
           "name": "New York Post Feed",
-          "count": 105
+          "count": 106
         },
         {
           "source_key": "asiae-society-rss",
@@ -5297,7 +5297,7 @@
         {
           "source_key": "latimes-world-rss",
           "name": "Los Angeles Times World",
-          "count": 99
+          "count": 100
         },
         {
           "source_key": "asiae-economy-rss",
@@ -5319,17 +5319,17 @@
         {
           "key": "us",
           "label": "미국",
-          "count": 3154
+          "count": 3169
         },
         {
           "key": "kr",
           "label": "대한민국",
-          "count": 1733
+          "count": 1752
         },
         {
           "key": "global",
           "label": "글로벌 전문",
-          "count": 188
+          "count": 190
         }
       ],
       "top_sections": [
@@ -5338,49 +5338,49 @@
           "label": "정치",
           "hub": "us",
           "hub_label": "미국",
-          "count": 1036
+          "count": 1041
         },
         {
           "key": "us-technology",
           "label": "기술",
           "hub": "us",
           "hub_label": "미국",
-          "count": 859
+          "count": 865
         },
         {
           "key": "kr-society",
           "label": "사회",
           "hub": "kr",
           "hub_label": "대한민국",
-          "count": 553
+          "count": 568
         },
         {
           "key": "us-world",
           "label": "세계",
           "hub": "us",
           "hub_label": "미국",
-          "count": 514
+          "count": 516
         },
         {
           "key": "us-economy",
           "label": "경제",
           "hub": "us",
           "hub_label": "미국",
-          "count": 422
+          "count": 423
         },
         {
           "key": "kr-economy",
           "label": "경제",
           "hub": "kr",
           "hub_label": "대한민국",
-          "count": 390
+          "count": 392
         },
         {
           "key": "us-markets",
           "label": "시장",
           "hub": "us",
           "hub_label": "미국",
-          "count": 323
+          "count": 324
         },
         {
           "key": "kr-politics",
@@ -5394,14 +5394,14 @@
           "label": "문화",
           "hub": "kr",
           "hub_label": "대한민국",
-          "count": 261
+          "count": 262
         },
         {
           "key": "kr-sports",
           "label": "스포츠",
           "hub": "kr",
           "hub_label": "대한민국",
-          "count": 163
+          "count": 164
         },
         {
           "key": "crypto",
@@ -5421,11 +5421,11 @@
       "language_counts": [
         {
           "language": "en",
-          "count": 3316
+          "count": 3331
         },
         {
           "language": "ko",
-          "count": 1759
+          "count": 1780
         }
       ],
       "repeated_titles": [
@@ -5565,6 +5565,15 @@
           "sort_timestamp": 1775311200
         },
         {
+          "title_hash": "3ee7c41c71fb832b098ebb846d1ecfbac956e17862cde6acc0364c1fe8953102",
+          "title": "“골프 인기 예전만 못 하네”…레저 회복세 속 ‘나홀로 하락’",
+          "article_count": 3,
+          "source_count": 3,
+          "latest_published_at": "2026-04-04T13:45:07+00:00",
+          "canonical_url": "https://www.donga.com/news/Society/article/all/20260404/133674664/1",
+          "sort_timestamp": 1775310307
+        },
+        {
           "title_hash": "53a17588b81c2dbe8c6e3e6259b16716c1ce7d590ca1a7e7b07f7582d1dcb050",
           "title": "본경선 D-1…한준호·추미애·김동연 막판 표심 잡기…“지지 호소”",
           "article_count": 3,
@@ -5599,18 +5608,119 @@
           "latest_published_at": "2026-04-03T23:11:19+00:00",
           "canonical_url": "https://www.cbsnews.com/video/2-us-planes-hit-iran-search-missing-crew-member",
           "sort_timestamp": 1775257879
-        },
-        {
-          "title_hash": "f0a891a8c9938f6fa02043f37d413583c9f0b8884b80d84914abca35b13a3c18",
-          "title": "OpenAI's Fidji Simo takes medical leave, announces leadership changes",
-          "article_count": 3,
-          "source_count": 3,
-          "latest_published_at": "2026-04-03T22:40:38+00:00",
-          "canonical_url": "https://www.cnbc.com/2026/04/03/openai-fidji-simo-medical-leave-executive-changes.html",
-          "sort_timestamp": 1775256038
         }
       ],
       "recent_samples": [
+        {
+          "stable_key": "1e3e4fa164f2d26b57e1c120689ea26fd8ab01170d02a55fb0e50014ad746d9c",
+          "source_key": "forbes-business-rss",
+          "source_name": "Forbes Business",
+          "category": "us-economy",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "경제",
+          "language": "en",
+          "title": "‘Harry Potter’ Takes Flight With Special ‘Finding Harry’ This Weekend",
+          "canonical_url": "https://www.forbes.com/sites/timlammers/2026/04/04/harry-potter-takes-flight-with-special-finding-harry-this-weekend",
+          "published_at": "2026-04-04T22:53:35+00:00",
+          "title_hash": "7fa40834cd9349fbbe97f988ec131f598f7ea77a3db61b0b4357d3eeba5eee4d",
+          "keywords": [
+            "harry",
+            "potter",
+            "takes",
+            "flight",
+            "special",
+            "finding"
+          ]
+        },
+        {
+          "stable_key": "a20e09ed5576f113f82d3a2250df6b8ec497d66e0720fa80a24846d8c86b825e",
+          "source_key": "nypost-feed",
+          "source_name": "New York Post Feed",
+          "category": "us-technology",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "기술",
+          "language": "en",
+          "title": "Steph Curry’s return gives Warriors much-needed dose of ‘hope’",
+          "canonical_url": "https://nypost.com/2026/04/04/sports/steph-curry-returns-sunday-against-the-rockets",
+          "published_at": "2026-04-04T22:51:20+00:00",
+          "title_hash": "1da99bbf6bc2e68f6137435b08e91894717f7ab70772d278c1c3aee55ea00535",
+          "keywords": [
+            "steph",
+            "curry",
+            "return",
+            "gives",
+            "warriors",
+            "much"
+          ]
+        },
+        {
+          "stable_key": "7f78d8b065b1800eb4783c89b19eafbdeee6e8e029e7da680e26a7bf97ba9ce7",
+          "source_key": "businessinsider-feed",
+          "source_name": "Business Insider Feed",
+          "category": "us-technology",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "기술",
+          "language": "en",
+          "title": "Simon Willison says the 'dark factory' is the next big thing in AI",
+          "canonical_url": "https://www.businessinsider.com/simon-willison-dark-factory-ai-2026-4",
+          "published_at": "2026-04-04T22:47:09+00:00",
+          "title_hash": "ee226fee1a0e3f1d0f4f11b062a4d11925475b4acd241cebbd068622609e6e60",
+          "keywords": [
+            "simon",
+            "willison",
+            "says",
+            "dark",
+            "factory",
+            "next"
+          ]
+        },
+        {
+          "stable_key": "b7637d82a2eaffb7e5d4b700a013e5c2935bc5c6d696775b568268e7aebce79c",
+          "source_key": "fox-politics-rss",
+          "source_name": "Fox News Politics",
+          "category": "us-politics",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "정치",
+          "language": "en",
+          "title": "A de facto pro forma: Why Washington fixated these sessions as the DHS shutdown dragged on through recess",
+          "canonical_url": "https://www.foxnews.com/politics/de-facto-pro-forma-why-washington-fixated-sessions-dhs-shutdown-dragged-through-recess",
+          "published_at": "2026-04-04T22:44:38+00:00",
+          "title_hash": "533be2a9d5fbecb419aa23edc30e6d442c4865c82440a41bce76586f8d75ddc3",
+          "keywords": [
+            "de",
+            "facto",
+            "pro",
+            "forma",
+            "why",
+            "washington"
+          ]
+        },
+        {
+          "stable_key": "02b97479fc45a8d48f7811f84263996fcf0427cc5ead1f71cb33acebd15d9635",
+          "source_key": "bloomberg-politics-rss",
+          "source_name": "Bloomberg Politics",
+          "category": "us-politics",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "정치",
+          "language": "en",
+          "title": "Trump Threatens Iran With ‘Hell’ as Search for Airman Continues",
+          "canonical_url": "https://www.bloomberg.com/news/articles/2026-04-04/trump-threatens-iran-with-hell-as-search-for-airman-continues",
+          "published_at": "2026-04-04T22:44:35+00:00",
+          "title_hash": "cdac4f4e10b5ab1e97be6c3ca20f03a7baac7636b586ff7f7ffa9868ad448b74",
+          "keywords": [
+            "trump",
+            "threatens",
+            "iran",
+            "hell",
+            "search",
+            "airman"
+          ]
+        },
         {
           "stable_key": "67eaa7786e70a0121346b8eb1ca94ddf7e59511cd6d1c052878347dd3a0ad74b",
           "source_key": "pressian-politics-rss",
@@ -5631,6 +5741,182 @@
             "그양반",
             "성격에",
             "불을"
+          ]
+        },
+        {
+          "stable_key": "8b9938feff88dc67da4c5e955a59fba8c4b6c17a9918ebdcdb6291283d5dee55",
+          "source_key": "mk-sports-rss",
+          "source_name": "Maeil Business Sports",
+          "category": "kr-sports",
+          "hub": "kr",
+          "hub_label": "대한민국",
+          "section_label": "스포츠",
+          "language": "ko",
+          "title": "“팀 승리 위해 모든 걸 쏟아붓겠다”…한화 유니폼 입는 쿠싱, 제2의 와이스 될까",
+          "canonical_url": "https://www.mk.co.kr/news/sports/12008069",
+          "published_at": "2026-04-04T22:40:00+00:00",
+          "title_hash": "1846df8a712c42a38d15b6efaa9bfd3d7d2e19d73d23ec62bb8ffbd58529b641",
+          "keywords": [
+            "승리",
+            "위해",
+            "모든",
+            "쏟아붓겠다",
+            "한화",
+            "유니폼"
+          ]
+        },
+        {
+          "stable_key": "f3b43b70a31e4546cb53ea12767ab0cf315eeb94f2df017949f7f6e3a6e5d546",
+          "source_key": "telegram-dada-news2",
+          "source_name": "Telegram @dada_news2",
+          "category": "tech-it",
+          "hub": "global",
+          "hub_label": "글로벌 전문",
+          "section_label": "테크",
+          "language": "ko",
+          "title": "[디지털데일리] 샤오미·삼성전자, 고용량 배터리·AI 강화한 모바일 신제품 출시 [위클리템]",
+          "canonical_url": "https://www.ddaily.co.kr/page/view/2026040316320796206",
+          "published_at": "2026-04-04T22:33:22+00:00",
+          "title_hash": "e9015337d5b979c1dd3f548a1ae15fb48a0f1987a90cd4fd55a679250214f221",
+          "keywords": [
+            "디지털데일리",
+            "샤오미",
+            "삼성전자",
+            "고용량",
+            "배터리",
+            "ai"
+          ]
+        },
+        {
+          "stable_key": "6b0a99bacddab198bb084ba374f88ab502e92181d6af442cab6f305df572d721",
+          "source_key": "telegram-dada-news2",
+          "source_name": "Telegram @dada_news2",
+          "category": "tech-it",
+          "hub": "global",
+          "hub_label": "글로벌 전문",
+          "section_label": "테크",
+          "language": "ko",
+          "title": "[디지털데일리] “삼성전자 32만원 간다는데”…이란 전쟁 지상전 가능성에 ‘글쎄’",
+          "canonical_url": "https://www.ddaily.co.kr/page/view/2026040409462326451",
+          "published_at": "2026-04-04T22:33:21+00:00",
+          "title_hash": "417154ce6c18804a3aa1d1b64bba3541b24a1544dbce15794061338bc2495001",
+          "keywords": [
+            "디지털데일리",
+            "삼성전자",
+            "32만원",
+            "간다는데",
+            "이란",
+            "전쟁"
+          ]
+        },
+        {
+          "stable_key": "9431f8bdb9db5a2e5d56ef62de910223f81296c7c83b3fe7622030394188dd46",
+          "source_key": "etoday-economy-rss",
+          "source_name": "eToday Economy",
+          "category": "kr-economy",
+          "hub": "kr",
+          "hub_label": "대한민국",
+          "section_label": "경제",
+          "language": "ko",
+          "title": "신세계百 ‘시코르’, 점포 수 줄이고 수익성↑…핀셋 출점 전략 통했다",
+          "canonical_url": "https://www.etoday.co.kr/news/view/2572555",
+          "published_at": "2026-04-04T22:30:00+00:00",
+          "title_hash": "6e128a5553c84477d48a2cf0cb94371dde4548c682e24aa06f4269739409bebc",
+          "keywords": [
+            "신세계",
+            "시코르",
+            "점포",
+            "줄이고",
+            "수익성",
+            "핀셋"
+          ]
+        },
+        {
+          "stable_key": "a57ec497215fdb140afaddb58dad729b34d9248ab835d80154249afc0653a18c",
+          "source_key": "asiae-culture-rss",
+          "source_name": "Asiae Life",
+          "category": "kr-culture",
+          "hub": "kr",
+          "hub_label": "대한민국",
+          "section_label": "문화",
+          "language": "ko",
+          "title": "벚꽃놀이가 아니라 벚꽃전쟁…명당 맡으러 밤샘 불사하는 '오하나미' 이야기 [日요일日문화]",
+          "canonical_url": "https://www.asiae.co.kr/article/2026040115443050816",
+          "published_at": "2026-04-04T22:30:00+00:00",
+          "title_hash": "e313f939514aadb8dacd3b1ec10f1ace169521831d885e258e4fde7974dacb7e",
+          "keywords": [
+            "벚꽃놀이가",
+            "아니라",
+            "벚꽃전쟁",
+            "명당",
+            "맡으러",
+            "밤샘"
+          ]
+        },
+        {
+          "stable_key": "6d68ada7fe8b2146ca15e010ffc1cc0537d72789526f34d9ddadc9316d7492de",
+          "source_key": "abc-us-rss",
+          "source_name": "ABC News US",
+          "category": "us-politics",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "정치",
+          "language": "en",
+          "title": "Vehicle hits revelers during Lao New Year celebration in Louisiana",
+          "canonical_url": "https://abcnews.com/US/wireStory/vehicle-hits-revelers-lao-new-year-celebration-louisiana-131733161",
+          "published_at": "2026-04-04T22:22:09+00:00",
+          "title_hash": "0a7c33f74a96cbe7ca06f8840866ce653b9795fa680ac5a03f11877603f504df",
+          "keywords": [
+            "vehicle",
+            "hits",
+            "revelers",
+            "during",
+            "lao",
+            "new"
+          ]
+        },
+        {
+          "stable_key": "797b9ba1669f223cd15a90fc409224a8634906bfa6081ebba4fc54273f903277",
+          "source_key": "guardian-us-rss",
+          "source_name": "The Guardian US",
+          "category": "us-technology",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "기술",
+          "language": "en",
+          "title": "More than 20 people injured after driver crashes into crowd at Louisiana parade",
+          "canonical_url": "https://www.theguardian.com/us-news/2026/apr/04/louisiana-parade-car-crash",
+          "published_at": "2026-04-04T22:20:45+00:00",
+          "title_hash": "91c6a9fd315e678a356857c665c48e1c96ba1a1836d8268250daf49b553764ed",
+          "keywords": [
+            "more",
+            "than",
+            "people",
+            "injured",
+            "after",
+            "driver"
+          ]
+        },
+        {
+          "stable_key": "ce7ec7b33835a1f1824f8a4f8c7119c2f349bdd10e51fe6fc929637009142bcd",
+          "source_key": "latimes-world-rss",
+          "source_name": "Los Angeles Times World",
+          "category": "us-world",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "세계",
+          "language": "en",
+          "title": "At Easter time, Iranian Christians pray for a new government and freedom of worship as war rages at home",
+          "canonical_url": "https://www.latimes.com/world-nation/story/2026-04-04/at-easter-iranian-christians-pray-as-war-rages-at-home",
+          "published_at": "2026-04-04T22:19:03+00:00",
+          "title_hash": "0b9339a8b80c853c89af4a68c95ed3147e5a1d48a24cc4c211f0a920f43f942f",
+          "keywords": [
+            "easter",
+            "time",
+            "iranian",
+            "christians",
+            "pray",
+            "new"
           ]
         },
         {
@@ -5983,292 +6269,6 @@
             "무면허로",
             "사고",
             "10대"
-          ]
-        },
-        {
-          "stable_key": "b6fad28b61212f9190b6288804be3ce0849c6cac514ea9a2a39fbce6dddab294",
-          "source_key": "nypost-feed",
-          "source_name": "New York Post Feed",
-          "category": "us-technology",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "기술",
-          "language": "en",
-          "title": "NJ man ends up in rehab from addictive kratom drinks he spent $60K on: Lawsuit",
-          "canonical_url": "https://nypost.com/2026/04/04/us-news/nj-man-ends-up-in-rehab-from-addictive-kratom-drinks-he-spent-60k-on-lawsuit",
-          "published_at": "2026-04-04T21:58:54+00:00",
-          "title_hash": "1a7f59681678b3857a5927558b649b6e70ed94a8291011531c9dc18adf749f9f",
-          "keywords": [
-            "nj",
-            "man",
-            "ends",
-            "up",
-            "rehab",
-            "addictive"
-          ]
-        },
-        {
-          "stable_key": "d75225a243f7a8f70769761428b0e9d8fc26eda9ad8a320a56b211db422cc054",
-          "source_key": "telegram-dada-news2",
-          "source_name": "Telegram @dada_news2",
-          "category": "tech-it",
-          "hub": "global",
-          "hub_label": "글로벌 전문",
-          "section_label": "테크",
-          "language": "ko",
-          "title": "[글로벌이코노믹] “MS, 325조 평가이익… 그런데 CEO는 0%” 오픈AI, 자본주의 뒤집은 기묘한 설계",
-          "canonical_url": "https://www.g-enews.com/article/Global-Biz/2026/04/202604050612321072fbbec65dfb_1",
-          "published_at": "2026-04-04T21:55:09+00:00",
-          "title_hash": "86a9e9de36d86b1970f21d2ae62590847140e6126b54a7dccbed0f0318e8c5ea",
-          "keywords": [
-            "글로벌이코노믹",
-            "ms",
-            "325조",
-            "평가이익",
-            "그런데",
-            "ceo는"
-          ]
-        },
-        {
-          "stable_key": "e46030cd731fc1c120db285c3ab50088038b428a09e53ecfed697fe1d4c222a5",
-          "source_key": "nypost-feed",
-          "source_name": "New York Post Feed",
-          "category": "us-technology",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "기술",
-          "language": "en",
-          "title": "Does not compute: Waymo’s stunning drive-thru screw-up",
-          "canonical_url": "https://nypost.com/2026/04/04/lifestyle/waymo-messes-up-pick-up-in-los-angeles-drive-thru",
-          "published_at": "2026-04-04T21:54:59+00:00",
-          "title_hash": "795fbc5f62f7900a3495b30103cb916f66877f68a53c43089ef57cd7906f1ef4",
-          "keywords": [
-            "does",
-            "not",
-            "compute",
-            "waymo",
-            "stunning",
-            "drive"
-          ]
-        },
-        {
-          "stable_key": "698aaa707b988d57fa0e6c064c3a615b7f4959abc76d51cedf8a40b7d0ae53ce",
-          "source_key": "fox-us-rss",
-          "source_name": "Fox News US",
-          "category": "us-politics",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "정치",
-          "language": "en",
-          "title": "At least 13 people injured after vehicle slams into Louisiana parade: sheriff's office",
-          "canonical_url": "https://www.foxnews.com/us/people-injured-vehicle-slams-louisiana-parade-sheriffs-office",
-          "published_at": "2026-04-04T21:53:57+00:00",
-          "title_hash": "37f60ce1d0fa5badf928cc61df494528a633c705268af530ffccd2ea92f9daaf",
-          "keywords": [
-            "least",
-            "people",
-            "injured",
-            "after",
-            "vehicle",
-            "slams"
-          ]
-        },
-        {
-          "stable_key": "33516a341292aae15251634a958c731db7dd886bab1c386b194dfb1b764b7389",
-          "source_key": "forbes-business-rss",
-          "source_name": "Forbes Business",
-          "category": "us-economy",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "경제",
-          "language": "en",
-          "title": "NCAA President: Influence Of Agents In College Sports Is ‘Insane,’ Trump’s Executive Order Would ‘Create A Little Less Chaos’",
-          "canonical_url": "https://www.forbes.com/sites/adamzagoria/2026/04/04/ncaa-president-influence-of-agents-in-college-sports-is-insane-trumps-executive-order-would-create-a-little-less-chaos",
-          "published_at": "2026-04-04T21:53:12+00:00",
-          "title_hash": "1a0f5ef55ddcf77e65de0d7e1460dc780526ff99cdfcaef7f4a2a2fd43d02521",
-          "keywords": [
-            "ncaa",
-            "president",
-            "influence",
-            "agents",
-            "college",
-            "sports"
-          ]
-        },
-        {
-          "stable_key": "40d2e08cf689d253fc2c3d322a2247ab39d5359059072c80fc12c7a79ff8b2f4",
-          "source_key": "washingtonexaminer-feed",
-          "source_name": "Washington Examiner Feed",
-          "category": "us-world",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "세계",
-          "language": "en",
-          "title": "Iran warns of ‘serious’ radiation risk after projectile hits near nuclear power plant",
-          "canonical_url": "https://www.washingtonexaminer.com/news/world/4516409/iran-radiation-risk-nuclear-power-plant",
-          "published_at": "2026-04-04T21:51:54+00:00",
-          "title_hash": "265b81f6ec15566f478f9b64507f8e5dc8154a8daa9bb59b842b320cb9420351",
-          "keywords": [
-            "iran",
-            "warns",
-            "serious",
-            "radiation",
-            "risk",
-            "after"
-          ]
-        },
-        {
-          "stable_key": "ecc3656cce3d630d40166f1f37d89940d12f1bf873d763614eff0c5ee80d2bbc",
-          "source_key": "telegram-dada-news2",
-          "source_name": "Telegram @dada_news2",
-          "category": "tech-it",
-          "hub": "global",
-          "hub_label": "글로벌 전문",
-          "section_label": "테크",
-          "language": "ko",
-          "title": "[글로벌이코노믹] \"클라우드 없는 AI가 진짜 무서운 이유\"... 인텔이 깨운 '자율 진화 칩'의 실체",
-          "canonical_url": "https://www.g-enews.com/article/Global-Biz/2026/04/202604050650118923f4f9a46d5b_1",
-          "published_at": "2026-04-04T21:50:31+00:00",
-          "title_hash": "305b5450f1b1fb9aaede8ec636d58aa8750f87d69b229323b36fe459f7479825",
-          "keywords": [
-            "글로벌이코노믹",
-            "클라우드",
-            "없는",
-            "ai가",
-            "진짜",
-            "무서운"
-          ]
-        },
-        {
-          "stable_key": "7b7f52e05c307883c06fe7920689eb6db832f7c55f577c49a9010728c639ae10",
-          "source_key": "newsweek-feed",
-          "source_name": "Newsweek Feed",
-          "category": "us-technology",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "기술",
-          "language": "en",
-          "title": "Will Braylon Mullins Go to the NBA? Latest Draft Projection for UConn Star",
-          "canonical_url": "https://www.newsweek.com/sports/nba/will-braylon-mullins-go-to-the-nba-latest-draft-projection-for-uconn-star-11783898",
-          "published_at": "2026-04-04T21:50:08+00:00",
-          "title_hash": "72366c8068d1bbff24e1d6834c195187f906b1423183c4b01c7f2095a544e9e6",
-          "keywords": [
-            "braylon",
-            "mullins",
-            "go",
-            "nba",
-            "latest",
-            "draft"
-          ]
-        },
-        {
-          "stable_key": "92f3f4a1ec9f74c37139da2c525daaab41aee42736886c922c67b2a8f0d39a02",
-          "source_key": "cbs-us-rss",
-          "source_name": "CBS News US",
-          "category": "us-politics",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "정치",
-          "language": "en",
-          "title": "Parker, Delle Donne among basketball greats set for Hall of Fame enshrinement",
-          "canonical_url": "https://www.cbsnews.com/news/us-olympic-women-basketball-1996-naismith-basketball-hall-of-fame",
-          "published_at": "2026-04-04T21:50:02+00:00",
-          "title_hash": "7617cec05b400c32f02b04b19c6627b48a36c372eee7ce79da8a276327f1c189",
-          "keywords": [
-            "parker",
-            "delle",
-            "donne",
-            "among",
-            "basketball",
-            "greats"
-          ]
-        },
-        {
-          "stable_key": "dccd135869ce84bc3b0d7a71d15682e7484b59c6e57338ccb438365013721df3",
-          "source_key": "npr-world-rss",
-          "source_name": "NPR World",
-          "category": "us-world",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "세계",
-          "language": "en",
-          "title": "Local culture shapes the Zairean liturgy",
-          "canonical_url": "https://www.npr.org/2026/04/04/nx-s1-5769881/local-culture-shapes-the-zairean-liturgy",
-          "published_at": "2026-04-04T21:45:47+00:00",
-          "title_hash": "6559b8fafb358d81d4d4596b777bca4bf2f22ccd2c46f235433adbe21d2ad9a8",
-          "keywords": [
-            "local",
-            "culture",
-            "shapes",
-            "zairean",
-            "liturgy",
-            "local culture"
-          ]
-        },
-        {
-          "stable_key": "ebdc6be8defc7efeb55bb2380887ab6dde83d047fb898b407cdb5041eebb4934",
-          "source_key": "npr-world-rss",
-          "source_name": "NPR World",
-          "category": "us-world",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "세계",
-          "language": "en",
-          "title": "German researchers set right the story of a 9,000-year-old shaman's grave",
-          "canonical_url": "https://www.npr.org/2026/04/04/nx-s1-5763625/german-researchers-set-right-the-story-of-a-9-000-year-old-shamans-grave",
-          "published_at": "2026-04-04T21:45:43+00:00",
-          "title_hash": "7fee675856f155f404532e57aa8145c44d1d1352d09099d7bfda16624690d9d6",
-          "keywords": [
-            "german",
-            "researchers",
-            "set",
-            "right",
-            "story",
-            "year"
-          ]
-        },
-        {
-          "stable_key": "432b20ecdd0fa1a6d8eb46378f8b11be83127c82689da2110fd0ee8b359ad869",
-          "source_key": "nypost-feed",
-          "source_name": "New York Post Feed",
-          "category": "us-markets",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "시장",
-          "language": "en",
-          "title": "Hugh Hefner’s widow, Crystal Harris, marries James Ward in romantic island ceremony",
-          "canonical_url": "https://pagesix.com/2026/04/04/celebrity-news/hugh-hefners-widow-crystal-harris-marries-james-ward-in-romantic-island-ceremony",
-          "published_at": "2026-04-04T21:44:39+00:00",
-          "title_hash": "0574c8f856b6abe0ebd271b7a5caad0a8690d4c56a3665f7cc32f732a73fdf44",
-          "keywords": [
-            "hugh",
-            "hefner",
-            "widow",
-            "crystal",
-            "harris",
-            "marries"
-          ]
-        },
-        {
-          "stable_key": "e66231010af85f6f1fefc2a777df0cef32768bc686260f2aef3cccb83954953b",
-          "source_key": "forbes-innovation-rss",
-          "source_name": "Forbes Innovation",
-          "category": "us-technology",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "기술",
-          "language": "en",
-          "title": "New Samsung Images Confirm Galaxy Z Fold 8 ‘Wide’ Details",
-          "canonical_url": "https://www.forbes.com/sites/jaymcgregor/2026/04/04/samsung-galaxy-z-fold-8-wide-leak-design-screen-one-ui-9",
-          "published_at": "2026-04-04T21:41:02+00:00",
-          "title_hash": "7f8736fa6ed901cd28d15dcd814da166fd1f8ffdd31da235d225c684d587f2ec",
-          "keywords": [
-            "new",
-            "samsung",
-            "images",
-            "confirm",
-            "galaxy",
-            "fold"
           ]
         }
       ]

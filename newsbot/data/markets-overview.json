@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-04T22:23:06.905953+00:00",
+  "generated_at": "2026-04-04T22:56:20.085503+00:00",
   "top_cards": [
     {
       "label": "US stocks tracked",
@@ -33,13 +33,13 @@
     },
     {
       "label": "Crypto advancers",
-      "value": 64,
-      "detail": "Decliners 50",
+      "value": 68,
+      "detail": "Decliners 46",
       "status": "ok"
     }
   ],
   "status": {
-    "generated_at": "2026-04-04T22:23:06.905953+00:00",
+    "generated_at": "2026-04-04T22:56:20.085503+00:00",
     "overall_status": "warning",
     "providers": {
       "stocks": {
@@ -47,7 +47,7 @@
         "stale": false,
         "provider": "finviz-public",
         "message": "Using public Finviz fallback because NEWSBOT_FMP_API_KEY is not configured. Public Finviz snapshot is capped at the top 100 stocks to avoid rate limits.",
-        "as_of": "2026-04-04T22:23:06.905953+00:00",
+        "as_of": "2026-04-04T22:56:20.085503+00:00",
         "row_count": 100
       },
       "korea": {
@@ -63,7 +63,7 @@
         "stale": false,
         "provider": "coingecko",
         "message": null,
-        "as_of": "2026-04-04T22:23:06.918Z",
+        "as_of": "2026-04-04T22:56:21.447Z",
         "row_count": 120
       }
     }
@@ -88,7 +88,7 @@
         "avg_volume": 89.53,
         "pe": null,
         "dividend_yield": null,
-        "as_of": "2026-04-04T22:23:06.905953+00:00",
+        "as_of": "2026-04-04T22:56:20.085503+00:00",
         "detail_url": "https://finviz.com/quote.ashx?t=SPY&p=d",
         "high_52w": 697.84,
         "low_52w": 481.8
@@ -108,7 +108,7 @@
         "avg_volume": 66.15,
         "pe": null,
         "dividend_yield": null,
-        "as_of": "2026-04-04T22:23:06.905953+00:00",
+        "as_of": "2026-04-04T22:56:20.085503+00:00",
         "detail_url": "https://finviz.com/quote.ashx?t=QQQ&p=d",
         "high_52w": 637.01,
         "low_52w": 402.39
@@ -128,7 +128,7 @@
         "avg_volume": 7.27,
         "pe": null,
         "dividend_yield": null,
-        "as_of": "2026-04-04T22:23:06.905953+00:00",
+        "as_of": "2026-04-04T22:56:20.085503+00:00",
         "detail_url": "https://finviz.com/quote.ashx?t=DIA&p=d",
         "high_52w": 505.3,
         "low_52w": 366.32
@@ -148,7 +148,7 @@
         "avg_volume": 45.09,
         "pe": null,
         "dividend_yield": null,
-        "as_of": "2026-04-04T22:23:06.905953+00:00",
+        "as_of": "2026-04-04T22:56:20.085503+00:00",
         "detail_url": "https://finviz.com/quote.ashx?t=IWM&p=d",
         "high_52w": 271.6,
         "low_52w": 171.73
@@ -605,14 +605,14 @@
         "country": "Global",
         "sector_or_category": "",
         "industry": "Crypto",
-        "last": 67380.0,
-        "change_pct": 0.74215,
-        "market_cap": 1348668180724.0,
-        "volume": 22083398819.0,
+        "last": 67383.0,
+        "change_pct": 0.72979,
+        "market_cap": 1348389778851.0,
+        "volume": 21419215014.0,
         "avg_volume": null,
         "pe": null,
         "dividend_yield": null,
-        "as_of": "2026-04-04T22:23:01.045Z",
+        "as_of": "2026-04-04T22:56:11.603Z",
         "detail_url": "https://www.coingecko.com/en/coins/bitcoin",
         "high_52w": 67470.0,
         "low_52w": 66795.0
@@ -625,14 +625,14 @@
         "country": "Global",
         "sector_or_category": "",
         "industry": "Crypto",
-        "last": 2070.35,
-        "change_pct": 0.73252,
-        "market_cap": 249885433503.0,
-        "volume": 5790736549.0,
+        "last": 2068.88,
+        "change_pct": 0.82474,
+        "market_cap": 249682359328.0,
+        "volume": 5541878591.0,
         "avg_volume": null,
         "pe": null,
         "dividend_yield": null,
-        "as_of": "2026-04-04T22:23:00.778Z",
+        "as_of": "2026-04-04T22:56:21.447Z",
         "detail_url": "https://www.coingecko.com/en/coins/ethereum",
         "high_52w": 2072.7,
         "low_52w": 2048.16
@@ -646,13 +646,13 @@
         "sector_or_category": "",
         "industry": "Crypto",
         "last": 1.32,
-        "change_pct": -0.03956,
-        "market_cap": 80910322369.0,
-        "volume": 829416455.0,
+        "change_pct": -0.01524,
+        "market_cap": 80901874603.0,
+        "volume": 940721371.0,
         "avg_volume": null,
         "pe": null,
         "dividend_yield": null,
-        "as_of": "2026-04-04T22:23:04.643Z",
+        "as_of": "2026-04-04T22:56:11.587Z",
         "detail_url": "https://www.coingecko.com/en/coins/ripple",
         "high_52w": 1.32,
         "low_52w": 1.31
@@ -665,79 +665,79 @@
         "country": "Global",
         "sector_or_category": "",
         "industry": "Crypto",
-        "last": 80.94,
-        "change_pct": 0.78822,
-        "market_cap": 46376593607.0,
-        "volume": 1743205679.0,
+        "last": 80.98,
+        "change_pct": 1.04316,
+        "market_cap": 46386433344.0,
+        "volume": 1713781198.0,
         "avg_volume": null,
         "pe": null,
         "dividend_yield": null,
-        "as_of": "2026-04-04T22:23:04.724Z",
+        "as_of": "2026-04-04T22:56:20.765Z",
         "detail_url": "https://www.coingecko.com/en/coins/solana",
         "high_52w": 81.24,
         "low_52w": 79.78
       }
     ],
     "breadth": {
-      "advancers": 64,
-      "decliners": 50,
+      "advancers": 68,
+      "decliners": 46,
       "unchanged": 6,
-      "new_highs": 67,
-      "new_lows": 45
+      "new_highs": 64,
+      "new_lows": 48
     },
     "top_gainers": [
       {
         "symbol": "SIREN",
         "name": "Siren",
-        "change_pct": 327.83804,
-        "last": 0.605662,
-        "market_cap": 438097342.0,
-        "volume": 275809326.0,
+        "change_pct": 326.62643,
+        "last": 0.604157,
+        "market_cap": 447095373.0,
+        "volume": 281901271.0,
         "detail_url": "https://www.coingecko.com/en/coins/siren-2"
       },
       {
         "symbol": "BSV",
         "name": "Bitcoin SV",
-        "change_pct": 13.39909,
-        "last": 16.83,
-        "market_cap": 335400848.0,
-        "volume": 27368894.0,
+        "change_pct": 13.11724,
+        "last": 16.77,
+        "market_cap": 333416375.0,
+        "volume": 27741597.0,
         "detail_url": "https://www.coingecko.com/en/coins/bitcoin-cash-sv"
       },
       {
         "symbol": "DEXE",
         "name": "DeXe",
-        "change_pct": 9.75322,
-        "last": 8.8,
-        "market_cap": 411465234.0,
-        "volume": 17380731.0,
+        "change_pct": 9.76168,
+        "last": 8.82,
+        "market_cap": 412497454.0,
+        "volume": 17343568.0,
         "detail_url": "https://www.coingecko.com/en/coins/dexe"
       },
       {
         "symbol": "ETC",
         "name": "Ethereum Classic",
-        "change_pct": 7.56933,
-        "last": 8.71,
-        "market_cap": 1358163617.0,
-        "volume": 95721413.0,
+        "change_pct": 8.00351,
+        "last": 8.73,
+        "market_cap": 1361701633.0,
+        "volume": 96007010.0,
         "detail_url": "https://www.coingecko.com/en/coins/ethereum-classic"
       },
       {
         "symbol": "ZEC",
         "name": "Zcash",
-        "change_pct": 7.41611,
-        "last": 251.61,
-        "market_cap": 4193581417.0,
-        "volume": 262914245.0,
+        "change_pct": 7.88313,
+        "last": 251.65,
+        "market_cap": 4186884346.0,
+        "volume": 260549580.0,
         "detail_url": "https://www.coingecko.com/en/coins/zcash"
       },
       {
         "symbol": "VET",
         "name": "VeChain",
-        "change_pct": 6.39681,
-        "last": 0.00745397,
-        "market_cap": 641304637.0,
-        "volume": 37835979.0,
+        "change_pct": 6.46427,
+        "last": 0.00746185,
+        "market_cap": 641582612.0,
+        "volume": 34655602.0,
         "detail_url": "https://www.coingecko.com/en/coins/vechain"
       }
     ],
@@ -745,359 +745,365 @@
       {
         "symbol": "M",
         "name": "MemeCore",
-        "change_pct": -5.42251,
+        "change_pct": -4.88152,
         "last": 2.57,
-        "market_cap": 4507498733.0,
-        "volume": 10608304.0,
+        "market_cap": 4520516856.0,
+        "volume": 10413717.0,
         "detail_url": "https://www.coingecko.com/en/coins/memecore"
-      },
-      {
-        "symbol": "QNT",
-        "name": "Quant",
-        "change_pct": -3.91107,
-        "last": 73.36,
-        "market_cap": 1066567715.0,
-        "volume": 11154094.0,
-        "detail_url": "https://www.coingecko.com/en/coins/quant-network"
-      },
-      {
-        "symbol": "ALGO",
-        "name": "Algorand",
-        "change_pct": -3.58579,
-        "last": 0.120314,
-        "market_cap": 1070833504.0,
-        "volume": 117063746.0,
-        "detail_url": "https://www.coingecko.com/en/coins/algorand"
       },
       {
         "symbol": "NIGHT",
         "name": "Midnight",
-        "change_pct": -3.24729,
-        "last": 0.04255556,
-        "market_cap": 706693141.0,
-        "volume": 71251674.0,
+        "change_pct": -4.02052,
+        "last": 0.04239111,
+        "market_cap": 704347363.0,
+        "volume": 70970895.0,
         "detail_url": "https://www.coingecko.com/en/coins/midnight-3"
       },
       {
-        "symbol": "ADI",
-        "name": "ADI",
-        "change_pct": -3.22906,
-        "last": 4.35,
-        "market_cap": 348124086.0,
-        "volume": 1033998.0,
-        "detail_url": "https://www.coingecko.com/en/coins/adi-token"
+        "symbol": "QNT",
+        "name": "Quant",
+        "change_pct": -3.71107,
+        "last": 73.35,
+        "market_cap": 1066696940.0,
+        "volume": 11112320.0,
+        "detail_url": "https://www.coingecko.com/en/coins/quant-network"
       },
       {
         "symbol": "RENDER",
         "name": "Render",
-        "change_pct": -2.77524,
-        "last": 1.88,
-        "market_cap": 973018252.0,
-        "volume": 44969375.0,
+        "change_pct": -2.89639,
+        "last": 1.87,
+        "market_cap": 970253643.0,
+        "volume": 44720372.0,
         "detail_url": "https://www.coingecko.com/en/coins/render-token"
+      },
+      {
+        "symbol": "ADI",
+        "name": "ADI",
+        "change_pct": -2.80521,
+        "last": 4.36,
+        "market_cap": 348044671.0,
+        "volume": 1050770.0,
+        "detail_url": "https://www.coingecko.com/en/coins/adi-token"
+      },
+      {
+        "symbol": "JST",
+        "name": "JUST",
+        "change_pct": -2.30185,
+        "last": 0.060009,
+        "market_cap": 529083370.0,
+        "volume": 19418668.0,
+        "detail_url": "https://www.coingecko.com/en/coins/just"
       }
     ],
     "most_active": [
       {
         "symbol": "USDT",
         "name": "Tether",
-        "change_pct": 0.00348,
-        "last": 0.999935,
-        "market_cap": 184149039921.0,
-        "volume": 34005131395.0,
+        "change_pct": 0.00491,
+        "last": 0.999943,
+        "market_cap": 184151642815.0,
+        "volume": 34001543049.0,
         "detail_url": "https://www.coingecko.com/en/coins/tether"
       },
       {
         "symbol": "BTC",
         "name": "Bitcoin",
-        "change_pct": 0.74215,
-        "last": 67380.0,
-        "market_cap": 1348668180724.0,
-        "volume": 22083398819.0,
+        "change_pct": 0.72979,
+        "last": 67383.0,
+        "market_cap": 1348389778851.0,
+        "volume": 21419215014.0,
         "detail_url": "https://www.coingecko.com/en/coins/bitcoin"
       },
       {
         "symbol": "ETH",
         "name": "Ethereum",
-        "change_pct": 0.73252,
-        "last": 2070.35,
-        "market_cap": 249885433503.0,
-        "volume": 5790736549.0,
+        "change_pct": 0.82474,
+        "last": 2068.88,
+        "market_cap": 249682359328.0,
+        "volume": 5541878591.0,
         "detail_url": "https://www.coingecko.com/en/coins/ethereum"
       },
       {
         "symbol": "USDC",
         "name": "USDC",
-        "change_pct": -0.00536,
+        "change_pct": -0.00904,
         "last": 1.0,
-        "market_cap": 77517335571.0,
-        "volume": 3784654544.0,
+        "market_cap": 77509842244.0,
+        "volume": 3771563991.0,
         "detail_url": "https://www.coingecko.com/en/coins/usd-coin"
       },
       {
         "symbol": "SOL",
         "name": "Solana",
-        "change_pct": 0.78822,
-        "last": 80.94,
-        "market_cap": 46376593607.0,
-        "volume": 1743205679.0,
+        "change_pct": 1.04316,
+        "last": 80.98,
+        "market_cap": 46386433344.0,
+        "volume": 1713781198.0,
         "detail_url": "https://www.coingecko.com/en/coins/solana"
       },
       {
         "symbol": "XRP",
         "name": "XRP",
-        "change_pct": -0.03956,
+        "change_pct": -0.01524,
         "last": 1.32,
-        "market_cap": 80910322369.0,
-        "volume": 829416455.0,
+        "market_cap": 80901874603.0,
+        "volume": 940721371.0,
         "detail_url": "https://www.coingecko.com/en/coins/ripple"
       }
     ],
     "group_performance": [
       {
         "label": "Smart Contract Platform",
-        "market_cap": 1962162546877.116,
-        "change_pct": 0.8052415305634981,
-        "volume": 35442836847.73448
+        "market_cap": 1962584616321.1165,
+        "change_pct": 0.8269251634066872,
+        "volume": 36551998077.081276
       },
       {
         "label": "Layer 1 (L1)",
-        "market_cap": 1931164080552.3953,
-        "change_pct": 0.811126015488659,
-        "volume": 34543225143.46558
+        "market_cap": 1931210558070.5247,
+        "change_pct": 0.8135522468918908,
+        "volume": 34543659732.96693
       },
       {
         "label": "Proof of Work (PoW)",
-        "market_cap": 1391312498883.105,
-        "change_pct": 0.7212835437206302,
-        "volume": 23359125011.021393
+        "market_cap": 1391431103117.7483,
+        "change_pct": 0.7298696598926511,
+        "volume": 22768947443.86729
       },
       {
         "label": "World Liberty Financial Portfolio",
-        "market_cap": 562584901911.1147,
-        "change_pct": 0.42717365778179317,
-        "volume": 44292141169.76112
+        "market_cap": 562432281681.7585,
+        "change_pct": 0.3999293818952936,
+        "volume": 45232564676.069275
       },
       {
         "label": "Proof of Stake (PoS)",
-        "market_cap": 448586225615.308,
-        "change_pct": 1.2193262541999939,
-        "volume": 9897690610.452957
+        "market_cap": 448516320976.6523,
+        "change_pct": 1.2035529200610156,
+        "volume": 10468767310.338722
       },
       {
         "label": "Stablecoins",
-        "market_cap": 311079677916.10474,
-        "change_pct": 0.24837302987879517,
-        "volume": 39198825086.80703
+        "market_cap": 310977553930.01794,
+        "change_pct": 0.21546260795374772,
+        "volume": 39244959325.88965
       },
       {
         "label": "USD Stablecoin",
-        "market_cap": 306082182273.68066,
-        "change_pct": 0.24056600863406677,
-        "volume": 39095924859.533325
+        "market_cap": 306033645137.89264,
+        "change_pct": 0.2246703105320479,
+        "volume": 39197307219.6488
       },
       {
         "label": "Fiat-backed Stablecoin",
-        "market_cap": 299815932282.34674,
-        "change_pct": 0.23502008828905907,
-        "volume": 38395212168.04438
+        "market_cap": 299717244637.7149,
+        "change_pct": 0.20202665139317585,
+        "volume": 38447417798.19272
       }
     ],
     "heatmap": [
       {
         "label": "Smart Contract Platform",
         "subLabel": "Category",
-        "change_pct": 0.8052415305634981,
-        "value": 1962162546877.116,
+        "change_pct": 0.8269251634066872,
+        "value": 1962584616321.1165,
         "size": 4,
         "detail_url": "https://www.coingecko.com/en/categories"
       },
       {
         "label": "Layer 1 (L1)",
         "subLabel": "Category",
-        "change_pct": 0.811126015488659,
-        "value": 1931164080552.3953,
+        "change_pct": 0.8135522468918908,
+        "value": 1931210558070.5247,
         "size": 4,
         "detail_url": "https://www.coingecko.com/en/categories"
       },
       {
         "label": "Proof of Work (PoW)",
         "subLabel": "Category",
-        "change_pct": 0.7212835437206302,
-        "value": 1391312498883.105,
+        "change_pct": 0.7298696598926511,
+        "value": 1391431103117.7483,
         "size": 3,
         "detail_url": "https://www.coingecko.com/en/categories"
       },
       {
         "label": "World Liberty Financial Portfolio",
         "subLabel": "Category",
-        "change_pct": 0.42717365778179317,
-        "value": 562584901911.1147,
+        "change_pct": 0.3999293818952936,
+        "value": 562432281681.7585,
         "size": 2,
         "detail_url": "https://www.coingecko.com/en/categories"
       },
       {
         "label": "Proof of Stake (PoS)",
         "subLabel": "Category",
-        "change_pct": 1.2193262541999939,
-        "value": 448586225615.308,
+        "change_pct": 1.2035529200610156,
+        "value": 448516320976.6523,
         "size": 1,
         "detail_url": "https://www.coingecko.com/en/categories"
       },
       {
         "label": "Stablecoins",
         "subLabel": "Category",
-        "change_pct": 0.24837302987879517,
-        "value": 311079677916.10474,
+        "change_pct": 0.21546260795374772,
+        "value": 310977553930.01794,
         "size": 1,
         "detail_url": "https://www.coingecko.com/en/categories"
       },
       {
         "label": "USD Stablecoin",
         "subLabel": "Category",
-        "change_pct": 0.24056600863406677,
-        "value": 306082182273.68066,
+        "change_pct": 0.2246703105320479,
+        "value": 306033645137.89264,
         "size": 1,
         "detail_url": "https://www.coingecko.com/en/categories"
       },
       {
         "label": "Fiat-backed Stablecoin",
         "subLabel": "Category",
-        "change_pct": 0.23502008828905907,
-        "value": 299815932282.34674,
+        "change_pct": 0.20202665139317585,
+        "value": 299717244637.7149,
         "size": 1,
         "detail_url": "https://www.coingecko.com/en/categories"
       },
       {
         "label": "Made in USA",
         "subLabel": "Category",
-        "change_pct": 0.9114244168420441,
-        "value": 295732563789.62067,
+        "change_pct": 0.884913786847185,
+        "value": 295654871331.8899,
         "size": 1,
         "detail_url": "https://www.coingecko.com/en/categories"
       },
       {
         "label": "Exchange-based Tokens",
         "subLabel": "Category",
-        "change_pct": 1.5355771443206314,
-        "value": 130750967058.36052,
+        "change_pct": 1.5451531684820192,
+        "value": 130763298444.60847,
         "size": 1,
         "detail_url": "https://www.coingecko.com/en/categories"
       },
       {
         "label": "Made in China",
         "subLabel": "Category",
-        "change_pct": 1.8469769277278263,
-        "value": 123673028741.81793,
+        "change_pct": 1.8105557303996422,
+        "value": 123628802394.41072,
         "size": 1,
         "detail_url": "https://www.coingecko.com/en/categories"
       },
       {
         "label": "Alleged SEC Securities",
         "subLabel": "Category",
-        "change_pct": 1.6386571522499942,
-        "value": 121513651440.09183,
+        "change_pct": 1.5565096870864883,
+        "value": 121415440397.87378,
         "size": 1,
         "detail_url": "https://www.coingecko.com/en/categories"
       },
       {
         "label": "Base Native",
         "subLabel": "Category",
-        "change_pct": 0.62415546919532,
-        "value": 118030962560.96281,
+        "change_pct": 0.6116758846814779,
+        "value": 118016324153.65732,
         "size": 1,
         "detail_url": "https://www.coingecko.com/en/categories"
       },
       {
         "label": "Centralized Exchange (CEX) Token",
         "subLabel": "Category",
-        "change_pct": 1.4394372647483784,
-        "value": 113017271739.03773,
+        "change_pct": 1.3914828996700628,
+        "value": 112963844081.55789,
         "size": 1,
         "detail_url": "https://www.coingecko.com/en/categories"
       },
       {
         "label": "MiCA-Compliant Stablecoin",
         "subLabel": "Category",
-        "change_pct": 0.42702978519264195,
-        "value": 78187141916.08163,
+        "change_pct": 0.39699144276220444,
+        "value": 78163755660.93144,
         "size": 1,
         "detail_url": "https://www.coingecko.com/en/categories"
       },
       {
         "label": "Real World Assets (RWA)",
         "subLabel": "Category",
-        "change_pct": 1.4097508755187498,
-        "value": 54588472535.125946,
+        "change_pct": 1.3911164132711453,
+        "value": 54578441676.93107,
         "size": 1,
         "detail_url": "https://www.coingecko.com/en/categories"
       },
       {
         "label": "CoinList Launchpad",
         "subLabel": "Category",
-        "change_pct": 2.7952824245247916,
-        "value": 53640643230.05526,
+        "change_pct": 2.774955290758229,
+        "value": 53630036123.34234,
         "size": 1,
         "detail_url": "https://www.coingecko.com/en/categories"
       },
       {
         "label": "Decentralized Finance (DeFi)",
         "subLabel": "Category",
-        "change_pct": 0.9365205803834576,
-        "value": 49534384163.633415,
+        "change_pct": 0.9913914614664732,
+        "value": 49561311932.56516,
         "size": 1,
         "detail_url": "https://www.coingecko.com/en/categories"
       },
       {
         "label": "Meme",
         "subLabel": "Category",
-        "change_pct": -23.338958975031808,
-        "value": 33450093693.192276,
+        "change_pct": -23.320577884792577,
+        "value": 33458114053.76219,
         "size": 1,
         "detail_url": "https://www.coingecko.com/en/categories"
       },
       {
         "label": "Governance",
         "subLabel": "Category",
-        "change_pct": 1.619454210970096,
-        "value": 25854665571.74062,
+        "change_pct": 1.655876846890937,
+        "value": 25863932449.60654,
         "size": 1,
         "detail_url": "https://www.coingecko.com/en/categories"
       },
       {
         "label": "Artificial Intelligence (AI)",
         "subLabel": "Category",
-        "change_pct": 2.7635984678316334,
-        "value": 21436616594.36593,
+        "change_pct": 2.752166907178698,
+        "value": 21434231956.35747,
         "size": 1,
         "detail_url": "https://www.coingecko.com/en/categories"
       },
       {
         "label": "Infrastructure",
         "subLabel": "Category",
-        "change_pct": 3.2210299742416995,
-        "value": 21063047523.454075,
+        "change_pct": 3.192353179047828,
+        "value": 21057195802.151356,
         "size": 1,
         "detail_url": "https://www.coingecko.com/en/categories"
       },
       {
         "label": "Dog-Themed",
         "subLabel": "Category",
-        "change_pct": 1.81877763752865,
-        "value": 19193098073.631218,
+        "change_pct": 1.7791532245358395,
+        "value": 19185628771.186943,
         "size": 1,
         "detail_url": "https://www.coingecko.com/en/categories"
       },
       {
         "label": "Privacy",
         "subLabel": "Category",
-        "change_pct": 2.0207326092596776,
-        "value": 18939928454.55895,
+        "change_pct": 2.0976235464190913,
+        "value": 18954203090.815296,
         "size": 1,
         "detail_url": "https://www.coingecko.com/en/categories"
       }
     ],
     "trending": [
+      {
+        "symbol": "PENGU",
+        "name": "Pudgy Penguins",
+        "market_cap_rank": 109,
+        "detail_url": "https://www.coingecko.com/en/coins/pudgy-penguins"
+      },
       {
         "symbol": "SIREN",
         "name": "Siren",
@@ -1105,10 +1111,10 @@
         "detail_url": "https://www.coingecko.com/en/coins/siren-2"
       },
       {
-        "symbol": "PENGU",
-        "name": "Pudgy Penguins",
-        "market_cap_rank": 109,
-        "detail_url": "https://www.coingecko.com/en/coins/pudgy-penguins"
+        "symbol": "EDGE",
+        "name": "edgeX",
+        "market_cap_rank": 129,
+        "detail_url": "https://www.coingecko.com/en/coins/edgex"
       },
       {
         "symbol": "STO",
@@ -1117,34 +1123,28 @@
         "detail_url": "https://www.coingecko.com/en/coins/stakestone"
       },
       {
-        "symbol": "TAO",
-        "name": "Bittensor",
-        "market_cap_rank": 36,
-        "detail_url": "https://www.coingecko.com/en/coins/bittensor"
-      },
-      {
         "symbol": "HYPE",
         "name": "Hyperliquid",
         "market_cap_rank": 16,
         "detail_url": "https://www.coingecko.com/en/coins/hyperliquid"
       },
       {
-        "symbol": "BTC",
-        "name": "Bitcoin",
-        "market_cap_rank": 1,
-        "detail_url": "https://www.coingecko.com/en/coins/bitcoin"
-      },
-      {
-        "symbol": "PIPPIN",
-        "name": "pippin",
-        "market_cap_rank": 499,
-        "detail_url": "https://www.coingecko.com/en/coins/pippin"
-      },
-      {
         "symbol": "SOL",
         "name": "Solana",
         "market_cap_rank": 7,
         "detail_url": "https://www.coingecko.com/en/coins/solana"
+      },
+      {
+        "symbol": "PIPPIN",
+        "name": "pippin",
+        "market_cap_rank": 497,
+        "detail_url": "https://www.coingecko.com/en/coins/pippin"
+      },
+      {
+        "symbol": "QNT",
+        "name": "Quant",
+        "market_cap_rank": 65,
+        "detail_url": "https://www.coingecko.com/en/coins/quant"
       }
     ]
   },
