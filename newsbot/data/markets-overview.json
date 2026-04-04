@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-04T12:30:46.554335+00:00",
+  "generated_at": "2026-04-04T12:30:59.856698+00:00",
   "top_cards": [
     {
       "label": "US stocks tracked",
@@ -27,7 +27,7 @@
     }
   ],
   "status": {
-    "generated_at": "2026-04-04T12:30:46.554335+00:00",
+    "generated_at": "2026-04-04T12:30:59.856698+00:00",
     "overall_status": "ok",
     "providers": {
       "stocks": {
@@ -35,7 +35,7 @@
         "stale": false,
         "provider": "finviz-public",
         "message": "Using public Finviz fallback because NEWSBOT_FMP_API_KEY is not configured. Public Finviz snapshot is capped at the top 100 stocks to avoid rate limits.",
-        "as_of": "2026-04-04T12:30:46.554335+00:00",
+        "as_of": "2026-04-04T12:30:59.856698+00:00",
         "row_count": 100
       },
       "crypto": {
@@ -68,7 +68,7 @@
         "avg_volume": 89.53,
         "pe": null,
         "dividend_yield": null,
-        "as_of": "2026-04-04T12:30:46.554335+00:00",
+        "as_of": "2026-04-04T12:30:59.856698+00:00",
         "detail_url": "https://finviz.com/quote.ashx?t=SPY&p=d",
         "high_52w": 697.84,
         "low_52w": 481.8
@@ -88,7 +88,7 @@
         "avg_volume": 66.15,
         "pe": null,
         "dividend_yield": null,
-        "as_of": "2026-04-04T12:30:46.554335+00:00",
+        "as_of": "2026-04-04T12:30:59.856698+00:00",
         "detail_url": "https://finviz.com/quote.ashx?t=QQQ&p=d",
         "high_52w": 637.01,
         "low_52w": 402.39
@@ -108,7 +108,7 @@
         "avg_volume": 7.27,
         "pe": null,
         "dividend_yield": null,
-        "as_of": "2026-04-04T12:30:46.554335+00:00",
+        "as_of": "2026-04-04T12:30:59.856698+00:00",
         "detail_url": "https://finviz.com/quote.ashx?t=DIA&p=d",
         "high_52w": 505.3,
         "low_52w": 366.32
@@ -128,7 +128,7 @@
         "avg_volume": 45.09,
         "pe": null,
         "dividend_yield": null,
-        "as_of": "2026-04-04T12:30:46.554335+00:00",
+        "as_of": "2026-04-04T12:30:59.856698+00:00",
         "detail_url": "https://finviz.com/quote.ashx?t=IWM&p=d",
         "high_52w": 271.6,
         "low_52w": 171.73
@@ -818,243 +818,243 @@
     "group_performance": [
       {
         "label": "Smart Contract Platform",
-        "market_cap": 1952337495651.5579,
-        "change_pct": 0.30048382666233897,
-        "volume": 36268572200.580956
+        "market_cap": 1952539107172.7297,
+        "change_pct": 0.31084153026820033,
+        "volume": 35784570286.78677
       },
       {
         "label": "Layer 1 (L1)",
-        "market_cap": 1921181210833.4634,
-        "change_pct": 0.28999767255490927,
-        "volume": 34742053316.545334
+        "market_cap": 1921662325774.073,
+        "change_pct": 0.31511295892242347,
+        "volume": 34955890094.60225
       },
       {
         "label": "Proof of Work (PoW)",
-        "market_cap": 1385357876216.078,
-        "change_pct": 0.29021055435054577,
-        "volume": 22724571489.54556
+        "market_cap": 1385683025986.4092,
+        "change_pct": 0.31374912116282155,
+        "volume": 22756224528.859413
       },
       {
         "label": "World Liberty Financial Portfolio",
-        "market_cap": 560105395319.2762,
-        "change_pct": -0.015443693374072014,
-        "volume": 46147541381.3849
+        "market_cap": 560315879901.692,
+        "change_pct": 0.022129962866518155,
+        "volume": 46386444497.71463
       },
       {
         "label": "Proof of Stake (PoS)",
-        "market_cap": 444847197685.9754,
-        "change_pct": 0.3756492390764041,
-        "volume": 10888497187.387173
+        "market_cap": 445054230683.8273,
+        "change_pct": 0.42236431715578354,
+        "volume": 10894145167.823376
       },
       {
         "label": "Stablecoins",
-        "market_cap": 311007891864.1429,
-        "change_pct": 0.22523929461321182,
-        "volume": 39882559618.84722
+        "market_cap": 311082436627.09454,
+        "change_pct": 0.24926205062820714,
+        "volume": 39790581493.458755
       },
       {
         "label": "USD Stablecoin",
-        "market_cap": 306069726199.48145,
-        "change_pct": 0.2364866992188627,
-        "volume": 39652127025.37306
+        "market_cap": 306065948387.10187,
+        "change_pct": 0.2352494823106773,
+        "volume": 39652532307.2602
       },
       {
         "label": "Fiat-backed Stablecoin",
-        "market_cap": 299743467892.0904,
-        "change_pct": 0.2107936585668708,
-        "volume": 38982714190.26785
+        "market_cap": 299808114720.1945,
+        "change_pct": 0.23240650637096588,
+        "volume": 38969371456.12937
       }
     ],
     "heatmap": [
       {
         "label": "Smart Contract Platform",
         "subLabel": "Category",
-        "change_pct": 0.30048382666233897,
-        "value": 1952337495651.5579,
+        "change_pct": 0.31084153026820033,
+        "value": 1952539107172.7297,
         "size": 4,
         "detail_url": "https://www.coingecko.com/en/categories"
       },
       {
         "label": "Layer 1 (L1)",
         "subLabel": "Category",
-        "change_pct": 0.28999767255490927,
-        "value": 1921181210833.4634,
+        "change_pct": 0.31511295892242347,
+        "value": 1921662325774.073,
         "size": 4,
         "detail_url": "https://www.coingecko.com/en/categories"
       },
       {
         "label": "Proof of Work (PoW)",
         "subLabel": "Category",
-        "change_pct": 0.29021055435054577,
-        "value": 1385357876216.078,
+        "change_pct": 0.31374912116282155,
+        "value": 1385683025986.4092,
         "size": 3,
         "detail_url": "https://www.coingecko.com/en/categories"
       },
       {
         "label": "World Liberty Financial Portfolio",
         "subLabel": "Category",
-        "change_pct": -0.015443693374072014,
-        "value": 560105395319.2762,
+        "change_pct": 0.022129962866518155,
+        "value": 560315879901.692,
         "size": 2,
         "detail_url": "https://www.coingecko.com/en/categories"
       },
       {
         "label": "Proof of Stake (PoS)",
         "subLabel": "Category",
-        "change_pct": 0.3756492390764041,
-        "value": 444847197685.9754,
+        "change_pct": 0.42236431715578354,
+        "value": 445054230683.8273,
         "size": 1,
         "detail_url": "https://www.coingecko.com/en/categories"
       },
       {
         "label": "Stablecoins",
         "subLabel": "Category",
-        "change_pct": 0.22523929461321182,
-        "value": 311007891864.1429,
+        "change_pct": 0.24926205062820714,
+        "value": 311082436627.09454,
         "size": 1,
         "detail_url": "https://www.coingecko.com/en/categories"
       },
       {
         "label": "USD Stablecoin",
         "subLabel": "Category",
-        "change_pct": 0.2364866992188627,
-        "value": 306069726199.48145,
+        "change_pct": 0.2352494823106773,
+        "value": 306065948387.10187,
         "size": 1,
         "detail_url": "https://www.coingecko.com/en/categories"
       },
       {
         "label": "Fiat-backed Stablecoin",
         "subLabel": "Category",
-        "change_pct": 0.2107936585668708,
-        "value": 299743467892.0904,
+        "change_pct": 0.23240650637096588,
+        "value": 299808114720.1945,
         "size": 1,
         "detail_url": "https://www.coingecko.com/en/categories"
       },
       {
         "label": "Made in USA",
         "subLabel": "Category",
-        "change_pct": 0.49521006527390393,
-        "value": 294512799645.1088,
+        "change_pct": 0.5370397305419025,
+        "value": 294635386301.9086,
         "size": 1,
         "detail_url": "https://www.coingecko.com/en/categories"
       },
       {
         "label": "Exchange-based Tokens",
         "subLabel": "Category",
-        "change_pct": 0.8914037508012852,
-        "value": 129921442112.27977,
+        "change_pct": 0.9080944284252747,
+        "value": 129942935290.35167,
         "size": 1,
         "detail_url": "https://www.coingecko.com/en/categories"
       },
       {
         "label": "Made in China",
         "subLabel": "Category",
-        "change_pct": 1.2461475985331827,
-        "value": 122943440244.05481,
+        "change_pct": 1.2922857653839972,
+        "value": 122999465930.89561,
         "size": 1,
         "detail_url": "https://www.coingecko.com/en/categories"
       },
       {
         "label": "Alleged SEC Securities",
         "subLabel": "Category",
-        "change_pct": 1.0187458381474546,
-        "value": 120772519183.36801,
+        "change_pct": 1.036776844488341,
+        "value": 120794076074.03352,
         "size": 1,
         "detail_url": "https://www.coingecko.com/en/categories"
       },
       {
         "label": "Base Native",
         "subLabel": "Category",
-        "change_pct": 0.6159200469431445,
-        "value": 118021302506.56546,
+        "change_pct": 0.6264103360099142,
+        "value": 118033607493.4776,
         "size": 1,
         "detail_url": "https://www.coingecko.com/en/categories"
       },
       {
         "label": "Centralized Exchange (CEX) Token",
         "subLabel": "Category",
-        "change_pct": 0.804620474704811,
-        "value": 112309999857.4163,
+        "change_pct": 0.8219935565059032,
+        "value": 112329355823.49619,
         "size": 1,
         "detail_url": "https://www.coingecko.com/en/categories"
       },
       {
         "label": "MiCA-Compliant Stablecoin",
         "subLabel": "Category",
-        "change_pct": 0.42595058946528147,
-        "value": 78186301711.70966,
+        "change_pct": 0.45244439550754306,
+        "value": 78206928379.42406,
         "size": 1,
         "detail_url": "https://www.coingecko.com/en/categories"
       },
       {
         "label": "Real World Assets (RWA)",
         "subLabel": "Category",
-        "change_pct": 0.9210680871901646,
-        "value": 54325416500.19091,
+        "change_pct": 0.9509078801377744,
+        "value": 54341479144.10544,
         "size": 1,
         "detail_url": "https://www.coingecko.com/en/categories"
       },
       {
         "label": "CoinList Launchpad",
         "subLabel": "Category",
-        "change_pct": 1.9529730876612292,
-        "value": 53201109298.513054,
+        "change_pct": 2.0184063995146944,
+        "value": 53235253715.00483,
         "size": 1,
         "detail_url": "https://www.coingecko.com/en/categories"
       },
       {
         "label": "Decentralized Finance (DeFi)",
         "subLabel": "Category",
-        "change_pct": 0.6475642870269259,
-        "value": 49392579473.325874,
+        "change_pct": 0.6804621384450262,
+        "value": 49408724024.38561,
         "size": 1,
         "detail_url": "https://www.coingecko.com/en/categories"
       },
       {
         "label": "Meme",
         "subLabel": "Category",
-        "change_pct": -24.126273313533666,
-        "value": 33106558854.155804,
+        "change_pct": -24.004897805207264,
+        "value": 33159519550.63597,
         "size": 1,
         "detail_url": "https://www.coingecko.com/en/categories"
       },
       {
         "label": "Governance",
         "subLabel": "Category",
-        "change_pct": 1.1995936856631986,
-        "value": 25747841995.9512,
+        "change_pct": 1.2336580744554781,
+        "value": 25756508873.63686,
         "size": 1,
         "detail_url": "https://www.coingecko.com/en/categories"
       },
       {
         "label": "Artificial Intelligence (AI)",
         "subLabel": "Category",
-        "change_pct": 2.5661572933835917,
-        "value": 21395430115.69363,
+        "change_pct": 2.634816774027833,
+        "value": 21409752570.182217,
         "size": 1,
         "detail_url": "https://www.coingecko.com/en/categories"
       },
       {
         "label": "Infrastructure",
         "subLabel": "Category",
-        "change_pct": 1.6434735384619112,
-        "value": 20741134961.778877,
+        "change_pct": 1.6970539986274704,
+        "value": 20752068468.052525,
         "size": 1,
         "detail_url": "https://www.coingecko.com/en/categories"
       },
       {
         "label": "Dog-Themed",
         "subLabel": "Category",
-        "change_pct": 0.6222448170418291,
-        "value": 18967548599.31247,
+        "change_pct": 0.6781425945033609,
+        "value": 18978085472.27255,
         "size": 1,
         "detail_url": "https://www.coingecko.com/en/categories"
       },
       {
         "label": "Privacy",
         "subLabel": "Category",
-        "change_pct": 0.195469021689908,
-        "value": 18601072215.487545,
+        "change_pct": 0.28059117881613016,
+        "value": 18616874959.936,
         "size": 1,
         "detail_url": "https://www.coingecko.com/en/categories"
       }
@@ -1133,6 +1133,13 @@
       "section_label": "코인"
     },
     {
+      "title": "Prediction markets are testing legal limits in strict Asian markets",
+      "source_name": "Cointelegraph",
+      "canonical_url": "https://cointelegraph.com/news/prediction-markets-testing-legal-limits-asia",
+      "published_at": "2026-04-04T12:00:00+00:00",
+      "section_label": "코인"
+    },
+    {
       "title": "The US should shape the global climate adaptation market",
       "source_name": "The Hill Feed",
       "canonical_url": "https://thehill.com/opinion/energy-environment/5814681-climate-adaptation-investment-gap",
@@ -1145,6 +1152,13 @@
       "canonical_url": "https://www.washingtonexaminer.com/op-eds/4515340/iran-war-global-markets-dictate-american-energy-prices",
       "published_at": "2026-04-04T12:00:00+00:00",
       "section_label": "시장"
+    },
+    {
+      "title": "Bitcoin shorts risk $2.5 billion liquidation at $72K: Are bears in danger?",
+      "source_name": "Cointelegraph",
+      "canonical_url": "https://cointelegraph.com/news/bitcoin-shorts-risk-2-5-billion-liquidation-72k-are-bears-in-danger",
+      "published_at": "2026-04-04T11:58:24+00:00",
+      "section_label": "코인"
     },
     {
       "title": "Five data sources say the same thing about bitcoin market. It's thinning from the inside",
@@ -1165,20 +1179,6 @@
       "source_name": "NPR Top Stories",
       "canonical_url": "https://www.npr.org/2026/04/04/nx-s1-5773436/iran-war-updates",
       "published_at": "2026-04-04T10:48:27+00:00",
-      "section_label": "시장"
-    },
-    {
-      "title": "No mediocre worker is safe — the bar for keeping your job just went up",
-      "source_name": "Business Insider Feed",
-      "canonical_url": "https://www.businessinsider.com/companies-replacing-workers-executives-recruiters-hiring-slowdown-job-market-economy-2026-4",
-      "published_at": "2026-04-04T10:45:01+00:00",
-      "section_label": "시장"
-    },
-    {
-      "title": "The Fog of War Against Iran",
-      "source_name": "National Review Feed",
-      "canonical_url": "https://www.nationalreview.com/2026/04/the-fog-of-war-against-iran",
-      "published_at": "2026-04-04T10:30:23+00:00",
       "section_label": "시장"
     }
   ]

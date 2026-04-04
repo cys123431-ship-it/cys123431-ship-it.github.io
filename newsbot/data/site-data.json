@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-04-04T12:30:46.554335+00:00",
-  "article_count": 1863,
+  "generated_at": "2026-04-04T12:30:59.856698+00:00",
+  "article_count": 1828,
   "removed_article_count": 0,
   "removed_articles_log_path": "data/removed-articles.txt",
   "page_size": 25,
-  "healthy_source_count": 133,
+  "healthy_source_count": 131,
   "warning_source_count": 0,
-  "failed_source_count": 1,
+  "failed_source_count": 3,
   "hubs": [
     {
       "key": "kr",
       "label": "한국",
       "description": "한국 주요 신문사와 방송사 기사 흐름을 정치, 경제, 사회, 문화, 지역, 스포츠로 나눠 모아봅니다.",
       "order": 10,
-      "count": 606,
+      "count": 570,
       "categories": [
         {
           "key": "kr-politics",
@@ -22,7 +22,7 @@
           "hub_label": "대한민국",
           "description": "",
           "order": 10,
-          "count": 117
+          "count": 99
         },
         {
           "key": "kr-economy",
@@ -31,7 +31,7 @@
           "hub_label": "대한민국",
           "description": "",
           "order": 20,
-          "count": 169
+          "count": 151
         },
         {
           "key": "kr-society",
@@ -76,7 +76,7 @@
       "label": "미국",
       "description": "미국 주요 언론사와 방송사 보도를 정치, 경제, 시장, 세계, 기술 흐름으로 묶습니다.",
       "order": 20,
-      "count": 1140,
+      "count": 1141,
       "categories": [
         {
           "key": "us-politics",
@@ -85,7 +85,7 @@
           "hub_label": "미국",
           "description": "",
           "order": 10,
-          "count": 407
+          "count": 410
         },
         {
           "key": "us-economy",
@@ -94,7 +94,7 @@
           "hub_label": "미국",
           "description": "",
           "order": 20,
-          "count": 137
+          "count": 136
         },
         {
           "key": "us-markets",
@@ -121,7 +121,7 @@
           "hub_label": "미국",
           "description": "",
           "order": 50,
-          "count": 299
+          "count": 298
         }
       ]
     },
@@ -197,7 +197,7 @@
       "hub_label": "대한민국",
       "description": "",
       "order": 10,
-      "count": 117
+      "count": 99
     },
     {
       "key": "kr-economy",
@@ -206,7 +206,7 @@
       "hub_label": "대한민국",
       "description": "",
       "order": 20,
-      "count": 169
+      "count": 151
     },
     {
       "key": "kr-society",
@@ -251,7 +251,7 @@
       "hub_label": "미국",
       "description": "",
       "order": 10,
-      "count": 407
+      "count": 410
     },
     {
       "key": "us-economy",
@@ -260,7 +260,7 @@
       "hub_label": "미국",
       "description": "",
       "order": 20,
-      "count": 137
+      "count": 136
     },
     {
       "key": "us-markets",
@@ -287,7 +287,7 @@
       "hub_label": "미국",
       "description": "",
       "order": 50,
-      "count": 299
+      "count": 298
     }
   ],
   "sources": [
@@ -792,26 +792,6 @@
       "publisher_group": "broadcast"
     },
     {
-      "source_key": "pressian-economy-rss",
-      "name": "Pressian Economy",
-      "category": "kr-economy",
-      "count": 18,
-      "hub": "kr",
-      "section": "kr-economy",
-      "section_label": "경제",
-      "publisher_group": "internet"
-    },
-    {
-      "source_key": "pressian-politics-rss",
-      "name": "Pressian Politics",
-      "category": "kr-politics",
-      "count": 18,
-      "hub": "kr",
-      "section": "kr-politics",
-      "section_label": "정치",
-      "publisher_group": "internet"
-    },
-    {
       "source_key": "semafor-feed",
       "name": "Semafor Feed",
       "category": null,
@@ -839,6 +819,16 @@
       "hub": "kr",
       "section": "kr-economy",
       "section_label": "경제",
+      "publisher_group": "internet"
+    },
+    {
+      "source_key": "huffpost-politics-rss",
+      "name": "HuffPost Politics",
+      "category": "us-politics",
+      "count": 18,
+      "hub": "us",
+      "section": "us-politics",
+      "section_label": "정치",
       "publisher_group": "internet"
     },
     {
@@ -960,16 +950,6 @@
       "section": "us-markets",
       "section_label": "시장",
       "publisher_group": "newspaper"
-    },
-    {
-      "source_key": "huffpost-politics-rss",
-      "name": "HuffPost Politics",
-      "category": "us-politics",
-      "count": 17,
-      "hub": "us",
-      "section": "us-politics",
-      "section_label": "정치",
-      "publisher_group": "internet"
     },
     {
       "source_key": "yahoo-news-rss",
@@ -1162,16 +1142,6 @@
       "publisher_group": "business"
     },
     {
-      "source_key": "abc-money-rss",
-      "name": "ABC News Money",
-      "category": "us-economy",
-      "count": 14,
-      "hub": "us",
-      "section": "us-economy",
-      "section_label": "경제",
-      "publisher_group": "broadcast"
-    },
-    {
       "source_key": "cbs-world-rss",
       "name": "CBS News World",
       "category": "us-world",
@@ -1200,6 +1170,16 @@
       "section": "us-world",
       "section_label": "세계",
       "publisher_group": "public-media"
+    },
+    {
+      "source_key": "abc-money-rss",
+      "name": "ABC News Money",
+      "category": "us-economy",
+      "count": 13,
+      "hub": "us",
+      "section": "us-economy",
+      "section_label": "경제",
+      "publisher_group": "broadcast"
     },
     {
       "source_key": "forbes-innovation-rss",
@@ -1242,6 +1222,16 @@
       "publisher_group": "broadcast"
     },
     {
+      "source_key": "nypost-feed",
+      "name": "New York Post Feed",
+      "category": null,
+      "count": 12,
+      "hub": "global",
+      "section": null,
+      "section_label": "자동 분류",
+      "publisher_group": "newspaper"
+    },
+    {
       "source_key": "atlantic-feed",
       "name": "The Atlantic Feed",
       "category": null,
@@ -1280,16 +1270,6 @@
       "section": null,
       "section_label": "자동 분류",
       "publisher_group": "magazine"
-    },
-    {
-      "source_key": "nypost-feed",
-      "name": "New York Post Feed",
-      "category": null,
-      "count": 11,
-      "hub": "global",
-      "section": null,
-      "section_label": "자동 분류",
-      "publisher_group": "newspaper"
     },
     {
       "source_key": "npr-business-rss",
@@ -1941,7 +1921,7 @@
       "status": "ok",
       "fetched_count": 25,
       "accepted_count": 18,
-      "published_count": 14,
+      "published_count": 13,
       "message": null,
       "error": null
     },
@@ -2097,7 +2077,7 @@
       "status": "ok",
       "fetched_count": 50,
       "accepted_count": 18,
-      "published_count": 17,
+      "published_count": 18,
       "message": null,
       "error": null
     },
@@ -2107,9 +2087,9 @@
       "category": null,
       "trust_level": 70,
       "status": "ok",
-      "fetched_count": 23,
-      "accepted_count": 15,
-      "published_count": 11,
+      "fetched_count": 24,
+      "accepted_count": 17,
+      "published_count": 12,
       "message": null,
       "error": null
     },
@@ -2335,7 +2315,7 @@
       "category": null,
       "trust_level": 86,
       "status": "ok",
-      "fetched_count": 125,
+      "fetched_count": 128,
       "accepted_count": 18,
       "published_count": 18,
       "message": null,
@@ -2970,24 +2950,24 @@
       "source_name": "Pressian Politics",
       "category": "kr-politics",
       "trust_level": 80,
-      "status": "ok",
-      "fetched_count": 25,
-      "accepted_count": 18,
-      "published_count": 18,
-      "message": null,
-      "error": null
+      "status": "failed",
+      "fetched_count": 0,
+      "accepted_count": 0,
+      "published_count": 0,
+      "message": "",
+      "error": ""
     },
     {
       "source_key": "pressian-economy-rss",
       "source_name": "Pressian Economy",
       "category": "kr-economy",
       "trust_level": 80,
-      "status": "ok",
-      "fetched_count": 25,
-      "accepted_count": 18,
-      "published_count": 18,
-      "message": null,
-      "error": null
+      "status": "failed",
+      "fetched_count": 0,
+      "accepted_count": 0,
+      "published_count": 0,
+      "message": "",
+      "error": ""
     },
     {
       "source_key": "etoday-economy-rss",
@@ -3184,76 +3164,19 @@
   ],
   "articles": [
     {
-      "title": "국힘 서울 지지율 13%로 '풀썩'hellip;배현진 quot;후보들이 안 나서, 간판 교체해야quot;",
-      "canonical_url": "https://www.pressian.com/pages/articles/2026040409060075375&ref=rss",
-      "link_label": "www.pressian.com/pages/articles/2026040409060075375&ref...",
-      "source_key": "pressian-politics-rss",
-      "source_name": "Pressian Politics",
+      "title": "Harry Styles’s Debut Single Hits New Highs Thanks To A Blockbuster Film",
+      "canonical_url": "https://www.forbes.com/sites/hughmcintyre/2026/04/04/harry-styless-debut-single-hits-new-highs-thanks-to-a-blockbuster-film",
+      "link_label": "www.forbes.com/sites/hughmcintyre/2026/04/04/harry-st...",
+      "source_key": "forbes-business-rss",
+      "source_name": "Forbes Business",
       "source_names": [
-        "Pressian Politics"
+        "Forbes Business"
       ],
-      "primary_category": "kr-politics",
-      "hub": "kr",
-      "hub_label": "대한민국",
-      "section_key": "kr-politics",
-      "section_label": "정치",
-      "published_at": "2026-04-04T19:51:04+00:00",
-      "trust_level": 80,
-      "language": "ko",
-      "sort_timestamp": 1775332264
-    },
-    {
-      "title": "경기 與후보적합도 김동연middot;추미애 격차 더 벌어졌다hellip;金 35.0%, 秋 21.5%",
-      "canonical_url": "https://www.pressian.com/pages/articles/2026040413054743167&ref=rss",
-      "link_label": "www.pressian.com/pages/articles/2026040413054743167&ref...",
-      "source_key": "pressian-politics-rss",
-      "source_name": "Pressian Politics",
-      "source_names": [
-        "Pressian Politics"
-      ],
-      "primary_category": "kr-politics",
-      "hub": "kr",
-      "hub_label": "대한민국",
-      "section_key": "kr-politics",
-      "section_label": "정치",
-      "published_at": "2026-04-04T13:10:04+00:00",
-      "trust_level": 80,
-      "language": "ko",
-      "sort_timestamp": 1775308204
-    },
-    {
-      "title": "New Password Stealer Bypasses 2FA—Chrome, Edge And Firefox Targeted",
-      "canonical_url": "https://www.forbes.com/sites/daveywinder/2026/04/04/new-password-stealer-bypasses-2fa-chrome-edge-and-firefox-targeted",
-      "link_label": "www.forbes.com/sites/daveywinder/2026/04/04/new-passw...",
-      "source_key": "forbes-innovation-rss",
-      "source_name": "Forbes Innovation",
-      "source_names": [
-        "Forbes Innovation"
-      ],
-      "primary_category": "us-technology",
+      "primary_category": "us-economy",
       "hub": "us",
       "hub_label": "미국",
-      "section_key": "us-technology",
-      "section_label": "기술",
-      "published_at": "2026-04-04T12:30:11+00:00",
-      "trust_level": 82,
-      "language": "en",
-      "sort_timestamp": 1775305811
-    },
-    {
-      "title": "Meet The Lizard That Shoots Blood From Its Eyes — A Herpetologist Explains",
-      "canonical_url": "https://www.forbes.com/sites/scotttravers/2026/04/04/meet-the-lizard-that-shoots-blood-from-its-eyes---a-herpetologist-explains",
-      "link_label": "www.forbes.com/sites/scotttravers/2026/04/04/meet-the...",
-      "source_key": "forbes-innovation-rss",
-      "source_name": "Forbes Innovation",
-      "source_names": [
-        "Forbes Innovation"
-      ],
-      "primary_category": "us-technology",
-      "hub": "us",
-      "hub_label": "미국",
-      "section_key": "us-technology",
-      "section_label": "기술",
+      "section_key": "us-economy",
+      "section_label": "경제",
       "published_at": "2026-04-04T12:30:00+00:00",
       "trust_level": 82,
       "language": "en",
@@ -3793,6 +3716,25 @@
       "sort_timestamp": 1775304000
     },
     {
+      "title": "Prediction markets are testing legal limits in strict Asian markets",
+      "canonical_url": "https://cointelegraph.com/news/prediction-markets-testing-legal-limits-asia",
+      "link_label": "cointelegraph.com/news/prediction-markets-testing-legal-...",
+      "source_key": "cointelegraph-rss",
+      "source_name": "Cointelegraph",
+      "source_names": [
+        "Cointelegraph"
+      ],
+      "primary_category": "crypto",
+      "hub": "global",
+      "hub_label": "글로벌 전문",
+      "section_key": "crypto",
+      "section_label": "코인",
+      "published_at": "2026-04-04T12:00:00+00:00",
+      "trust_level": 85,
+      "language": "en",
+      "sort_timestamp": 1775304000
+    },
+    {
       "title": "The app for tracking TV, movies, podcasts, and everything",
       "canonical_url": "https://www.theverge.com/tech/906873/sofa-app-track-tv-movies-installer",
       "link_label": "www.theverge.com/tech/906873/sofa-app-track-tv-movies-i...",
@@ -4057,6 +3999,25 @@
       "trust_level": 69,
       "language": "en",
       "sort_timestamp": 1775304000
+    },
+    {
+      "title": "Bitcoin shorts risk $2.5 billion liquidation at $72K: Are bears in danger?",
+      "canonical_url": "https://cointelegraph.com/news/bitcoin-shorts-risk-2-5-billion-liquidation-72k-are-bears-in-danger",
+      "link_label": "cointelegraph.com/news/bitcoin-shorts-risk-2-5-billion-l...",
+      "source_key": "cointelegraph-rss",
+      "source_name": "Cointelegraph",
+      "source_names": [
+        "Cointelegraph"
+      ],
+      "primary_category": "crypto",
+      "hub": "global",
+      "hub_label": "글로벌 전문",
+      "section_key": "crypto",
+      "section_label": "코인",
+      "published_at": "2026-04-04T11:58:24+00:00",
+      "trust_level": 85,
+      "language": "en",
+      "sort_timestamp": 1775303904
     },
     {
       "title": "[뉴스핌] [AI 상보] 8회 4득점 대역전 드라마… LG, 키움에 6-4 짜릿한 역전승",
@@ -4384,25 +4345,6 @@
       "sort_timestamp": 1775302200
     },
     {
-      "title": "장동혁 quot;결국 2차 특검은 이재명 '공소취소' 비밀병기였다quot;",
-      "canonical_url": "https://www.pressian.com/pages/articles/2026040411273702832&ref=rss",
-      "link_label": "www.pressian.com/pages/articles/2026040411273702832&ref...",
-      "source_key": "pressian-politics-rss",
-      "source_name": "Pressian Politics",
-      "source_names": [
-        "Pressian Politics"
-      ],
-      "primary_category": "kr-politics",
-      "hub": "kr",
-      "hub_label": "대한민국",
-      "section_key": "kr-politics",
-      "section_label": "정치",
-      "published_at": "2026-04-04T11:27:37+00:00",
-      "trust_level": 80,
-      "language": "ko",
-      "sort_timestamp": 1775302057
-    },
-    {
       "title": "Rahm Emanuel is latest Dem to bash his party’s lunatic obsessions",
       "canonical_url": "https://nypost.com/2026/04/04/opinion/rahm-emanuel-is-latest-dem-to-bash-his-partys-lunatic-obsessions",
       "link_label": "nypost.com/2026/04/04/opinion/rahm-emanuel-is-lat...",
@@ -4714,25 +4656,6 @@
       "source_name": "Newsweek Feed",
       "source_names": [
         "Newsweek Feed"
-      ],
-      "primary_category": "us-politics",
-      "hub": "us",
-      "hub_label": "미국",
-      "section_key": "us-politics",
-      "section_label": "정치",
-      "published_at": "2026-04-04T11:00:00+00:00",
-      "trust_level": 78,
-      "language": "en",
-      "sort_timestamp": 1775300400
-    },
-    {
-      "title": "How one Democratic senator is tackling Trump’s corruption",
-      "canonical_url": "https://www.vox.com/podcasts/484772/chris-murphy-interview-trump-corruption-democracy-economy",
-      "link_label": "www.vox.com/podcasts/484772/chris-murphy-interview...",
-      "source_key": "vox-feed",
-      "source_name": "Vox Feed",
-      "source_names": [
-        "Vox Feed"
       ],
       "primary_category": "us-politics",
       "hub": "us",
@@ -7723,25 +7646,6 @@
       "sort_timestamp": 1775292277
     },
     {
-      "title": "김부겸 공개지지한 홍준표, 거듭 지지선언 quot;더는 진영논리 지배하는 시대 안된다quot;",
-      "canonical_url": "https://www.pressian.com/pages/articles/2026040408405933932&ref=rss",
-      "link_label": "www.pressian.com/pages/articles/2026040408405933932&ref...",
-      "source_key": "pressian-politics-rss",
-      "source_name": "Pressian Politics",
-      "source_names": [
-        "Pressian Politics"
-      ],
-      "primary_category": "kr-politics",
-      "hub": "kr",
-      "hub_label": "대한민국",
-      "section_key": "kr-politics",
-      "section_label": "정치",
-      "published_at": "2026-04-04T08:43:19+00:00",
-      "trust_level": 80,
-      "language": "ko",
-      "sort_timestamp": 1775292199
-    },
-    {
       "title": "용인시, '2026년 제2차 진로·진학레시피 학부모 특강' 성료",
       "canonical_url": "https://www.asiae.co.kr/article/2026040417375278145",
       "link_label": "www.asiae.co.kr/article/2026040417375278145",
@@ -7799,6 +7703,25 @@
       "sort_timestamp": 1775291502
     },
     {
+      "title": "Drag Race contestant Misua’s sudden death forces production to shut down",
+      "canonical_url": "https://pagesix.com/2026/04/04/celebrity-news/drag-race-philippines-contestant-misuas-sudden-death-forces-production-to-shut-down",
+      "link_label": "pagesix.com/2026/04/04/celebrity-news/drag-race-ph...",
+      "source_key": "nypost-feed",
+      "source_name": "New York Post Feed",
+      "source_names": [
+        "New York Post Feed"
+      ],
+      "primary_category": "us-markets",
+      "hub": "us",
+      "hub_label": "미국",
+      "section_key": "us-markets",
+      "section_label": "시장",
+      "published_at": "2026-04-04T08:30:13+00:00",
+      "trust_level": 70,
+      "language": "en",
+      "sort_timestamp": 1775291413
+    },
+    {
       "title": "Holyvolt And Wildcat Could Help The West Reclaim Battery Leadership",
       "canonical_url": "https://www.forbes.com/sites/jamesmorris/2026/04/04/holyvolt-and-wildcat-could-help-the-west-reclaim-battery-leadership",
       "link_label": "www.forbes.com/sites/jamesmorris/2026/04/04/holyvolt-...",
@@ -7816,44 +7739,6 @@
       "trust_level": 82,
       "language": "en",
       "sort_timestamp": 1775291400
-    },
-    {
-      "title": "quot;싸움 아닌 해결사 필요quot; 기업인middot;자영업자 등 민생 현장 줄잇는 김동연 지지선언",
-      "canonical_url": "https://www.pressian.com/pages/articles/2026040319042458177&ref=rss",
-      "link_label": "www.pressian.com/pages/articles/2026040319042458177&ref...",
-      "source_key": "pressian-politics-rss",
-      "source_name": "Pressian Politics",
-      "source_names": [
-        "Pressian Politics"
-      ],
-      "primary_category": "kr-politics",
-      "hub": "kr",
-      "hub_label": "대한민국",
-      "section_key": "kr-politics",
-      "section_label": "정치",
-      "published_at": "2026-04-04T08:28:33+00:00",
-      "trust_level": 80,
-      "language": "ko",
-      "sort_timestamp": 1775291313
-    },
-    {
-      "title": "한국에 맞는 기본소득 모델, 가능할까?",
-      "canonical_url": "https://www.pressian.com/pages/articles/2026040315263216596&ref=rss",
-      "link_label": "www.pressian.com/pages/articles/2026040315263216596&ref...",
-      "source_key": "pressian-economy-rss",
-      "source_name": "Pressian Economy",
-      "source_names": [
-        "Pressian Economy"
-      ],
-      "primary_category": "kr-economy",
-      "hub": "kr",
-      "hub_label": "대한민국",
-      "section_key": "kr-economy",
-      "section_label": "경제",
-      "published_at": "2026-04-04T08:27:21+00:00",
-      "trust_level": 80,
-      "language": "ko",
-      "sort_timestamp": 1775291241
     },
     {
       "title": "Moms for Liberty wanted seat on school board. Trump gave them voice in White House",
@@ -10981,25 +10866,6 @@
       "sort_timestamp": 1775267871
     },
     {
-      "title": "'Utterly Disinterested' Jon Stewart Reveals What Scares Him The Most About Trump",
-      "canonical_url": "https://www.huffpost.com/entry/utterly-disinterested-jon-stewart-reveals-what-scares-him-the-most-about-trump_n_69d0568ae4b05047ac8e8dd9",
-      "link_label": "www.huffpost.com/entry/utterly-disinterested-jon-stewar...",
-      "source_key": "huffpost-politics-rss",
-      "source_name": "HuffPost Politics",
-      "source_names": [
-        "HuffPost Politics"
-      ],
-      "primary_category": "us-politics",
-      "hub": "us",
-      "hub_label": "미국",
-      "section_key": "us-politics",
-      "section_label": "정치",
-      "published_at": "2026-04-04T01:57:35+00:00",
-      "trust_level": 76,
-      "language": "en",
-      "sort_timestamp": 1775267855
-    },
-    {
       "title": "Trump Contemplates Other Cabinet Changes as He Faces Political Clock",
       "canonical_url": "https://www.nytimes.com/2026/04/03/us/politics/trump-cabinet-changes.html",
       "link_label": "www.nytimes.com/2026/04/03/us/politics/trump-cabinet-c...",
@@ -11036,25 +10902,6 @@
       "trust_level": 82,
       "language": "ko",
       "sort_timestamp": 1775267640
-    },
-    {
-      "title": "'뉴민주당'의 부상hellip;만약 김부겸이 대구시장에 당선된다면?",
-      "canonical_url": "https://www.pressian.com/pages/articles/2026040310010275432&ref=rss",
-      "link_label": "www.pressian.com/pages/articles/2026040310010275432&ref...",
-      "source_key": "pressian-politics-rss",
-      "source_name": "Pressian Politics",
-      "source_names": [
-        "Pressian Politics"
-      ],
-      "primary_category": "kr-politics",
-      "hub": "kr",
-      "hub_label": "대한민국",
-      "section_key": "kr-politics",
-      "section_label": "정치",
-      "published_at": "2026-04-04T01:53:22+00:00",
-      "trust_level": 80,
-      "language": "ko",
-      "sort_timestamp": 1775267602
     },
     {
       "title": "靑서 이재용과 셀카 찍은 필릭스…‘갤럭시 일편단심’에 JY ‘미소’",
@@ -12350,25 +12197,6 @@
       "sort_timestamp": 1775259391
     },
     {
-      "title": "Dallas Stars' Arena Investigating 4 Fans Who Celebrated Goal With Nazi Salute",
-      "canonical_url": "https://www.huffpost.com/entry/dallas-stars-arena-investigating-fans-nazi-salute-during-goal_n_69d04c09e4b05047ac8e8d50",
-      "link_label": "www.huffpost.com/entry/dallas-stars-arena-investigating...",
-      "source_key": "huffpost-politics-rss",
-      "source_name": "HuffPost Politics",
-      "source_names": [
-        "HuffPost Politics"
-      ],
-      "primary_category": "us-politics",
-      "hub": "us",
-      "hub_label": "미국",
-      "section_key": "us-politics",
-      "section_label": "정치",
-      "published_at": "2026-04-03T23:35:00+00:00",
-      "trust_level": 76,
-      "language": "en",
-      "sort_timestamp": 1775259300
-    },
-    {
       "title": "Senate Democrat demands that TSA lift its \"shoes-on\" policy, calling it a safety risk",
       "canonical_url": "https://www.cbsnews.com/news/senate-democrat-demands-tsa-lift-shoes-on-policy-safety-risk",
       "link_label": "www.cbsnews.com/news/senate-democrat-demands-tsa-lift-...",
@@ -12560,25 +12388,6 @@
       "trust_level": 80,
       "language": "en",
       "sort_timestamp": 1775258655
-    },
-    {
-      "title": "‘Beetlejuice’ Action Figure Of Winona Ryder’s Lydia Deetz Is In The Works",
-      "canonical_url": "https://www.forbes.com/sites/timlammers/2026/04/03/beetlejuice-action-figure-of-winona-ryders-lydia-deetz-is-in-the-works",
-      "link_label": "www.forbes.com/sites/timlammers/2026/04/03/beetlejuic...",
-      "source_key": "forbes-business-rss",
-      "source_name": "Forbes Business",
-      "source_names": [
-        "Forbes Business"
-      ],
-      "primary_category": "us-economy",
-      "hub": "us",
-      "hub_label": "미국",
-      "section_key": "us-economy",
-      "section_label": "경제",
-      "published_at": "2026-04-03T23:23:27+00:00",
-      "trust_level": 82,
-      "language": "en",
-      "sort_timestamp": 1775258607
     },
     {
       "title": "Travel guru Rick Steves is happy to pay more taxes",
@@ -13426,6 +13235,25 @@
       "sort_timestamp": 1775254819
     },
     {
+      "title": "This Finnish Company Makes Music From Rocks And Trees",
+      "canonical_url": "https://www.forbes.com/sites/johnkoetsier/2026/04/03/this-finnish-company-makes-music-from-rocks-and-trees",
+      "link_label": "www.forbes.com/sites/johnkoetsier/2026/04/03/this-fin...",
+      "source_key": "forbes-innovation-rss",
+      "source_name": "Forbes Innovation",
+      "source_names": [
+        "Forbes Innovation"
+      ],
+      "primary_category": "us-technology",
+      "hub": "us",
+      "hub_label": "미국",
+      "section_key": "us-technology",
+      "section_label": "기술",
+      "published_at": "2026-04-03T22:19:00+00:00",
+      "trust_level": 82,
+      "language": "en",
+      "sort_timestamp": 1775254740
+    },
+    {
       "title": "Trump asks Congress for $152 million to start rebuilding Alcatraz prison",
       "canonical_url": "https://www.latimes.com/politics/story/2026-04-03/alcatraz-trump-budget-congress",
       "link_label": "www.latimes.com/politics/story/2026-04-03/alcatraz-tru...",
@@ -13598,6 +13426,25 @@
       "trust_level": 84,
       "language": "en",
       "sort_timestamp": 1775253899
+    },
+    {
+      "title": "NYT Pips Today: Hints, Answers And Walkthrough For Saturday, April 4",
+      "canonical_url": "https://www.forbes.com/sites/erikkain/2026/04/03/nyt-pips-answers-saturday-april-4",
+      "link_label": "www.forbes.com/sites/erikkain/2026/04/03/nyt-pips-ans...",
+      "source_key": "forbes-innovation-rss",
+      "source_name": "Forbes Innovation",
+      "source_names": [
+        "Forbes Innovation"
+      ],
+      "primary_category": "us-technology",
+      "hub": "us",
+      "hub_label": "미국",
+      "section_key": "us-technology",
+      "section_label": "기술",
+      "published_at": "2026-04-03T22:04:32+00:00",
+      "trust_level": 82,
+      "language": "en",
+      "sort_timestamp": 1775253872
     },
     {
       "title": "'서학개미 귀환 계좌' 9만 개…자금 유입은 0.2% 수준",
@@ -13888,25 +13735,6 @@
       "sort_timestamp": 1775252864
     },
     {
-      "title": "'I'm Confused': MAGA-Friendly Podcast Bros 'Can't Believe' We're At War With Iran",
-      "canonical_url": "https://www.huffpost.com/entry/im-confused-trump-friendly-podcast-bros-cant-believe-were-at-war-with-iran_n_69d01d49e4b05537a7f13edc",
-      "link_label": "www.huffpost.com/entry/im-confused-trump-friendly-podca...",
-      "source_key": "huffpost-politics-rss",
-      "source_name": "HuffPost Politics",
-      "source_names": [
-        "HuffPost Politics"
-      ],
-      "primary_category": "us-politics",
-      "hub": "us",
-      "hub_label": "미국",
-      "section_key": "us-politics",
-      "section_label": "정치",
-      "published_at": "2026-04-03T21:42:55+00:00",
-      "trust_level": 76,
-      "language": "en",
-      "sort_timestamp": 1775252575
-    },
-    {
       "title": "벚꽃 절정인데 전국에 비…강한 바람 ‘주의’",
       "canonical_url": "https://www.mk.co.kr/news/society/12007884",
       "link_label": "www.mk.co.kr/news/society/12007884",
@@ -14019,25 +13847,6 @@
       "trust_level": 82,
       "language": "ko",
       "sort_timestamp": 1775252160
-    },
-    {
-      "title": "President Trump Signs Executive Order Aimed At College Sports",
-      "canonical_url": "https://www.huffpost.com/entry/ap-us-trump-college-sports_n_69d02f44e4b05537a7f14307",
-      "link_label": "www.huffpost.com/entry/ap-us-trump-college-sports_n_69d...",
-      "source_key": "huffpost-politics-rss",
-      "source_name": "HuffPost Politics",
-      "source_names": [
-        "HuffPost Politics"
-      ],
-      "primary_category": "us-politics",
-      "hub": "us",
-      "hub_label": "미국",
-      "section_key": "us-politics",
-      "section_label": "정치",
-      "published_at": "2026-04-03T21:35:48+00:00",
-      "trust_level": 76,
-      "language": "en",
-      "sort_timestamp": 1775252148
     },
     {
       "title": "Chicago Fed's Goolsbee says he sees inflation as risk to 2026 rate cuts",
@@ -14383,25 +14192,6 @@
       "sort_timestamp": 1775250360
     },
     {
-      "title": "이진숙 quot;'시민경선'으로 대구시민 선택 받겠다quot;hellip;사실상 무소속 출마 선언",
-      "canonical_url": "https://www.pressian.com/pages/articles/2026040321033844410&ref=rss",
-      "link_label": "www.pressian.com/pages/articles/2026040321033844410&ref...",
-      "source_key": "pressian-economy-rss",
-      "source_name": "Pressian Economy",
-      "source_names": [
-        "Pressian Economy"
-      ],
-      "primary_category": "kr-economy",
-      "hub": "kr",
-      "hub_label": "대한민국",
-      "section_key": "kr-economy",
-      "section_label": "경제",
-      "published_at": "2026-04-03T21:03:51+00:00",
-      "trust_level": 80,
-      "language": "ko",
-      "sort_timestamp": 1775250231
-    },
-    {
       "title": "White House asks Congress to spend big on defense",
       "canonical_url": "https://www.semafor.com/article/04/03/2026/white-house-asks-congress-to-spend-big-on-defense",
       "link_label": "www.semafor.com/article/04/03/2026/white-house-asks-co...",
@@ -14582,7 +14372,6 @@
       "source_key": "pbs-politics-rss",
       "source_name": "PBS NewsHour Politics",
       "source_names": [
-        "HuffPost Politics",
         "PBS NewsHour Politics"
       ],
       "primary_category": "us-politics",
@@ -14822,25 +14611,6 @@
       "published_at": "2026-04-03T20:43:25+00:00",
       "trust_level": 85,
       "language": "en",
-      "sort_timestamp": 1775249005
-    },
-    {
-      "title": "법원 '주호영 컷오프' 가처분 기각hellip;무소속 출마?",
-      "canonical_url": "https://www.pressian.com/pages/articles/2026040318064546839&ref=rss",
-      "link_label": "www.pressian.com/pages/articles/2026040318064546839&ref...",
-      "source_key": "pressian-politics-rss",
-      "source_name": "Pressian Politics",
-      "source_names": [
-        "Pressian Politics"
-      ],
-      "primary_category": "kr-politics",
-      "hub": "kr",
-      "hub_label": "대한민국",
-      "section_key": "kr-politics",
-      "section_label": "정치",
-      "published_at": "2026-04-03T20:43:25+00:00",
-      "trust_level": 80,
-      "language": "ko",
       "sort_timestamp": 1775249005
     },
     {
@@ -15133,25 +14903,6 @@
       "sort_timestamp": 1775247469
     },
     {
-      "title": "Rachel Maddow Reveals What She Would Ask Trump If Given The Chance To Interview Him",
-      "canonical_url": "https://www.huffpost.com/entry/rachel-maddow-reveals-what-she-would-ask-trump-interview_n_69cff043e4b05047ac8e4710",
-      "link_label": "www.huffpost.com/entry/rachel-maddow-reveals-what-she-w...",
-      "source_key": "huffpost-politics-rss",
-      "source_name": "HuffPost Politics",
-      "source_names": [
-        "HuffPost Politics"
-      ],
-      "primary_category": "us-politics",
-      "hub": "us",
-      "hub_label": "미국",
-      "section_key": "us-politics",
-      "section_label": "정치",
-      "published_at": "2026-04-03T20:14:59+00:00",
-      "trust_level": 76,
-      "language": "en",
-      "sort_timestamp": 1775247299
-    },
-    {
       "title": "Judge rejects Department of Justice bid to reinstate Powell subpoenas",
       "canonical_url": "https://www.axios.com/2026/04/03/judge-powell-doj-subpoena-trump",
       "link_label": "www.axios.com/2026/04/03/judge-powell-doj-subpoena-t...",
@@ -15169,44 +14920,6 @@
       "trust_level": 85,
       "language": "en",
       "sort_timestamp": 1775247184
-    },
-    {
-      "title": "Jan. 6er Says He’s Resigned From DOJ Advisory Job After Failing To Expose Abuses",
-      "canonical_url": "https://www.huffpost.com/entry/jan-6er-jared-wise-resigns-doj_n_69cfc781e4b05047ac8e1969",
-      "link_label": "www.huffpost.com/entry/jan-6er-jared-wise-resigns-doj_n...",
-      "source_key": "huffpost-politics-rss",
-      "source_name": "HuffPost Politics",
-      "source_names": [
-        "HuffPost Politics"
-      ],
-      "primary_category": "us-politics",
-      "hub": "us",
-      "hub_label": "미국",
-      "section_key": "us-politics",
-      "section_label": "정치",
-      "published_at": "2026-04-03T20:09:35+00:00",
-      "trust_level": 76,
-      "language": "en",
-      "sort_timestamp": 1775246975
-    },
-    {
-      "title": "Trump Reportedly Used 4 Brutal Words To Fire Pam Bondi — And The Aftermath Sounds Really Messy",
-      "canonical_url": "https://www.huffpost.com/entry/trump-used-4-brutal-words-to-fire-pam-bondi-and-the-aftermath-sounded-like-a-mess_n_69cfedb2e4b0d214cc713741",
-      "link_label": "www.huffpost.com/entry/trump-used-4-brutal-words-to-fir...",
-      "source_key": "huffpost-politics-rss",
-      "source_name": "HuffPost Politics",
-      "source_names": [
-        "HuffPost Politics"
-      ],
-      "primary_category": "us-politics",
-      "hub": "us",
-      "hub_label": "미국",
-      "section_key": "us-politics",
-      "section_label": "정치",
-      "published_at": "2026-04-03T20:09:07+00:00",
-      "trust_level": 76,
-      "language": "en",
-      "sort_timestamp": 1775246947
     },
     {
       "title": "Maryland Gov. Wes Moore warns U.S. \"lurching again into another forever war\" with Iran conflict",
@@ -15591,44 +15304,6 @@
       "sort_timestamp": 1775245702
     },
     {
-      "title": "Guess Where Pam Bondi's Official DOJ Portrait Was Found After She Was Canned",
-      "canonical_url": "https://www.huffpost.com/entry/doj-employees-literally-trash-pam-bondis-official-portrait_n_69d000e0e4b05537a7f11db2",
-      "link_label": "www.huffpost.com/entry/doj-employees-literally-trash-pa...",
-      "source_key": "huffpost-politics-rss",
-      "source_name": "HuffPost Politics",
-      "source_names": [
-        "HuffPost Politics"
-      ],
-      "primary_category": "us-politics",
-      "hub": "us",
-      "hub_label": "미국",
-      "section_key": "us-politics",
-      "section_label": "정치",
-      "published_at": "2026-04-03T19:43:35+00:00",
-      "trust_level": 76,
-      "language": "en",
-      "sort_timestamp": 1775245415
-    },
-    {
-      "title": "Could This Finally Be The Nail In The Coffin For Trump?",
-      "canonical_url": "https://www.huffpost.com/entry/trump-iran-war-taco_n_69d00b2fe4b05537a7f12bdd",
-      "link_label": "www.huffpost.com/entry/trump-iran-war-taco_n_69d00b2fe4...",
-      "source_key": "huffpost-politics-rss",
-      "source_name": "HuffPost Politics",
-      "source_names": [
-        "HuffPost Politics"
-      ],
-      "primary_category": "us-politics",
-      "hub": "us",
-      "hub_label": "미국",
-      "section_key": "us-politics",
-      "section_label": "정치",
-      "published_at": "2026-04-03T19:41:06+00:00",
-      "trust_level": 76,
-      "language": "en",
-      "sort_timestamp": 1775245266
-    },
-    {
       "title": "Truth about Arizona girl found alive decades after vanishing leaves investigator ‘dumbfounded’: report",
       "canonical_url": "https://www.foxnews.com/us/truth-arizona-girl-found-alive-decades-vanishing-leaves-investigator-dumbfounded-report",
       "link_label": "www.foxnews.com/us/truth-arizona-girl-found-alive-deca...",
@@ -15897,25 +15572,6 @@
       "sort_timestamp": 1775243510
     },
     {
-      "title": "김민석 quot;호르무즈 통행세 고려 안해hellip;원유 수급 관리 가능 수준quot;",
-      "canonical_url": "https://www.pressian.com/pages/articles/2026040318474635223&ref=rss",
-      "link_label": "www.pressian.com/pages/articles/2026040318474635223&ref...",
-      "source_key": "pressian-politics-rss",
-      "source_name": "Pressian Politics",
-      "source_names": [
-        "Pressian Politics"
-      ],
-      "primary_category": "kr-politics",
-      "hub": "kr",
-      "hub_label": "대한민국",
-      "section_key": "kr-politics",
-      "section_label": "정치",
-      "published_at": "2026-04-03T19:10:23+00:00",
-      "trust_level": 80,
-      "language": "ko",
-      "sort_timestamp": 1775243423
-    },
-    {
       "title": "Pritzker calls on Trump officials to testify over ICE crackdown, White House blasts move as ‘political stunt’",
       "canonical_url": "https://www.foxnews.com/politics/pritzker-calls-trump-officials-testify-ice-crackdown-white-house-blasts-move-political-stunt",
       "link_label": "www.foxnews.com/politics/pritzker-calls-trump-official...",
@@ -15933,25 +15589,6 @@
       "trust_level": 84,
       "language": "en",
       "sort_timestamp": 1775243377
-    },
-    {
-      "title": "'쌍방울 녹취록' 박상용, 증인선서 거부hellip;국조특위 쳇바퀴",
-      "canonical_url": "https://www.pressian.com/pages/articles/2026040317295817185&ref=rss",
-      "link_label": "www.pressian.com/pages/articles/2026040317295817185&ref...",
-      "source_key": "pressian-politics-rss",
-      "source_name": "Pressian Politics",
-      "source_names": [
-        "Pressian Politics"
-      ],
-      "primary_category": "kr-politics",
-      "hub": "kr",
-      "hub_label": "대한민국",
-      "section_key": "kr-politics",
-      "section_label": "정치",
-      "published_at": "2026-04-03T19:09:28+00:00",
-      "trust_level": 80,
-      "language": "ko",
-      "sort_timestamp": 1775243368
     },
     {
       "title": "Iran, proxy militias threaten US universities in Lebanon as Americans urged to flee now",
@@ -16642,25 +16279,6 @@
       "sort_timestamp": 1775238494
     },
     {
-      "title": "Trump’s Iran War Gets Messier After U.S. Fighter Jet Is Shot Down",
-      "canonical_url": "https://www.huffpost.com/entry/trump-iran-complication_n_69cfd1cee4b05047ac8e24ff",
-      "link_label": "www.huffpost.com/entry/trump-iran-complication_n_69cfd1...",
-      "source_key": "huffpost-politics-rss",
-      "source_name": "HuffPost Politics",
-      "source_names": [
-        "HuffPost Politics"
-      ],
-      "primary_category": "us-politics",
-      "hub": "us",
-      "hub_label": "미국",
-      "section_key": "us-politics",
-      "section_label": "정치",
-      "published_at": "2026-04-03T17:46:17+00:00",
-      "trust_level": 76,
-      "language": "en",
-      "sort_timestamp": 1775238377
-    },
-    {
       "title": "U.S., Partner Nations Complete Antisubmarine Warfare Exercise",
       "canonical_url": "https://www.war.gov/News/News-Stories/Article/Article/4451381/us-partner-nations-complete-antisubmarine-warfare-exercise",
       "link_label": "www.war.gov/News/News-Stories/Article/Article/4451...",
@@ -16811,25 +16429,6 @@
       "trust_level": 84,
       "language": "en",
       "sort_timestamp": 1775237348
-    },
-    {
-      "title": "李대통령, 정청래middot;장동혁 대표 만난다hellip;quot;중동 전쟁 불확실성 대응 차원quot;",
-      "canonical_url": "https://www.pressian.com/pages/articles/2026040316232705160&ref=rss",
-      "link_label": "www.pressian.com/pages/articles/2026040316232705160&ref...",
-      "source_key": "pressian-politics-rss",
-      "source_name": "Pressian Politics",
-      "source_names": [
-        "Pressian Politics"
-      ],
-      "primary_category": "kr-politics",
-      "hub": "kr",
-      "hub_label": "대한민국",
-      "section_key": "kr-politics",
-      "section_label": "정치",
-      "published_at": "2026-04-03T17:28:15+00:00",
-      "trust_level": 80,
-      "language": "ko",
-      "sort_timestamp": 1775237295
     },
     {
       "title": "NASA's Artemis II Lifts Off | Bloomberg Artemis II Special 4/1/2026",
@@ -17328,44 +16927,6 @@
       "sort_timestamp": 1775234400
     },
     {
-      "title": "李대통령 지지율 67%hellip;중도층 긍정 평가 74%",
-      "canonical_url": "https://www.pressian.com/pages/articles/2026040312081000220&ref=rss",
-      "link_label": "www.pressian.com/pages/articles/2026040312081000220&ref...",
-      "source_key": "pressian-politics-rss",
-      "source_name": "Pressian Politics",
-      "source_names": [
-        "Pressian Politics"
-      ],
-      "primary_category": "kr-politics",
-      "hub": "kr",
-      "hub_label": "대한민국",
-      "section_key": "kr-politics",
-      "section_label": "정치",
-      "published_at": "2026-04-03T16:39:14+00:00",
-      "trust_level": 80,
-      "language": "ko",
-      "sort_timestamp": 1775234354
-    },
-    {
-      "title": "李대통령 quot;프랑스와 호르무즈 해협 안전 수송로 확보 협력quot;",
-      "canonical_url": "https://www.pressian.com/pages/articles/2026040314561099017&ref=rss",
-      "link_label": "www.pressian.com/pages/articles/2026040314561099017&ref...",
-      "source_key": "pressian-politics-rss",
-      "source_name": "Pressian Politics",
-      "source_names": [
-        "Pressian Politics"
-      ],
-      "primary_category": "kr-politics",
-      "hub": "kr",
-      "hub_label": "대한민국",
-      "section_key": "kr-politics",
-      "section_label": "정치",
-      "published_at": "2026-04-03T16:38:12+00:00",
-      "trust_level": 80,
-      "language": "ko",
-      "sort_timestamp": 1775234292
-    },
-    {
       "title": "Commentary: The Cuban Americans who want to normalize relations between the U.S. and Cuba",
       "canonical_url": "https://www.latimes.com/delos/story/2026-04-03/cuban-americans-for-cuba-against-us-embargo-nuestra-america-convoy",
       "link_label": "www.latimes.com/delos/story/2026-04-03/cuban-americans...",
@@ -17421,25 +16982,6 @@
       "trust_level": 92,
       "language": "en",
       "sort_timestamp": 1775233843
-    },
-    {
-      "title": "Trump Seeks $152 Million To Reopen Alcatraz As Active Prison",
-      "canonical_url": "https://www.huffpost.com/entry/trump-seeks-152-million-reopen-alcatraz-as-active-prison_n_69cfe3fee4b0d214cc7133d7",
-      "link_label": "www.huffpost.com/entry/trump-seeks-152-million-reopen-a...",
-      "source_key": "huffpost-politics-rss",
-      "source_name": "HuffPost Politics",
-      "source_names": [
-        "HuffPost Politics"
-      ],
-      "primary_category": "us-politics",
-      "hub": "us",
-      "hub_label": "미국",
-      "section_key": "us-politics",
-      "section_label": "정치",
-      "published_at": "2026-04-03T16:26:40+00:00",
-      "trust_level": 76,
-      "language": "en",
-      "sort_timestamp": 1775233600
     },
     {
       "title": "Bloomberg Surveillance 4/3/2026",
@@ -17822,23 +17364,23 @@
       "sort_timestamp": 1775230128
     },
     {
-      "title": "장동혁 '4.3 추념식' 참석해 quot;왜곡 불가해도 새로운 검증middot;기록 가능quot;",
-      "canonical_url": "https://www.pressian.com/pages/articles/2026040312073822839&ref=rss",
-      "link_label": "www.pressian.com/pages/articles/2026040312073822839&ref...",
-      "source_key": "pressian-politics-rss",
-      "source_name": "Pressian Politics",
+      "title": "Another airline declared bankrupt, all flights off",
+      "canonical_url": "https://finance.yahoo.com/economy/policy/articles/another-airline-declared-bankrupt-flights-152723989.html",
+      "link_label": "finance.yahoo.com/economy/policy/articles/another-airlin...",
+      "source_key": "yahoo-news-rss",
+      "source_name": "Yahoo News RSS",
       "source_names": [
-        "Pressian Politics"
+        "Yahoo News RSS"
       ],
-      "primary_category": "kr-politics",
-      "hub": "kr",
-      "hub_label": "대한민국",
-      "section_key": "kr-politics",
+      "primary_category": "us-politics",
+      "hub": "us",
+      "hub_label": "미국",
+      "section_key": "us-politics",
       "section_label": "정치",
-      "published_at": "2026-04-03T15:27:17+00:00",
-      "trust_level": 80,
-      "language": "ko",
-      "sort_timestamp": 1775230037
+      "published_at": "2026-04-03T15:27:23+00:00",
+      "trust_level": 55,
+      "language": "en",
+      "sort_timestamp": 1775230043
     },
     {
       "title": "Europe’s Right-Wing Parties Can’t Afford to Neglect Young People",
@@ -17934,25 +17476,6 @@
       "trust_level": 84,
       "language": "en",
       "sort_timestamp": 1775229031
-    },
-    {
-      "title": "This High-Yield Dividend Stock Has Raised Its Payout for Over a Decade",
-      "canonical_url": "https://finance.yahoo.com/markets/stocks/articles/high-yield-dividend-stock-raised-150500354.html",
-      "link_label": "finance.yahoo.com/markets/stocks/articles/high-yield-div...",
-      "source_key": "yahoo-news-rss",
-      "source_name": "Yahoo News RSS",
-      "source_names": [
-        "Yahoo News RSS"
-      ],
-      "primary_category": "us-markets",
-      "hub": "us",
-      "hub_label": "미국",
-      "section_key": "us-markets",
-      "section_label": "시장",
-      "published_at": "2026-04-03T15:05:00+00:00",
-      "trust_level": 55,
-      "language": "en",
-      "sort_timestamp": 1775228700
     },
     {
       "title": "Las Vegas Review-Journal will no longer print a competing newspaper",
@@ -18145,25 +17668,6 @@
       "sort_timestamp": 1775227955
     },
     {
-      "title": "'돈봉투 의혹' 김관영 법정 다툼에 민주당 quot;반성이 적절quot;",
-      "canonical_url": "https://www.pressian.com/pages/articles/2026040311245844994&ref=rss",
-      "link_label": "www.pressian.com/pages/articles/2026040311245844994&ref...",
-      "source_key": "pressian-politics-rss",
-      "source_name": "Pressian Politics",
-      "source_names": [
-        "Pressian Politics"
-      ],
-      "primary_category": "kr-politics",
-      "hub": "kr",
-      "hub_label": "대한민국",
-      "section_key": "kr-politics",
-      "section_label": "정치",
-      "published_at": "2026-04-03T14:50:04+00:00",
-      "trust_level": 80,
-      "language": "ko",
-      "sort_timestamp": 1775227804
-    },
-    {
       "title": "It May Take a Year to Restore Abu Dhabi Aluminum Output, EGA Says",
       "canonical_url": "https://www.bloomberg.com/news/articles/2026-04-03/ega-says-may-take-a-year-to-restore-abu-dhabi-aluminum-output",
       "link_label": "www.bloomberg.com/news/articles/2026-04-03/ega-says-may-...",
@@ -18181,25 +17685,6 @@
       "trust_level": 92,
       "language": "en",
       "sort_timestamp": 1775227798
-    },
-    {
-      "title": "주호영 quot;김부겸이 유능한 행정가? 동의 못 해quot; 견제",
-      "canonical_url": "https://www.pressian.com/pages/articles/2026040314224340412&ref=rss",
-      "link_label": "www.pressian.com/pages/articles/2026040314224340412&ref...",
-      "source_key": "pressian-politics-rss",
-      "source_name": "Pressian Politics",
-      "source_names": [
-        "Pressian Politics"
-      ],
-      "primary_category": "kr-politics",
-      "hub": "kr",
-      "hub_label": "대한민국",
-      "section_key": "kr-politics",
-      "section_label": "정치",
-      "published_at": "2026-04-03T14:49:42+00:00",
-      "trust_level": 80,
-      "language": "ko",
-      "sort_timestamp": 1775227782
     },
     {
       "title": "White House requests $1.5 trillion for defense spending in 2027 budget",
@@ -18621,25 +18106,6 @@
       "sort_timestamp": 1775224030
     },
     {
-      "title": "Solo Bitcoin miner bags $210K Bitcoin block reward",
-      "canonical_url": "https://cointelegraph.com/news/solo-bitcoin-miner-bags-210k-bitcoin-block",
-      "link_label": "cointelegraph.com/news/solo-bitcoin-miner-bags-210k-bitc...",
-      "source_key": "cointelegraph-rss",
-      "source_name": "Cointelegraph",
-      "source_names": [
-        "Cointelegraph"
-      ],
-      "primary_category": "crypto",
-      "hub": "global",
-      "hub_label": "글로벌 전문",
-      "section_key": "crypto",
-      "section_label": "코인",
-      "published_at": "2026-04-03T13:45:10+00:00",
-      "trust_level": 85,
-      "language": "en",
-      "sort_timestamp": 1775223910
-    },
-    {
       "title": "A look at how the Epstein files dogged Pam Bondi's time as attorney general",
       "canonical_url": "https://www.pbs.org/newshour/politics/a-look-at-how-the-epstein-files-dogged-pam-bondis-time-as-attorney-general",
       "link_label": "www.pbs.org/newshour/politics/a-look-at-how-the-ep...",
@@ -18775,25 +18241,6 @@
       "sort_timestamp": 1775222657
     },
     {
-      "title": "Here’s what happened in crypto today",
-      "canonical_url": "https://cointelegraph.com/news/what-happened-in-crypto-today",
-      "link_label": "cointelegraph.com/news/what-happened-in-crypto-today",
-      "source_key": "cointelegraph-rss",
-      "source_name": "Cointelegraph",
-      "source_names": [
-        "Cointelegraph"
-      ],
-      "primary_category": "crypto",
-      "hub": "global",
-      "hub_label": "글로벌 전문",
-      "section_key": "crypto",
-      "section_label": "코인",
-      "published_at": "2026-04-03T13:19:48+00:00",
-      "trust_level": 85,
-      "language": "en",
-      "sort_timestamp": 1775222388
-    },
-    {
       "title": "CoinDesk 20 performance update: Bitcoin (BTC) trades flat while altcoins rise",
       "canonical_url": "https://www.coindesk.com/coindesk-indices/2026/04/03/coindesk-20-performance-update-bitcoin-btc-trades-flat-while-altcoins-rise",
       "link_label": "www.coindesk.com/coindesk-indices/2026/04/03/coindesk-2...",
@@ -18831,25 +18278,6 @@
       "trust_level": 88,
       "language": "en",
       "sort_timestamp": 1775222209
-    },
-    {
-      "title": "How to Avoid Social Security’s Most Hated Trap",
-      "canonical_url": "https://finance.yahoo.com/economy/policy/articles/avoid-social-security-most-hated-131256389.html",
-      "link_label": "finance.yahoo.com/economy/policy/articles/avoid-social-s...",
-      "source_key": "yahoo-news-rss",
-      "source_name": "Yahoo News RSS",
-      "source_names": [
-        "Yahoo News RSS"
-      ],
-      "primary_category": "us-politics",
-      "hub": "us",
-      "hub_label": "미국",
-      "section_key": "us-politics",
-      "section_label": "정치",
-      "published_at": "2026-04-03T13:12:56+00:00",
-      "trust_level": 55,
-      "language": "en",
-      "sort_timestamp": 1775221976
     },
     {
       "title": "Trump budget seeks $1.5 trillion in defense spending alongside domestic program cuts",
@@ -19059,25 +18487,6 @@
       "trust_level": 82,
       "language": "en",
       "sort_timestamp": 1775221200
-    },
-    {
-      "title": "Trump Budget Seeks $1.5T In Defense Spending Alongside Cuts In Domestic Programs",
-      "canonical_url": "https://www.huffpost.com/entry/trump-budget-defense-child-care_n_69cfb814e4b05047ac8e1534",
-      "link_label": "www.huffpost.com/entry/trump-budget-defense-child-care_...",
-      "source_key": "huffpost-politics-rss",
-      "source_name": "HuffPost Politics",
-      "source_names": [
-        "HuffPost Politics"
-      ],
-      "primary_category": "us-politics",
-      "hub": "us",
-      "hub_label": "미국",
-      "section_key": "us-politics",
-      "section_label": "정치",
-      "published_at": "2026-04-03T12:59:02+00:00",
-      "trust_level": 76,
-      "language": "en",
-      "sort_timestamp": 1775221142
     },
     {
       "title": "Flutterwave granted Nigerian banking license",
@@ -19631,25 +19040,6 @@
       "sort_timestamp": 1775217605
     },
     {
-      "title": "quot;2주 안에 종전? 제정신 아냐quot;hellip; 트럼프 호언장담에 美 정보 당국 quot;이란 미사일 건재quot;",
-      "canonical_url": "https://www.pressian.com/pages/articles/2026040311125237925&ref=rss",
-      "link_label": "www.pressian.com/pages/articles/2026040311125237925&ref...",
-      "source_key": "pressian-politics-rss",
-      "source_name": "Pressian Politics",
-      "source_names": [
-        "Pressian Politics"
-      ],
-      "primary_category": "kr-politics",
-      "hub": "kr",
-      "hub_label": "대한민국",
-      "section_key": "kr-politics",
-      "section_label": "정치",
-      "published_at": "2026-04-03T11:58:37+00:00",
-      "trust_level": 80,
-      "language": "ko",
-      "sort_timestamp": 1775217517
-    },
-    {
       "title": "호르무즈에 갇힌 일본 상선, ‘원인 미상’ 충격에 선체 2곳 구멍",
       "canonical_url": "https://www.mk.co.kr/news/economy/12007791",
       "link_label": "www.mk.co.kr/news/economy/12007791",
@@ -20146,25 +19536,6 @@
       "trust_level": 90,
       "language": "en",
       "sort_timestamp": 1775214900
-    },
-    {
-      "title": "김부겸 quot;박근혜, 대구지역 큰 어른hellip;찾아뵙는 게 예의quot;",
-      "canonical_url": "https://www.pressian.com/pages/articles/2026040310121653484&ref=rss",
-      "link_label": "www.pressian.com/pages/articles/2026040310121653484&ref...",
-      "source_key": "pressian-politics-rss",
-      "source_name": "Pressian Politics",
-      "source_names": [
-        "Pressian Politics"
-      ],
-      "primary_category": "kr-politics",
-      "hub": "kr",
-      "hub_label": "대한민국",
-      "section_key": "kr-politics",
-      "section_label": "정치",
-      "published_at": "2026-04-03T11:08:37+00:00",
-      "trust_level": 80,
-      "language": "ko",
-      "sort_timestamp": 1775214517
     },
     {
       "title": "A Year After DOGE Cuts, GSA Now Plans to Hire Hundreds of Employees",
@@ -20909,25 +20280,6 @@
       "trust_level": 84,
       "language": "en",
       "sort_timestamp": 1775210520
-    },
-    {
-      "title": "국민의힘 quot;매표용으로 나눠주는 10만원, 고유가 해결책인가quot;",
-      "canonical_url": "https://www.pressian.com/pages/articles/2026040309450727939&ref=rss",
-      "link_label": "www.pressian.com/pages/articles/2026040309450727939&ref...",
-      "source_key": "pressian-politics-rss",
-      "source_name": "Pressian Politics",
-      "source_names": [
-        "Pressian Politics"
-      ],
-      "primary_category": "kr-politics",
-      "hub": "kr",
-      "hub_label": "대한민국",
-      "section_key": "kr-politics",
-      "section_label": "정치",
-      "published_at": "2026-04-03T10:00:46+00:00",
-      "trust_level": 80,
-      "language": "ko",
-      "sort_timestamp": 1775210446
     },
     {
       "title": "States are resisting the Trump admin’s voter data power grab",
@@ -21804,6 +21156,25 @@
       "trust_level": 76,
       "language": "en",
       "sort_timestamp": 1775204810
+    },
+    {
+      "title": "Bondi’s Replacement Desperately Tries to End Trump’s Epstein Nightmare",
+      "canonical_url": "https://www.yahoo.com/news/videos/bondi-replacement-desperately-tries-end-082503782.html",
+      "link_label": "www.yahoo.com/news/videos/bondi-replacement-desperat...",
+      "source_key": "yahoo-news-rss",
+      "source_name": "Yahoo News RSS",
+      "source_names": [
+        "Yahoo News RSS"
+      ],
+      "primary_category": "us-politics",
+      "hub": "us",
+      "hub_label": "미국",
+      "section_key": "us-politics",
+      "section_label": "정치",
+      "published_at": "2026-04-03T08:25:03+00:00",
+      "trust_level": 55,
+      "language": "en",
+      "sort_timestamp": 1775204703
     },
     {
       "title": "3시간 만에 ‘일반 봉투 쓰레기 배출’ 뒤집은 군포시···온라인 시스템 도입 철회, 왜?",
@@ -23923,6 +23294,25 @@
       "sort_timestamp": 1775166642
     },
     {
+      "title": "‘Really Bad For The Midterms For Republicans’: The Awful Politics Of The Iran War",
+      "canonical_url": "https://www.huffpost.com/entry/donald-trump-iran-war-inflation-affordability_n_69ced5d1e4b05537a7f07e13",
+      "link_label": "www.huffpost.com/entry/donald-trump-iran-war-inflation-...",
+      "source_key": "huffpost-politics-rss",
+      "source_name": "HuffPost Politics",
+      "source_names": [
+        "HuffPost Politics"
+      ],
+      "primary_category": "us-politics",
+      "hub": "us",
+      "hub_label": "미국",
+      "section_key": "us-politics",
+      "section_label": "정치",
+      "published_at": "2026-04-02T21:39:02+00:00",
+      "trust_level": 76,
+      "language": "en",
+      "sort_timestamp": 1775165942
+    },
+    {
       "title": "FBI arrives in Cuba to investigate fatal shooting of U.S.-flagged speedboat",
       "canonical_url": "https://www.pbs.org/newshour/world/fbi-arrives-in-cuba-to-investigate-fatal-shooting-of-u-s-flagged-speedboat",
       "link_label": "www.pbs.org/newshour/world/fbi-arrives-in-cuba-to-...",
@@ -23940,6 +23330,25 @@
       "trust_level": 88,
       "language": "en",
       "sort_timestamp": 1775165933
+    },
+    {
+      "title": "Conservatives Have A New Target In Their Campaign Against Kids",
+      "canonical_url": "https://www.huffpost.com/entry/conservatives-undocumented-children-schools_n_69cecdbae4b0d214cc70c54c",
+      "link_label": "www.huffpost.com/entry/conservatives-undocumented-child...",
+      "source_key": "huffpost-politics-rss",
+      "source_name": "HuffPost Politics",
+      "source_names": [
+        "HuffPost Politics"
+      ],
+      "primary_category": "us-politics",
+      "hub": "us",
+      "hub_label": "미국",
+      "section_key": "us-politics",
+      "section_label": "정치",
+      "published_at": "2026-04-02T21:37:57+00:00",
+      "trust_level": 76,
+      "language": "en",
+      "sort_timestamp": 1775165877
     },
     {
       "title": "Mortgage rates are surging, foiling homebuyers' best-laid plans",
@@ -24016,6 +23425,25 @@
       "trust_level": 85,
       "language": "en",
       "sort_timestamp": 1775165208
+    },
+    {
+      "title": "North Carolina Supreme Court throws out longtime suit over education funding",
+      "canonical_url": "https://www.yahoo.com/news/articles/north-carolina-supreme-court-throws-212509007.html",
+      "link_label": "www.yahoo.com/news/articles/north-carolina-supreme-c...",
+      "source_key": "yahoo-news-rss",
+      "source_name": "Yahoo News RSS",
+      "source_names": [
+        "Yahoo News RSS"
+      ],
+      "primary_category": "us-politics",
+      "hub": "us",
+      "hub_label": "미국",
+      "section_key": "us-politics",
+      "section_label": "정치",
+      "published_at": "2026-04-02T21:25:09+00:00",
+      "trust_level": 55,
+      "language": "en",
+      "sort_timestamp": 1775165109
     },
     {
       "title": "Coinbase clears key regulatory hurdle in bid to bolster its stablecoin business",
@@ -24248,6 +23676,25 @@
       "sort_timestamp": 1775163240
     },
     {
+      "title": "'Good Riddance': D.C. Politicians On Both Sides React To Pam Bondi's Firing",
+      "canonical_url": "https://www.huffpost.com/entry/washiington-dc-politicians-react-to-pam-bondis-firing_n_69cebec2e4b05537a7f03888",
+      "link_label": "www.huffpost.com/entry/washiington-dc-politicians-react...",
+      "source_key": "huffpost-politics-rss",
+      "source_name": "HuffPost Politics",
+      "source_names": [
+        "HuffPost Politics"
+      ],
+      "primary_category": "us-politics",
+      "hub": "us",
+      "hub_label": "미국",
+      "section_key": "us-politics",
+      "section_label": "정치",
+      "published_at": "2026-04-02T20:51:16+00:00",
+      "trust_level": 76,
+      "language": "en",
+      "sort_timestamp": 1775163076
+    },
+    {
       "title": "The Next Attorney General Has an Impossible Job",
       "canonical_url": "https://www.theatlantic.com/ideas/2026/04/trump-pam-bondi-justice-department-fired/686672",
       "link_label": "www.theatlantic.com/ideas/2026/04/trump-pam-bondi-justice-...",
@@ -24438,6 +23885,44 @@
       "sort_timestamp": 1775161611
     },
     {
+      "title": "Pam Bondi Must Still Answer For Epstein Files 'Cover-Up,' House Dems Say",
+      "canonical_url": "https://www.huffpost.com/entry/pam-bondi-epstein-files-testimony_n_69ceb5d7e4b0d214cc707ca3",
+      "link_label": "www.huffpost.com/entry/pam-bondi-epstein-files-testimon...",
+      "source_key": "huffpost-politics-rss",
+      "source_name": "HuffPost Politics",
+      "source_names": [
+        "HuffPost Politics"
+      ],
+      "primary_category": "us-politics",
+      "hub": "us",
+      "hub_label": "미국",
+      "section_key": "us-politics",
+      "section_label": "정치",
+      "published_at": "2026-04-02T20:17:17+00:00",
+      "trust_level": 76,
+      "language": "en",
+      "sort_timestamp": 1775161037
+    },
+    {
+      "title": "'Totally Unhinged': Trump's Comms Chief Loses It After CNN Host Tears Into Boss On Live TV",
+      "canonical_url": "https://www.huffpost.com/entry/steven-cheung-cnn-abby-phillip-trump-nato-iran-war_n_69ce8b67e4b05537a7eff676",
+      "link_label": "www.huffpost.com/entry/steven-cheung-cnn-abby-phillip-t...",
+      "source_key": "huffpost-politics-rss",
+      "source_name": "HuffPost Politics",
+      "source_names": [
+        "HuffPost Politics"
+      ],
+      "primary_category": "us-politics",
+      "hub": "us",
+      "hub_label": "미국",
+      "section_key": "us-politics",
+      "section_label": "정치",
+      "published_at": "2026-04-02T20:14:14+00:00",
+      "trust_level": 76,
+      "language": "en",
+      "sort_timestamp": 1775160854
+    },
+    {
       "title": "Arming The Iranian People Against The Mullahs Is The Dumbest Idea Ever",
       "canonical_url": "https://thefederalist.com/2026/04/02/arming-the-iranian-people-against-the-mullahs-is-the-dumbest-idea-ever",
       "link_label": "thefederalist.com/2026/04/02/arming-the-iranian-people-a...",
@@ -24455,6 +23940,25 @@
       "trust_level": 68,
       "language": "en",
       "sort_timestamp": 1775160775
+    },
+    {
+      "title": "'Put Us In The Ring Together': Jim Acosta Denounces Trump's 'Scumbag' FCC Chair",
+      "canonical_url": "https://www.huffpost.com/entry/jim-acosta-blasts-brendan-carr-put-us-in-the-ring-together_n_69ceac11e4b05047ac8d6d35",
+      "link_label": "www.huffpost.com/entry/jim-acosta-blasts-brendan-carr-p...",
+      "source_key": "huffpost-politics-rss",
+      "source_name": "HuffPost Politics",
+      "source_names": [
+        "HuffPost Politics"
+      ],
+      "primary_category": "us-politics",
+      "hub": "us",
+      "hub_label": "미국",
+      "section_key": "us-politics",
+      "section_label": "정치",
+      "published_at": "2026-04-02T20:08:37+00:00",
+      "trust_level": 76,
+      "language": "en",
+      "sort_timestamp": 1775160517
     },
     {
       "title": "Artemis II is NASA’s last moon mission without Silicon Valley",
@@ -24550,6 +24054,25 @@
       "trust_level": 85,
       "language": "en",
       "sort_timestamp": 1775159917
+    },
+    {
+      "title": "Jesse Watters' Latest Rant About Women Is So Bad, Even His Co-Host Was Uncomfortable",
+      "canonical_url": "https://www.huffpost.com/entry/jesse-watters-latest-rant-woman-president_n_69cea46be4b0d214cc706886",
+      "link_label": "www.huffpost.com/entry/jesse-watters-latest-rant-woman-...",
+      "source_key": "huffpost-politics-rss",
+      "source_name": "HuffPost Politics",
+      "source_names": [
+        "HuffPost Politics"
+      ],
+      "primary_category": "us-politics",
+      "hub": "us",
+      "hub_label": "미국",
+      "section_key": "us-politics",
+      "section_label": "정치",
+      "published_at": "2026-04-02T19:56:10+00:00",
+      "trust_level": 76,
+      "language": "en",
+      "sort_timestamp": 1775159770
     },
     {
       "title": "Trump administration sues three states over attempts to regulate prediction markets",
@@ -25104,25 +24627,6 @@
       "sort_timestamp": 1775154449
     },
     {
-      "title": "3 state troopers plead not guilty to charges connected to death of recruit after boxing match",
-      "canonical_url": "https://www.yahoo.com/news/articles/massachusetts-state-police-troopers-arraigned-182156629.html",
-      "link_label": "www.yahoo.com/news/articles/massachusetts-state-poli...",
-      "source_key": "yahoo-news-rss",
-      "source_name": "Yahoo News RSS",
-      "source_names": [
-        "Yahoo News RSS"
-      ],
-      "primary_category": "us-technology",
-      "hub": "us",
-      "hub_label": "미국",
-      "section_key": "us-technology",
-      "section_label": "기술",
-      "published_at": "2026-04-02T18:21:56+00:00",
-      "trust_level": 55,
-      "language": "en",
-      "sort_timestamp": 1775154116
-    },
-    {
       "title": "Scientists get first look at the evolution of early complex animals",
       "canonical_url": "https://abcnews.com/Technology/wireStory/scientists-evolution-early-complex-animals-131662523",
       "link_label": "abcnews.com/Technology/wireStory/scientists-evolut...",
@@ -25218,6 +24722,25 @@
       "sort_timestamp": 1775152770
     },
     {
+      "title": "The Sentence That Could Sink Donald Trump’s Presidency",
+      "canonical_url": "https://www.huffpost.com/entry/the-sentence-that-should-sink-donald-trumps-presidency_n_69cea133e4b0d214cc70659a",
+      "link_label": "www.huffpost.com/entry/the-sentence-that-should-sink-do...",
+      "source_key": "huffpost-politics-rss",
+      "source_name": "HuffPost Politics",
+      "source_names": [
+        "HuffPost Politics"
+      ],
+      "primary_category": "us-politics",
+      "hub": "us",
+      "hub_label": "미국",
+      "section_key": "us-politics",
+      "section_label": "정치",
+      "published_at": "2026-04-02T17:58:57+00:00",
+      "trust_level": 76,
+      "language": "en",
+      "sort_timestamp": 1775152737
+    },
+    {
       "title": "“We love Pam”: Trump fires Attorney General Pam Bondi",
       "canonical_url": "https://www.salon.com/2026/04/02/we-love-pam-trump-fires-attorney-general-pam-bondi",
       "link_label": "www.salon.com/2026/04/02/we-love-pam-trump-fires-att...",
@@ -25273,6 +24796,44 @@
       "trust_level": 92,
       "language": "en",
       "sort_timestamp": 1775150385
+    },
+    {
+      "title": "Pam Bondi Out As Attorney General After Repeated Epstein Blunders",
+      "canonical_url": "https://www.huffpost.com/entry/attorney-general-pam-bondi-out-doj_n_69ce8fa0e4b0d214cc704a76",
+      "link_label": "www.huffpost.com/entry/attorney-general-pam-bondi-out-d...",
+      "source_key": "huffpost-politics-rss",
+      "source_name": "HuffPost Politics",
+      "source_names": [
+        "HuffPost Politics"
+      ],
+      "primary_category": "us-politics",
+      "hub": "us",
+      "hub_label": "미국",
+      "section_key": "us-politics",
+      "section_label": "정치",
+      "published_at": "2026-04-02T17:17:09+00:00",
+      "trust_level": 76,
+      "language": "en",
+      "sort_timestamp": 1775150229
+    },
+    {
+      "title": "James Carville Issues Dire Warning For Trump's 'F**king Ass' In Blistering NSFW Rant",
+      "canonical_url": "https://www.huffpost.com/entry/james-carville-issues-dire-warning-for-trumps-fking-ass-in-blistering-nsfw-rant_n_69ce5462e4b0a891ea43b856",
+      "link_label": "www.huffpost.com/entry/james-carville-issues-dire-warni...",
+      "source_key": "huffpost-politics-rss",
+      "source_name": "HuffPost Politics",
+      "source_names": [
+        "HuffPost Politics"
+      ],
+      "primary_category": "us-politics",
+      "hub": "us",
+      "hub_label": "미국",
+      "section_key": "us-politics",
+      "section_label": "정치",
+      "published_at": "2026-04-02T17:04:38+00:00",
+      "trust_level": 76,
+      "language": "en",
+      "sort_timestamp": 1775149478
     },
     {
       "title": "New Rowhammer attacks give complete control of machines running Nvidia GPUs",
@@ -25486,6 +25047,25 @@
       "sort_timestamp": 1775146694
     },
     {
+      "title": "Colo. Court Orders Resentencing For Clerk Found Guilty Of Election Fraud",
+      "canonical_url": "https://www.huffpost.com/entry/tina-peters-resentencing-election-fraud_n_69ce8ecae4b05047ac8d44f2",
+      "link_label": "www.huffpost.com/entry/tina-peters-resentencing-electio...",
+      "source_key": "huffpost-politics-rss",
+      "source_name": "HuffPost Politics",
+      "source_names": [
+        "HuffPost Politics"
+      ],
+      "primary_category": "us-politics",
+      "hub": "us",
+      "hub_label": "미국",
+      "section_key": "us-politics",
+      "section_label": "정치",
+      "published_at": "2026-04-02T15:56:17+00:00",
+      "trust_level": 76,
+      "language": "en",
+      "sort_timestamp": 1775145377
+    },
+    {
       "title": "Trader Joe's expands with two new locations in California",
       "canonical_url": "https://www.latimes.com/business/story/2026-04-02/trader-joes-expands-with-two-new-locations-in-southern-california",
       "link_label": "www.latimes.com/business/story/2026-04-02/trader-joes-...",
@@ -25562,6 +25142,25 @@
       "sort_timestamp": 1775143863
     },
     {
+      "title": "Harvard's Laurence Tribe Shreds Trump Over 2 Unconstitutional Efforts",
+      "canonical_url": "https://www.huffpost.com/entry/harvard-law-professor-laurence-tribe-slams-trump-birthright-citizenship-iran-war_n_69ce533ae4b0332f12c1beb9",
+      "link_label": "www.huffpost.com/entry/harvard-law-professor-laurence-t...",
+      "source_key": "huffpost-politics-rss",
+      "source_name": "HuffPost Politics",
+      "source_names": [
+        "HuffPost Politics"
+      ],
+      "primary_category": "us-politics",
+      "hub": "us",
+      "hub_label": "미국",
+      "section_key": "us-politics",
+      "section_label": "정치",
+      "published_at": "2026-04-02T15:29:32+00:00",
+      "trust_level": 76,
+      "language": "en",
+      "sort_timestamp": 1775143772
+    },
+    {
       "title": "The President’s Not-So-Reassuring Iran Address",
       "canonical_url": "https://www.nationalreview.com/2026/04/the-presidents-not-so-reassuring-iran-address",
       "link_label": "www.nationalreview.com/2026/04/the-presidents-not-so-reassuri...",
@@ -25579,6 +25178,25 @@
       "trust_level": 72,
       "language": "en",
       "sort_timestamp": 1775143647
+    },
+    {
+      "title": "'I'm Not A Child Psychologist': House Dem Hits Trump With Brutal Diagnosis Over Iran War Speech",
+      "canonical_url": "https://www.huffpost.com/entry/seth-moulton-trump-mind-child-psychologist-iran-war-speech_n_69ce5f95e4b010aa534a6076",
+      "link_label": "www.huffpost.com/entry/seth-moulton-trump-mind-child-ps...",
+      "source_key": "huffpost-politics-rss",
+      "source_name": "HuffPost Politics",
+      "source_names": [
+        "HuffPost Politics"
+      ],
+      "primary_category": "us-politics",
+      "hub": "us",
+      "hub_label": "미국",
+      "section_key": "us-politics",
+      "section_label": "정치",
+      "published_at": "2026-04-02T15:23:14+00:00",
+      "trust_level": 76,
+      "language": "en",
+      "sort_timestamp": 1775143394
     },
     {
       "title": "Family offices stall deal-making during Iran conflict",
@@ -25714,6 +25332,26 @@
       "sort_timestamp": 1775136846
     },
     {
+      "title": "US crude tops $110 per barrel and Wall Street tumbles after Trump vows to escalate attacks on Iran",
+      "canonical_url": "https://abcnews.com/US/wireStory/us-crude-tops-110-barrel-wall-street-tumbles-131638790",
+      "link_label": "abcnews.com/US/wireStory/us-crude-tops-110-barrel-...",
+      "source_key": "abc-us-rss",
+      "source_name": "ABC News US",
+      "source_names": [
+        "ABC News Money",
+        "ABC News US"
+      ],
+      "primary_category": "us-politics",
+      "hub": "us",
+      "hub_label": "미국",
+      "section_key": "us-politics",
+      "section_label": "정치",
+      "published_at": "2026-04-02T13:22:40+00:00",
+      "trust_level": 87,
+      "language": "en",
+      "sort_timestamp": 1775136160
+    },
+    {
       "title": "Immigrants seeking asylum are ordered to countries they've never been to",
       "canonical_url": "https://abcnews.com/US/wireStory/immigrants-seeking-asylum-ordered-countries-end-stuck-limbo-131639874",
       "link_label": "abcnews.com/US/wireStory/immigrants-seeking-asylum...",
@@ -25750,44 +25388,6 @@
       "trust_level": 87,
       "language": "en",
       "sort_timestamp": 1775135741
-    },
-    {
-      "title": "US crude tops $110 per barrel and Wall Street tumbles after Trump vows to escalate attacks on Iran",
-      "canonical_url": "https://abcnews.com/Business/wireStory/oil-rises-7-world-shares-fall-after-trump-131638795",
-      "link_label": "abcnews.com/Business/wireStory/oil-rises-7-world-s...",
-      "source_key": "abc-money-rss",
-      "source_name": "ABC News Money",
-      "source_names": [
-        "ABC News Money"
-      ],
-      "primary_category": "us-economy",
-      "hub": "us",
-      "hub_label": "미국",
-      "section_key": "us-economy",
-      "section_label": "경제",
-      "published_at": "2026-04-02T13:06:34+00:00",
-      "trust_level": 87,
-      "language": "en",
-      "sort_timestamp": 1775135194
-    },
-    {
-      "title": "석유류 폭등으로 전기료 인상? 기후부 장관 quot;당장은 크지 않지만 장기화되면hellip;quot;",
-      "canonical_url": "https://www.pressian.com/pages/articles/2026040210563567246&ref=rss",
-      "link_label": "www.pressian.com/pages/articles/2026040210563567246&ref...",
-      "source_key": "pressian-economy-rss",
-      "source_name": "Pressian Economy",
-      "source_names": [
-        "Pressian Economy"
-      ],
-      "primary_category": "kr-economy",
-      "hub": "kr",
-      "hub_label": "대한민국",
-      "section_key": "kr-economy",
-      "section_label": "경제",
-      "published_at": "2026-04-02T12:58:54+00:00",
-      "trust_level": 80,
-      "language": "ko",
-      "sort_timestamp": 1775134734
     },
     {
       "title": "UK gathers more than 30 countries to plot ways of reopening the Strait of Hormuz",
@@ -25940,25 +25540,6 @@
       "trust_level": 87,
       "language": "en",
       "sort_timestamp": 1775130582
-    },
-    {
-      "title": "Republican leaders in Congress say they will pursue a path to ending the Homeland Security shutdown in the coming days",
-      "canonical_url": "https://abcnews.com/US/wireStory/republican-leaders-congress-pursue-path-ending-homeland-security-131624357",
-      "link_label": "abcnews.com/US/wireStory/republican-leaders-congre...",
-      "source_key": "abc-us-rss",
-      "source_name": "ABC News US",
-      "source_names": [
-        "ABC News US"
-      ],
-      "primary_category": "us-politics",
-      "hub": "us",
-      "hub_label": "미국",
-      "section_key": "us-politics",
-      "section_label": "정치",
-      "published_at": "2026-04-02T11:49:39+00:00",
-      "trust_level": 87,
-      "language": "en",
-      "sort_timestamp": 1775130579
     },
     {
       "title": "Brazilian banks to verify satellite deforestation data for rural credit",
@@ -26625,25 +26206,6 @@
       "trust_level": 78,
       "language": "en",
       "sort_timestamp": 1775125800
-    },
-    {
-      "title": "3월 소비자물가 2.2% 상승hellip;'전쟁 영향' 석유류 10% 급등",
-      "canonical_url": "https://www.pressian.com/pages/articles/2026040209401975620&ref=rss",
-      "link_label": "www.pressian.com/pages/articles/2026040209401975620&ref...",
-      "source_key": "pressian-economy-rss",
-      "source_name": "Pressian Economy",
-      "source_names": [
-        "Pressian Economy"
-      ],
-      "primary_category": "kr-economy",
-      "hub": "kr",
-      "hub_label": "대한민국",
-      "section_key": "kr-economy",
-      "section_label": "경제",
-      "published_at": "2026-04-02T10:28:06+00:00",
-      "trust_level": 80,
-      "language": "ko",
-      "sort_timestamp": 1775125686
     },
     {
       "title": "How a seabird native to Hawaii has adapted to life in Honolulu's concrete jungle",
@@ -27329,6 +26891,25 @@
       "trust_level": 86,
       "language": "ko",
       "sort_timestamp": 1775095861
+    },
+    {
+      "title": "Is this the beginning of the end of the war in Iran?",
+      "canonical_url": "https://www.vox.com/politics/484675/trump-iran-speech-war-strait-hormuz",
+      "link_label": "www.vox.com/politics/484675/trump-iran-speech-war-...",
+      "source_key": "vox-feed",
+      "source_name": "Vox Feed",
+      "source_names": [
+        "Vox Feed"
+      ],
+      "primary_category": "us-politics",
+      "hub": "us",
+      "hub_label": "미국",
+      "section_key": "us-politics",
+      "section_label": "정치",
+      "published_at": "2026-04-02T02:10:09+00:00",
+      "trust_level": 78,
+      "language": "en",
+      "sort_timestamp": 1775095809
     },
     {
       "title": "Trump: War Objectives Have Been Achieved, Iran ‘No Longer A Threat’",
@@ -28530,25 +28111,6 @@
       "sort_timestamp": 1775043045
     },
     {
-      "title": "李대통령 quot;다주택자 대출연장 공정?quot; 언급 45일 만에 만기연장 금지된다",
-      "canonical_url": "https://www.pressian.com/pages/articles/2026040110550384863&ref=rss",
-      "link_label": "www.pressian.com/pages/articles/2026040110550384863&ref...",
-      "source_key": "pressian-economy-rss",
-      "source_name": "Pressian Economy",
-      "source_names": [
-        "Pressian Economy"
-      ],
-      "primary_category": "kr-economy",
-      "hub": "kr",
-      "hub_label": "대한민국",
-      "section_key": "kr-economy",
-      "section_label": "경제",
-      "published_at": "2026-04-01T11:29:18+00:00",
-      "trust_level": 80,
-      "language": "ko",
-      "sort_timestamp": 1775042958
-    },
-    {
       "title": "Passengers stranded in moving traffic after robotaxi outage in China's Wuhan",
       "canonical_url": "https://abcnews.com/Technology/wireStory/passengers-stranded-moving-traffic-after-robotaxi-outage-chinas-131605532",
       "link_label": "abcnews.com/Technology/wireStory/passengers-strand...",
@@ -29178,25 +28740,6 @@
       "sort_timestamp": 1774977000
     },
     {
-      "title": "경기신보, 고객자문위원회 개최로 현장 소통 강화",
-      "canonical_url": "https://www.pressian.com/pages/articles/2026033114311495252&ref=rss",
-      "link_label": "www.pressian.com/pages/articles/2026033114311495252&ref...",
-      "source_key": "pressian-economy-rss",
-      "source_name": "Pressian Economy",
-      "source_names": [
-        "Pressian Economy"
-      ],
-      "primary_category": "kr-economy",
-      "hub": "kr",
-      "hub_label": "대한민국",
-      "section_key": "kr-economy",
-      "section_label": "경제",
-      "published_at": "2026-03-31T16:50:17+00:00",
-      "trust_level": 80,
-      "language": "ko",
-      "sort_timestamp": 1774975817
-    },
-    {
       "title": "WATCH: NASA holds pre-launch news conference on Artemis II, farthest crewed flight in decades",
       "canonical_url": "https://www.pbs.org/newshour/science/watch-live-nasa-holds-pre-launch-news-conference-on-artemis-ii-farthest-crewed-flight-in-decades",
       "link_label": "www.pbs.org/newshour/science/watch-live-nasa-holds...",
@@ -29404,25 +28947,6 @@
       "trust_level": 89,
       "language": "en",
       "sort_timestamp": 1774947600
-    },
-    {
-      "title": "반도체 생산 급등 38년만 최고 폭 상승 hellip;산업생산 전월比 2.5% 상승",
-      "canonical_url": "https://www.pressian.com/pages/articles/2026033108320730474&ref=rss",
-      "link_label": "www.pressian.com/pages/articles/2026033108320730474&ref...",
-      "source_key": "pressian-economy-rss",
-      "source_name": "Pressian Economy",
-      "source_names": [
-        "Pressian Economy"
-      ],
-      "primary_category": "kr-economy",
-      "hub": "kr",
-      "hub_label": "대한민국",
-      "section_key": "kr-economy",
-      "section_label": "경제",
-      "published_at": "2026-03-31T08:32:07+00:00",
-      "trust_level": 80,
-      "language": "ko",
-      "sort_timestamp": 1774945927
     },
     {
       "title": "If OpenAI is to float on the stock market this year, it needs to start turning a profit",
@@ -29805,25 +29329,6 @@
       "sort_timestamp": 1774812300
     },
     {
-      "title": "차량 5부제, 민간에도 시행? 서울 평균 휘발유값 1900원 넘어",
-      "canonical_url": "https://www.pressian.com/pages/articles/2026032914221317623&ref=rss",
-      "link_label": "www.pressian.com/pages/articles/2026032914221317623&ref...",
-      "source_key": "pressian-economy-rss",
-      "source_name": "Pressian Economy",
-      "source_names": [
-        "Pressian Economy"
-      ],
-      "primary_category": "kr-economy",
-      "hub": "kr",
-      "hub_label": "대한민국",
-      "section_key": "kr-economy",
-      "section_label": "경제",
-      "published_at": "2026-03-29T15:28:48+00:00",
-      "trust_level": 80,
-      "language": "ko",
-      "sort_timestamp": 1774798128
-    },
-    {
       "title": "트럼프 보란듯 ICBM 엔진시험 공개한 김정은…‘이란과 달라’ 무력시위",
       "canonical_url": "https://www.mk.co.kr/news/politics/12001538",
       "link_label": "www.mk.co.kr/news/politics/12001538",
@@ -30185,25 +29690,6 @@
       "sort_timestamp": 1774556753
     },
     {
-      "title": "경기신보, '중동위기 대응 특별경영자금 및 보증' 시행",
-      "canonical_url": "https://www.pressian.com/pages/articles/2026032614582095782&ref=rss",
-      "link_label": "www.pressian.com/pages/articles/2026032614582095782&ref...",
-      "source_key": "pressian-economy-rss",
-      "source_name": "Pressian Economy",
-      "source_names": [
-        "Pressian Economy"
-      ],
-      "primary_category": "kr-economy",
-      "hub": "kr",
-      "hub_label": "대한민국",
-      "section_key": "kr-economy",
-      "section_label": "경제",
-      "published_at": "2026-03-26T15:30:19+00:00",
-      "trust_level": 80,
-      "language": "ko",
-      "sort_timestamp": 1774539019
-    },
-    {
       "title": "Jury finds Meta and YouTube liable in landmark social media addiction trial",
       "canonical_url": "https://www.cbsnews.com/video/jury-finds-meta-and-youtube-liable-in-landmark-social-media-addiction-trial",
       "link_label": "www.cbsnews.com/video/jury-finds-meta-and-youtube-liab...",
@@ -30221,25 +29707,6 @@
       "trust_level": 87,
       "language": "en",
       "sort_timestamp": 1774527120
-    },
-    {
-      "title": "한국, '보호주의 진영화' 시대 생존 전략은? '대체 불가능성'에 달렸다",
-      "canonical_url": "https://www.pressian.com/pages/articles/2026032600031748267&ref=rss",
-      "link_label": "www.pressian.com/pages/articles/2026032600031748267&ref...",
-      "source_key": "pressian-economy-rss",
-      "source_name": "Pressian Economy",
-      "source_names": [
-        "Pressian Economy"
-      ],
-      "primary_category": "kr-economy",
-      "hub": "kr",
-      "hub_label": "대한민국",
-      "section_key": "kr-economy",
-      "section_label": "경제",
-      "published_at": "2026-03-26T11:27:54+00:00",
-      "trust_level": 80,
-      "language": "ko",
-      "sort_timestamp": 1774524474
     },
     {
       "title": "Sony and Honda pull plug on the $100,000 EV that was set to debut in California",
@@ -30413,25 +29880,6 @@
       "sort_timestamp": 1774468800
     },
     {
-      "title": "quot;오세훈 용적률 상향으로 종묘 경관 훼손-개발이익 맞바꿨다quot;",
-      "canonical_url": "https://www.pressian.com/pages/articles/2026032516135240606&ref=rss",
-      "link_label": "www.pressian.com/pages/articles/2026032516135240606&ref...",
-      "source_key": "pressian-economy-rss",
-      "source_name": "Pressian Economy",
-      "source_names": [
-        "Pressian Economy"
-      ],
-      "primary_category": "kr-economy",
-      "hub": "kr",
-      "hub_label": "대한민국",
-      "section_key": "kr-economy",
-      "section_label": "경제",
-      "published_at": "2026-03-25T19:55:06+00:00",
-      "trust_level": 80,
-      "language": "ko",
-      "sort_timestamp": 1774468506
-    },
-    {
       "title": "Landmark L.A. jury verdict finds Instagram, YouTube were designed to addict kids",
       "canonical_url": "https://www.latimes.com/california/story/2026-03-25/social-media-lawsuit-trial-meta-google-verdict",
       "link_label": "www.latimes.com/california/story/2026-03-25/social-med...",
@@ -30468,25 +29916,6 @@
       "trust_level": 89,
       "language": "en",
       "sort_timestamp": 1774458000
-    },
-    {
-      "title": "1월 합계출산율 1 육박hellip;인구 감소는 지속",
-      "canonical_url": "https://www.pressian.com/pages/articles/2026032516201451210&ref=rss",
-      "link_label": "www.pressian.com/pages/articles/2026032516201451210&ref...",
-      "source_key": "pressian-economy-rss",
-      "source_name": "Pressian Economy",
-      "source_names": [
-        "Pressian Economy"
-      ],
-      "primary_category": "kr-economy",
-      "hub": "kr",
-      "hub_label": "대한민국",
-      "section_key": "kr-economy",
-      "section_label": "경제",
-      "published_at": "2026-03-25T16:29:39+00:00",
-      "trust_level": 80,
-      "language": "ko",
-      "sort_timestamp": 1774456179
     },
     {
       "title": "Supreme Court makes it harder for music and movie makers to sue for online piracy",
@@ -30527,25 +29956,6 @@
       "sort_timestamp": 1774454400
     },
     {
-      "title": "집값 상승 기대 13개월 만에 꺾였다hellip;정부, '집값 잡기' 정책 영향?",
-      "canonical_url": "https://www.pressian.com/pages/articles/2026032510462758092&ref=rss",
-      "link_label": "www.pressian.com/pages/articles/2026032510462758092&ref...",
-      "source_key": "pressian-economy-rss",
-      "source_name": "Pressian Economy",
-      "source_names": [
-        "Pressian Economy"
-      ],
-      "primary_category": "kr-economy",
-      "hub": "kr",
-      "hub_label": "대한민국",
-      "section_key": "kr-economy",
-      "section_label": "경제",
-      "published_at": "2026-03-25T13:43:12+00:00",
-      "trust_level": 80,
-      "language": "ko",
-      "sort_timestamp": 1774446192
-    },
-    {
       "title": "New Mexico jury finds Meta violated consumer protection law in landmark trial",
       "canonical_url": "https://www.cbsnews.com/video/new-mexico-jury-finds-meta-violated-consumer-protection-law-in-landmark-trial",
       "link_label": "www.cbsnews.com/video/new-mexico-jury-finds-meta-viola...",
@@ -30563,44 +29973,6 @@
       "trust_level": 87,
       "language": "en",
       "sort_timestamp": 1774444140
-    },
-    {
-      "title": "이란침공 나비효과? 이번엔 중동발 '비닐' 대란hellip;quot;결국 전쟁 끝나야 해결quot;",
-      "canonical_url": "https://www.pressian.com/pages/articles/2026032511071572730&ref=rss",
-      "link_label": "www.pressian.com/pages/articles/2026032511071572730&ref...",
-      "source_key": "pressian-economy-rss",
-      "source_name": "Pressian Economy",
-      "source_names": [
-        "Pressian Economy"
-      ],
-      "primary_category": "kr-economy",
-      "hub": "kr",
-      "hub_label": "대한민국",
-      "section_key": "kr-economy",
-      "section_label": "경제",
-      "published_at": "2026-03-25T12:28:49+00:00",
-      "trust_level": 80,
-      "language": "ko",
-      "sort_timestamp": 1774441729
-    },
-    {
-      "title": "서울 아파트 공시가격 상승과 보유세 증가? 누구 이야기일까?",
-      "canonical_url": "https://www.pressian.com/pages/articles/2026032416050976820&ref=rss",
-      "link_label": "www.pressian.com/pages/articles/2026032416050976820&ref...",
-      "source_key": "pressian-economy-rss",
-      "source_name": "Pressian Economy",
-      "source_names": [
-        "Pressian Economy"
-      ],
-      "primary_category": "kr-economy",
-      "hub": "kr",
-      "hub_label": "대한민국",
-      "section_key": "kr-economy",
-      "section_label": "경제",
-      "published_at": "2026-03-25T12:19:03+00:00",
-      "trust_level": 80,
-      "language": "ko",
-      "sort_timestamp": 1774441143
     },
     {
       "title": "As streaming subscription fees rise, more consumers opt to pay less and watch ads",
@@ -30926,44 +30298,6 @@
       "sort_timestamp": 1774357200
     },
     {
-      "title": "quot;이대통령의 '다주택자' 업무배제, 긍정적이나 여전히 부족quot;",
-      "canonical_url": "https://www.pressian.com/pages/articles/2026032410035197318&ref=rss",
-      "link_label": "www.pressian.com/pages/articles/2026032410035197318&ref...",
-      "source_key": "pressian-economy-rss",
-      "source_name": "Pressian Economy",
-      "source_names": [
-        "Pressian Economy"
-      ],
-      "primary_category": "kr-economy",
-      "hub": "kr",
-      "hub_label": "대한민국",
-      "section_key": "kr-economy",
-      "section_label": "경제",
-      "published_at": "2026-03-24T10:59:51+00:00",
-      "trust_level": 80,
-      "language": "ko",
-      "sort_timestamp": 1774349991
-    },
-    {
-      "title": "이창용, 신현송 후보자 지명에 quot;아주 다행hellip;한은에 축복quot;",
-      "canonical_url": "https://www.pressian.com/pages/articles/2026032407021774367&ref=rss",
-      "link_label": "www.pressian.com/pages/articles/2026032407021774367&ref...",
-      "source_key": "pressian-economy-rss",
-      "source_name": "Pressian Economy",
-      "source_names": [
-        "Pressian Economy"
-      ],
-      "primary_category": "kr-economy",
-      "hub": "kr",
-      "hub_label": "대한민국",
-      "section_key": "kr-economy",
-      "section_label": "경제",
-      "published_at": "2026-03-24T09:57:45+00:00",
-      "trust_level": 80,
-      "language": "ko",
-      "sort_timestamp": 1774346265
-    },
-    {
       "title": "北 김정은 \"韓 가장 적대적 국가 … 철저히 무시\"",
       "canonical_url": "https://www.mk.co.kr/news/politics/11997111",
       "link_label": "www.mk.co.kr/news/politics/11997111",
@@ -31076,25 +30410,6 @@
       "trust_level": 89,
       "language": "en",
       "sort_timestamp": 1774256400
-    },
-    {
-      "title": "당정청, '전쟁 추경' 25조 규모 편성키로",
-      "canonical_url": "https://www.pressian.com/pages/articles/2026032220071275390&ref=rss",
-      "link_label": "www.pressian.com/pages/articles/2026032220071275390&ref...",
-      "source_key": "pressian-economy-rss",
-      "source_name": "Pressian Economy",
-      "source_names": [
-        "Pressian Economy"
-      ],
-      "primary_category": "kr-economy",
-      "hub": "kr",
-      "hub_label": "대한민국",
-      "section_key": "kr-economy",
-      "section_label": "경제",
-      "published_at": "2026-03-23T06:17:37+00:00",
-      "trust_level": 80,
-      "language": "ko",
-      "sort_timestamp": 1774246657
     },
     {
       "title": "How iNaturalist app users have fun while aiding science",
@@ -38380,28 +37695,9 @@
       "sort_timestamp": 0
     },
     {
-      "title": "춘천시 통합 의료돌봄 체계 가동…재가 중심 서비스 강화",
-      "canonical_url": "https://n.news.naver.com/mnews/article/001/0016002252",
-      "link_label": "n.news.naver.com/mnews/article/001/0016002252",
-      "source_key": "naver-kr-society",
-      "source_name": "NAVER News Search",
-      "source_names": [
-        "NAVER News Search"
-      ],
-      "primary_category": "kr-society",
-      "hub": "kr",
-      "hub_label": "대한민국",
-      "section_key": "kr-society",
-      "section_label": "사회",
-      "published_at": null,
-      "trust_level": 70,
-      "language": "ko",
-      "sort_timestamp": 0
-    },
-    {
-      "title": "진보 경기도교육감 경선토론, 고교학점제·교육장 공모제 등 ‘치열한 공방’",
-      "canonical_url": "https://n.news.naver.com/mnews/article/666/0000101923",
-      "link_label": "n.news.naver.com/mnews/article/666/0000101923",
+      "title": "탕수육·소주 8만원어치 먹튀⋯점주 \"10번 신고해도 한 번 못잡아\" 분통",
+      "canonical_url": "https://n.news.naver.com/mnews/article/031/0001019663",
+      "link_label": "n.news.naver.com/mnews/article/031/0001019663",
       "source_key": "naver-kr-society",
       "source_name": "NAVER News Search",
       "source_names": [
@@ -38421,25 +37717,6 @@
       "title": "지나가던 초등생 복부를 발로 '퍽'…유치장 대신 병원행, 왜?",
       "canonical_url": "https://n.news.naver.com/mnews/article/088/0001004097",
       "link_label": "n.news.naver.com/mnews/article/088/0001004097",
-      "source_key": "naver-kr-society",
-      "source_name": "NAVER News Search",
-      "source_names": [
-        "NAVER News Search"
-      ],
-      "primary_category": "kr-society",
-      "hub": "kr",
-      "hub_label": "대한민국",
-      "section_key": "kr-society",
-      "section_label": "사회",
-      "published_at": null,
-      "trust_level": 70,
-      "language": "ko",
-      "sort_timestamp": 0
-    },
-    {
-      "title": "이철우-김재원, 표심 확보 총력전…예비후보·정치원로 설득 치열",
-      "canonical_url": "https://n.news.naver.com/mnews/article/079/0004132675",
-      "link_label": "n.news.naver.com/mnews/article/079/0004132675",
       "source_key": "naver-kr-society",
       "source_name": "NAVER News Search",
       "source_names": [
@@ -38497,6 +37774,25 @@
       "title": "민주당 충북지사 신용한 공천 확정…\"원팀으로 반드시 승리\"",
       "canonical_url": "https://n.news.naver.com/mnews/article/079/0004132872",
       "link_label": "n.news.naver.com/mnews/article/079/0004132872",
+      "source_key": "naver-kr-society",
+      "source_name": "NAVER News Search",
+      "source_names": [
+        "NAVER News Search"
+      ],
+      "primary_category": "kr-society",
+      "hub": "kr",
+      "hub_label": "대한민국",
+      "section_key": "kr-society",
+      "section_label": "사회",
+      "published_at": null,
+      "trust_level": 70,
+      "language": "ko",
+      "sort_timestamp": 0
+    },
+    {
+      "title": "마크롱 佛 대통령, 美 이란 공격 비판 “군사 개입 정당화… 국제 신뢰 붕괴”",
+      "canonical_url": "https://n.news.naver.com/mnews/article/366/0001154160",
+      "link_label": "n.news.naver.com/mnews/article/366/0001154160",
       "source_key": "naver-kr-society",
       "source_name": "NAVER News Search",
       "source_names": [
@@ -38665,9 +37961,9 @@
       "sort_timestamp": 0
     },
     {
-      "title": "노인회 \"출퇴근시간 무임승차 제한 우려\"…홍익표 \"계획 없어\"",
-      "canonical_url": "https://n.news.naver.com/mnews/article/001/0016002275",
-      "link_label": "n.news.naver.com/mnews/article/001/0016002275",
+      "title": "노동위, 포스코 하청 '교섭단위 분리' 판단 연기…\"이견 첨예\"",
+      "canonical_url": "https://n.news.naver.com/mnews/article/001/0016001609",
+      "link_label": "n.news.naver.com/mnews/article/001/0016001609",
       "source_key": "naver-kr-society",
       "source_name": "NAVER News Search",
       "source_names": [
@@ -38684,9 +37980,9 @@
       "sort_timestamp": 0
     },
     {
-      "title": "與 전북지사 경선…안호영 '정책연대' vs 이원택 '조직력'",
-      "canonical_url": "https://n.news.naver.com/mnews/article/421/0008868009",
-      "link_label": "n.news.naver.com/mnews/article/421/0008868009",
+      "title": "국정원 \"검찰에 불리한 자료 숨겼다\"… 사건 뒤흔드는 '선별제출'",
+      "canonical_url": "https://n.news.naver.com/mnews/article/047/0002510748",
+      "link_label": "n.news.naver.com/mnews/article/047/0002510748",
       "source_key": "naver-kr-society",
       "source_name": "NAVER News Search",
       "source_names": [
@@ -38706,6 +38002,25 @@
       "title": "“충격”…30대 요리사, 미성년자 5명 성폭행·성착취물 제작",
       "canonical_url": "https://n.news.naver.com/mnews/article/081/0003632417",
       "link_label": "n.news.naver.com/mnews/article/081/0003632417",
+      "source_key": "naver-kr-society",
+      "source_name": "NAVER News Search",
+      "source_names": [
+        "NAVER News Search"
+      ],
+      "primary_category": "kr-society",
+      "hub": "kr",
+      "hub_label": "대한민국",
+      "section_key": "kr-society",
+      "section_label": "사회",
+      "published_at": null,
+      "trust_level": 70,
+      "language": "ko",
+      "sort_timestamp": 0
+    },
+    {
+      "title": "‘노인 대중교통 무임승차 제한?’ 청와대 “계획없다”",
+      "canonical_url": "https://n.news.naver.com/mnews/article/021/0002782282",
+      "link_label": "n.news.naver.com/mnews/article/021/0002782282",
       "source_key": "naver-kr-society",
       "source_name": "NAVER News Search",
       "source_names": [

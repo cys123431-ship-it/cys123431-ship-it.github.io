@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-04-04T12:30:46.554335+00:00",
+  "generated_at": "2026-04-04T12:30:59.856698+00:00",
   "retention_days": 90,
   "default_window": "7d",
-  "lifetime_total_articles": 4146,
+  "lifetime_total_articles": 4103,
   "lifetime_unknown_time_count": 438,
   "available_windows": [
     {
@@ -29,44 +29,44 @@
   "windows": {
     "24h": {
       "label": "24h",
-      "article_count": 1243,
+      "article_count": 1215,
       "unknown_time_count": 0,
-      "active_source_count": 93,
-      "repeated_title_count": 85,
+      "active_source_count": 89,
+      "repeated_title_count": 84,
       "timeline": [
         {
           "date": "2026-04-03",
-          "count": 662
+          "count": 642
         },
         {
           "date": "2026-04-04",
-          "count": 581
+          "count": 573
         }
       ],
       "top_keywords": [
         {
           "keyword": "trump",
-          "count": 138
+          "count": 131
         },
         {
           "keyword": "iran",
-          "count": 60
+          "count": 59
         },
         {
           "keyword": "war",
-          "count": 33
+          "count": 32
+        },
+        {
+          "keyword": "new",
+          "count": 28
         },
         {
           "keyword": "us",
           "count": 28
         },
         {
-          "keyword": "new",
-          "count": 26
-        },
-        {
           "keyword": "what",
-          "count": 26
+          "count": 25
         },
         {
           "keyword": "ai",
@@ -74,22 +74,22 @@
         },
         {
           "keyword": "budget",
-          "count": 23
-        },
-        {
-          "keyword": "how",
-          "count": 20
-        },
-        {
-          "keyword": "after",
-          "count": 19
+          "count": 22
         },
         {
           "keyword": "about",
           "count": 18
         },
         {
-          "keyword": "bondi",
+          "keyword": "after",
+          "count": 18
+        },
+        {
+          "keyword": "how",
+          "count": 18
+        },
+        {
+          "keyword": "down",
           "count": 17
         }
       ],
@@ -102,7 +102,7 @@
         {
           "source_key": "guardian-us-rss",
           "name": "The Guardian US",
-          "count": 58
+          "count": 59
         },
         {
           "source_key": "asiae-society-rss",
@@ -159,17 +159,17 @@
         {
           "key": "us",
           "label": "미국",
-          "count": 732
+          "count": 719
         },
         {
           "key": "kr",
           "label": "대한민국",
-          "count": 448
+          "count": 431
         },
         {
           "key": "global",
           "label": "글로벌 전문",
-          "count": 63
+          "count": 65
         }
       ],
       "top_sections": [
@@ -178,7 +178,7 @@
           "label": "정치",
           "hub": "us",
           "hub_label": "미국",
-          "count": 307
+          "count": 294
         },
         {
           "key": "kr-society",
@@ -202,17 +202,17 @@
           "count": 136
         },
         {
-          "key": "kr-economy",
-          "label": "경제",
-          "hub": "kr",
-          "hub_label": "대한민국",
-          "count": 89
-        },
-        {
           "key": "us-economy",
           "label": "경제",
           "hub": "us",
           "hub_label": "미국",
+          "count": 87
+        },
+        {
+          "key": "kr-economy",
+          "label": "경제",
+          "hub": "kr",
+          "hub_label": "대한민국",
           "count": 87
         },
         {
@@ -223,18 +223,18 @@
           "count": 74
         },
         {
-          "key": "kr-politics",
-          "label": "정치",
-          "hub": "kr",
-          "hub_label": "대한민국",
-          "count": 73
-        },
-        {
           "key": "kr-culture",
           "label": "문화",
           "hub": "kr",
           "hub_label": "대한민국",
           "count": 60
+        },
+        {
+          "key": "kr-politics",
+          "label": "정치",
+          "hub": "kr",
+          "hub_label": "대한민국",
+          "count": 58
         },
         {
           "key": "us-markets",
@@ -248,7 +248,7 @@
           "label": "코인",
           "hub": "global",
           "hub_label": "글로벌 전문",
-          "count": 30
+          "count": 32
         },
         {
           "key": "tech-it",
@@ -261,11 +261,11 @@
       "language_counts": [
         {
           "language": "en",
-          "count": 787
+          "count": 776
         },
         {
           "language": "ko",
-          "count": 456
+          "count": 439
         }
       ],
       "repeated_titles": [
@@ -452,91 +452,25 @@
       ],
       "recent_samples": [
         {
-          "stable_key": "1de42aa73cd0a9514512405f1d0dfb0b231f883f35378ae4dd91d0e76b3e2127",
-          "source_key": "pressian-politics-rss",
-          "source_name": "Pressian Politics",
-          "category": "kr-politics",
-          "hub": "kr",
-          "hub_label": "대한민국",
-          "section_label": "정치",
-          "language": "ko",
-          "title": "국힘 서울 지지율 13%로 '풀썩'hellip;배현진 quot;후보들이 안 나서, 간판 교체해야quot;",
-          "canonical_url": "https://www.pressian.com/pages/articles/2026040409060075375&ref=rss",
-          "published_at": "2026-04-04T19:51:04+00:00",
-          "title_hash": "e3a09f0b0777f897cec430e91d0dd02ee76b5af010cbfb54fc686e7753f64515",
-          "keywords": [
-            "국힘",
-            "서울",
-            "지지율",
-            "풀썩",
-            "hellip",
-            "배현진"
-          ]
-        },
-        {
-          "stable_key": "f7b58b2316c418a60299ac436eb7ec7b5386f014b9c4db19d9cce93f4e8e5c8b",
-          "source_key": "pressian-politics-rss",
-          "source_name": "Pressian Politics",
-          "category": "kr-politics",
-          "hub": "kr",
-          "hub_label": "대한민국",
-          "section_label": "정치",
-          "language": "ko",
-          "title": "경기 與후보적합도 김동연middot;추미애 격차 더 벌어졌다hellip;金 35.0%, 秋 21.5%",
-          "canonical_url": "https://www.pressian.com/pages/articles/2026040413054743167&ref=rss",
-          "published_at": "2026-04-04T13:10:04+00:00",
-          "title_hash": "0e50ccbb078f41ce6eccad8337ddcd03cc54520585a898a2470cc61a98859667",
-          "keywords": [
-            "경기",
-            "후보적합도",
-            "김동연middot",
-            "추미애",
-            "격차",
-            "벌어졌다hellip"
-          ]
-        },
-        {
-          "stable_key": "5d24ec76c68fc623b5d8662b0d3e0a2f93dab9b70496c233dc0d647c0edd01aa",
-          "source_key": "forbes-innovation-rss",
-          "source_name": "Forbes Innovation",
-          "category": "us-technology",
+          "stable_key": "321a0a3ab9e4779f8ee7777e7c112d9baecbd95ae01d85f1e995334dfe38204d",
+          "source_key": "forbes-business-rss",
+          "source_name": "Forbes Business",
+          "category": "us-economy",
           "hub": "us",
           "hub_label": "미국",
-          "section_label": "기술",
+          "section_label": "경제",
           "language": "en",
-          "title": "New Password Stealer Bypasses 2FA—Chrome, Edge And Firefox Targeted",
-          "canonical_url": "https://www.forbes.com/sites/daveywinder/2026/04/04/new-password-stealer-bypasses-2fa-chrome-edge-and-firefox-targeted",
-          "published_at": "2026-04-04T12:30:11+00:00",
-          "title_hash": "84489bcf1187b6a17a653c10b066ff21aa23ad7b5b4c239f04eb4fff67163907",
-          "keywords": [
-            "new",
-            "password",
-            "stealer",
-            "bypasses",
-            "2fa",
-            "chrome"
-          ]
-        },
-        {
-          "stable_key": "132ae4d9fc7edfa6664078ddec77dd11bc3c02fb73b22b8d65ebe2c3904bd7c5",
-          "source_key": "forbes-innovation-rss",
-          "source_name": "Forbes Innovation",
-          "category": "us-technology",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "기술",
-          "language": "en",
-          "title": "Meet The Lizard That Shoots Blood From Its Eyes — A Herpetologist Explains",
-          "canonical_url": "https://www.forbes.com/sites/scotttravers/2026/04/04/meet-the-lizard-that-shoots-blood-from-its-eyes---a-herpetologist-explains",
+          "title": "Harry Styles’s Debut Single Hits New Highs Thanks To A Blockbuster Film",
+          "canonical_url": "https://www.forbes.com/sites/hughmcintyre/2026/04/04/harry-styless-debut-single-hits-new-highs-thanks-to-a-blockbuster-film",
           "published_at": "2026-04-04T12:30:00+00:00",
-          "title_hash": "f45c812b8f095ae95d297b56bef21eb80700ca8667f7d94c18d7fcc9f9e7b3ca",
+          "title_hash": "bcadd5d29e43746e8370f78a5825d33084b1c07f7bb0be634db48715d9d73eee",
           "keywords": [
-            "meet",
-            "lizard",
-            "shoots",
-            "blood",
-            "eyes",
-            "herpetologist"
+            "harry",
+            "styles",
+            "debut",
+            "single",
+            "hits",
+            "new"
           ]
         },
         {
@@ -1110,14 +1044,80 @@
             "year",
             "lead"
           ]
+        },
+        {
+          "stable_key": "7f7256de5f9d96195589b5521a982f10f1978d24d691326bf6767350e70b3f8c",
+          "source_key": "wired-rss",
+          "source_name": "Wired RSS",
+          "category": "us-technology",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "기술",
+          "language": "en",
+          "title": "Best Ski Clothes (2026): Patagonia, Arc’teryx, Burton, and More",
+          "canonical_url": "https://www.wired.com/gallery/best-ski-clothes",
+          "published_at": "2026-04-04T12:00:00+00:00",
+          "title_hash": "6344ecffa45b513e67c4836fb11189daf622a0bd3076fea5bed55c2a7cf16c54",
+          "keywords": [
+            "best",
+            "ski",
+            "clothes",
+            "patagonia",
+            "arc",
+            "teryx"
+          ]
+        },
+        {
+          "stable_key": "b601c177e51eedee9e37cadc525dc1506454db8995f1df4b194e535c6d9a2366",
+          "source_key": "washingtonexaminer-feed",
+          "source_name": "Washington Examiner Feed",
+          "category": "us-technology",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "기술",
+          "language": "en",
+          "title": "What if your ‘doctor’ has 300 million followers and zero accountability?",
+          "canonical_url": "https://www.washingtonexaminer.com/op-eds/4510497/doctor-300-million-followers-zero-accountability",
+          "published_at": "2026-04-04T12:00:00+00:00",
+          "title_hash": "cc7ec452f30077e4408eb5506623e69f5501aac4be143c2230dd0af0a8e6af93",
+          "keywords": [
+            "what",
+            "if",
+            "your",
+            "doctor",
+            "has",
+            "million"
+          ]
+        },
+        {
+          "stable_key": "ae0692745495d44bde985634b4157b33f73b8d78937b60938cf2442ca30bff82",
+          "source_key": "washingtonexaminer-feed",
+          "source_name": "Washington Examiner Feed",
+          "category": "us-markets",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "시장",
+          "language": "en",
+          "title": "Iran war reality check: Global markets still dictate American energy prices",
+          "canonical_url": "https://www.washingtonexaminer.com/op-eds/4515340/iran-war-global-markets-dictate-american-energy-prices",
+          "published_at": "2026-04-04T12:00:00+00:00",
+          "title_hash": "a5049e87c95ac06d9f3ada910879d65d746498e3c754060e45747a8420044e66",
+          "keywords": [
+            "iran",
+            "war",
+            "reality",
+            "check",
+            "global",
+            "markets"
+          ]
         }
       ]
     },
     "7d": {
       "label": "7d",
-      "article_count": 3017,
+      "article_count": 2988,
       "unknown_time_count": 0,
-      "active_source_count": 101,
+      "active_source_count": 99,
       "repeated_title_count": 166,
       "timeline": [
         {
@@ -1126,7 +1126,7 @@
         },
         {
           "date": "2026-03-29",
-          "count": 30
+          "count": 29
         },
         {
           "date": "2026-03-30",
@@ -1134,45 +1134,45 @@
         },
         {
           "date": "2026-03-31",
-          "count": 151
+          "count": 149
         },
         {
           "date": "2026-04-01",
-          "count": 232
+          "count": 244
         },
         {
           "date": "2026-04-02",
-          "count": 584
+          "count": 581
         },
         {
           "date": "2026-04-03",
-          "count": 1344
+          "count": 1317
         },
         {
           "date": "2026-04-04",
-          "count": 581
+          "count": 573
         }
       ],
       "top_keywords": [
         {
           "keyword": "trump",
-          "count": 337
+          "count": 335
         },
         {
           "keyword": "iran",
-          "count": 160
+          "count": 162
         },
         {
           "keyword": "war",
           "count": 91
         },
         {
-          "keyword": "us",
-          "count": 65
+          "keyword": "new",
+          "count": 67
         },
         {
-          "keyword": "new",
-          "count": 64
+          "keyword": "us",
+          "count": 66
         },
         {
           "keyword": "after",
@@ -1183,16 +1183,16 @@
           "count": 54
         },
         {
-          "keyword": "how",
-          "count": 50
+          "keyword": "what",
+          "count": 49
         },
         {
-          "keyword": "what",
-          "count": 50
+          "keyword": "how",
+          "count": 48
         },
         {
           "keyword": "says",
-          "count": 49
+          "count": 48
         },
         {
           "keyword": "bondi",
@@ -1200,7 +1200,7 @@
         },
         {
           "keyword": "about",
-          "count": 44
+          "count": 43
         }
       ],
       "top_sources": [
@@ -1222,7 +1222,7 @@
         {
           "source_key": "guardian-us-rss",
           "name": "The Guardian US",
-          "count": 93
+          "count": 94
         },
         {
           "source_key": "thehill-feed",
@@ -1269,12 +1269,12 @@
         {
           "key": "us",
           "label": "미국",
-          "count": 1693
+          "count": 1697
         },
         {
           "key": "kr",
           "label": "대한민국",
-          "count": 1204
+          "count": 1171
         },
         {
           "key": "global",
@@ -1288,7 +1288,7 @@
           "label": "정치",
           "hub": "us",
           "hub_label": "미국",
-          "count": 650
+          "count": 654
         },
         {
           "key": "us-technology",
@@ -1309,7 +1309,7 @@
           "label": "경제",
           "hub": "kr",
           "hub_label": "대한민국",
-          "count": 301
+          "count": 293
         },
         {
           "key": "kr-society",
@@ -1319,18 +1319,18 @@
           "count": 274
         },
         {
-          "key": "kr-politics",
-          "label": "정치",
-          "hub": "kr",
-          "hub_label": "대한민국",
-          "count": 235
-        },
-        {
           "key": "kr-culture",
           "label": "문화",
           "hub": "kr",
           "hub_label": "대한민국",
           "count": 223
+        },
+        {
+          "key": "kr-politics",
+          "label": "정치",
+          "hub": "kr",
+          "hub_label": "대한민국",
+          "count": 210
         },
         {
           "key": "us-economy",
@@ -1371,11 +1371,11 @@
       "language_counts": [
         {
           "language": "en",
-          "count": 1805
+          "count": 1809
         },
         {
           "language": "ko",
-          "count": 1212
+          "count": 1179
         }
       ],
       "repeated_titles": [
@@ -1562,91 +1562,25 @@
       ],
       "recent_samples": [
         {
-          "stable_key": "1de42aa73cd0a9514512405f1d0dfb0b231f883f35378ae4dd91d0e76b3e2127",
-          "source_key": "pressian-politics-rss",
-          "source_name": "Pressian Politics",
-          "category": "kr-politics",
-          "hub": "kr",
-          "hub_label": "대한민국",
-          "section_label": "정치",
-          "language": "ko",
-          "title": "국힘 서울 지지율 13%로 '풀썩'hellip;배현진 quot;후보들이 안 나서, 간판 교체해야quot;",
-          "canonical_url": "https://www.pressian.com/pages/articles/2026040409060075375&ref=rss",
-          "published_at": "2026-04-04T19:51:04+00:00",
-          "title_hash": "e3a09f0b0777f897cec430e91d0dd02ee76b5af010cbfb54fc686e7753f64515",
-          "keywords": [
-            "국힘",
-            "서울",
-            "지지율",
-            "풀썩",
-            "hellip",
-            "배현진"
-          ]
-        },
-        {
-          "stable_key": "f7b58b2316c418a60299ac436eb7ec7b5386f014b9c4db19d9cce93f4e8e5c8b",
-          "source_key": "pressian-politics-rss",
-          "source_name": "Pressian Politics",
-          "category": "kr-politics",
-          "hub": "kr",
-          "hub_label": "대한민국",
-          "section_label": "정치",
-          "language": "ko",
-          "title": "경기 與후보적합도 김동연middot;추미애 격차 더 벌어졌다hellip;金 35.0%, 秋 21.5%",
-          "canonical_url": "https://www.pressian.com/pages/articles/2026040413054743167&ref=rss",
-          "published_at": "2026-04-04T13:10:04+00:00",
-          "title_hash": "0e50ccbb078f41ce6eccad8337ddcd03cc54520585a898a2470cc61a98859667",
-          "keywords": [
-            "경기",
-            "후보적합도",
-            "김동연middot",
-            "추미애",
-            "격차",
-            "벌어졌다hellip"
-          ]
-        },
-        {
-          "stable_key": "5d24ec76c68fc623b5d8662b0d3e0a2f93dab9b70496c233dc0d647c0edd01aa",
-          "source_key": "forbes-innovation-rss",
-          "source_name": "Forbes Innovation",
-          "category": "us-technology",
+          "stable_key": "321a0a3ab9e4779f8ee7777e7c112d9baecbd95ae01d85f1e995334dfe38204d",
+          "source_key": "forbes-business-rss",
+          "source_name": "Forbes Business",
+          "category": "us-economy",
           "hub": "us",
           "hub_label": "미국",
-          "section_label": "기술",
+          "section_label": "경제",
           "language": "en",
-          "title": "New Password Stealer Bypasses 2FA—Chrome, Edge And Firefox Targeted",
-          "canonical_url": "https://www.forbes.com/sites/daveywinder/2026/04/04/new-password-stealer-bypasses-2fa-chrome-edge-and-firefox-targeted",
-          "published_at": "2026-04-04T12:30:11+00:00",
-          "title_hash": "84489bcf1187b6a17a653c10b066ff21aa23ad7b5b4c239f04eb4fff67163907",
-          "keywords": [
-            "new",
-            "password",
-            "stealer",
-            "bypasses",
-            "2fa",
-            "chrome"
-          ]
-        },
-        {
-          "stable_key": "132ae4d9fc7edfa6664078ddec77dd11bc3c02fb73b22b8d65ebe2c3904bd7c5",
-          "source_key": "forbes-innovation-rss",
-          "source_name": "Forbes Innovation",
-          "category": "us-technology",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "기술",
-          "language": "en",
-          "title": "Meet The Lizard That Shoots Blood From Its Eyes — A Herpetologist Explains",
-          "canonical_url": "https://www.forbes.com/sites/scotttravers/2026/04/04/meet-the-lizard-that-shoots-blood-from-its-eyes---a-herpetologist-explains",
+          "title": "Harry Styles’s Debut Single Hits New Highs Thanks To A Blockbuster Film",
+          "canonical_url": "https://www.forbes.com/sites/hughmcintyre/2026/04/04/harry-styless-debut-single-hits-new-highs-thanks-to-a-blockbuster-film",
           "published_at": "2026-04-04T12:30:00+00:00",
-          "title_hash": "f45c812b8f095ae95d297b56bef21eb80700ca8667f7d94c18d7fcc9f9e7b3ca",
+          "title_hash": "bcadd5d29e43746e8370f78a5825d33084b1c07f7bb0be634db48715d9d73eee",
           "keywords": [
-            "meet",
-            "lizard",
-            "shoots",
-            "blood",
-            "eyes",
-            "herpetologist"
+            "harry",
+            "styles",
+            "debut",
+            "single",
+            "hits",
+            "new"
           ]
         },
         {
@@ -2220,14 +2154,80 @@
             "year",
             "lead"
           ]
+        },
+        {
+          "stable_key": "7f7256de5f9d96195589b5521a982f10f1978d24d691326bf6767350e70b3f8c",
+          "source_key": "wired-rss",
+          "source_name": "Wired RSS",
+          "category": "us-technology",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "기술",
+          "language": "en",
+          "title": "Best Ski Clothes (2026): Patagonia, Arc’teryx, Burton, and More",
+          "canonical_url": "https://www.wired.com/gallery/best-ski-clothes",
+          "published_at": "2026-04-04T12:00:00+00:00",
+          "title_hash": "6344ecffa45b513e67c4836fb11189daf622a0bd3076fea5bed55c2a7cf16c54",
+          "keywords": [
+            "best",
+            "ski",
+            "clothes",
+            "patagonia",
+            "arc",
+            "teryx"
+          ]
+        },
+        {
+          "stable_key": "b601c177e51eedee9e37cadc525dc1506454db8995f1df4b194e535c6d9a2366",
+          "source_key": "washingtonexaminer-feed",
+          "source_name": "Washington Examiner Feed",
+          "category": "us-technology",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "기술",
+          "language": "en",
+          "title": "What if your ‘doctor’ has 300 million followers and zero accountability?",
+          "canonical_url": "https://www.washingtonexaminer.com/op-eds/4510497/doctor-300-million-followers-zero-accountability",
+          "published_at": "2026-04-04T12:00:00+00:00",
+          "title_hash": "cc7ec452f30077e4408eb5506623e69f5501aac4be143c2230dd0af0a8e6af93",
+          "keywords": [
+            "what",
+            "if",
+            "your",
+            "doctor",
+            "has",
+            "million"
+          ]
+        },
+        {
+          "stable_key": "ae0692745495d44bde985634b4157b33f73b8d78937b60938cf2442ca30bff82",
+          "source_key": "washingtonexaminer-feed",
+          "source_name": "Washington Examiner Feed",
+          "category": "us-markets",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "시장",
+          "language": "en",
+          "title": "Iran war reality check: Global markets still dictate American energy prices",
+          "canonical_url": "https://www.washingtonexaminer.com/op-eds/4515340/iran-war-global-markets-dictate-american-energy-prices",
+          "published_at": "2026-04-04T12:00:00+00:00",
+          "title_hash": "a5049e87c95ac06d9f3ada910879d65d746498e3c754060e45747a8420044e66",
+          "keywords": [
+            "iran",
+            "war",
+            "reality",
+            "check",
+            "global",
+            "markets"
+          ]
         }
       ]
     },
     "30d": {
       "label": "30d",
-      "article_count": 3532,
+      "article_count": 3489,
       "unknown_time_count": 0,
-      "active_source_count": 102,
+      "active_source_count": 100,
       "repeated_title_count": 226,
       "timeline": [
         {
@@ -2300,23 +2300,23 @@
         },
         {
           "date": "2026-03-22",
-          "count": 20
+          "count": 16
         },
         {
           "date": "2026-03-23",
-          "count": 23
+          "count": 22
         },
         {
           "date": "2026-03-24",
-          "count": 55
+          "count": 53
         },
         {
           "date": "2026-03-25",
-          "count": 65
+          "count": 60
         },
         {
           "date": "2026-03-26",
-          "count": 72
+          "count": 70
         },
         {
           "date": "2026-03-27",
@@ -2328,7 +2328,7 @@
         },
         {
           "date": "2026-03-29",
-          "count": 30
+          "count": 29
         },
         {
           "date": "2026-03-30",
@@ -2336,45 +2336,45 @@
         },
         {
           "date": "2026-03-31",
-          "count": 151
+          "count": 149
         },
         {
           "date": "2026-04-01",
-          "count": 232
+          "count": 244
         },
         {
           "date": "2026-04-02",
-          "count": 584
+          "count": 581
         },
         {
           "date": "2026-04-03",
-          "count": 1344
+          "count": 1317
         },
         {
           "date": "2026-04-04",
-          "count": 581
+          "count": 573
         }
       ],
       "top_keywords": [
         {
           "keyword": "trump",
-          "count": 385
+          "count": 383
         },
         {
           "keyword": "iran",
-          "count": 204
+          "count": 206
         },
         {
           "keyword": "war",
           "count": 123
         },
         {
-          "keyword": "us",
-          "count": 81
+          "keyword": "new",
+          "count": 82
         },
         {
-          "keyword": "new",
-          "count": 79
+          "keyword": "us",
+          "count": 82
         },
         {
           "keyword": "ai",
@@ -2382,7 +2382,7 @@
         },
         {
           "keyword": "how",
-          "count": 71
+          "count": 69
         },
         {
           "keyword": "after",
@@ -2390,11 +2390,11 @@
         },
         {
           "keyword": "says",
-          "count": 60
+          "count": 59
         },
         {
           "keyword": "what",
-          "count": 58
+          "count": 57
         },
         {
           "keyword": "california",
@@ -2439,7 +2439,7 @@
         {
           "source_key": "guardian-us-rss",
           "name": "The Guardian US",
-          "count": 94
+          "count": 95
         },
         {
           "source_key": "axios-feed",
@@ -2471,12 +2471,12 @@
         {
           "key": "us",
           "label": "미국",
-          "count": 2132
+          "count": 2136
         },
         {
           "key": "kr",
           "label": "대한민국",
-          "count": 1276
+          "count": 1229
         },
         {
           "key": "global",
@@ -2490,7 +2490,7 @@
           "label": "정치",
           "hub": "us",
           "hub_label": "미국",
-          "count": 765
+          "count": 769
         },
         {
           "key": "us-technology",
@@ -2511,7 +2511,7 @@
           "label": "경제",
           "hub": "kr",
           "hub_label": "대한민국",
-          "count": 315
+          "count": 293
         },
         {
           "key": "us-economy",
@@ -2532,7 +2532,7 @@
           "label": "정치",
           "hub": "kr",
           "hub_label": "대한민국",
-          "count": 271
+          "count": 246
         },
         {
           "key": "kr-culture",
@@ -2573,11 +2573,11 @@
       "language_counts": [
         {
           "language": "en",
-          "count": 2248
+          "count": 2252
         },
         {
           "language": "ko",
-          "count": 1284
+          "count": 1237
         }
       ],
       "repeated_titles": [
@@ -2764,91 +2764,25 @@
       ],
       "recent_samples": [
         {
-          "stable_key": "1de42aa73cd0a9514512405f1d0dfb0b231f883f35378ae4dd91d0e76b3e2127",
-          "source_key": "pressian-politics-rss",
-          "source_name": "Pressian Politics",
-          "category": "kr-politics",
-          "hub": "kr",
-          "hub_label": "대한민국",
-          "section_label": "정치",
-          "language": "ko",
-          "title": "국힘 서울 지지율 13%로 '풀썩'hellip;배현진 quot;후보들이 안 나서, 간판 교체해야quot;",
-          "canonical_url": "https://www.pressian.com/pages/articles/2026040409060075375&ref=rss",
-          "published_at": "2026-04-04T19:51:04+00:00",
-          "title_hash": "e3a09f0b0777f897cec430e91d0dd02ee76b5af010cbfb54fc686e7753f64515",
-          "keywords": [
-            "국힘",
-            "서울",
-            "지지율",
-            "풀썩",
-            "hellip",
-            "배현진"
-          ]
-        },
-        {
-          "stable_key": "f7b58b2316c418a60299ac436eb7ec7b5386f014b9c4db19d9cce93f4e8e5c8b",
-          "source_key": "pressian-politics-rss",
-          "source_name": "Pressian Politics",
-          "category": "kr-politics",
-          "hub": "kr",
-          "hub_label": "대한민국",
-          "section_label": "정치",
-          "language": "ko",
-          "title": "경기 與후보적합도 김동연middot;추미애 격차 더 벌어졌다hellip;金 35.0%, 秋 21.5%",
-          "canonical_url": "https://www.pressian.com/pages/articles/2026040413054743167&ref=rss",
-          "published_at": "2026-04-04T13:10:04+00:00",
-          "title_hash": "0e50ccbb078f41ce6eccad8337ddcd03cc54520585a898a2470cc61a98859667",
-          "keywords": [
-            "경기",
-            "후보적합도",
-            "김동연middot",
-            "추미애",
-            "격차",
-            "벌어졌다hellip"
-          ]
-        },
-        {
-          "stable_key": "5d24ec76c68fc623b5d8662b0d3e0a2f93dab9b70496c233dc0d647c0edd01aa",
-          "source_key": "forbes-innovation-rss",
-          "source_name": "Forbes Innovation",
-          "category": "us-technology",
+          "stable_key": "321a0a3ab9e4779f8ee7777e7c112d9baecbd95ae01d85f1e995334dfe38204d",
+          "source_key": "forbes-business-rss",
+          "source_name": "Forbes Business",
+          "category": "us-economy",
           "hub": "us",
           "hub_label": "미국",
-          "section_label": "기술",
+          "section_label": "경제",
           "language": "en",
-          "title": "New Password Stealer Bypasses 2FA—Chrome, Edge And Firefox Targeted",
-          "canonical_url": "https://www.forbes.com/sites/daveywinder/2026/04/04/new-password-stealer-bypasses-2fa-chrome-edge-and-firefox-targeted",
-          "published_at": "2026-04-04T12:30:11+00:00",
-          "title_hash": "84489bcf1187b6a17a653c10b066ff21aa23ad7b5b4c239f04eb4fff67163907",
-          "keywords": [
-            "new",
-            "password",
-            "stealer",
-            "bypasses",
-            "2fa",
-            "chrome"
-          ]
-        },
-        {
-          "stable_key": "132ae4d9fc7edfa6664078ddec77dd11bc3c02fb73b22b8d65ebe2c3904bd7c5",
-          "source_key": "forbes-innovation-rss",
-          "source_name": "Forbes Innovation",
-          "category": "us-technology",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "기술",
-          "language": "en",
-          "title": "Meet The Lizard That Shoots Blood From Its Eyes — A Herpetologist Explains",
-          "canonical_url": "https://www.forbes.com/sites/scotttravers/2026/04/04/meet-the-lizard-that-shoots-blood-from-its-eyes---a-herpetologist-explains",
+          "title": "Harry Styles’s Debut Single Hits New Highs Thanks To A Blockbuster Film",
+          "canonical_url": "https://www.forbes.com/sites/hughmcintyre/2026/04/04/harry-styless-debut-single-hits-new-highs-thanks-to-a-blockbuster-film",
           "published_at": "2026-04-04T12:30:00+00:00",
-          "title_hash": "f45c812b8f095ae95d297b56bef21eb80700ca8667f7d94c18d7fcc9f9e7b3ca",
+          "title_hash": "bcadd5d29e43746e8370f78a5825d33084b1c07f7bb0be634db48715d9d73eee",
           "keywords": [
-            "meet",
-            "lizard",
-            "shoots",
-            "blood",
-            "eyes",
-            "herpetologist"
+            "harry",
+            "styles",
+            "debut",
+            "single",
+            "hits",
+            "new"
           ]
         },
         {
@@ -3422,14 +3356,80 @@
             "year",
             "lead"
           ]
+        },
+        {
+          "stable_key": "7f7256de5f9d96195589b5521a982f10f1978d24d691326bf6767350e70b3f8c",
+          "source_key": "wired-rss",
+          "source_name": "Wired RSS",
+          "category": "us-technology",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "기술",
+          "language": "en",
+          "title": "Best Ski Clothes (2026): Patagonia, Arc’teryx, Burton, and More",
+          "canonical_url": "https://www.wired.com/gallery/best-ski-clothes",
+          "published_at": "2026-04-04T12:00:00+00:00",
+          "title_hash": "6344ecffa45b513e67c4836fb11189daf622a0bd3076fea5bed55c2a7cf16c54",
+          "keywords": [
+            "best",
+            "ski",
+            "clothes",
+            "patagonia",
+            "arc",
+            "teryx"
+          ]
+        },
+        {
+          "stable_key": "b601c177e51eedee9e37cadc525dc1506454db8995f1df4b194e535c6d9a2366",
+          "source_key": "washingtonexaminer-feed",
+          "source_name": "Washington Examiner Feed",
+          "category": "us-technology",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "기술",
+          "language": "en",
+          "title": "What if your ‘doctor’ has 300 million followers and zero accountability?",
+          "canonical_url": "https://www.washingtonexaminer.com/op-eds/4510497/doctor-300-million-followers-zero-accountability",
+          "published_at": "2026-04-04T12:00:00+00:00",
+          "title_hash": "cc7ec452f30077e4408eb5506623e69f5501aac4be143c2230dd0af0a8e6af93",
+          "keywords": [
+            "what",
+            "if",
+            "your",
+            "doctor",
+            "has",
+            "million"
+          ]
+        },
+        {
+          "stable_key": "ae0692745495d44bde985634b4157b33f73b8d78937b60938cf2442ca30bff82",
+          "source_key": "washingtonexaminer-feed",
+          "source_name": "Washington Examiner Feed",
+          "category": "us-markets",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "시장",
+          "language": "en",
+          "title": "Iran war reality check: Global markets still dictate American energy prices",
+          "canonical_url": "https://www.washingtonexaminer.com/op-eds/4515340/iran-war-global-markets-dictate-american-energy-prices",
+          "published_at": "2026-04-04T12:00:00+00:00",
+          "title_hash": "a5049e87c95ac06d9f3ada910879d65d746498e3c754060e45747a8420044e66",
+          "keywords": [
+            "iran",
+            "war",
+            "reality",
+            "check",
+            "global",
+            "markets"
+          ]
         }
       ]
     },
     "90d": {
       "label": "90d",
-      "article_count": 3615,
+      "article_count": 3572,
       "unknown_time_count": 0,
-      "active_source_count": 102,
+      "active_source_count": 100,
       "repeated_title_count": 228,
       "timeline": [
         {
@@ -3650,23 +3650,23 @@
         },
         {
           "date": "2026-03-22",
-          "count": 20
+          "count": 16
         },
         {
           "date": "2026-03-23",
-          "count": 23
+          "count": 22
         },
         {
           "date": "2026-03-24",
-          "count": 55
+          "count": 53
         },
         {
           "date": "2026-03-25",
-          "count": 65
+          "count": 60
         },
         {
           "date": "2026-03-26",
-          "count": 72
+          "count": 70
         },
         {
           "date": "2026-03-27",
@@ -3678,7 +3678,7 @@
         },
         {
           "date": "2026-03-29",
-          "count": 30
+          "count": 29
         },
         {
           "date": "2026-03-30",
@@ -3686,53 +3686,53 @@
         },
         {
           "date": "2026-03-31",
-          "count": 151
+          "count": 149
         },
         {
           "date": "2026-04-01",
-          "count": 232
+          "count": 244
         },
         {
           "date": "2026-04-02",
-          "count": 584
+          "count": 581
         },
         {
           "date": "2026-04-03",
-          "count": 1344
+          "count": 1317
         },
         {
           "date": "2026-04-04",
-          "count": 581
+          "count": 573
         }
       ],
       "top_keywords": [
         {
           "keyword": "trump",
-          "count": 387
+          "count": 385
         },
         {
           "keyword": "iran",
-          "count": 204
+          "count": 206
         },
         {
           "keyword": "war",
           "count": 123
         },
         {
+          "keyword": "new",
+          "count": 86
+        },
+        {
           "keyword": "ai",
           "count": 83
         },
         {
-          "keyword": "new",
+          "keyword": "us",
           "count": 83
         },
         {
-          "keyword": "us",
-          "count": 82
-        },
-        {
           "keyword": "how",
-          "count": 74
+          "count": 72
         },
         {
           "keyword": "after",
@@ -3744,15 +3744,15 @@
         },
         {
           "keyword": "says",
-          "count": 60
-        },
-        {
-          "keyword": "what",
           "count": 59
         },
         {
-          "keyword": "oil",
-          "count": 53
+          "keyword": "what",
+          "count": 58
+        },
+        {
+          "keyword": "over",
+          "count": 55
         }
       ],
       "top_sources": [
@@ -3789,7 +3789,7 @@
         {
           "source_key": "guardian-us-rss",
           "name": "The Guardian US",
-          "count": 95
+          "count": 96
         },
         {
           "source_key": "axios-feed",
@@ -3821,12 +3821,12 @@
         {
           "key": "us",
           "label": "미국",
-          "count": 2213
+          "count": 2217
         },
         {
           "key": "kr",
           "label": "대한민국",
-          "count": 1276
+          "count": 1229
         },
         {
           "key": "global",
@@ -3840,7 +3840,7 @@
           "label": "정치",
           "hub": "us",
           "hub_label": "미국",
-          "count": 765
+          "count": 769
         },
         {
           "key": "us-technology",
@@ -3861,7 +3861,7 @@
           "label": "경제",
           "hub": "kr",
           "hub_label": "대한민국",
-          "count": 315
+          "count": 293
         },
         {
           "key": "us-economy",
@@ -3882,7 +3882,7 @@
           "label": "정치",
           "hub": "kr",
           "hub_label": "대한민국",
-          "count": 271
+          "count": 246
         },
         {
           "key": "kr-culture",
@@ -3923,11 +3923,11 @@
       "language_counts": [
         {
           "language": "en",
-          "count": 2331
+          "count": 2335
         },
         {
           "language": "ko",
-          "count": 1284
+          "count": 1237
         }
       ],
       "repeated_titles": [
@@ -4114,91 +4114,25 @@
       ],
       "recent_samples": [
         {
-          "stable_key": "1de42aa73cd0a9514512405f1d0dfb0b231f883f35378ae4dd91d0e76b3e2127",
-          "source_key": "pressian-politics-rss",
-          "source_name": "Pressian Politics",
-          "category": "kr-politics",
-          "hub": "kr",
-          "hub_label": "대한민국",
-          "section_label": "정치",
-          "language": "ko",
-          "title": "국힘 서울 지지율 13%로 '풀썩'hellip;배현진 quot;후보들이 안 나서, 간판 교체해야quot;",
-          "canonical_url": "https://www.pressian.com/pages/articles/2026040409060075375&ref=rss",
-          "published_at": "2026-04-04T19:51:04+00:00",
-          "title_hash": "e3a09f0b0777f897cec430e91d0dd02ee76b5af010cbfb54fc686e7753f64515",
-          "keywords": [
-            "국힘",
-            "서울",
-            "지지율",
-            "풀썩",
-            "hellip",
-            "배현진"
-          ]
-        },
-        {
-          "stable_key": "f7b58b2316c418a60299ac436eb7ec7b5386f014b9c4db19d9cce93f4e8e5c8b",
-          "source_key": "pressian-politics-rss",
-          "source_name": "Pressian Politics",
-          "category": "kr-politics",
-          "hub": "kr",
-          "hub_label": "대한민국",
-          "section_label": "정치",
-          "language": "ko",
-          "title": "경기 與후보적합도 김동연middot;추미애 격차 더 벌어졌다hellip;金 35.0%, 秋 21.5%",
-          "canonical_url": "https://www.pressian.com/pages/articles/2026040413054743167&ref=rss",
-          "published_at": "2026-04-04T13:10:04+00:00",
-          "title_hash": "0e50ccbb078f41ce6eccad8337ddcd03cc54520585a898a2470cc61a98859667",
-          "keywords": [
-            "경기",
-            "후보적합도",
-            "김동연middot",
-            "추미애",
-            "격차",
-            "벌어졌다hellip"
-          ]
-        },
-        {
-          "stable_key": "5d24ec76c68fc623b5d8662b0d3e0a2f93dab9b70496c233dc0d647c0edd01aa",
-          "source_key": "forbes-innovation-rss",
-          "source_name": "Forbes Innovation",
-          "category": "us-technology",
+          "stable_key": "321a0a3ab9e4779f8ee7777e7c112d9baecbd95ae01d85f1e995334dfe38204d",
+          "source_key": "forbes-business-rss",
+          "source_name": "Forbes Business",
+          "category": "us-economy",
           "hub": "us",
           "hub_label": "미국",
-          "section_label": "기술",
+          "section_label": "경제",
           "language": "en",
-          "title": "New Password Stealer Bypasses 2FA—Chrome, Edge And Firefox Targeted",
-          "canonical_url": "https://www.forbes.com/sites/daveywinder/2026/04/04/new-password-stealer-bypasses-2fa-chrome-edge-and-firefox-targeted",
-          "published_at": "2026-04-04T12:30:11+00:00",
-          "title_hash": "84489bcf1187b6a17a653c10b066ff21aa23ad7b5b4c239f04eb4fff67163907",
-          "keywords": [
-            "new",
-            "password",
-            "stealer",
-            "bypasses",
-            "2fa",
-            "chrome"
-          ]
-        },
-        {
-          "stable_key": "132ae4d9fc7edfa6664078ddec77dd11bc3c02fb73b22b8d65ebe2c3904bd7c5",
-          "source_key": "forbes-innovation-rss",
-          "source_name": "Forbes Innovation",
-          "category": "us-technology",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "기술",
-          "language": "en",
-          "title": "Meet The Lizard That Shoots Blood From Its Eyes — A Herpetologist Explains",
-          "canonical_url": "https://www.forbes.com/sites/scotttravers/2026/04/04/meet-the-lizard-that-shoots-blood-from-its-eyes---a-herpetologist-explains",
+          "title": "Harry Styles’s Debut Single Hits New Highs Thanks To A Blockbuster Film",
+          "canonical_url": "https://www.forbes.com/sites/hughmcintyre/2026/04/04/harry-styless-debut-single-hits-new-highs-thanks-to-a-blockbuster-film",
           "published_at": "2026-04-04T12:30:00+00:00",
-          "title_hash": "f45c812b8f095ae95d297b56bef21eb80700ca8667f7d94c18d7fcc9f9e7b3ca",
+          "title_hash": "bcadd5d29e43746e8370f78a5825d33084b1c07f7bb0be634db48715d9d73eee",
           "keywords": [
-            "meet",
-            "lizard",
-            "shoots",
-            "blood",
-            "eyes",
-            "herpetologist"
+            "harry",
+            "styles",
+            "debut",
+            "single",
+            "hits",
+            "new"
           ]
         },
         {
@@ -4772,15 +4706,81 @@
             "year",
             "lead"
           ]
+        },
+        {
+          "stable_key": "7f7256de5f9d96195589b5521a982f10f1978d24d691326bf6767350e70b3f8c",
+          "source_key": "wired-rss",
+          "source_name": "Wired RSS",
+          "category": "us-technology",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "기술",
+          "language": "en",
+          "title": "Best Ski Clothes (2026): Patagonia, Arc’teryx, Burton, and More",
+          "canonical_url": "https://www.wired.com/gallery/best-ski-clothes",
+          "published_at": "2026-04-04T12:00:00+00:00",
+          "title_hash": "6344ecffa45b513e67c4836fb11189daf622a0bd3076fea5bed55c2a7cf16c54",
+          "keywords": [
+            "best",
+            "ski",
+            "clothes",
+            "patagonia",
+            "arc",
+            "teryx"
+          ]
+        },
+        {
+          "stable_key": "b601c177e51eedee9e37cadc525dc1506454db8995f1df4b194e535c6d9a2366",
+          "source_key": "washingtonexaminer-feed",
+          "source_name": "Washington Examiner Feed",
+          "category": "us-technology",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "기술",
+          "language": "en",
+          "title": "What if your ‘doctor’ has 300 million followers and zero accountability?",
+          "canonical_url": "https://www.washingtonexaminer.com/op-eds/4510497/doctor-300-million-followers-zero-accountability",
+          "published_at": "2026-04-04T12:00:00+00:00",
+          "title_hash": "cc7ec452f30077e4408eb5506623e69f5501aac4be143c2230dd0af0a8e6af93",
+          "keywords": [
+            "what",
+            "if",
+            "your",
+            "doctor",
+            "has",
+            "million"
+          ]
+        },
+        {
+          "stable_key": "ae0692745495d44bde985634b4157b33f73b8d78937b60938cf2442ca30bff82",
+          "source_key": "washingtonexaminer-feed",
+          "source_name": "Washington Examiner Feed",
+          "category": "us-markets",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "시장",
+          "language": "en",
+          "title": "Iran war reality check: Global markets still dictate American energy prices",
+          "canonical_url": "https://www.washingtonexaminer.com/op-eds/4515340/iran-war-global-markets-dictate-american-energy-prices",
+          "published_at": "2026-04-04T12:00:00+00:00",
+          "title_hash": "a5049e87c95ac06d9f3ada910879d65d746498e3c754060e45747a8420044e66",
+          "keywords": [
+            "iran",
+            "war",
+            "reality",
+            "check",
+            "global",
+            "markets"
+          ]
         }
       ]
     },
     "all": {
       "label": "All",
-      "article_count": 4146,
+      "article_count": 4103,
       "unknown_time_count": 438,
-      "active_source_count": 130,
-      "repeated_title_count": 270,
+      "active_source_count": 128,
+      "repeated_title_count": 269,
       "timeline": [
         {
           "date": "2016-11-02",
@@ -5144,23 +5144,23 @@
         },
         {
           "date": "2026-03-22",
-          "count": 20
+          "count": 16
         },
         {
           "date": "2026-03-23",
-          "count": 23
+          "count": 22
         },
         {
           "date": "2026-03-24",
-          "count": 55
+          "count": 53
         },
         {
           "date": "2026-03-25",
-          "count": 65
+          "count": 60
         },
         {
           "date": "2026-03-26",
-          "count": 72
+          "count": 70
         },
         {
           "date": "2026-03-27",
@@ -5172,7 +5172,7 @@
         },
         {
           "date": "2026-03-29",
-          "count": 30
+          "count": 29
         },
         {
           "date": "2026-03-30",
@@ -5180,73 +5180,73 @@
         },
         {
           "date": "2026-03-31",
-          "count": 151
+          "count": 149
         },
         {
           "date": "2026-04-01",
-          "count": 232
+          "count": 244
         },
         {
           "date": "2026-04-02",
-          "count": 584
+          "count": 581
         },
         {
           "date": "2026-04-03",
-          "count": 1344
+          "count": 1317
         },
         {
           "date": "2026-04-04",
-          "count": 581
+          "count": 573
         }
       ],
       "top_keywords": [
         {
           "keyword": "trump",
-          "count": 413
+          "count": 411
         },
         {
           "keyword": "iran",
-          "count": 212
+          "count": 214
         },
         {
           "keyword": "war",
           "count": 131
         },
         {
+          "keyword": "new",
+          "count": 94
+        },
+        {
           "keyword": "ai",
           "count": 92
         },
         {
-          "keyword": "new",
-          "count": 91
-        },
-        {
           "keyword": "us",
-          "count": 87
+          "count": 88
         },
         {
           "keyword": "how",
-          "count": 82
+          "count": 80
         },
         {
           "keyword": "after",
           "count": 70
         },
         {
-          "keyword": "says",
-          "count": 65
-        },
-        {
-          "keyword": "what",
-          "count": 65
-        },
-        {
           "keyword": "california",
           "count": 64
         },
         {
+          "keyword": "says",
+          "count": 64
+        },
+        {
+          "keyword": "what",
+          "count": 64
+        },
+        {
           "keyword": "over",
-          "count": 57
+          "count": 59
         }
       ],
       "top_sources": [
@@ -5254,6 +5254,11 @@
           "source_key": "semafor-feed",
           "name": "Semafor Feed",
           "count": 238
+        },
+        {
+          "source_key": "guardian-us-rss",
+          "name": "The Guardian US",
+          "count": 100
         },
         {
           "source_key": "asiae-society-rss",
@@ -5268,11 +5273,6 @@
         {
           "source_key": "latimes-world-rss",
           "name": "Los Angeles Times World",
-          "count": 99
-        },
-        {
-          "source_key": "guardian-us-rss",
-          "name": "The Guardian US",
           "count": 99
         },
         {
@@ -5315,12 +5315,12 @@
         {
           "key": "us",
           "label": "미국",
-          "count": 2538
+          "count": 2542
         },
         {
           "key": "kr",
           "label": "대한민국",
-          "count": 1452
+          "count": 1405
         },
         {
           "key": "global",
@@ -5334,7 +5334,7 @@
           "label": "정치",
           "hub": "us",
           "hub_label": "미국",
-          "count": 850
+          "count": 854
         },
         {
           "key": "us-technology",
@@ -5355,7 +5355,7 @@
           "label": "경제",
           "hub": "kr",
           "hub_label": "대한민국",
-          "count": 372
+          "count": 350
         },
         {
           "key": "us-economy",
@@ -5376,7 +5376,7 @@
           "label": "정치",
           "hub": "kr",
           "hub_label": "대한민국",
-          "count": 283
+          "count": 258
         },
         {
           "key": "kr-culture",
@@ -5417,11 +5417,11 @@
       "language_counts": [
         {
           "language": "en",
-          "count": 2686
+          "count": 2690
         },
         {
           "language": "ko",
-          "count": 1460
+          "count": 1413
         }
       ],
       "repeated_titles": [
@@ -5608,91 +5608,25 @@
       ],
       "recent_samples": [
         {
-          "stable_key": "1de42aa73cd0a9514512405f1d0dfb0b231f883f35378ae4dd91d0e76b3e2127",
-          "source_key": "pressian-politics-rss",
-          "source_name": "Pressian Politics",
-          "category": "kr-politics",
-          "hub": "kr",
-          "hub_label": "대한민국",
-          "section_label": "정치",
-          "language": "ko",
-          "title": "국힘 서울 지지율 13%로 '풀썩'hellip;배현진 quot;후보들이 안 나서, 간판 교체해야quot;",
-          "canonical_url": "https://www.pressian.com/pages/articles/2026040409060075375&ref=rss",
-          "published_at": "2026-04-04T19:51:04+00:00",
-          "title_hash": "e3a09f0b0777f897cec430e91d0dd02ee76b5af010cbfb54fc686e7753f64515",
-          "keywords": [
-            "국힘",
-            "서울",
-            "지지율",
-            "풀썩",
-            "hellip",
-            "배현진"
-          ]
-        },
-        {
-          "stable_key": "f7b58b2316c418a60299ac436eb7ec7b5386f014b9c4db19d9cce93f4e8e5c8b",
-          "source_key": "pressian-politics-rss",
-          "source_name": "Pressian Politics",
-          "category": "kr-politics",
-          "hub": "kr",
-          "hub_label": "대한민국",
-          "section_label": "정치",
-          "language": "ko",
-          "title": "경기 與후보적합도 김동연middot;추미애 격차 더 벌어졌다hellip;金 35.0%, 秋 21.5%",
-          "canonical_url": "https://www.pressian.com/pages/articles/2026040413054743167&ref=rss",
-          "published_at": "2026-04-04T13:10:04+00:00",
-          "title_hash": "0e50ccbb078f41ce6eccad8337ddcd03cc54520585a898a2470cc61a98859667",
-          "keywords": [
-            "경기",
-            "후보적합도",
-            "김동연middot",
-            "추미애",
-            "격차",
-            "벌어졌다hellip"
-          ]
-        },
-        {
-          "stable_key": "5d24ec76c68fc623b5d8662b0d3e0a2f93dab9b70496c233dc0d647c0edd01aa",
-          "source_key": "forbes-innovation-rss",
-          "source_name": "Forbes Innovation",
-          "category": "us-technology",
+          "stable_key": "321a0a3ab9e4779f8ee7777e7c112d9baecbd95ae01d85f1e995334dfe38204d",
+          "source_key": "forbes-business-rss",
+          "source_name": "Forbes Business",
+          "category": "us-economy",
           "hub": "us",
           "hub_label": "미국",
-          "section_label": "기술",
+          "section_label": "경제",
           "language": "en",
-          "title": "New Password Stealer Bypasses 2FA—Chrome, Edge And Firefox Targeted",
-          "canonical_url": "https://www.forbes.com/sites/daveywinder/2026/04/04/new-password-stealer-bypasses-2fa-chrome-edge-and-firefox-targeted",
-          "published_at": "2026-04-04T12:30:11+00:00",
-          "title_hash": "84489bcf1187b6a17a653c10b066ff21aa23ad7b5b4c239f04eb4fff67163907",
-          "keywords": [
-            "new",
-            "password",
-            "stealer",
-            "bypasses",
-            "2fa",
-            "chrome"
-          ]
-        },
-        {
-          "stable_key": "132ae4d9fc7edfa6664078ddec77dd11bc3c02fb73b22b8d65ebe2c3904bd7c5",
-          "source_key": "forbes-innovation-rss",
-          "source_name": "Forbes Innovation",
-          "category": "us-technology",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "기술",
-          "language": "en",
-          "title": "Meet The Lizard That Shoots Blood From Its Eyes — A Herpetologist Explains",
-          "canonical_url": "https://www.forbes.com/sites/scotttravers/2026/04/04/meet-the-lizard-that-shoots-blood-from-its-eyes---a-herpetologist-explains",
+          "title": "Harry Styles’s Debut Single Hits New Highs Thanks To A Blockbuster Film",
+          "canonical_url": "https://www.forbes.com/sites/hughmcintyre/2026/04/04/harry-styless-debut-single-hits-new-highs-thanks-to-a-blockbuster-film",
           "published_at": "2026-04-04T12:30:00+00:00",
-          "title_hash": "f45c812b8f095ae95d297b56bef21eb80700ca8667f7d94c18d7fcc9f9e7b3ca",
+          "title_hash": "bcadd5d29e43746e8370f78a5825d33084b1c07f7bb0be634db48715d9d73eee",
           "keywords": [
-            "meet",
-            "lizard",
-            "shoots",
-            "blood",
-            "eyes",
-            "herpetologist"
+            "harry",
+            "styles",
+            "debut",
+            "single",
+            "hits",
+            "new"
           ]
         },
         {
@@ -6265,6 +6199,72 @@
             "blew",
             "year",
             "lead"
+          ]
+        },
+        {
+          "stable_key": "7f7256de5f9d96195589b5521a982f10f1978d24d691326bf6767350e70b3f8c",
+          "source_key": "wired-rss",
+          "source_name": "Wired RSS",
+          "category": "us-technology",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "기술",
+          "language": "en",
+          "title": "Best Ski Clothes (2026): Patagonia, Arc’teryx, Burton, and More",
+          "canonical_url": "https://www.wired.com/gallery/best-ski-clothes",
+          "published_at": "2026-04-04T12:00:00+00:00",
+          "title_hash": "6344ecffa45b513e67c4836fb11189daf622a0bd3076fea5bed55c2a7cf16c54",
+          "keywords": [
+            "best",
+            "ski",
+            "clothes",
+            "patagonia",
+            "arc",
+            "teryx"
+          ]
+        },
+        {
+          "stable_key": "b601c177e51eedee9e37cadc525dc1506454db8995f1df4b194e535c6d9a2366",
+          "source_key": "washingtonexaminer-feed",
+          "source_name": "Washington Examiner Feed",
+          "category": "us-technology",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "기술",
+          "language": "en",
+          "title": "What if your ‘doctor’ has 300 million followers and zero accountability?",
+          "canonical_url": "https://www.washingtonexaminer.com/op-eds/4510497/doctor-300-million-followers-zero-accountability",
+          "published_at": "2026-04-04T12:00:00+00:00",
+          "title_hash": "cc7ec452f30077e4408eb5506623e69f5501aac4be143c2230dd0af0a8e6af93",
+          "keywords": [
+            "what",
+            "if",
+            "your",
+            "doctor",
+            "has",
+            "million"
+          ]
+        },
+        {
+          "stable_key": "ae0692745495d44bde985634b4157b33f73b8d78937b60938cf2442ca30bff82",
+          "source_key": "washingtonexaminer-feed",
+          "source_name": "Washington Examiner Feed",
+          "category": "us-markets",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "시장",
+          "language": "en",
+          "title": "Iran war reality check: Global markets still dictate American energy prices",
+          "canonical_url": "https://www.washingtonexaminer.com/op-eds/4515340/iran-war-global-markets-dictate-american-energy-prices",
+          "published_at": "2026-04-04T12:00:00+00:00",
+          "title_hash": "a5049e87c95ac06d9f3ada910879d65d746498e3c754060e45747a8420044e66",
+          "keywords": [
+            "iran",
+            "war",
+            "reality",
+            "check",
+            "global",
+            "markets"
           ]
         }
       ]
