@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-04-05T01:51:03.724719+00:00",
+  "generated_at": "2026-04-05T02:06:34.434556+00:00",
   "retention_days": 90,
   "default_window": "7d",
-  "lifetime_total_articles": 5436,
-  "lifetime_unknown_time_count": 861,
+  "lifetime_total_articles": 5479,
+  "lifetime_unknown_time_count": 881,
   "available_windows": [
     {
       "key": "24h",
@@ -29,24 +29,24 @@
   "windows": {
     "24h": {
       "label": "24h",
-      "article_count": 1230,
+      "article_count": 1238,
       "unknown_time_count": 0,
-      "active_source_count": 85,
-      "repeated_title_count": 63,
+      "active_source_count": 84,
+      "repeated_title_count": 62,
       "timeline": [
         {
           "date": "2026-04-04",
-          "count": 1097
+          "count": 1084
         },
         {
           "date": "2026-04-05",
-          "count": 133
+          "count": 154
         }
       ],
       "top_keywords": [
         {
           "keyword": "trump",
-          "count": 106
+          "count": 105
         },
         {
           "keyword": "iran",
@@ -73,10 +73,6 @@
           "count": 24
         },
         {
-          "keyword": "what",
-          "count": 21
-        },
-        {
           "keyword": "missing",
           "count": 20
         },
@@ -89,6 +85,10 @@
           "count": 20
         },
         {
+          "keyword": "what",
+          "count": 20
+        },
+        {
           "keyword": "one",
           "count": 15
         }
@@ -97,7 +97,12 @@
         {
           "source_key": "nypost-feed",
           "name": "New York Post Feed",
-          "count": 123
+          "count": 124
+        },
+        {
+          "source_key": "etoday-economy-rss",
+          "name": "eToday Economy",
+          "count": 70
         },
         {
           "source_key": "newsweek-feed",
@@ -107,27 +112,22 @@
         {
           "source_key": "guardian-us-rss",
           "name": "The Guardian US",
-          "count": 63
-        },
-        {
-          "source_key": "etoday-economy-rss",
-          "name": "eToday Economy",
           "count": 62
         },
         {
           "source_key": "asiae-society-rss",
           "name": "Asiae Society",
-          "count": 47
+          "count": 48
+        },
+        {
+          "source_key": "donga-society-rss",
+          "name": "DongA Society",
+          "count": 45
         },
         {
           "source_key": "forbes-innovation-rss",
           "name": "Forbes Innovation",
           "count": 45
-        },
-        {
-          "source_key": "donga-society-rss",
-          "name": "DongA Society",
-          "count": 42
         },
         {
           "source_key": "forbes-business-rss",
@@ -137,12 +137,12 @@
         {
           "source_key": "breitbart-feed",
           "name": "Breitbart Feed",
-          "count": 39
+          "count": 38
         },
         {
           "source_key": "mk-sports-rss",
           "name": "Maeil Business Sports",
-          "count": 35
+          "count": 34
         },
         {
           "source_key": "sbs-society-rss",
@@ -159,12 +159,12 @@
         {
           "key": "us",
           "label": "미국",
-          "count": 756
+          "count": 754
         },
         {
           "key": "kr",
           "label": "대한민국",
-          "count": 411
+          "count": 421
         },
         {
           "key": "global",
@@ -185,35 +185,35 @@
           "label": "정치",
           "hub": "us",
           "hub_label": "미국",
-          "count": 219
+          "count": 217
         },
         {
           "key": "kr-society",
           "label": "사회",
           "hub": "kr",
           "hub_label": "대한민국",
-          "count": 153
+          "count": 158
         },
         {
           "key": "us-world",
           "label": "세계",
           "hub": "us",
           "hub_label": "미국",
-          "count": 123
+          "count": 124
         },
         {
           "key": "kr-economy",
           "label": "경제",
           "hub": "kr",
           "hub_label": "대한민국",
-          "count": 107
+          "count": 114
         },
         {
           "key": "us-markets",
           "label": "시장",
           "hub": "us",
           "hub_label": "미국",
-          "count": 94
+          "count": 93
         },
         {
           "key": "us-economy",
@@ -227,14 +227,14 @@
           "label": "스포츠",
           "hub": "kr",
           "hub_label": "대한민국",
-          "count": 56
+          "count": 55
         },
         {
           "key": "kr-politics",
           "label": "정치",
           "hub": "kr",
           "hub_label": "대한민국",
-          "count": 53
+          "count": 52
         },
         {
           "key": "kr-culture",
@@ -261,11 +261,11 @@
       "language_counts": [
         {
           "language": "en",
-          "count": 780
+          "count": 778
         },
         {
           "language": "ko",
-          "count": 450
+          "count": 460
         }
       ],
       "repeated_titles": [
@@ -474,6 +474,468 @@
           ]
         },
         {
+          "stable_key": "433ba3a7f1d0c800d344c11bfc5679630ba64d727a8947ee5e25bdec3a8fda4e",
+          "source_key": "khan-society-rss",
+          "source_name": "Kyunghyang Society",
+          "category": "kr-society",
+          "hub": "kr",
+          "hub_label": "대한민국",
+          "section_label": "사회",
+          "language": "ko",
+          "title": "인제군, 상남면 LPG 배관망 구축···175세대 에너지 복지 향상",
+          "canonical_url": "https://www.khan.co.kr/article/202604051105001",
+          "published_at": "2026-04-05T02:05:00+00:00",
+          "title_hash": "56303d0fa1870a7c0b5d0c87f4774194cb22a9e76d8b5ba6f5b51aabfa34b839",
+          "keywords": [
+            "인제군",
+            "상남면",
+            "lpg",
+            "배관망",
+            "구축",
+            "175세대"
+          ]
+        },
+        {
+          "stable_key": "0c723903ff31ec3741759aa93d2aa3c8ba3aeac7b85e9a174d1ba30a5d1b6826",
+          "source_key": "etoday-economy-rss",
+          "source_name": "eToday Economy",
+          "category": "kr-economy",
+          "hub": "kr",
+          "hub_label": "대한민국",
+          "section_label": "경제",
+          "language": "ko",
+          "title": "기본법은 표류, 감시 법안은 전진…가상자산업계 “육성 없는 통제” 지적",
+          "canonical_url": "https://www.etoday.co.kr/news/view/2572625",
+          "published_at": "2026-04-05T02:05:00+00:00",
+          "title_hash": "17fc6b2fbc49346a284ba34897d11f0b1c303c1cdcc41b5cdbc585ef9dade0b7",
+          "keywords": [
+            "기본법은",
+            "표류",
+            "감시",
+            "법안은",
+            "전진",
+            "가상자산업계"
+          ]
+        },
+        {
+          "stable_key": "b77f12866ec855a3b2e1e7a497cde9431b365d50a127bd69b67a173d8f60afaa",
+          "source_key": "donga-society-rss",
+          "source_name": "DongA Society",
+          "category": "kr-society",
+          "hub": "kr",
+          "hub_label": "대한민국",
+          "section_label": "사회",
+          "language": "ko",
+          "title": "울산항만공사, 친환경 연료 선박에 현금 인센티브 최대 1천만원 지원",
+          "canonical_url": "https://www.donga.com/news/Society/article/all/20260405/133674974/1",
+          "published_at": "2026-04-05T02:02:00+00:00",
+          "title_hash": "80fd21109d7c847063094fd79ad9d3b69d0c6b10e1a1f3d4afcc71871a76ea64",
+          "keywords": [
+            "울산항만공사",
+            "친환경",
+            "연료",
+            "선박에",
+            "현금",
+            "인센티브"
+          ]
+        },
+        {
+          "stable_key": "6e85aae9da35fd4075b7a377e6f7db095349d3bd622660cd8da2df6e3301951b",
+          "source_key": "asiae-politics-rss",
+          "source_name": "Asiae Politics",
+          "category": "kr-politics",
+          "hub": "kr",
+          "hub_label": "대한민국",
+          "section_label": "정치",
+          "language": "ko",
+          "title": "국힘 서천군수 경선 여론조사 왜곡 의혹",
+          "canonical_url": "https://www.asiae.co.kr/article/2026040511014447548",
+          "published_at": "2026-04-05T02:01:44+00:00",
+          "title_hash": "e24b5d8d4a4190ee7c3817aed4dc48ba1b0bbd877413a01ac8f1199590821481",
+          "keywords": [
+            "국힘",
+            "서천군수",
+            "경선",
+            "여론조사",
+            "왜곡",
+            "의혹"
+          ]
+        },
+        {
+          "stable_key": "10c713f05d24294318b8e675e493d22c68d77e4367cbc07721c2170d744b648c",
+          "source_key": "donga-society-rss",
+          "source_name": "DongA Society",
+          "category": "kr-society",
+          "hub": "kr",
+          "hub_label": "대한민국",
+          "section_label": "사회",
+          "language": "ko",
+          "title": "전주시, 농업 판로·고부가 가치 창출 적극 나서",
+          "canonical_url": "https://www.donga.com/news/Society/article/all/20260405/133674966/1",
+          "published_at": "2026-04-05T02:01:00+00:00",
+          "title_hash": "03c0b155ef5dc649d49e8163f86a1efd6f1f544b2999553845af181bd3b8203b",
+          "keywords": [
+            "전주시",
+            "농업",
+            "판로",
+            "고부가",
+            "가치",
+            "창출"
+          ]
+        },
+        {
+          "stable_key": "afd0ad90b39b0c9db723f4fd5c33c5845b498d74af0110aa4c901059b68adf82",
+          "source_key": "etoday-economy-rss",
+          "source_name": "eToday Economy",
+          "category": "kr-economy",
+          "hub": "kr",
+          "hub_label": "대한민국",
+          "section_label": "경제",
+          "language": "ko",
+          "title": "한육우·젖소도 동물복지 기준 세운다…농가 실천용 가이드라인 배포",
+          "canonical_url": "https://www.etoday.co.kr/news/view/2572748",
+          "published_at": "2026-04-05T02:00:00+00:00",
+          "title_hash": "895d34c14c254862f2df815d32efde25e41e5309e69ff70e74c0e23a3c0cc3c9",
+          "keywords": [
+            "한육우",
+            "젖소도",
+            "동물복지",
+            "기준",
+            "세운다",
+            "농가"
+          ]
+        },
+        {
+          "stable_key": "236ed18478e0063ccfc2e17b80852b10e2ad1828d5e0da376ae8ce5cc65e9794",
+          "source_key": "etoday-economy-rss",
+          "source_name": "eToday Economy",
+          "category": "kr-economy",
+          "hub": "kr",
+          "hub_label": "대한민국",
+          "section_label": "경제",
+          "language": "ko",
+          "title": "중견기업 10곳, '월드클래스'로 키운다⋯지역 기업엔 최대 50억 지원",
+          "canonical_url": "https://www.etoday.co.kr/news/view/2572752",
+          "published_at": "2026-04-05T02:00:00+00:00",
+          "title_hash": "47eb97eadef8a4fc023e597ef9f8091d8c7bdf2f0ab96f5ad34c07b834b3930e",
+          "keywords": [
+            "중견기업",
+            "10곳",
+            "월드클래스",
+            "키운다",
+            "지역",
+            "기업엔"
+          ]
+        },
+        {
+          "stable_key": "6a152a3cf35346d1060e031ae68803ac54c919ff0e856c32359857893efc8ab1",
+          "source_key": "etoday-economy-rss",
+          "source_name": "eToday Economy",
+          "category": "kr-economy",
+          "hub": "kr",
+          "hub_label": "대한민국",
+          "section_label": "경제",
+          "language": "ko",
+          "title": "식품산업 지역 거점 키운다…경북·전남, 식품융합클러스터 첫 시범지 선정",
+          "canonical_url": "https://www.etoday.co.kr/news/view/2572725",
+          "published_at": "2026-04-05T02:00:00+00:00",
+          "title_hash": "2ed27aa5411bb41ffeb3919660cc4687e8fd71ababdac347978b2310faa88300",
+          "keywords": [
+            "식품산업",
+            "지역",
+            "거점",
+            "키운다",
+            "경북",
+            "전남"
+          ]
+        },
+        {
+          "stable_key": "8e3d3bbd87fd0047fe4d193d4832f3b3a9bd161057dea3a8753a12dfc5cbfedd",
+          "source_key": "etoday-economy-rss",
+          "source_name": "eToday Economy",
+          "category": "kr-economy",
+          "hub": "kr",
+          "hub_label": "대한민국",
+          "section_label": "경제",
+          "language": "ko",
+          "title": "볍씨 그냥 뿌리면 낭패…올해는 ‘싹 확인’ 먼저",
+          "canonical_url": "https://www.etoday.co.kr/news/view/2572755",
+          "published_at": "2026-04-05T02:00:00+00:00",
+          "title_hash": "5cab2ee03d9ef81a275e50ed950350296d1066c3f943f7ea8e6b2a25ab0aabb9",
+          "keywords": [
+            "볍씨",
+            "그냥",
+            "뿌리면",
+            "낭패",
+            "올해는",
+            "확인"
+          ]
+        },
+        {
+          "stable_key": "bc9e24a72f5be343c64c9873c2c4e4b167cfd5de1b665610ab65e3d8792bd25b",
+          "source_key": "etoday-economy-rss",
+          "source_name": "eToday Economy",
+          "category": "kr-economy",
+          "hub": "kr",
+          "hub_label": "대한민국",
+          "section_label": "경제",
+          "language": "ko",
+          "title": "농산물 팔 때 ‘통신판매업’만 등록하면 손해…농업인 세금·고용보험 길잡이 발간",
+          "canonical_url": "https://www.etoday.co.kr/news/view/2572750",
+          "published_at": "2026-04-05T02:00:00+00:00",
+          "title_hash": "22e3e381ed2c772b1ef6f76610f1fb3f7aaa864c8bc1011d7a0c2af20ad093c7",
+          "keywords": [
+            "농산물",
+            "통신판매업",
+            "등록하면",
+            "손해",
+            "농업인",
+            "세금"
+          ]
+        },
+        {
+          "stable_key": "527b319df252ca6e00e4f6da46c5b61a2488ecd3c8682a5201bd1f4b49111399",
+          "source_key": "etoday-economy-rss",
+          "source_name": "eToday Economy",
+          "category": "kr-economy",
+          "hub": "kr",
+          "hub_label": "대한민국",
+          "section_label": "경제",
+          "language": "ko",
+          "title": "국토부, 국토·교통 데이터 활용 경진대회 개최⋯총상금 3400만원",
+          "canonical_url": "https://www.etoday.co.kr/news/view/2572714",
+          "published_at": "2026-04-05T02:00:00+00:00",
+          "title_hash": "33568ea6ff5d57075c5861f71e8f33137648cdcd13afaf3f26a989a3f48759d3",
+          "keywords": [
+            "국토부",
+            "국토",
+            "교통",
+            "데이터",
+            "활용",
+            "경진대회"
+          ]
+        },
+        {
+          "stable_key": "79ac8488e60c1312b2d097f3e8a1ec359db5372b875eaa6d0f2aee5d47bbe780",
+          "source_key": "etoday-economy-rss",
+          "source_name": "eToday Economy",
+          "category": "kr-economy",
+          "hub": "kr",
+          "hub_label": "대한민국",
+          "section_label": "경제",
+          "language": "ko",
+          "title": "“일본도 가져오려 했다” 폭언으로 공동창업자 수익 반환시켰지만.. 법원 \"강압 아냐\"",
+          "canonical_url": "https://www.etoday.co.kr/news/view/2572684",
+          "published_at": "2026-04-05T02:00:00+00:00",
+          "title_hash": "9f0d919f8108c083aa49f6bd11ce72ff600833ffbbfd642fc2daa6baa0bf52b9",
+          "keywords": [
+            "일본도",
+            "가져오려",
+            "했다",
+            "폭언으로",
+            "공동창업자",
+            "수익"
+          ]
+        },
+        {
+          "stable_key": "b71a502537d5226060633a1dc860f8237f36f1b69d1ee854d298797f2f8c301f",
+          "source_key": "donga-society-rss",
+          "source_name": "DongA Society",
+          "category": "kr-society",
+          "hub": "kr",
+          "hub_label": "대한민국",
+          "section_label": "사회",
+          "language": "ko",
+          "title": "울산종갓집도서관 누적 이용 100만 명…하루 평균 2200명 방문",
+          "canonical_url": "https://www.donga.com/news/Society/article/all/20260405/133674993/1",
+          "published_at": "2026-04-05T02:00:00+00:00",
+          "title_hash": "9e8d0eac891f54dc121bf7b7fb6f91e741cdbc8cc96c52d6cd4767a9aa945d59",
+          "keywords": [
+            "울산종갓집도서관",
+            "누적",
+            "이용",
+            "100만",
+            "하루",
+            "평균"
+          ]
+        },
+        {
+          "stable_key": "55b9bd295d4c40afb784a94136256206fd7ae00d224d36eb428a95c7b92d86dd",
+          "source_key": "donga-politics-rss",
+          "source_name": "DongA Politics",
+          "category": "kr-politics",
+          "hub": "kr",
+          "hub_label": "대한민국",
+          "section_label": "정치",
+          "language": "ko",
+          "title": "李 “추경으로 지방정부 부담 명백히 줄어…이건 초보 산수”",
+          "canonical_url": "https://www.donga.com/news/Politics/article/all/20260405/133675386/1",
+          "published_at": "2026-04-05T02:00:00+00:00",
+          "title_hash": "0c221ea449f81c22ab2ca496c0d2446205385779fb7836c8f2bc0e14b1db27fe",
+          "keywords": [
+            "추경으로",
+            "지방정부",
+            "부담",
+            "명백히",
+            "줄어",
+            "이건"
+          ]
+        },
+        {
+          "stable_key": "10273bfa83df982135b3e61e9196a59fb183f1db5b93ec8b8149beaf832a524a",
+          "source_key": "asiae-economy-rss",
+          "source_name": "Asiae Economy",
+          "category": "kr-economy",
+          "hub": "kr",
+          "hub_label": "대한민국",
+          "section_label": "경제",
+          "language": "ko",
+          "title": "'경북·전남' 식품융합클러스터 시범 대상지역 선정…'창업-생산-수출' 전주기 지원",
+          "canonical_url": "https://www.asiae.co.kr/article/2026040410045711246",
+          "published_at": "2026-04-05T02:00:00+00:00",
+          "title_hash": "f50f118710d0b8314fa9800570e9a7eae335354aa67fcd876e27cff146ce4788",
+          "keywords": [
+            "경북",
+            "전남",
+            "식품융합클러스터",
+            "시범",
+            "대상지역",
+            "선정"
+          ]
+        },
+        {
+          "stable_key": "4c250ba772b11d311701e7046f010fd785c9d24551407cef7e1ac630fc330849",
+          "source_key": "donga-society-rss",
+          "source_name": "DongA Society",
+          "category": "kr-society",
+          "hub": "kr",
+          "hub_label": "대한민국",
+          "section_label": "사회",
+          "language": "ko",
+          "title": "전북 진안·순창군에 전북형 반할 주택 200세대 공급",
+          "canonical_url": "https://www.donga.com/news/Society/article/all/20260405/133674956/1",
+          "published_at": "2026-04-05T01:59:00+00:00",
+          "title_hash": "af12433adf7bccd87e5170545681fd179c97b69c427a583642141ef6adde1047",
+          "keywords": [
+            "전북",
+            "진안",
+            "순창군에",
+            "전북형",
+            "반할",
+            "주택"
+          ]
+        },
+        {
+          "stable_key": "dee7fee5794b3288c51ce625ed2b945c0bc217019167739a5dce20c52c4095f3",
+          "source_key": "cbs-us-rss",
+          "source_name": "CBS News US",
+          "category": "us-politics",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "정치",
+          "language": "en",
+          "title": "Would Michigan investigators be able to prove murder in a case without a body?",
+          "canonical_url": "https://www.cbsnews.com/news/dee-warner-missing-would-michigan-investigators-be-able-to-prove-murder-without-a-body",
+          "published_at": "2026-04-05T01:58:30+00:00",
+          "title_hash": "ba212af3f7566ea634ecfc3b62460569333912661b80e871887489055fca9f26",
+          "keywords": [
+            "would",
+            "michigan",
+            "investigators",
+            "able",
+            "prove",
+            "murder"
+          ]
+        },
+        {
+          "stable_key": "579996ac9b99022436fafa82007a29cbe9d735f8907fb9e6f84f48d3a3804add",
+          "source_key": "nypost-feed",
+          "source_name": "New York Post Feed",
+          "category": "us-world",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "세계",
+          "language": "en",
+          "title": "Nicolás Fernández Mercau garnering interest from European clubs while on big-time scoring pace for NYCFC",
+          "canonical_url": "https://nypost.com/2026/04/04/sports/nicolas-fernandez-mercau-garnering-interest-while-on-big-time-scoring-pace-for-nycfc",
+          "published_at": "2026-04-05T01:58:12+00:00",
+          "title_hash": "843724d5410fd2794bc6cc918b9cc5e23e7d195a981e4a4fa8ddb169aface3c4",
+          "keywords": [
+            "nicol",
+            "fern",
+            "ndez",
+            "mercau",
+            "garnering",
+            "interest"
+          ]
+        },
+        {
+          "stable_key": "5a9d67f6b0c2ce9f6ceb1713e814724b2e899c51ced1d6a7bd471d200f036a9b",
+          "source_key": "sbs-society-rss",
+          "source_name": "SBS Society",
+          "category": "kr-society",
+          "hub": "kr",
+          "hub_label": "대한민국",
+          "section_label": "사회",
+          "language": "ko",
+          "title": "\"남친 구해달라\" 불러놓고 '퍽'…보복성 민원 전화까지",
+          "canonical_url": "https://news.sbs.co.kr/news/endPage.do?cooper=RSSREADER&news_id=N1008505698&plink=RSSLINK",
+          "published_at": "2026-04-05T01:58:00+00:00",
+          "title_hash": "9518c762cdadcc4870f3fcc3ff35888f7a856fcdb6551dfd57a41ee26ba77c9c",
+          "keywords": [
+            "남친",
+            "구해달라",
+            "불러놓고",
+            "보복성",
+            "민원",
+            "전화까지"
+          ]
+        },
+        {
+          "stable_key": "3d31eb5869340d6805bad1707702d9764cf1acdb988fec9d20a2724d9df20799",
+          "source_key": "donga-society-rss",
+          "source_name": "DongA Society",
+          "category": "kr-society",
+          "hub": "kr",
+          "hub_label": "대한민국",
+          "section_label": "사회",
+          "language": "ko",
+          "title": "황차동 코스포 동남권협의회장 “회원사 AX 활용 활성화 추진할 것”",
+          "canonical_url": "https://www.donga.com/news/Society/article/all/20260405/133671677/1",
+          "published_at": "2026-04-05T01:58:00+00:00",
+          "title_hash": "6529e07d974fcab21db39a130cfbf151a5e3850fa958507af184a88bd8600694",
+          "keywords": [
+            "황차동",
+            "코스포",
+            "동남권협의회장",
+            "회원사",
+            "ax",
+            "활용"
+          ]
+        },
+        {
+          "stable_key": "2d87f64d47f1baaaa2c7bbf04eb304635fb9486701cb06d40cc3df6d6fbe8760",
+          "source_key": "asiae-society-rss",
+          "source_name": "Asiae Society",
+          "category": "kr-society",
+          "hub": "kr",
+          "hub_label": "대한민국",
+          "section_label": "사회",
+          "language": "ko",
+          "title": "\"간식 먹듯이 틈틈이한 운동 덕에 치매 위험 '뚝'\"",
+          "canonical_url": "https://www.asiae.co.kr/article/2026040510484635871",
+          "published_at": "2026-04-05T01:57:18+00:00",
+          "title_hash": "4ebfc855c3d54e1cbce7abaf1a9d8c05b23cc995bca104528f57ded31ed3341a",
+          "keywords": [
+            "간식",
+            "먹듯이",
+            "틈틈이한",
+            "운동",
+            "덕에",
+            "치매"
+          ]
+        },
+        {
           "stable_key": "70439b697a75d327fd7278ac2d180124a7f0b156204fe9ab97f921235848e9a1",
           "source_key": "telegram-dada-news2",
           "source_name": "Telegram @dada_news2",
@@ -648,474 +1110,12 @@
             "consider",
             "expelling"
           ]
-        },
-        {
-          "stable_key": "7613239ea940621f449f5b0656746d3cad28037e5c09f3c1d2af3351d19d9b1a",
-          "source_key": "nypost-feed",
-          "source_name": "New York Post Feed",
-          "category": "us-markets",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "시장",
-          "language": "en",
-          "title": "Kevin Warsh needs to be confirmed as Fed Chair in order to avoid an economic shutdown",
-          "canonical_url": "https://nypost.com/2026/04/04/business/kevin-warsh-needs-to-be-confirmed-as-fed-chair-in-order-to-avoid-an-economic-shutdown",
-          "published_at": "2026-04-05T01:38:17+00:00",
-          "title_hash": "863a3aabdafeab43ed5034bcf7ab5c874339fbc7a81d8e6582eb809715f47712",
-          "keywords": [
-            "kevin",
-            "warsh",
-            "needs",
-            "confirmed",
-            "fed",
-            "chair"
-          ]
-        },
-        {
-          "stable_key": "ffe3e841cf8dbc1c4ec20702d44bd373b71a41d5b7d057af39604fef965609f6",
-          "source_key": "asiae-society-rss",
-          "source_name": "Asiae Society",
-          "category": "kr-society",
-          "hub": "kr",
-          "hub_label": "대한민국",
-          "section_label": "사회",
-          "language": "ko",
-          "title": "서울교육청, 특수교육 등 교육공무직원 548명 공개채용",
-          "canonical_url": "https://www.asiae.co.kr/article/2026040510381518160",
-          "published_at": "2026-04-05T01:38:16+00:00",
-          "title_hash": "65b9017189e04933788dc6e370fd4994371e5e60456f466161da4ef9b08f2cff",
-          "keywords": [
-            "서울교육청",
-            "특수교육",
-            "교육공무직원",
-            "548명",
-            "공개채용",
-            "서울교육청 특수교육"
-          ]
-        },
-        {
-          "stable_key": "42a493da45f17f8d334465591318fbff9f17a4932bf2bd6accdbc601e95b94e7",
-          "source_key": "nypost-feed",
-          "source_name": "New York Post Feed",
-          "category": "us-technology",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "기술",
-          "language": "en",
-          "title": "Knicks’ Miles McBride striving for return to pre-injury form before playoffs",
-          "canonical_url": "https://nypost.com/2026/04/04/sports/knicks-miles-mcbride-striving-for-return-to-pre-injury-form-before-playoffs",
-          "published_at": "2026-04-05T01:38:08+00:00",
-          "title_hash": "e153ffe16a9761bfaffa426f7f8ed9d87ff6a1ed4c05fddc538e1afd743f402f",
-          "keywords": [
-            "knicks",
-            "miles",
-            "mcbride",
-            "striving",
-            "return",
-            "pre"
-          ]
-        },
-        {
-          "stable_key": "66afc5ae0e53830f184925181507ae91fbb08a87c37daf6cb71a82e8076de125",
-          "source_key": "khan-society-rss",
-          "source_name": "Kyunghyang Society",
-          "category": "kr-society",
-          "hub": "kr",
-          "hub_label": "대한민국",
-          "section_label": "사회",
-          "language": "ko",
-          "title": "화천군, 초중고 신입생에 입학 축하금 지급···30~50만 원",
-          "canonical_url": "https://www.khan.co.kr/article/202604051038001",
-          "published_at": "2026-04-05T01:38:00+00:00",
-          "title_hash": "0b89837f4c77a77e44dc6f1771d17a9882590590f41c6d0373c3cc166d229e5f",
-          "keywords": [
-            "화천군",
-            "초중고",
-            "신입생에",
-            "입학",
-            "축하금",
-            "지급"
-          ]
-        },
-        {
-          "stable_key": "5ccceec742ef73e683b36754d226a6e2a8362db9413a54255ed4fad743ecce78",
-          "source_key": "khan-politics-rss",
-          "source_name": "Kyunghyang Politics",
-          "category": "kr-politics",
-          "hub": "kr",
-          "hub_label": "대한민국",
-          "section_label": "정치",
-          "language": "ko",
-          "title": "군 헬기, 산불 진화 중에 유엔사 승인 없이 DMZ 진입…경위 파악",
-          "canonical_url": "https://www.khan.co.kr/article/202604051037011",
-          "published_at": "2026-04-05T01:37:01+00:00",
-          "title_hash": "6cac9d596e743dd61a7dfb05c089748b64e34ab094001680e7e58d9afed365f4",
-          "keywords": [
-            "헬기",
-            "산불",
-            "진화",
-            "중에",
-            "유엔사",
-            "승인"
-          ]
-        },
-        {
-          "stable_key": "da97467290bed22b5ecdb77d1e7c6fc1453af9bee5e8bd1e199fd97a3f692bfb",
-          "source_key": "khan-economy-rss",
-          "source_name": "Kyunghyang Economy",
-          "category": "kr-economy",
-          "hub": "kr",
-          "hub_label": "대한민국",
-          "section_label": "경제",
-          "language": "ko",
-          "title": "한전 “경제 전시 상황에 직면”···그룹사, 긴급 사장단 회의 개최",
-          "canonical_url": "https://www.khan.co.kr/article/202604051037001",
-          "published_at": "2026-04-05T01:37:00+00:00",
-          "title_hash": "d824c85c7c5e53766de6f2425df66acecd8484b82404e8e47d40c21617efe1e6",
-          "keywords": [
-            "한전",
-            "경제",
-            "전시",
-            "상황에",
-            "직면",
-            "그룹사"
-          ]
-        },
-        {
-          "stable_key": "9e1e8aba25b0e1331af0715bfeb06898b9e17fc064b3ef4ac3703f999c0d03c7",
-          "source_key": "telegram-claw-summary",
-          "source_name": "Telegram @clawnewssummary",
-          "category": "military",
-          "hub": "global",
-          "hub_label": "글로벌 전문",
-          "section_label": "군사",
-          "language": "ko",
-          "title": "🚨 [CRITICAL] 호르무즈 해협 알림",
-          "canonical_url": "https://www.aljazeera.com/news/2026/4/5/us-satellite-firm-planet-labs-announces-blackout-on-war-on-iran-images?traffic_source=rss",
-          "published_at": "2026-04-05T01:36:25+00:00",
-          "title_hash": "1ba172554ef1c7fcb4ab3d83322e6f471392708251d575eb55dfe385f79a6b1c",
-          "keywords": [
-            "critical",
-            "호르무즈",
-            "해협",
-            "알림",
-            "critical 호르무즈",
-            "호르무즈 해협"
-          ]
-        },
-        {
-          "stable_key": "0e8f3bdce0dcb9123b363c298c10a8db6cc8b6c3081910765b3c1a35e8c1f634",
-          "source_key": "mk-society-rss",
-          "source_name": "Maeil Business Society",
-          "category": "kr-society",
-          "hub": "kr",
-          "hub_label": "대한민국",
-          "section_label": "사회",
-          "language": "ko",
-          "title": "“감기 조심하세요”…월요일 비 그친 뒤 기온 ‘뚝’",
-          "canonical_url": "https://www.mk.co.kr/news/society/12008132",
-          "published_at": "2026-04-05T01:34:32+00:00",
-          "title_hash": "2f4dae76e7f6553a9c1d9a681ba757d6239cab75e52603b2aa0c0773b54830a1",
-          "keywords": [
-            "감기",
-            "조심하세요",
-            "월요일",
-            "그친",
-            "기온",
-            "감기 조심하세요"
-          ]
-        },
-        {
-          "stable_key": "af544c9c70b857171c84143caa996552ddf55f00c4a5f22f7159f6b90c7a8951",
-          "source_key": "sbs-society-rss",
-          "source_name": "SBS Society",
-          "category": "kr-society",
-          "hub": "kr",
-          "hub_label": "대한민국",
-          "section_label": "사회",
-          "language": "ko",
-          "title": "경찰청·미국 에너지부 심포지엄 공동개최…AI 신종테러 대응책 등 논의",
-          "canonical_url": "https://news.sbs.co.kr/news/endPage.do?cooper=RSSREADER&news_id=N1008505692&plink=RSSLINK",
-          "published_at": "2026-04-05T01:34:00+00:00",
-          "title_hash": "df8267922740feb1bcc6b84f1ce4ca0887a309b204b72dd2327130edda422620",
-          "keywords": [
-            "경찰청",
-            "미국",
-            "에너지부",
-            "심포지엄",
-            "공동개최",
-            "ai"
-          ]
-        },
-        {
-          "stable_key": "42ea59c785cdbd25701b74d39f2c6a40af22b17b6cfddbd48c638f7546f42d42",
-          "source_key": "donga-culture-rss",
-          "source_name": "DongA Culture",
-          "category": "kr-culture",
-          "hub": "kr",
-          "hub_label": "대한민국",
-          "section_label": "문화",
-          "language": "ko",
-          "title": "안젤리나 졸리 딸, K팝 뮤직비디오에 등장",
-          "canonical_url": "https://www.donga.com/news/Culture/article/all/20260405/133675293/1",
-          "published_at": "2026-04-05T01:31:00+00:00",
-          "title_hash": "b6334c87466ea28c896e86d3dafa8b37bd2b9eed82e4c5612b923d11d3b19b2c",
-          "keywords": [
-            "안젤리나",
-            "졸리",
-            "k팝",
-            "뮤직비디오에",
-            "등장",
-            "안젤리나 졸리"
-          ]
-        },
-        {
-          "stable_key": "f256833dced092a00e3056ed3db087ae2b29e3540862eddd4dc1f4d911cbe0b5",
-          "source_key": "mk-society-rss",
-          "source_name": "Maeil Business Society",
-          "category": "kr-society",
-          "hub": "kr",
-          "hub_label": "대한민국",
-          "section_label": "사회",
-          "language": "ko",
-          "title": "“조금 식었을 뿐인데”…실온서 2시간 지난 볶음밥, 아이에게 먹이면",
-          "canonical_url": "https://www.mk.co.kr/news/society/12008130",
-          "published_at": "2026-04-05T01:28:48+00:00",
-          "title_hash": "f53ba4dd2e7b5416227f27f282a58139f8616730711f57f5a435547e70d2d8a5",
-          "keywords": [
-            "조금",
-            "식었을",
-            "뿐인데",
-            "실온서",
-            "2시간",
-            "지난"
-          ]
-        },
-        {
-          "stable_key": "0b384cc55e3239a7679f408a3ac20d7403c9b5df458186b3e56061d0f63b8b03",
-          "source_key": "donga-society-rss",
-          "source_name": "DongA Society",
-          "category": "kr-society",
-          "hub": "kr",
-          "hub_label": "대한민국",
-          "section_label": "사회",
-          "language": "ko",
-          "title": "“다른 남성과 침대에 있자 격분”…전 연인 흉기 협박한 30대",
-          "canonical_url": "https://www.donga.com/news/Society/article/all/20260405/133675303/1",
-          "published_at": "2026-04-05T01:28:24+00:00",
-          "title_hash": "fc362cfef62938d233b0bed2f91970d74653c0bac03fe0b5903c83b407c41208",
-          "keywords": [
-            "다른",
-            "남성과",
-            "침대에",
-            "있자",
-            "격분",
-            "연인"
-          ]
-        },
-        {
-          "stable_key": "fed0fa7dad43331469c615413b04b59704d56f1238d737cce21f3e7e8cd57506",
-          "source_key": "donga-society-rss",
-          "source_name": "DongA Society",
-          "category": "kr-society",
-          "hub": "kr",
-          "hub_label": "대한민국",
-          "section_label": "사회",
-          "language": "ko",
-          "title": "“보면 뭘 아냐” 출동 구급대원 폭행…30대, 집유로 ‘감형’",
-          "canonical_url": "https://www.donga.com/news/Society/article/all/20260405/133675295/1",
-          "published_at": "2026-04-05T01:27:07+00:00",
-          "title_hash": "04dfa4f6a664e1f948c87405a54b835a219e2570b983f16064d53cff2454d791",
-          "keywords": [
-            "보면",
-            "아냐",
-            "출동",
-            "구급대원",
-            "폭행",
-            "30대"
-          ]
-        },
-        {
-          "stable_key": "3d55ce53db7d18330b8bdf15abb2c01e7042f77157812efe668dfb1ad285b3d7",
-          "source_key": "nypost-feed",
-          "source_name": "New York Post Feed",
-          "category": "us-economy",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "경제",
-          "language": "en",
-          "title": "Jake Bird’s Triple-A stint helped build strengths ahead of promising Yankees start",
-          "canonical_url": "https://nypost.com/2026/04/04/sports/jake-birds-triple-a-stint-helped-build-strengths-ahead-of-promising-yankees-start",
-          "published_at": "2026-04-05T01:23:05+00:00",
-          "title_hash": "5c4242b6cd851146c4f261b20b754d3b467fc3f7eab0210fa4db8e15c0e73b3e",
-          "keywords": [
-            "jake",
-            "bird",
-            "triple",
-            "stint",
-            "helped",
-            "build"
-          ]
-        },
-        {
-          "stable_key": "e7f14643c1b94b16e7799a4f458504230b14c06739a5ce258a3c9f345aab92ae",
-          "source_key": "khan-society-rss",
-          "source_name": "Kyunghyang Society",
-          "category": "kr-society",
-          "hub": "kr",
-          "hub_label": "대한민국",
-          "section_label": "사회",
-          "language": "ko",
-          "title": "강원도, 무기질 비료 52억 원 지원···농가 경영 부담 완화",
-          "canonical_url": "https://www.khan.co.kr/article/202604051023001",
-          "published_at": "2026-04-05T01:23:00+00:00",
-          "title_hash": "381347fcdc433b25e98c9b74f1ffd8b9b78ba5798e8ab48d079a9e4a7be3877b",
-          "keywords": [
-            "강원도",
-            "무기질",
-            "비료",
-            "52억",
-            "지원",
-            "농가"
-          ]
-        },
-        {
-          "stable_key": "03b035c7de9625095c7073f4f19b5b32e9ad9d289b0cd81a2d196f299f9ee164",
-          "source_key": "washingtonexaminer-feed",
-          "source_name": "Washington Examiner Feed",
-          "category": "us-politics",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "정치",
-          "language": "en",
-          "title": "White House slaps down rumors Trump is at Walter Reed",
-          "canonical_url": "https://www.washingtonexaminer.com/news/white-house/4516444/white-house-trump-walter-reed-rumors",
-          "published_at": "2026-04-05T01:22:17+00:00",
-          "title_hash": "ac142aa48a950b32b31a6e4cbfd8943037f573845d96afc9bce7e6c04db801a0",
-          "keywords": [
-            "white",
-            "house",
-            "slaps",
-            "down",
-            "rumors",
-            "trump"
-          ]
-        },
-        {
-          "stable_key": "eb69ae525cdb7614fc9d5cbecb48d91c4369b4a32d0f767b73bca293003119f6",
-          "source_key": "etoday-economy-rss",
-          "source_name": "eToday Economy",
-          "category": "kr-economy",
-          "hub": "kr",
-          "hub_label": "대한민국",
-          "section_label": "경제",
-          "language": "ko",
-          "title": "중국 성장둔화 시 한국 GDP 0.22% 감소…공급망·첨단산업 ‘이중 압박’",
-          "canonical_url": "https://www.etoday.co.kr/news/view/2572708",
-          "published_at": "2026-04-05T01:22:00+00:00",
-          "title_hash": "195fb4e3aea2cbe579798694195b1dac003b50b030360a03eb599ba555d54911",
-          "keywords": [
-            "중국",
-            "성장둔화",
-            "한국",
-            "gdp",
-            "감소",
-            "공급망"
-          ]
-        },
-        {
-          "stable_key": "61c82754bf58f30673678c9082f5476bd779d03f4fb008dd1e71feee18c47f2a",
-          "source_key": "etoday-economy-rss",
-          "source_name": "eToday Economy",
-          "category": "kr-economy",
-          "hub": "kr",
-          "hub_label": "대한민국",
-          "section_label": "경제",
-          "language": "ko",
-          "title": "해외 IB \"韓 물가 3% 뚫을 것\"⋯공산품·서비스 고물가 도미노 비상",
-          "canonical_url": "https://www.etoday.co.kr/news/view/2572754",
-          "published_at": "2026-04-05T01:21:00+00:00",
-          "title_hash": "f0eb5085aa76675c8aa77b9db3926cfdf8da8fa123ed09c657f432faec9eb1cb",
-          "keywords": [
-            "해외",
-            "ib",
-            "물가",
-            "뚫을",
-            "공산품",
-            "서비스"
-          ]
-        },
-        {
-          "stable_key": "20d5880aa8daf8c27892726f47bc4d2477116d93f46e83f48350361e2ca9d084",
-          "source_key": "fox-politics-rss",
-          "source_name": "Fox News Politics",
-          "category": "us-politics",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "정치",
-          "language": "en",
-          "title": "DHS slams Democrat Sen Chris Van Hollen claim, says illegal alien caused crash while fleeing ICE",
-          "canonical_url": "https://www.foxnews.com/politics/dhs-slams-democrat-sen-chris-van-hollen-claim-illegal-alien-caused-crash-fleeing-ice",
-          "published_at": "2026-04-05T01:18:47+00:00",
-          "title_hash": "303a9c2bede376264969fb89ebf7700dadeda102f35da2d73bc5fb05eb7f285a",
-          "keywords": [
-            "dhs",
-            "slams",
-            "democrat",
-            "sen",
-            "chris",
-            "van"
-          ]
-        },
-        {
-          "stable_key": "9a2b9da4aacbd36485044046f02386411b9bba025ce813df638268ede1e96f62",
-          "source_key": "newsweek-feed",
-          "source_name": "Newsweek Feed",
-          "category": "us-technology",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "기술",
-          "language": "en",
-          "title": "California Wildfire Update: Evacuations Lifted as Springs Fire Contained",
-          "canonical_url": "https://www.newsweek.com/california-wildfire-update-evacuations-lifted-as-springs-fire-contained-11784212",
-          "published_at": "2026-04-05T01:18:04+00:00",
-          "title_hash": "063ef589c7d51aa058ee4f3907134071f87849470b169c153ec5001296082e22",
-          "keywords": [
-            "california",
-            "wildfire",
-            "evacuations",
-            "lifted",
-            "springs",
-            "fire"
-          ]
-        },
-        {
-          "stable_key": "ec3938ec954782a33d7bdb9bc708cfbfdcbf0ba9be49323a169f4d7f58ded3c5",
-          "source_key": "khan-economy-rss",
-          "source_name": "Kyunghyang Economy",
-          "category": "kr-economy",
-          "hub": "kr",
-          "hub_label": "대한민국",
-          "section_label": "경제",
-          "language": "ko",
-          "title": "봄마다 반복되는 ‘이상기후 공포’···충남도 농기원, 과수·채소 농가 현장점검 강화",
-          "canonical_url": "https://www.khan.co.kr/article/202604051018011",
-          "published_at": "2026-04-05T01:18:01+00:00",
-          "title_hash": "d8e9f36649d3a478d3c93a56f9f4e141a2232ecd519404924168e259b4d2a245",
-          "keywords": [
-            "봄마다",
-            "반복되는",
-            "이상기후",
-            "공포",
-            "충남도",
-            "농기원"
-          ]
         }
       ]
     },
     "7d": {
       "label": "7d",
-      "article_count": 3873,
+      "article_count": 3896,
       "unknown_time_count": 0,
       "active_source_count": 102,
       "repeated_title_count": 213,
@@ -1142,15 +1142,15 @@
         },
         {
           "date": "2026-04-03",
-          "count": 1404
+          "count": 1405
         },
         {
           "date": "2026-04-04",
-          "count": 1191
+          "count": 1192
         },
         {
           "date": "2026-04-05",
-          "count": 133
+          "count": 154
         }
       ],
       "top_keywords": [
@@ -1217,17 +1217,17 @@
         {
           "source_key": "nypost-feed",
           "name": "New York Post Feed",
-          "count": 123
+          "count": 124
         },
         {
           "source_key": "yahoo-news-rss",
           "name": "Yahoo News RSS",
-          "count": 121
+          "count": 123
         },
         {
           "source_key": "asiae-society-rss",
           "name": "Asiae Society",
-          "count": 118
+          "count": 119
         },
         {
           "source_key": "thehill-feed",
@@ -1237,12 +1237,12 @@
         {
           "source_key": "asiae-economy-rss",
           "name": "Asiae Economy",
-          "count": 101
+          "count": 102
         },
         {
           "source_key": "asiae-politics-rss",
           "name": "Asiae Politics",
-          "count": 87
+          "count": 88
         },
         {
           "source_key": "breitbart-feed",
@@ -1255,13 +1255,13 @@
           "count": 80
         },
         {
-          "source_key": "nyt-world-rss",
-          "name": "New York Times World",
-          "count": 68
+          "source_key": "etoday-economy-rss",
+          "name": "eToday Economy",
+          "count": 70
         },
         {
-          "source_key": "newsweek-feed",
-          "name": "Newsweek Feed",
+          "source_key": "nyt-world-rss",
+          "name": "New York Times World",
           "count": 68
         }
       ],
@@ -1269,12 +1269,12 @@
         {
           "key": "us",
           "label": "미국",
-          "count": 2327
+          "count": 2331
         },
         {
           "key": "kr",
           "label": "대한민국",
-          "count": 1379
+          "count": 1398
         },
         {
           "key": "global",
@@ -1288,35 +1288,35 @@
           "label": "정치",
           "hub": "us",
           "hub_label": "미국",
-          "count": 859
+          "count": 860
         },
         {
           "key": "us-technology",
           "label": "기술",
           "hub": "us",
           "hub_label": "미국",
-          "count": 603
+          "count": 605
         },
         {
           "key": "us-world",
           "label": "세계",
           "hub": "us",
           "hub_label": "미국",
-          "count": 386
+          "count": 387
         },
         {
           "key": "kr-economy",
           "label": "경제",
           "hub": "kr",
           "hub_label": "대한민국",
-          "count": 364
+          "count": 373
         },
         {
           "key": "kr-society",
           "label": "사회",
           "hub": "kr",
           "hub_label": "대한민국",
-          "count": 339
+          "count": 347
         },
         {
           "key": "us-economy",
@@ -1330,7 +1330,7 @@
           "label": "정치",
           "hub": "kr",
           "hub_label": "대한민국",
-          "count": 250
+          "count": 252
         },
         {
           "key": "kr-culture",
@@ -1371,11 +1371,11 @@
       "language_counts": [
         {
           "language": "en",
-          "count": 2454
+          "count": 2458
         },
         {
           "language": "ko",
-          "count": 1419
+          "count": 1438
         }
       ],
       "repeated_titles": [
@@ -1584,6 +1584,468 @@
           ]
         },
         {
+          "stable_key": "433ba3a7f1d0c800d344c11bfc5679630ba64d727a8947ee5e25bdec3a8fda4e",
+          "source_key": "khan-society-rss",
+          "source_name": "Kyunghyang Society",
+          "category": "kr-society",
+          "hub": "kr",
+          "hub_label": "대한민국",
+          "section_label": "사회",
+          "language": "ko",
+          "title": "인제군, 상남면 LPG 배관망 구축···175세대 에너지 복지 향상",
+          "canonical_url": "https://www.khan.co.kr/article/202604051105001",
+          "published_at": "2026-04-05T02:05:00+00:00",
+          "title_hash": "56303d0fa1870a7c0b5d0c87f4774194cb22a9e76d8b5ba6f5b51aabfa34b839",
+          "keywords": [
+            "인제군",
+            "상남면",
+            "lpg",
+            "배관망",
+            "구축",
+            "175세대"
+          ]
+        },
+        {
+          "stable_key": "0c723903ff31ec3741759aa93d2aa3c8ba3aeac7b85e9a174d1ba30a5d1b6826",
+          "source_key": "etoday-economy-rss",
+          "source_name": "eToday Economy",
+          "category": "kr-economy",
+          "hub": "kr",
+          "hub_label": "대한민국",
+          "section_label": "경제",
+          "language": "ko",
+          "title": "기본법은 표류, 감시 법안은 전진…가상자산업계 “육성 없는 통제” 지적",
+          "canonical_url": "https://www.etoday.co.kr/news/view/2572625",
+          "published_at": "2026-04-05T02:05:00+00:00",
+          "title_hash": "17fc6b2fbc49346a284ba34897d11f0b1c303c1cdcc41b5cdbc585ef9dade0b7",
+          "keywords": [
+            "기본법은",
+            "표류",
+            "감시",
+            "법안은",
+            "전진",
+            "가상자산업계"
+          ]
+        },
+        {
+          "stable_key": "b77f12866ec855a3b2e1e7a497cde9431b365d50a127bd69b67a173d8f60afaa",
+          "source_key": "donga-society-rss",
+          "source_name": "DongA Society",
+          "category": "kr-society",
+          "hub": "kr",
+          "hub_label": "대한민국",
+          "section_label": "사회",
+          "language": "ko",
+          "title": "울산항만공사, 친환경 연료 선박에 현금 인센티브 최대 1천만원 지원",
+          "canonical_url": "https://www.donga.com/news/Society/article/all/20260405/133674974/1",
+          "published_at": "2026-04-05T02:02:00+00:00",
+          "title_hash": "80fd21109d7c847063094fd79ad9d3b69d0c6b10e1a1f3d4afcc71871a76ea64",
+          "keywords": [
+            "울산항만공사",
+            "친환경",
+            "연료",
+            "선박에",
+            "현금",
+            "인센티브"
+          ]
+        },
+        {
+          "stable_key": "6e85aae9da35fd4075b7a377e6f7db095349d3bd622660cd8da2df6e3301951b",
+          "source_key": "asiae-politics-rss",
+          "source_name": "Asiae Politics",
+          "category": "kr-politics",
+          "hub": "kr",
+          "hub_label": "대한민국",
+          "section_label": "정치",
+          "language": "ko",
+          "title": "국힘 서천군수 경선 여론조사 왜곡 의혹",
+          "canonical_url": "https://www.asiae.co.kr/article/2026040511014447548",
+          "published_at": "2026-04-05T02:01:44+00:00",
+          "title_hash": "e24b5d8d4a4190ee7c3817aed4dc48ba1b0bbd877413a01ac8f1199590821481",
+          "keywords": [
+            "국힘",
+            "서천군수",
+            "경선",
+            "여론조사",
+            "왜곡",
+            "의혹"
+          ]
+        },
+        {
+          "stable_key": "10c713f05d24294318b8e675e493d22c68d77e4367cbc07721c2170d744b648c",
+          "source_key": "donga-society-rss",
+          "source_name": "DongA Society",
+          "category": "kr-society",
+          "hub": "kr",
+          "hub_label": "대한민국",
+          "section_label": "사회",
+          "language": "ko",
+          "title": "전주시, 농업 판로·고부가 가치 창출 적극 나서",
+          "canonical_url": "https://www.donga.com/news/Society/article/all/20260405/133674966/1",
+          "published_at": "2026-04-05T02:01:00+00:00",
+          "title_hash": "03c0b155ef5dc649d49e8163f86a1efd6f1f544b2999553845af181bd3b8203b",
+          "keywords": [
+            "전주시",
+            "농업",
+            "판로",
+            "고부가",
+            "가치",
+            "창출"
+          ]
+        },
+        {
+          "stable_key": "afd0ad90b39b0c9db723f4fd5c33c5845b498d74af0110aa4c901059b68adf82",
+          "source_key": "etoday-economy-rss",
+          "source_name": "eToday Economy",
+          "category": "kr-economy",
+          "hub": "kr",
+          "hub_label": "대한민국",
+          "section_label": "경제",
+          "language": "ko",
+          "title": "한육우·젖소도 동물복지 기준 세운다…농가 실천용 가이드라인 배포",
+          "canonical_url": "https://www.etoday.co.kr/news/view/2572748",
+          "published_at": "2026-04-05T02:00:00+00:00",
+          "title_hash": "895d34c14c254862f2df815d32efde25e41e5309e69ff70e74c0e23a3c0cc3c9",
+          "keywords": [
+            "한육우",
+            "젖소도",
+            "동물복지",
+            "기준",
+            "세운다",
+            "농가"
+          ]
+        },
+        {
+          "stable_key": "236ed18478e0063ccfc2e17b80852b10e2ad1828d5e0da376ae8ce5cc65e9794",
+          "source_key": "etoday-economy-rss",
+          "source_name": "eToday Economy",
+          "category": "kr-economy",
+          "hub": "kr",
+          "hub_label": "대한민국",
+          "section_label": "경제",
+          "language": "ko",
+          "title": "중견기업 10곳, '월드클래스'로 키운다⋯지역 기업엔 최대 50억 지원",
+          "canonical_url": "https://www.etoday.co.kr/news/view/2572752",
+          "published_at": "2026-04-05T02:00:00+00:00",
+          "title_hash": "47eb97eadef8a4fc023e597ef9f8091d8c7bdf2f0ab96f5ad34c07b834b3930e",
+          "keywords": [
+            "중견기업",
+            "10곳",
+            "월드클래스",
+            "키운다",
+            "지역",
+            "기업엔"
+          ]
+        },
+        {
+          "stable_key": "6a152a3cf35346d1060e031ae68803ac54c919ff0e856c32359857893efc8ab1",
+          "source_key": "etoday-economy-rss",
+          "source_name": "eToday Economy",
+          "category": "kr-economy",
+          "hub": "kr",
+          "hub_label": "대한민국",
+          "section_label": "경제",
+          "language": "ko",
+          "title": "식품산업 지역 거점 키운다…경북·전남, 식품융합클러스터 첫 시범지 선정",
+          "canonical_url": "https://www.etoday.co.kr/news/view/2572725",
+          "published_at": "2026-04-05T02:00:00+00:00",
+          "title_hash": "2ed27aa5411bb41ffeb3919660cc4687e8fd71ababdac347978b2310faa88300",
+          "keywords": [
+            "식품산업",
+            "지역",
+            "거점",
+            "키운다",
+            "경북",
+            "전남"
+          ]
+        },
+        {
+          "stable_key": "8e3d3bbd87fd0047fe4d193d4832f3b3a9bd161057dea3a8753a12dfc5cbfedd",
+          "source_key": "etoday-economy-rss",
+          "source_name": "eToday Economy",
+          "category": "kr-economy",
+          "hub": "kr",
+          "hub_label": "대한민국",
+          "section_label": "경제",
+          "language": "ko",
+          "title": "볍씨 그냥 뿌리면 낭패…올해는 ‘싹 확인’ 먼저",
+          "canonical_url": "https://www.etoday.co.kr/news/view/2572755",
+          "published_at": "2026-04-05T02:00:00+00:00",
+          "title_hash": "5cab2ee03d9ef81a275e50ed950350296d1066c3f943f7ea8e6b2a25ab0aabb9",
+          "keywords": [
+            "볍씨",
+            "그냥",
+            "뿌리면",
+            "낭패",
+            "올해는",
+            "확인"
+          ]
+        },
+        {
+          "stable_key": "bc9e24a72f5be343c64c9873c2c4e4b167cfd5de1b665610ab65e3d8792bd25b",
+          "source_key": "etoday-economy-rss",
+          "source_name": "eToday Economy",
+          "category": "kr-economy",
+          "hub": "kr",
+          "hub_label": "대한민국",
+          "section_label": "경제",
+          "language": "ko",
+          "title": "농산물 팔 때 ‘통신판매업’만 등록하면 손해…농업인 세금·고용보험 길잡이 발간",
+          "canonical_url": "https://www.etoday.co.kr/news/view/2572750",
+          "published_at": "2026-04-05T02:00:00+00:00",
+          "title_hash": "22e3e381ed2c772b1ef6f76610f1fb3f7aaa864c8bc1011d7a0c2af20ad093c7",
+          "keywords": [
+            "농산물",
+            "통신판매업",
+            "등록하면",
+            "손해",
+            "농업인",
+            "세금"
+          ]
+        },
+        {
+          "stable_key": "527b319df252ca6e00e4f6da46c5b61a2488ecd3c8682a5201bd1f4b49111399",
+          "source_key": "etoday-economy-rss",
+          "source_name": "eToday Economy",
+          "category": "kr-economy",
+          "hub": "kr",
+          "hub_label": "대한민국",
+          "section_label": "경제",
+          "language": "ko",
+          "title": "국토부, 국토·교통 데이터 활용 경진대회 개최⋯총상금 3400만원",
+          "canonical_url": "https://www.etoday.co.kr/news/view/2572714",
+          "published_at": "2026-04-05T02:00:00+00:00",
+          "title_hash": "33568ea6ff5d57075c5861f71e8f33137648cdcd13afaf3f26a989a3f48759d3",
+          "keywords": [
+            "국토부",
+            "국토",
+            "교통",
+            "데이터",
+            "활용",
+            "경진대회"
+          ]
+        },
+        {
+          "stable_key": "79ac8488e60c1312b2d097f3e8a1ec359db5372b875eaa6d0f2aee5d47bbe780",
+          "source_key": "etoday-economy-rss",
+          "source_name": "eToday Economy",
+          "category": "kr-economy",
+          "hub": "kr",
+          "hub_label": "대한민국",
+          "section_label": "경제",
+          "language": "ko",
+          "title": "“일본도 가져오려 했다” 폭언으로 공동창업자 수익 반환시켰지만.. 법원 \"강압 아냐\"",
+          "canonical_url": "https://www.etoday.co.kr/news/view/2572684",
+          "published_at": "2026-04-05T02:00:00+00:00",
+          "title_hash": "9f0d919f8108c083aa49f6bd11ce72ff600833ffbbfd642fc2daa6baa0bf52b9",
+          "keywords": [
+            "일본도",
+            "가져오려",
+            "했다",
+            "폭언으로",
+            "공동창업자",
+            "수익"
+          ]
+        },
+        {
+          "stable_key": "b71a502537d5226060633a1dc860f8237f36f1b69d1ee854d298797f2f8c301f",
+          "source_key": "donga-society-rss",
+          "source_name": "DongA Society",
+          "category": "kr-society",
+          "hub": "kr",
+          "hub_label": "대한민국",
+          "section_label": "사회",
+          "language": "ko",
+          "title": "울산종갓집도서관 누적 이용 100만 명…하루 평균 2200명 방문",
+          "canonical_url": "https://www.donga.com/news/Society/article/all/20260405/133674993/1",
+          "published_at": "2026-04-05T02:00:00+00:00",
+          "title_hash": "9e8d0eac891f54dc121bf7b7fb6f91e741cdbc8cc96c52d6cd4767a9aa945d59",
+          "keywords": [
+            "울산종갓집도서관",
+            "누적",
+            "이용",
+            "100만",
+            "하루",
+            "평균"
+          ]
+        },
+        {
+          "stable_key": "55b9bd295d4c40afb784a94136256206fd7ae00d224d36eb428a95c7b92d86dd",
+          "source_key": "donga-politics-rss",
+          "source_name": "DongA Politics",
+          "category": "kr-politics",
+          "hub": "kr",
+          "hub_label": "대한민국",
+          "section_label": "정치",
+          "language": "ko",
+          "title": "李 “추경으로 지방정부 부담 명백히 줄어…이건 초보 산수”",
+          "canonical_url": "https://www.donga.com/news/Politics/article/all/20260405/133675386/1",
+          "published_at": "2026-04-05T02:00:00+00:00",
+          "title_hash": "0c221ea449f81c22ab2ca496c0d2446205385779fb7836c8f2bc0e14b1db27fe",
+          "keywords": [
+            "추경으로",
+            "지방정부",
+            "부담",
+            "명백히",
+            "줄어",
+            "이건"
+          ]
+        },
+        {
+          "stable_key": "10273bfa83df982135b3e61e9196a59fb183f1db5b93ec8b8149beaf832a524a",
+          "source_key": "asiae-economy-rss",
+          "source_name": "Asiae Economy",
+          "category": "kr-economy",
+          "hub": "kr",
+          "hub_label": "대한민국",
+          "section_label": "경제",
+          "language": "ko",
+          "title": "'경북·전남' 식품융합클러스터 시범 대상지역 선정…'창업-생산-수출' 전주기 지원",
+          "canonical_url": "https://www.asiae.co.kr/article/2026040410045711246",
+          "published_at": "2026-04-05T02:00:00+00:00",
+          "title_hash": "f50f118710d0b8314fa9800570e9a7eae335354aa67fcd876e27cff146ce4788",
+          "keywords": [
+            "경북",
+            "전남",
+            "식품융합클러스터",
+            "시범",
+            "대상지역",
+            "선정"
+          ]
+        },
+        {
+          "stable_key": "4c250ba772b11d311701e7046f010fd785c9d24551407cef7e1ac630fc330849",
+          "source_key": "donga-society-rss",
+          "source_name": "DongA Society",
+          "category": "kr-society",
+          "hub": "kr",
+          "hub_label": "대한민국",
+          "section_label": "사회",
+          "language": "ko",
+          "title": "전북 진안·순창군에 전북형 반할 주택 200세대 공급",
+          "canonical_url": "https://www.donga.com/news/Society/article/all/20260405/133674956/1",
+          "published_at": "2026-04-05T01:59:00+00:00",
+          "title_hash": "af12433adf7bccd87e5170545681fd179c97b69c427a583642141ef6adde1047",
+          "keywords": [
+            "전북",
+            "진안",
+            "순창군에",
+            "전북형",
+            "반할",
+            "주택"
+          ]
+        },
+        {
+          "stable_key": "dee7fee5794b3288c51ce625ed2b945c0bc217019167739a5dce20c52c4095f3",
+          "source_key": "cbs-us-rss",
+          "source_name": "CBS News US",
+          "category": "us-politics",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "정치",
+          "language": "en",
+          "title": "Would Michigan investigators be able to prove murder in a case without a body?",
+          "canonical_url": "https://www.cbsnews.com/news/dee-warner-missing-would-michigan-investigators-be-able-to-prove-murder-without-a-body",
+          "published_at": "2026-04-05T01:58:30+00:00",
+          "title_hash": "ba212af3f7566ea634ecfc3b62460569333912661b80e871887489055fca9f26",
+          "keywords": [
+            "would",
+            "michigan",
+            "investigators",
+            "able",
+            "prove",
+            "murder"
+          ]
+        },
+        {
+          "stable_key": "579996ac9b99022436fafa82007a29cbe9d735f8907fb9e6f84f48d3a3804add",
+          "source_key": "nypost-feed",
+          "source_name": "New York Post Feed",
+          "category": "us-world",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "세계",
+          "language": "en",
+          "title": "Nicolás Fernández Mercau garnering interest from European clubs while on big-time scoring pace for NYCFC",
+          "canonical_url": "https://nypost.com/2026/04/04/sports/nicolas-fernandez-mercau-garnering-interest-while-on-big-time-scoring-pace-for-nycfc",
+          "published_at": "2026-04-05T01:58:12+00:00",
+          "title_hash": "843724d5410fd2794bc6cc918b9cc5e23e7d195a981e4a4fa8ddb169aface3c4",
+          "keywords": [
+            "nicol",
+            "fern",
+            "ndez",
+            "mercau",
+            "garnering",
+            "interest"
+          ]
+        },
+        {
+          "stable_key": "5a9d67f6b0c2ce9f6ceb1713e814724b2e899c51ced1d6a7bd471d200f036a9b",
+          "source_key": "sbs-society-rss",
+          "source_name": "SBS Society",
+          "category": "kr-society",
+          "hub": "kr",
+          "hub_label": "대한민국",
+          "section_label": "사회",
+          "language": "ko",
+          "title": "\"남친 구해달라\" 불러놓고 '퍽'…보복성 민원 전화까지",
+          "canonical_url": "https://news.sbs.co.kr/news/endPage.do?cooper=RSSREADER&news_id=N1008505698&plink=RSSLINK",
+          "published_at": "2026-04-05T01:58:00+00:00",
+          "title_hash": "9518c762cdadcc4870f3fcc3ff35888f7a856fcdb6551dfd57a41ee26ba77c9c",
+          "keywords": [
+            "남친",
+            "구해달라",
+            "불러놓고",
+            "보복성",
+            "민원",
+            "전화까지"
+          ]
+        },
+        {
+          "stable_key": "3d31eb5869340d6805bad1707702d9764cf1acdb988fec9d20a2724d9df20799",
+          "source_key": "donga-society-rss",
+          "source_name": "DongA Society",
+          "category": "kr-society",
+          "hub": "kr",
+          "hub_label": "대한민국",
+          "section_label": "사회",
+          "language": "ko",
+          "title": "황차동 코스포 동남권협의회장 “회원사 AX 활용 활성화 추진할 것”",
+          "canonical_url": "https://www.donga.com/news/Society/article/all/20260405/133671677/1",
+          "published_at": "2026-04-05T01:58:00+00:00",
+          "title_hash": "6529e07d974fcab21db39a130cfbf151a5e3850fa958507af184a88bd8600694",
+          "keywords": [
+            "황차동",
+            "코스포",
+            "동남권협의회장",
+            "회원사",
+            "ax",
+            "활용"
+          ]
+        },
+        {
+          "stable_key": "2d87f64d47f1baaaa2c7bbf04eb304635fb9486701cb06d40cc3df6d6fbe8760",
+          "source_key": "asiae-society-rss",
+          "source_name": "Asiae Society",
+          "category": "kr-society",
+          "hub": "kr",
+          "hub_label": "대한민국",
+          "section_label": "사회",
+          "language": "ko",
+          "title": "\"간식 먹듯이 틈틈이한 운동 덕에 치매 위험 '뚝'\"",
+          "canonical_url": "https://www.asiae.co.kr/article/2026040510484635871",
+          "published_at": "2026-04-05T01:57:18+00:00",
+          "title_hash": "4ebfc855c3d54e1cbce7abaf1a9d8c05b23cc995bca104528f57ded31ed3341a",
+          "keywords": [
+            "간식",
+            "먹듯이",
+            "틈틈이한",
+            "운동",
+            "덕에",
+            "치매"
+          ]
+        },
+        {
           "stable_key": "70439b697a75d327fd7278ac2d180124a7f0b156204fe9ab97f921235848e9a1",
           "source_key": "telegram-dada-news2",
           "source_name": "Telegram @dada_news2",
@@ -1758,474 +2220,12 @@
             "consider",
             "expelling"
           ]
-        },
-        {
-          "stable_key": "7613239ea940621f449f5b0656746d3cad28037e5c09f3c1d2af3351d19d9b1a",
-          "source_key": "nypost-feed",
-          "source_name": "New York Post Feed",
-          "category": "us-markets",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "시장",
-          "language": "en",
-          "title": "Kevin Warsh needs to be confirmed as Fed Chair in order to avoid an economic shutdown",
-          "canonical_url": "https://nypost.com/2026/04/04/business/kevin-warsh-needs-to-be-confirmed-as-fed-chair-in-order-to-avoid-an-economic-shutdown",
-          "published_at": "2026-04-05T01:38:17+00:00",
-          "title_hash": "863a3aabdafeab43ed5034bcf7ab5c874339fbc7a81d8e6582eb809715f47712",
-          "keywords": [
-            "kevin",
-            "warsh",
-            "needs",
-            "confirmed",
-            "fed",
-            "chair"
-          ]
-        },
-        {
-          "stable_key": "ffe3e841cf8dbc1c4ec20702d44bd373b71a41d5b7d057af39604fef965609f6",
-          "source_key": "asiae-society-rss",
-          "source_name": "Asiae Society",
-          "category": "kr-society",
-          "hub": "kr",
-          "hub_label": "대한민국",
-          "section_label": "사회",
-          "language": "ko",
-          "title": "서울교육청, 특수교육 등 교육공무직원 548명 공개채용",
-          "canonical_url": "https://www.asiae.co.kr/article/2026040510381518160",
-          "published_at": "2026-04-05T01:38:16+00:00",
-          "title_hash": "65b9017189e04933788dc6e370fd4994371e5e60456f466161da4ef9b08f2cff",
-          "keywords": [
-            "서울교육청",
-            "특수교육",
-            "교육공무직원",
-            "548명",
-            "공개채용",
-            "서울교육청 특수교육"
-          ]
-        },
-        {
-          "stable_key": "42a493da45f17f8d334465591318fbff9f17a4932bf2bd6accdbc601e95b94e7",
-          "source_key": "nypost-feed",
-          "source_name": "New York Post Feed",
-          "category": "us-technology",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "기술",
-          "language": "en",
-          "title": "Knicks’ Miles McBride striving for return to pre-injury form before playoffs",
-          "canonical_url": "https://nypost.com/2026/04/04/sports/knicks-miles-mcbride-striving-for-return-to-pre-injury-form-before-playoffs",
-          "published_at": "2026-04-05T01:38:08+00:00",
-          "title_hash": "e153ffe16a9761bfaffa426f7f8ed9d87ff6a1ed4c05fddc538e1afd743f402f",
-          "keywords": [
-            "knicks",
-            "miles",
-            "mcbride",
-            "striving",
-            "return",
-            "pre"
-          ]
-        },
-        {
-          "stable_key": "66afc5ae0e53830f184925181507ae91fbb08a87c37daf6cb71a82e8076de125",
-          "source_key": "khan-society-rss",
-          "source_name": "Kyunghyang Society",
-          "category": "kr-society",
-          "hub": "kr",
-          "hub_label": "대한민국",
-          "section_label": "사회",
-          "language": "ko",
-          "title": "화천군, 초중고 신입생에 입학 축하금 지급···30~50만 원",
-          "canonical_url": "https://www.khan.co.kr/article/202604051038001",
-          "published_at": "2026-04-05T01:38:00+00:00",
-          "title_hash": "0b89837f4c77a77e44dc6f1771d17a9882590590f41c6d0373c3cc166d229e5f",
-          "keywords": [
-            "화천군",
-            "초중고",
-            "신입생에",
-            "입학",
-            "축하금",
-            "지급"
-          ]
-        },
-        {
-          "stable_key": "5ccceec742ef73e683b36754d226a6e2a8362db9413a54255ed4fad743ecce78",
-          "source_key": "khan-politics-rss",
-          "source_name": "Kyunghyang Politics",
-          "category": "kr-politics",
-          "hub": "kr",
-          "hub_label": "대한민국",
-          "section_label": "정치",
-          "language": "ko",
-          "title": "군 헬기, 산불 진화 중에 유엔사 승인 없이 DMZ 진입…경위 파악",
-          "canonical_url": "https://www.khan.co.kr/article/202604051037011",
-          "published_at": "2026-04-05T01:37:01+00:00",
-          "title_hash": "6cac9d596e743dd61a7dfb05c089748b64e34ab094001680e7e58d9afed365f4",
-          "keywords": [
-            "헬기",
-            "산불",
-            "진화",
-            "중에",
-            "유엔사",
-            "승인"
-          ]
-        },
-        {
-          "stable_key": "da97467290bed22b5ecdb77d1e7c6fc1453af9bee5e8bd1e199fd97a3f692bfb",
-          "source_key": "khan-economy-rss",
-          "source_name": "Kyunghyang Economy",
-          "category": "kr-economy",
-          "hub": "kr",
-          "hub_label": "대한민국",
-          "section_label": "경제",
-          "language": "ko",
-          "title": "한전 “경제 전시 상황에 직면”···그룹사, 긴급 사장단 회의 개최",
-          "canonical_url": "https://www.khan.co.kr/article/202604051037001",
-          "published_at": "2026-04-05T01:37:00+00:00",
-          "title_hash": "d824c85c7c5e53766de6f2425df66acecd8484b82404e8e47d40c21617efe1e6",
-          "keywords": [
-            "한전",
-            "경제",
-            "전시",
-            "상황에",
-            "직면",
-            "그룹사"
-          ]
-        },
-        {
-          "stable_key": "9e1e8aba25b0e1331af0715bfeb06898b9e17fc064b3ef4ac3703f999c0d03c7",
-          "source_key": "telegram-claw-summary",
-          "source_name": "Telegram @clawnewssummary",
-          "category": "military",
-          "hub": "global",
-          "hub_label": "글로벌 전문",
-          "section_label": "군사",
-          "language": "ko",
-          "title": "🚨 [CRITICAL] 호르무즈 해협 알림",
-          "canonical_url": "https://www.aljazeera.com/news/2026/4/5/us-satellite-firm-planet-labs-announces-blackout-on-war-on-iran-images?traffic_source=rss",
-          "published_at": "2026-04-05T01:36:25+00:00",
-          "title_hash": "1ba172554ef1c7fcb4ab3d83322e6f471392708251d575eb55dfe385f79a6b1c",
-          "keywords": [
-            "critical",
-            "호르무즈",
-            "해협",
-            "알림",
-            "critical 호르무즈",
-            "호르무즈 해협"
-          ]
-        },
-        {
-          "stable_key": "0e8f3bdce0dcb9123b363c298c10a8db6cc8b6c3081910765b3c1a35e8c1f634",
-          "source_key": "mk-society-rss",
-          "source_name": "Maeil Business Society",
-          "category": "kr-society",
-          "hub": "kr",
-          "hub_label": "대한민국",
-          "section_label": "사회",
-          "language": "ko",
-          "title": "“감기 조심하세요”…월요일 비 그친 뒤 기온 ‘뚝’",
-          "canonical_url": "https://www.mk.co.kr/news/society/12008132",
-          "published_at": "2026-04-05T01:34:32+00:00",
-          "title_hash": "2f4dae76e7f6553a9c1d9a681ba757d6239cab75e52603b2aa0c0773b54830a1",
-          "keywords": [
-            "감기",
-            "조심하세요",
-            "월요일",
-            "그친",
-            "기온",
-            "감기 조심하세요"
-          ]
-        },
-        {
-          "stable_key": "af544c9c70b857171c84143caa996552ddf55f00c4a5f22f7159f6b90c7a8951",
-          "source_key": "sbs-society-rss",
-          "source_name": "SBS Society",
-          "category": "kr-society",
-          "hub": "kr",
-          "hub_label": "대한민국",
-          "section_label": "사회",
-          "language": "ko",
-          "title": "경찰청·미국 에너지부 심포지엄 공동개최…AI 신종테러 대응책 등 논의",
-          "canonical_url": "https://news.sbs.co.kr/news/endPage.do?cooper=RSSREADER&news_id=N1008505692&plink=RSSLINK",
-          "published_at": "2026-04-05T01:34:00+00:00",
-          "title_hash": "df8267922740feb1bcc6b84f1ce4ca0887a309b204b72dd2327130edda422620",
-          "keywords": [
-            "경찰청",
-            "미국",
-            "에너지부",
-            "심포지엄",
-            "공동개최",
-            "ai"
-          ]
-        },
-        {
-          "stable_key": "42ea59c785cdbd25701b74d39f2c6a40af22b17b6cfddbd48c638f7546f42d42",
-          "source_key": "donga-culture-rss",
-          "source_name": "DongA Culture",
-          "category": "kr-culture",
-          "hub": "kr",
-          "hub_label": "대한민국",
-          "section_label": "문화",
-          "language": "ko",
-          "title": "안젤리나 졸리 딸, K팝 뮤직비디오에 등장",
-          "canonical_url": "https://www.donga.com/news/Culture/article/all/20260405/133675293/1",
-          "published_at": "2026-04-05T01:31:00+00:00",
-          "title_hash": "b6334c87466ea28c896e86d3dafa8b37bd2b9eed82e4c5612b923d11d3b19b2c",
-          "keywords": [
-            "안젤리나",
-            "졸리",
-            "k팝",
-            "뮤직비디오에",
-            "등장",
-            "안젤리나 졸리"
-          ]
-        },
-        {
-          "stable_key": "f256833dced092a00e3056ed3db087ae2b29e3540862eddd4dc1f4d911cbe0b5",
-          "source_key": "mk-society-rss",
-          "source_name": "Maeil Business Society",
-          "category": "kr-society",
-          "hub": "kr",
-          "hub_label": "대한민국",
-          "section_label": "사회",
-          "language": "ko",
-          "title": "“조금 식었을 뿐인데”…실온서 2시간 지난 볶음밥, 아이에게 먹이면",
-          "canonical_url": "https://www.mk.co.kr/news/society/12008130",
-          "published_at": "2026-04-05T01:28:48+00:00",
-          "title_hash": "f53ba4dd2e7b5416227f27f282a58139f8616730711f57f5a435547e70d2d8a5",
-          "keywords": [
-            "조금",
-            "식었을",
-            "뿐인데",
-            "실온서",
-            "2시간",
-            "지난"
-          ]
-        },
-        {
-          "stable_key": "0b384cc55e3239a7679f408a3ac20d7403c9b5df458186b3e56061d0f63b8b03",
-          "source_key": "donga-society-rss",
-          "source_name": "DongA Society",
-          "category": "kr-society",
-          "hub": "kr",
-          "hub_label": "대한민국",
-          "section_label": "사회",
-          "language": "ko",
-          "title": "“다른 남성과 침대에 있자 격분”…전 연인 흉기 협박한 30대",
-          "canonical_url": "https://www.donga.com/news/Society/article/all/20260405/133675303/1",
-          "published_at": "2026-04-05T01:28:24+00:00",
-          "title_hash": "fc362cfef62938d233b0bed2f91970d74653c0bac03fe0b5903c83b407c41208",
-          "keywords": [
-            "다른",
-            "남성과",
-            "침대에",
-            "있자",
-            "격분",
-            "연인"
-          ]
-        },
-        {
-          "stable_key": "fed0fa7dad43331469c615413b04b59704d56f1238d737cce21f3e7e8cd57506",
-          "source_key": "donga-society-rss",
-          "source_name": "DongA Society",
-          "category": "kr-society",
-          "hub": "kr",
-          "hub_label": "대한민국",
-          "section_label": "사회",
-          "language": "ko",
-          "title": "“보면 뭘 아냐” 출동 구급대원 폭행…30대, 집유로 ‘감형’",
-          "canonical_url": "https://www.donga.com/news/Society/article/all/20260405/133675295/1",
-          "published_at": "2026-04-05T01:27:07+00:00",
-          "title_hash": "04dfa4f6a664e1f948c87405a54b835a219e2570b983f16064d53cff2454d791",
-          "keywords": [
-            "보면",
-            "아냐",
-            "출동",
-            "구급대원",
-            "폭행",
-            "30대"
-          ]
-        },
-        {
-          "stable_key": "3d55ce53db7d18330b8bdf15abb2c01e7042f77157812efe668dfb1ad285b3d7",
-          "source_key": "nypost-feed",
-          "source_name": "New York Post Feed",
-          "category": "us-economy",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "경제",
-          "language": "en",
-          "title": "Jake Bird’s Triple-A stint helped build strengths ahead of promising Yankees start",
-          "canonical_url": "https://nypost.com/2026/04/04/sports/jake-birds-triple-a-stint-helped-build-strengths-ahead-of-promising-yankees-start",
-          "published_at": "2026-04-05T01:23:05+00:00",
-          "title_hash": "5c4242b6cd851146c4f261b20b754d3b467fc3f7eab0210fa4db8e15c0e73b3e",
-          "keywords": [
-            "jake",
-            "bird",
-            "triple",
-            "stint",
-            "helped",
-            "build"
-          ]
-        },
-        {
-          "stable_key": "e7f14643c1b94b16e7799a4f458504230b14c06739a5ce258a3c9f345aab92ae",
-          "source_key": "khan-society-rss",
-          "source_name": "Kyunghyang Society",
-          "category": "kr-society",
-          "hub": "kr",
-          "hub_label": "대한민국",
-          "section_label": "사회",
-          "language": "ko",
-          "title": "강원도, 무기질 비료 52억 원 지원···농가 경영 부담 완화",
-          "canonical_url": "https://www.khan.co.kr/article/202604051023001",
-          "published_at": "2026-04-05T01:23:00+00:00",
-          "title_hash": "381347fcdc433b25e98c9b74f1ffd8b9b78ba5798e8ab48d079a9e4a7be3877b",
-          "keywords": [
-            "강원도",
-            "무기질",
-            "비료",
-            "52억",
-            "지원",
-            "농가"
-          ]
-        },
-        {
-          "stable_key": "03b035c7de9625095c7073f4f19b5b32e9ad9d289b0cd81a2d196f299f9ee164",
-          "source_key": "washingtonexaminer-feed",
-          "source_name": "Washington Examiner Feed",
-          "category": "us-politics",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "정치",
-          "language": "en",
-          "title": "White House slaps down rumors Trump is at Walter Reed",
-          "canonical_url": "https://www.washingtonexaminer.com/news/white-house/4516444/white-house-trump-walter-reed-rumors",
-          "published_at": "2026-04-05T01:22:17+00:00",
-          "title_hash": "ac142aa48a950b32b31a6e4cbfd8943037f573845d96afc9bce7e6c04db801a0",
-          "keywords": [
-            "white",
-            "house",
-            "slaps",
-            "down",
-            "rumors",
-            "trump"
-          ]
-        },
-        {
-          "stable_key": "eb69ae525cdb7614fc9d5cbecb48d91c4369b4a32d0f767b73bca293003119f6",
-          "source_key": "etoday-economy-rss",
-          "source_name": "eToday Economy",
-          "category": "kr-economy",
-          "hub": "kr",
-          "hub_label": "대한민국",
-          "section_label": "경제",
-          "language": "ko",
-          "title": "중국 성장둔화 시 한국 GDP 0.22% 감소…공급망·첨단산업 ‘이중 압박’",
-          "canonical_url": "https://www.etoday.co.kr/news/view/2572708",
-          "published_at": "2026-04-05T01:22:00+00:00",
-          "title_hash": "195fb4e3aea2cbe579798694195b1dac003b50b030360a03eb599ba555d54911",
-          "keywords": [
-            "중국",
-            "성장둔화",
-            "한국",
-            "gdp",
-            "감소",
-            "공급망"
-          ]
-        },
-        {
-          "stable_key": "61c82754bf58f30673678c9082f5476bd779d03f4fb008dd1e71feee18c47f2a",
-          "source_key": "etoday-economy-rss",
-          "source_name": "eToday Economy",
-          "category": "kr-economy",
-          "hub": "kr",
-          "hub_label": "대한민국",
-          "section_label": "경제",
-          "language": "ko",
-          "title": "해외 IB \"韓 물가 3% 뚫을 것\"⋯공산품·서비스 고물가 도미노 비상",
-          "canonical_url": "https://www.etoday.co.kr/news/view/2572754",
-          "published_at": "2026-04-05T01:21:00+00:00",
-          "title_hash": "f0eb5085aa76675c8aa77b9db3926cfdf8da8fa123ed09c657f432faec9eb1cb",
-          "keywords": [
-            "해외",
-            "ib",
-            "물가",
-            "뚫을",
-            "공산품",
-            "서비스"
-          ]
-        },
-        {
-          "stable_key": "20d5880aa8daf8c27892726f47bc4d2477116d93f46e83f48350361e2ca9d084",
-          "source_key": "fox-politics-rss",
-          "source_name": "Fox News Politics",
-          "category": "us-politics",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "정치",
-          "language": "en",
-          "title": "DHS slams Democrat Sen Chris Van Hollen claim, says illegal alien caused crash while fleeing ICE",
-          "canonical_url": "https://www.foxnews.com/politics/dhs-slams-democrat-sen-chris-van-hollen-claim-illegal-alien-caused-crash-fleeing-ice",
-          "published_at": "2026-04-05T01:18:47+00:00",
-          "title_hash": "303a9c2bede376264969fb89ebf7700dadeda102f35da2d73bc5fb05eb7f285a",
-          "keywords": [
-            "dhs",
-            "slams",
-            "democrat",
-            "sen",
-            "chris",
-            "van"
-          ]
-        },
-        {
-          "stable_key": "9a2b9da4aacbd36485044046f02386411b9bba025ce813df638268ede1e96f62",
-          "source_key": "newsweek-feed",
-          "source_name": "Newsweek Feed",
-          "category": "us-technology",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "기술",
-          "language": "en",
-          "title": "California Wildfire Update: Evacuations Lifted as Springs Fire Contained",
-          "canonical_url": "https://www.newsweek.com/california-wildfire-update-evacuations-lifted-as-springs-fire-contained-11784212",
-          "published_at": "2026-04-05T01:18:04+00:00",
-          "title_hash": "063ef589c7d51aa058ee4f3907134071f87849470b169c153ec5001296082e22",
-          "keywords": [
-            "california",
-            "wildfire",
-            "evacuations",
-            "lifted",
-            "springs",
-            "fire"
-          ]
-        },
-        {
-          "stable_key": "ec3938ec954782a33d7bdb9bc708cfbfdcbf0ba9be49323a169f4d7f58ded3c5",
-          "source_key": "khan-economy-rss",
-          "source_name": "Kyunghyang Economy",
-          "category": "kr-economy",
-          "hub": "kr",
-          "hub_label": "대한민국",
-          "section_label": "경제",
-          "language": "ko",
-          "title": "봄마다 반복되는 ‘이상기후 공포’···충남도 농기원, 과수·채소 농가 현장점검 강화",
-          "canonical_url": "https://www.khan.co.kr/article/202604051018011",
-          "published_at": "2026-04-05T01:18:01+00:00",
-          "title_hash": "d8e9f36649d3a478d3c93a56f9f4e141a2232ecd519404924168e259b4d2a245",
-          "keywords": [
-            "봄마다",
-            "반복되는",
-            "이상기후",
-            "공포",
-            "충남도",
-            "농기원"
-          ]
         }
       ]
     },
     "30d": {
       "label": "30d",
-      "article_count": 4390,
+      "article_count": 4413,
       "unknown_time_count": 0,
       "active_source_count": 103,
       "repeated_title_count": 275,
@@ -2344,15 +2344,15 @@
         },
         {
           "date": "2026-04-03",
-          "count": 1404
+          "count": 1405
         },
         {
           "date": "2026-04-04",
-          "count": 1191
+          "count": 1192
         },
         {
           "date": "2026-04-05",
-          "count": 133
+          "count": 154
         }
       ],
       "top_keywords": [
@@ -2419,17 +2419,17 @@
         {
           "source_key": "nypost-feed",
           "name": "New York Post Feed",
-          "count": 123
+          "count": 124
         },
         {
           "source_key": "yahoo-news-rss",
           "name": "Yahoo News RSS",
-          "count": 122
+          "count": 124
         },
         {
           "source_key": "asiae-society-rss",
           "name": "Asiae Society",
-          "count": 118
+          "count": 119
         },
         {
           "source_key": "thehill-feed",
@@ -2439,7 +2439,7 @@
         {
           "source_key": "asiae-economy-rss",
           "name": "Asiae Economy",
-          "count": 101
+          "count": 102
         },
         {
           "source_key": "latimes-politics-rss",
@@ -2464,19 +2464,19 @@
         {
           "source_key": "asiae-politics-rss",
           "name": "Asiae Politics",
-          "count": 87
+          "count": 88
         }
       ],
       "top_hubs": [
         {
           "key": "us",
           "label": "미국",
-          "count": 2769
+          "count": 2773
         },
         {
           "key": "kr",
           "label": "대한민국",
-          "count": 1450
+          "count": 1469
         },
         {
           "key": "global",
@@ -2490,28 +2490,28 @@
           "label": "정치",
           "hub": "us",
           "hub_label": "미국",
-          "count": 976
+          "count": 977
         },
         {
           "key": "us-technology",
           "label": "기술",
           "hub": "us",
           "hub_label": "미국",
-          "count": 713
+          "count": 715
         },
         {
           "key": "us-world",
           "label": "세계",
           "hub": "us",
           "hub_label": "미국",
-          "count": 470
+          "count": 471
         },
         {
           "key": "kr-economy",
           "label": "경제",
           "hub": "kr",
           "hub_label": "대한민국",
-          "count": 378
+          "count": 387
         },
         {
           "key": "us-economy",
@@ -2525,14 +2525,14 @@
           "label": "사회",
           "hub": "kr",
           "hub_label": "대한민국",
-          "count": 339
+          "count": 347
         },
         {
           "key": "kr-politics",
           "label": "정치",
           "hub": "kr",
           "hub_label": "대한민국",
-          "count": 285
+          "count": 287
         },
         {
           "key": "us-markets",
@@ -2573,11 +2573,11 @@
       "language_counts": [
         {
           "language": "en",
-          "count": 2900
+          "count": 2904
         },
         {
           "language": "ko",
-          "count": 1490
+          "count": 1509
         }
       ],
       "repeated_titles": [
@@ -2786,6 +2786,468 @@
           ]
         },
         {
+          "stable_key": "433ba3a7f1d0c800d344c11bfc5679630ba64d727a8947ee5e25bdec3a8fda4e",
+          "source_key": "khan-society-rss",
+          "source_name": "Kyunghyang Society",
+          "category": "kr-society",
+          "hub": "kr",
+          "hub_label": "대한민국",
+          "section_label": "사회",
+          "language": "ko",
+          "title": "인제군, 상남면 LPG 배관망 구축···175세대 에너지 복지 향상",
+          "canonical_url": "https://www.khan.co.kr/article/202604051105001",
+          "published_at": "2026-04-05T02:05:00+00:00",
+          "title_hash": "56303d0fa1870a7c0b5d0c87f4774194cb22a9e76d8b5ba6f5b51aabfa34b839",
+          "keywords": [
+            "인제군",
+            "상남면",
+            "lpg",
+            "배관망",
+            "구축",
+            "175세대"
+          ]
+        },
+        {
+          "stable_key": "0c723903ff31ec3741759aa93d2aa3c8ba3aeac7b85e9a174d1ba30a5d1b6826",
+          "source_key": "etoday-economy-rss",
+          "source_name": "eToday Economy",
+          "category": "kr-economy",
+          "hub": "kr",
+          "hub_label": "대한민국",
+          "section_label": "경제",
+          "language": "ko",
+          "title": "기본법은 표류, 감시 법안은 전진…가상자산업계 “육성 없는 통제” 지적",
+          "canonical_url": "https://www.etoday.co.kr/news/view/2572625",
+          "published_at": "2026-04-05T02:05:00+00:00",
+          "title_hash": "17fc6b2fbc49346a284ba34897d11f0b1c303c1cdcc41b5cdbc585ef9dade0b7",
+          "keywords": [
+            "기본법은",
+            "표류",
+            "감시",
+            "법안은",
+            "전진",
+            "가상자산업계"
+          ]
+        },
+        {
+          "stable_key": "b77f12866ec855a3b2e1e7a497cde9431b365d50a127bd69b67a173d8f60afaa",
+          "source_key": "donga-society-rss",
+          "source_name": "DongA Society",
+          "category": "kr-society",
+          "hub": "kr",
+          "hub_label": "대한민국",
+          "section_label": "사회",
+          "language": "ko",
+          "title": "울산항만공사, 친환경 연료 선박에 현금 인센티브 최대 1천만원 지원",
+          "canonical_url": "https://www.donga.com/news/Society/article/all/20260405/133674974/1",
+          "published_at": "2026-04-05T02:02:00+00:00",
+          "title_hash": "80fd21109d7c847063094fd79ad9d3b69d0c6b10e1a1f3d4afcc71871a76ea64",
+          "keywords": [
+            "울산항만공사",
+            "친환경",
+            "연료",
+            "선박에",
+            "현금",
+            "인센티브"
+          ]
+        },
+        {
+          "stable_key": "6e85aae9da35fd4075b7a377e6f7db095349d3bd622660cd8da2df6e3301951b",
+          "source_key": "asiae-politics-rss",
+          "source_name": "Asiae Politics",
+          "category": "kr-politics",
+          "hub": "kr",
+          "hub_label": "대한민국",
+          "section_label": "정치",
+          "language": "ko",
+          "title": "국힘 서천군수 경선 여론조사 왜곡 의혹",
+          "canonical_url": "https://www.asiae.co.kr/article/2026040511014447548",
+          "published_at": "2026-04-05T02:01:44+00:00",
+          "title_hash": "e24b5d8d4a4190ee7c3817aed4dc48ba1b0bbd877413a01ac8f1199590821481",
+          "keywords": [
+            "국힘",
+            "서천군수",
+            "경선",
+            "여론조사",
+            "왜곡",
+            "의혹"
+          ]
+        },
+        {
+          "stable_key": "10c713f05d24294318b8e675e493d22c68d77e4367cbc07721c2170d744b648c",
+          "source_key": "donga-society-rss",
+          "source_name": "DongA Society",
+          "category": "kr-society",
+          "hub": "kr",
+          "hub_label": "대한민국",
+          "section_label": "사회",
+          "language": "ko",
+          "title": "전주시, 농업 판로·고부가 가치 창출 적극 나서",
+          "canonical_url": "https://www.donga.com/news/Society/article/all/20260405/133674966/1",
+          "published_at": "2026-04-05T02:01:00+00:00",
+          "title_hash": "03c0b155ef5dc649d49e8163f86a1efd6f1f544b2999553845af181bd3b8203b",
+          "keywords": [
+            "전주시",
+            "농업",
+            "판로",
+            "고부가",
+            "가치",
+            "창출"
+          ]
+        },
+        {
+          "stable_key": "afd0ad90b39b0c9db723f4fd5c33c5845b498d74af0110aa4c901059b68adf82",
+          "source_key": "etoday-economy-rss",
+          "source_name": "eToday Economy",
+          "category": "kr-economy",
+          "hub": "kr",
+          "hub_label": "대한민국",
+          "section_label": "경제",
+          "language": "ko",
+          "title": "한육우·젖소도 동물복지 기준 세운다…농가 실천용 가이드라인 배포",
+          "canonical_url": "https://www.etoday.co.kr/news/view/2572748",
+          "published_at": "2026-04-05T02:00:00+00:00",
+          "title_hash": "895d34c14c254862f2df815d32efde25e41e5309e69ff70e74c0e23a3c0cc3c9",
+          "keywords": [
+            "한육우",
+            "젖소도",
+            "동물복지",
+            "기준",
+            "세운다",
+            "농가"
+          ]
+        },
+        {
+          "stable_key": "236ed18478e0063ccfc2e17b80852b10e2ad1828d5e0da376ae8ce5cc65e9794",
+          "source_key": "etoday-economy-rss",
+          "source_name": "eToday Economy",
+          "category": "kr-economy",
+          "hub": "kr",
+          "hub_label": "대한민국",
+          "section_label": "경제",
+          "language": "ko",
+          "title": "중견기업 10곳, '월드클래스'로 키운다⋯지역 기업엔 최대 50억 지원",
+          "canonical_url": "https://www.etoday.co.kr/news/view/2572752",
+          "published_at": "2026-04-05T02:00:00+00:00",
+          "title_hash": "47eb97eadef8a4fc023e597ef9f8091d8c7bdf2f0ab96f5ad34c07b834b3930e",
+          "keywords": [
+            "중견기업",
+            "10곳",
+            "월드클래스",
+            "키운다",
+            "지역",
+            "기업엔"
+          ]
+        },
+        {
+          "stable_key": "6a152a3cf35346d1060e031ae68803ac54c919ff0e856c32359857893efc8ab1",
+          "source_key": "etoday-economy-rss",
+          "source_name": "eToday Economy",
+          "category": "kr-economy",
+          "hub": "kr",
+          "hub_label": "대한민국",
+          "section_label": "경제",
+          "language": "ko",
+          "title": "식품산업 지역 거점 키운다…경북·전남, 식품융합클러스터 첫 시범지 선정",
+          "canonical_url": "https://www.etoday.co.kr/news/view/2572725",
+          "published_at": "2026-04-05T02:00:00+00:00",
+          "title_hash": "2ed27aa5411bb41ffeb3919660cc4687e8fd71ababdac347978b2310faa88300",
+          "keywords": [
+            "식품산업",
+            "지역",
+            "거점",
+            "키운다",
+            "경북",
+            "전남"
+          ]
+        },
+        {
+          "stable_key": "8e3d3bbd87fd0047fe4d193d4832f3b3a9bd161057dea3a8753a12dfc5cbfedd",
+          "source_key": "etoday-economy-rss",
+          "source_name": "eToday Economy",
+          "category": "kr-economy",
+          "hub": "kr",
+          "hub_label": "대한민국",
+          "section_label": "경제",
+          "language": "ko",
+          "title": "볍씨 그냥 뿌리면 낭패…올해는 ‘싹 확인’ 먼저",
+          "canonical_url": "https://www.etoday.co.kr/news/view/2572755",
+          "published_at": "2026-04-05T02:00:00+00:00",
+          "title_hash": "5cab2ee03d9ef81a275e50ed950350296d1066c3f943f7ea8e6b2a25ab0aabb9",
+          "keywords": [
+            "볍씨",
+            "그냥",
+            "뿌리면",
+            "낭패",
+            "올해는",
+            "확인"
+          ]
+        },
+        {
+          "stable_key": "bc9e24a72f5be343c64c9873c2c4e4b167cfd5de1b665610ab65e3d8792bd25b",
+          "source_key": "etoday-economy-rss",
+          "source_name": "eToday Economy",
+          "category": "kr-economy",
+          "hub": "kr",
+          "hub_label": "대한민국",
+          "section_label": "경제",
+          "language": "ko",
+          "title": "농산물 팔 때 ‘통신판매업’만 등록하면 손해…농업인 세금·고용보험 길잡이 발간",
+          "canonical_url": "https://www.etoday.co.kr/news/view/2572750",
+          "published_at": "2026-04-05T02:00:00+00:00",
+          "title_hash": "22e3e381ed2c772b1ef6f76610f1fb3f7aaa864c8bc1011d7a0c2af20ad093c7",
+          "keywords": [
+            "농산물",
+            "통신판매업",
+            "등록하면",
+            "손해",
+            "농업인",
+            "세금"
+          ]
+        },
+        {
+          "stable_key": "527b319df252ca6e00e4f6da46c5b61a2488ecd3c8682a5201bd1f4b49111399",
+          "source_key": "etoday-economy-rss",
+          "source_name": "eToday Economy",
+          "category": "kr-economy",
+          "hub": "kr",
+          "hub_label": "대한민국",
+          "section_label": "경제",
+          "language": "ko",
+          "title": "국토부, 국토·교통 데이터 활용 경진대회 개최⋯총상금 3400만원",
+          "canonical_url": "https://www.etoday.co.kr/news/view/2572714",
+          "published_at": "2026-04-05T02:00:00+00:00",
+          "title_hash": "33568ea6ff5d57075c5861f71e8f33137648cdcd13afaf3f26a989a3f48759d3",
+          "keywords": [
+            "국토부",
+            "국토",
+            "교통",
+            "데이터",
+            "활용",
+            "경진대회"
+          ]
+        },
+        {
+          "stable_key": "79ac8488e60c1312b2d097f3e8a1ec359db5372b875eaa6d0f2aee5d47bbe780",
+          "source_key": "etoday-economy-rss",
+          "source_name": "eToday Economy",
+          "category": "kr-economy",
+          "hub": "kr",
+          "hub_label": "대한민국",
+          "section_label": "경제",
+          "language": "ko",
+          "title": "“일본도 가져오려 했다” 폭언으로 공동창업자 수익 반환시켰지만.. 법원 \"강압 아냐\"",
+          "canonical_url": "https://www.etoday.co.kr/news/view/2572684",
+          "published_at": "2026-04-05T02:00:00+00:00",
+          "title_hash": "9f0d919f8108c083aa49f6bd11ce72ff600833ffbbfd642fc2daa6baa0bf52b9",
+          "keywords": [
+            "일본도",
+            "가져오려",
+            "했다",
+            "폭언으로",
+            "공동창업자",
+            "수익"
+          ]
+        },
+        {
+          "stable_key": "b71a502537d5226060633a1dc860f8237f36f1b69d1ee854d298797f2f8c301f",
+          "source_key": "donga-society-rss",
+          "source_name": "DongA Society",
+          "category": "kr-society",
+          "hub": "kr",
+          "hub_label": "대한민국",
+          "section_label": "사회",
+          "language": "ko",
+          "title": "울산종갓집도서관 누적 이용 100만 명…하루 평균 2200명 방문",
+          "canonical_url": "https://www.donga.com/news/Society/article/all/20260405/133674993/1",
+          "published_at": "2026-04-05T02:00:00+00:00",
+          "title_hash": "9e8d0eac891f54dc121bf7b7fb6f91e741cdbc8cc96c52d6cd4767a9aa945d59",
+          "keywords": [
+            "울산종갓집도서관",
+            "누적",
+            "이용",
+            "100만",
+            "하루",
+            "평균"
+          ]
+        },
+        {
+          "stable_key": "55b9bd295d4c40afb784a94136256206fd7ae00d224d36eb428a95c7b92d86dd",
+          "source_key": "donga-politics-rss",
+          "source_name": "DongA Politics",
+          "category": "kr-politics",
+          "hub": "kr",
+          "hub_label": "대한민국",
+          "section_label": "정치",
+          "language": "ko",
+          "title": "李 “추경으로 지방정부 부담 명백히 줄어…이건 초보 산수”",
+          "canonical_url": "https://www.donga.com/news/Politics/article/all/20260405/133675386/1",
+          "published_at": "2026-04-05T02:00:00+00:00",
+          "title_hash": "0c221ea449f81c22ab2ca496c0d2446205385779fb7836c8f2bc0e14b1db27fe",
+          "keywords": [
+            "추경으로",
+            "지방정부",
+            "부담",
+            "명백히",
+            "줄어",
+            "이건"
+          ]
+        },
+        {
+          "stable_key": "10273bfa83df982135b3e61e9196a59fb183f1db5b93ec8b8149beaf832a524a",
+          "source_key": "asiae-economy-rss",
+          "source_name": "Asiae Economy",
+          "category": "kr-economy",
+          "hub": "kr",
+          "hub_label": "대한민국",
+          "section_label": "경제",
+          "language": "ko",
+          "title": "'경북·전남' 식품융합클러스터 시범 대상지역 선정…'창업-생산-수출' 전주기 지원",
+          "canonical_url": "https://www.asiae.co.kr/article/2026040410045711246",
+          "published_at": "2026-04-05T02:00:00+00:00",
+          "title_hash": "f50f118710d0b8314fa9800570e9a7eae335354aa67fcd876e27cff146ce4788",
+          "keywords": [
+            "경북",
+            "전남",
+            "식품융합클러스터",
+            "시범",
+            "대상지역",
+            "선정"
+          ]
+        },
+        {
+          "stable_key": "4c250ba772b11d311701e7046f010fd785c9d24551407cef7e1ac630fc330849",
+          "source_key": "donga-society-rss",
+          "source_name": "DongA Society",
+          "category": "kr-society",
+          "hub": "kr",
+          "hub_label": "대한민국",
+          "section_label": "사회",
+          "language": "ko",
+          "title": "전북 진안·순창군에 전북형 반할 주택 200세대 공급",
+          "canonical_url": "https://www.donga.com/news/Society/article/all/20260405/133674956/1",
+          "published_at": "2026-04-05T01:59:00+00:00",
+          "title_hash": "af12433adf7bccd87e5170545681fd179c97b69c427a583642141ef6adde1047",
+          "keywords": [
+            "전북",
+            "진안",
+            "순창군에",
+            "전북형",
+            "반할",
+            "주택"
+          ]
+        },
+        {
+          "stable_key": "dee7fee5794b3288c51ce625ed2b945c0bc217019167739a5dce20c52c4095f3",
+          "source_key": "cbs-us-rss",
+          "source_name": "CBS News US",
+          "category": "us-politics",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "정치",
+          "language": "en",
+          "title": "Would Michigan investigators be able to prove murder in a case without a body?",
+          "canonical_url": "https://www.cbsnews.com/news/dee-warner-missing-would-michigan-investigators-be-able-to-prove-murder-without-a-body",
+          "published_at": "2026-04-05T01:58:30+00:00",
+          "title_hash": "ba212af3f7566ea634ecfc3b62460569333912661b80e871887489055fca9f26",
+          "keywords": [
+            "would",
+            "michigan",
+            "investigators",
+            "able",
+            "prove",
+            "murder"
+          ]
+        },
+        {
+          "stable_key": "579996ac9b99022436fafa82007a29cbe9d735f8907fb9e6f84f48d3a3804add",
+          "source_key": "nypost-feed",
+          "source_name": "New York Post Feed",
+          "category": "us-world",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "세계",
+          "language": "en",
+          "title": "Nicolás Fernández Mercau garnering interest from European clubs while on big-time scoring pace for NYCFC",
+          "canonical_url": "https://nypost.com/2026/04/04/sports/nicolas-fernandez-mercau-garnering-interest-while-on-big-time-scoring-pace-for-nycfc",
+          "published_at": "2026-04-05T01:58:12+00:00",
+          "title_hash": "843724d5410fd2794bc6cc918b9cc5e23e7d195a981e4a4fa8ddb169aface3c4",
+          "keywords": [
+            "nicol",
+            "fern",
+            "ndez",
+            "mercau",
+            "garnering",
+            "interest"
+          ]
+        },
+        {
+          "stable_key": "5a9d67f6b0c2ce9f6ceb1713e814724b2e899c51ced1d6a7bd471d200f036a9b",
+          "source_key": "sbs-society-rss",
+          "source_name": "SBS Society",
+          "category": "kr-society",
+          "hub": "kr",
+          "hub_label": "대한민국",
+          "section_label": "사회",
+          "language": "ko",
+          "title": "\"남친 구해달라\" 불러놓고 '퍽'…보복성 민원 전화까지",
+          "canonical_url": "https://news.sbs.co.kr/news/endPage.do?cooper=RSSREADER&news_id=N1008505698&plink=RSSLINK",
+          "published_at": "2026-04-05T01:58:00+00:00",
+          "title_hash": "9518c762cdadcc4870f3fcc3ff35888f7a856fcdb6551dfd57a41ee26ba77c9c",
+          "keywords": [
+            "남친",
+            "구해달라",
+            "불러놓고",
+            "보복성",
+            "민원",
+            "전화까지"
+          ]
+        },
+        {
+          "stable_key": "3d31eb5869340d6805bad1707702d9764cf1acdb988fec9d20a2724d9df20799",
+          "source_key": "donga-society-rss",
+          "source_name": "DongA Society",
+          "category": "kr-society",
+          "hub": "kr",
+          "hub_label": "대한민국",
+          "section_label": "사회",
+          "language": "ko",
+          "title": "황차동 코스포 동남권협의회장 “회원사 AX 활용 활성화 추진할 것”",
+          "canonical_url": "https://www.donga.com/news/Society/article/all/20260405/133671677/1",
+          "published_at": "2026-04-05T01:58:00+00:00",
+          "title_hash": "6529e07d974fcab21db39a130cfbf151a5e3850fa958507af184a88bd8600694",
+          "keywords": [
+            "황차동",
+            "코스포",
+            "동남권협의회장",
+            "회원사",
+            "ax",
+            "활용"
+          ]
+        },
+        {
+          "stable_key": "2d87f64d47f1baaaa2c7bbf04eb304635fb9486701cb06d40cc3df6d6fbe8760",
+          "source_key": "asiae-society-rss",
+          "source_name": "Asiae Society",
+          "category": "kr-society",
+          "hub": "kr",
+          "hub_label": "대한민국",
+          "section_label": "사회",
+          "language": "ko",
+          "title": "\"간식 먹듯이 틈틈이한 운동 덕에 치매 위험 '뚝'\"",
+          "canonical_url": "https://www.asiae.co.kr/article/2026040510484635871",
+          "published_at": "2026-04-05T01:57:18+00:00",
+          "title_hash": "4ebfc855c3d54e1cbce7abaf1a9d8c05b23cc995bca104528f57ded31ed3341a",
+          "keywords": [
+            "간식",
+            "먹듯이",
+            "틈틈이한",
+            "운동",
+            "덕에",
+            "치매"
+          ]
+        },
+        {
           "stable_key": "70439b697a75d327fd7278ac2d180124a7f0b156204fe9ab97f921235848e9a1",
           "source_key": "telegram-dada-news2",
           "source_name": "Telegram @dada_news2",
@@ -2960,474 +3422,12 @@
             "consider",
             "expelling"
           ]
-        },
-        {
-          "stable_key": "7613239ea940621f449f5b0656746d3cad28037e5c09f3c1d2af3351d19d9b1a",
-          "source_key": "nypost-feed",
-          "source_name": "New York Post Feed",
-          "category": "us-markets",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "시장",
-          "language": "en",
-          "title": "Kevin Warsh needs to be confirmed as Fed Chair in order to avoid an economic shutdown",
-          "canonical_url": "https://nypost.com/2026/04/04/business/kevin-warsh-needs-to-be-confirmed-as-fed-chair-in-order-to-avoid-an-economic-shutdown",
-          "published_at": "2026-04-05T01:38:17+00:00",
-          "title_hash": "863a3aabdafeab43ed5034bcf7ab5c874339fbc7a81d8e6582eb809715f47712",
-          "keywords": [
-            "kevin",
-            "warsh",
-            "needs",
-            "confirmed",
-            "fed",
-            "chair"
-          ]
-        },
-        {
-          "stable_key": "ffe3e841cf8dbc1c4ec20702d44bd373b71a41d5b7d057af39604fef965609f6",
-          "source_key": "asiae-society-rss",
-          "source_name": "Asiae Society",
-          "category": "kr-society",
-          "hub": "kr",
-          "hub_label": "대한민국",
-          "section_label": "사회",
-          "language": "ko",
-          "title": "서울교육청, 특수교육 등 교육공무직원 548명 공개채용",
-          "canonical_url": "https://www.asiae.co.kr/article/2026040510381518160",
-          "published_at": "2026-04-05T01:38:16+00:00",
-          "title_hash": "65b9017189e04933788dc6e370fd4994371e5e60456f466161da4ef9b08f2cff",
-          "keywords": [
-            "서울교육청",
-            "특수교육",
-            "교육공무직원",
-            "548명",
-            "공개채용",
-            "서울교육청 특수교육"
-          ]
-        },
-        {
-          "stable_key": "42a493da45f17f8d334465591318fbff9f17a4932bf2bd6accdbc601e95b94e7",
-          "source_key": "nypost-feed",
-          "source_name": "New York Post Feed",
-          "category": "us-technology",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "기술",
-          "language": "en",
-          "title": "Knicks’ Miles McBride striving for return to pre-injury form before playoffs",
-          "canonical_url": "https://nypost.com/2026/04/04/sports/knicks-miles-mcbride-striving-for-return-to-pre-injury-form-before-playoffs",
-          "published_at": "2026-04-05T01:38:08+00:00",
-          "title_hash": "e153ffe16a9761bfaffa426f7f8ed9d87ff6a1ed4c05fddc538e1afd743f402f",
-          "keywords": [
-            "knicks",
-            "miles",
-            "mcbride",
-            "striving",
-            "return",
-            "pre"
-          ]
-        },
-        {
-          "stable_key": "66afc5ae0e53830f184925181507ae91fbb08a87c37daf6cb71a82e8076de125",
-          "source_key": "khan-society-rss",
-          "source_name": "Kyunghyang Society",
-          "category": "kr-society",
-          "hub": "kr",
-          "hub_label": "대한민국",
-          "section_label": "사회",
-          "language": "ko",
-          "title": "화천군, 초중고 신입생에 입학 축하금 지급···30~50만 원",
-          "canonical_url": "https://www.khan.co.kr/article/202604051038001",
-          "published_at": "2026-04-05T01:38:00+00:00",
-          "title_hash": "0b89837f4c77a77e44dc6f1771d17a9882590590f41c6d0373c3cc166d229e5f",
-          "keywords": [
-            "화천군",
-            "초중고",
-            "신입생에",
-            "입학",
-            "축하금",
-            "지급"
-          ]
-        },
-        {
-          "stable_key": "5ccceec742ef73e683b36754d226a6e2a8362db9413a54255ed4fad743ecce78",
-          "source_key": "khan-politics-rss",
-          "source_name": "Kyunghyang Politics",
-          "category": "kr-politics",
-          "hub": "kr",
-          "hub_label": "대한민국",
-          "section_label": "정치",
-          "language": "ko",
-          "title": "군 헬기, 산불 진화 중에 유엔사 승인 없이 DMZ 진입…경위 파악",
-          "canonical_url": "https://www.khan.co.kr/article/202604051037011",
-          "published_at": "2026-04-05T01:37:01+00:00",
-          "title_hash": "6cac9d596e743dd61a7dfb05c089748b64e34ab094001680e7e58d9afed365f4",
-          "keywords": [
-            "헬기",
-            "산불",
-            "진화",
-            "중에",
-            "유엔사",
-            "승인"
-          ]
-        },
-        {
-          "stable_key": "da97467290bed22b5ecdb77d1e7c6fc1453af9bee5e8bd1e199fd97a3f692bfb",
-          "source_key": "khan-economy-rss",
-          "source_name": "Kyunghyang Economy",
-          "category": "kr-economy",
-          "hub": "kr",
-          "hub_label": "대한민국",
-          "section_label": "경제",
-          "language": "ko",
-          "title": "한전 “경제 전시 상황에 직면”···그룹사, 긴급 사장단 회의 개최",
-          "canonical_url": "https://www.khan.co.kr/article/202604051037001",
-          "published_at": "2026-04-05T01:37:00+00:00",
-          "title_hash": "d824c85c7c5e53766de6f2425df66acecd8484b82404e8e47d40c21617efe1e6",
-          "keywords": [
-            "한전",
-            "경제",
-            "전시",
-            "상황에",
-            "직면",
-            "그룹사"
-          ]
-        },
-        {
-          "stable_key": "9e1e8aba25b0e1331af0715bfeb06898b9e17fc064b3ef4ac3703f999c0d03c7",
-          "source_key": "telegram-claw-summary",
-          "source_name": "Telegram @clawnewssummary",
-          "category": "military",
-          "hub": "global",
-          "hub_label": "글로벌 전문",
-          "section_label": "군사",
-          "language": "ko",
-          "title": "🚨 [CRITICAL] 호르무즈 해협 알림",
-          "canonical_url": "https://www.aljazeera.com/news/2026/4/5/us-satellite-firm-planet-labs-announces-blackout-on-war-on-iran-images?traffic_source=rss",
-          "published_at": "2026-04-05T01:36:25+00:00",
-          "title_hash": "1ba172554ef1c7fcb4ab3d83322e6f471392708251d575eb55dfe385f79a6b1c",
-          "keywords": [
-            "critical",
-            "호르무즈",
-            "해협",
-            "알림",
-            "critical 호르무즈",
-            "호르무즈 해협"
-          ]
-        },
-        {
-          "stable_key": "0e8f3bdce0dcb9123b363c298c10a8db6cc8b6c3081910765b3c1a35e8c1f634",
-          "source_key": "mk-society-rss",
-          "source_name": "Maeil Business Society",
-          "category": "kr-society",
-          "hub": "kr",
-          "hub_label": "대한민국",
-          "section_label": "사회",
-          "language": "ko",
-          "title": "“감기 조심하세요”…월요일 비 그친 뒤 기온 ‘뚝’",
-          "canonical_url": "https://www.mk.co.kr/news/society/12008132",
-          "published_at": "2026-04-05T01:34:32+00:00",
-          "title_hash": "2f4dae76e7f6553a9c1d9a681ba757d6239cab75e52603b2aa0c0773b54830a1",
-          "keywords": [
-            "감기",
-            "조심하세요",
-            "월요일",
-            "그친",
-            "기온",
-            "감기 조심하세요"
-          ]
-        },
-        {
-          "stable_key": "af544c9c70b857171c84143caa996552ddf55f00c4a5f22f7159f6b90c7a8951",
-          "source_key": "sbs-society-rss",
-          "source_name": "SBS Society",
-          "category": "kr-society",
-          "hub": "kr",
-          "hub_label": "대한민국",
-          "section_label": "사회",
-          "language": "ko",
-          "title": "경찰청·미국 에너지부 심포지엄 공동개최…AI 신종테러 대응책 등 논의",
-          "canonical_url": "https://news.sbs.co.kr/news/endPage.do?cooper=RSSREADER&news_id=N1008505692&plink=RSSLINK",
-          "published_at": "2026-04-05T01:34:00+00:00",
-          "title_hash": "df8267922740feb1bcc6b84f1ce4ca0887a309b204b72dd2327130edda422620",
-          "keywords": [
-            "경찰청",
-            "미국",
-            "에너지부",
-            "심포지엄",
-            "공동개최",
-            "ai"
-          ]
-        },
-        {
-          "stable_key": "42ea59c785cdbd25701b74d39f2c6a40af22b17b6cfddbd48c638f7546f42d42",
-          "source_key": "donga-culture-rss",
-          "source_name": "DongA Culture",
-          "category": "kr-culture",
-          "hub": "kr",
-          "hub_label": "대한민국",
-          "section_label": "문화",
-          "language": "ko",
-          "title": "안젤리나 졸리 딸, K팝 뮤직비디오에 등장",
-          "canonical_url": "https://www.donga.com/news/Culture/article/all/20260405/133675293/1",
-          "published_at": "2026-04-05T01:31:00+00:00",
-          "title_hash": "b6334c87466ea28c896e86d3dafa8b37bd2b9eed82e4c5612b923d11d3b19b2c",
-          "keywords": [
-            "안젤리나",
-            "졸리",
-            "k팝",
-            "뮤직비디오에",
-            "등장",
-            "안젤리나 졸리"
-          ]
-        },
-        {
-          "stable_key": "f256833dced092a00e3056ed3db087ae2b29e3540862eddd4dc1f4d911cbe0b5",
-          "source_key": "mk-society-rss",
-          "source_name": "Maeil Business Society",
-          "category": "kr-society",
-          "hub": "kr",
-          "hub_label": "대한민국",
-          "section_label": "사회",
-          "language": "ko",
-          "title": "“조금 식었을 뿐인데”…실온서 2시간 지난 볶음밥, 아이에게 먹이면",
-          "canonical_url": "https://www.mk.co.kr/news/society/12008130",
-          "published_at": "2026-04-05T01:28:48+00:00",
-          "title_hash": "f53ba4dd2e7b5416227f27f282a58139f8616730711f57f5a435547e70d2d8a5",
-          "keywords": [
-            "조금",
-            "식었을",
-            "뿐인데",
-            "실온서",
-            "2시간",
-            "지난"
-          ]
-        },
-        {
-          "stable_key": "0b384cc55e3239a7679f408a3ac20d7403c9b5df458186b3e56061d0f63b8b03",
-          "source_key": "donga-society-rss",
-          "source_name": "DongA Society",
-          "category": "kr-society",
-          "hub": "kr",
-          "hub_label": "대한민국",
-          "section_label": "사회",
-          "language": "ko",
-          "title": "“다른 남성과 침대에 있자 격분”…전 연인 흉기 협박한 30대",
-          "canonical_url": "https://www.donga.com/news/Society/article/all/20260405/133675303/1",
-          "published_at": "2026-04-05T01:28:24+00:00",
-          "title_hash": "fc362cfef62938d233b0bed2f91970d74653c0bac03fe0b5903c83b407c41208",
-          "keywords": [
-            "다른",
-            "남성과",
-            "침대에",
-            "있자",
-            "격분",
-            "연인"
-          ]
-        },
-        {
-          "stable_key": "fed0fa7dad43331469c615413b04b59704d56f1238d737cce21f3e7e8cd57506",
-          "source_key": "donga-society-rss",
-          "source_name": "DongA Society",
-          "category": "kr-society",
-          "hub": "kr",
-          "hub_label": "대한민국",
-          "section_label": "사회",
-          "language": "ko",
-          "title": "“보면 뭘 아냐” 출동 구급대원 폭행…30대, 집유로 ‘감형’",
-          "canonical_url": "https://www.donga.com/news/Society/article/all/20260405/133675295/1",
-          "published_at": "2026-04-05T01:27:07+00:00",
-          "title_hash": "04dfa4f6a664e1f948c87405a54b835a219e2570b983f16064d53cff2454d791",
-          "keywords": [
-            "보면",
-            "아냐",
-            "출동",
-            "구급대원",
-            "폭행",
-            "30대"
-          ]
-        },
-        {
-          "stable_key": "3d55ce53db7d18330b8bdf15abb2c01e7042f77157812efe668dfb1ad285b3d7",
-          "source_key": "nypost-feed",
-          "source_name": "New York Post Feed",
-          "category": "us-economy",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "경제",
-          "language": "en",
-          "title": "Jake Bird’s Triple-A stint helped build strengths ahead of promising Yankees start",
-          "canonical_url": "https://nypost.com/2026/04/04/sports/jake-birds-triple-a-stint-helped-build-strengths-ahead-of-promising-yankees-start",
-          "published_at": "2026-04-05T01:23:05+00:00",
-          "title_hash": "5c4242b6cd851146c4f261b20b754d3b467fc3f7eab0210fa4db8e15c0e73b3e",
-          "keywords": [
-            "jake",
-            "bird",
-            "triple",
-            "stint",
-            "helped",
-            "build"
-          ]
-        },
-        {
-          "stable_key": "e7f14643c1b94b16e7799a4f458504230b14c06739a5ce258a3c9f345aab92ae",
-          "source_key": "khan-society-rss",
-          "source_name": "Kyunghyang Society",
-          "category": "kr-society",
-          "hub": "kr",
-          "hub_label": "대한민국",
-          "section_label": "사회",
-          "language": "ko",
-          "title": "강원도, 무기질 비료 52억 원 지원···농가 경영 부담 완화",
-          "canonical_url": "https://www.khan.co.kr/article/202604051023001",
-          "published_at": "2026-04-05T01:23:00+00:00",
-          "title_hash": "381347fcdc433b25e98c9b74f1ffd8b9b78ba5798e8ab48d079a9e4a7be3877b",
-          "keywords": [
-            "강원도",
-            "무기질",
-            "비료",
-            "52억",
-            "지원",
-            "농가"
-          ]
-        },
-        {
-          "stable_key": "03b035c7de9625095c7073f4f19b5b32e9ad9d289b0cd81a2d196f299f9ee164",
-          "source_key": "washingtonexaminer-feed",
-          "source_name": "Washington Examiner Feed",
-          "category": "us-politics",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "정치",
-          "language": "en",
-          "title": "White House slaps down rumors Trump is at Walter Reed",
-          "canonical_url": "https://www.washingtonexaminer.com/news/white-house/4516444/white-house-trump-walter-reed-rumors",
-          "published_at": "2026-04-05T01:22:17+00:00",
-          "title_hash": "ac142aa48a950b32b31a6e4cbfd8943037f573845d96afc9bce7e6c04db801a0",
-          "keywords": [
-            "white",
-            "house",
-            "slaps",
-            "down",
-            "rumors",
-            "trump"
-          ]
-        },
-        {
-          "stable_key": "eb69ae525cdb7614fc9d5cbecb48d91c4369b4a32d0f767b73bca293003119f6",
-          "source_key": "etoday-economy-rss",
-          "source_name": "eToday Economy",
-          "category": "kr-economy",
-          "hub": "kr",
-          "hub_label": "대한민국",
-          "section_label": "경제",
-          "language": "ko",
-          "title": "중국 성장둔화 시 한국 GDP 0.22% 감소…공급망·첨단산업 ‘이중 압박’",
-          "canonical_url": "https://www.etoday.co.kr/news/view/2572708",
-          "published_at": "2026-04-05T01:22:00+00:00",
-          "title_hash": "195fb4e3aea2cbe579798694195b1dac003b50b030360a03eb599ba555d54911",
-          "keywords": [
-            "중국",
-            "성장둔화",
-            "한국",
-            "gdp",
-            "감소",
-            "공급망"
-          ]
-        },
-        {
-          "stable_key": "61c82754bf58f30673678c9082f5476bd779d03f4fb008dd1e71feee18c47f2a",
-          "source_key": "etoday-economy-rss",
-          "source_name": "eToday Economy",
-          "category": "kr-economy",
-          "hub": "kr",
-          "hub_label": "대한민국",
-          "section_label": "경제",
-          "language": "ko",
-          "title": "해외 IB \"韓 물가 3% 뚫을 것\"⋯공산품·서비스 고물가 도미노 비상",
-          "canonical_url": "https://www.etoday.co.kr/news/view/2572754",
-          "published_at": "2026-04-05T01:21:00+00:00",
-          "title_hash": "f0eb5085aa76675c8aa77b9db3926cfdf8da8fa123ed09c657f432faec9eb1cb",
-          "keywords": [
-            "해외",
-            "ib",
-            "물가",
-            "뚫을",
-            "공산품",
-            "서비스"
-          ]
-        },
-        {
-          "stable_key": "20d5880aa8daf8c27892726f47bc4d2477116d93f46e83f48350361e2ca9d084",
-          "source_key": "fox-politics-rss",
-          "source_name": "Fox News Politics",
-          "category": "us-politics",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "정치",
-          "language": "en",
-          "title": "DHS slams Democrat Sen Chris Van Hollen claim, says illegal alien caused crash while fleeing ICE",
-          "canonical_url": "https://www.foxnews.com/politics/dhs-slams-democrat-sen-chris-van-hollen-claim-illegal-alien-caused-crash-fleeing-ice",
-          "published_at": "2026-04-05T01:18:47+00:00",
-          "title_hash": "303a9c2bede376264969fb89ebf7700dadeda102f35da2d73bc5fb05eb7f285a",
-          "keywords": [
-            "dhs",
-            "slams",
-            "democrat",
-            "sen",
-            "chris",
-            "van"
-          ]
-        },
-        {
-          "stable_key": "9a2b9da4aacbd36485044046f02386411b9bba025ce813df638268ede1e96f62",
-          "source_key": "newsweek-feed",
-          "source_name": "Newsweek Feed",
-          "category": "us-technology",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "기술",
-          "language": "en",
-          "title": "California Wildfire Update: Evacuations Lifted as Springs Fire Contained",
-          "canonical_url": "https://www.newsweek.com/california-wildfire-update-evacuations-lifted-as-springs-fire-contained-11784212",
-          "published_at": "2026-04-05T01:18:04+00:00",
-          "title_hash": "063ef589c7d51aa058ee4f3907134071f87849470b169c153ec5001296082e22",
-          "keywords": [
-            "california",
-            "wildfire",
-            "evacuations",
-            "lifted",
-            "springs",
-            "fire"
-          ]
-        },
-        {
-          "stable_key": "ec3938ec954782a33d7bdb9bc708cfbfdcbf0ba9be49323a169f4d7f58ded3c5",
-          "source_key": "khan-economy-rss",
-          "source_name": "Kyunghyang Economy",
-          "category": "kr-economy",
-          "hub": "kr",
-          "hub_label": "대한민국",
-          "section_label": "경제",
-          "language": "ko",
-          "title": "봄마다 반복되는 ‘이상기후 공포’···충남도 농기원, 과수·채소 농가 현장점검 강화",
-          "canonical_url": "https://www.khan.co.kr/article/202604051018011",
-          "published_at": "2026-04-05T01:18:01+00:00",
-          "title_hash": "d8e9f36649d3a478d3c93a56f9f4e141a2232ecd519404924168e259b4d2a245",
-          "keywords": [
-            "봄마다",
-            "반복되는",
-            "이상기후",
-            "공포",
-            "충남도",
-            "농기원"
-          ]
         }
       ]
     },
     "90d": {
       "label": "90d",
-      "article_count": 4479,
+      "article_count": 4502,
       "unknown_time_count": 0,
       "active_source_count": 103,
       "repeated_title_count": 277,
@@ -3698,15 +3698,15 @@
         },
         {
           "date": "2026-04-03",
-          "count": 1404
+          "count": 1405
         },
         {
           "date": "2026-04-04",
-          "count": 1191
+          "count": 1192
         },
         {
           "date": "2026-04-05",
-          "count": 133
+          "count": 154
         }
       ],
       "top_keywords": [
@@ -3773,17 +3773,17 @@
         {
           "source_key": "nypost-feed",
           "name": "New York Post Feed",
-          "count": 123
+          "count": 124
         },
         {
           "source_key": "yahoo-news-rss",
           "name": "Yahoo News RSS",
-          "count": 122
+          "count": 124
         },
         {
           "source_key": "asiae-society-rss",
           "name": "Asiae Society",
-          "count": 118
+          "count": 119
         },
         {
           "source_key": "thehill-feed",
@@ -3793,7 +3793,7 @@
         {
           "source_key": "asiae-economy-rss",
           "name": "Asiae Economy",
-          "count": 101
+          "count": 102
         },
         {
           "source_key": "latimes-politics-rss",
@@ -3816,8 +3816,8 @@
           "count": 94
         },
         {
-          "source_key": "latimes-tech-rss",
-          "name": "Los Angeles Times Technology",
+          "source_key": "asiae-politics-rss",
+          "name": "Asiae Politics",
           "count": 88
         }
       ],
@@ -3825,12 +3825,12 @@
         {
           "key": "us",
           "label": "미국",
-          "count": 2855
+          "count": 2859
         },
         {
           "key": "kr",
           "label": "대한민국",
-          "count": 1451
+          "count": 1470
         },
         {
           "key": "global",
@@ -3844,28 +3844,28 @@
           "label": "정치",
           "hub": "us",
           "hub_label": "미국",
-          "count": 976
+          "count": 977
         },
         {
           "key": "us-technology",
           "label": "기술",
           "hub": "us",
           "hub_label": "미국",
-          "count": 774
+          "count": 776
         },
         {
           "key": "us-world",
           "label": "세계",
           "hub": "us",
           "hub_label": "미국",
-          "count": 471
+          "count": 472
         },
         {
           "key": "kr-economy",
           "label": "경제",
           "hub": "kr",
           "hub_label": "대한민국",
-          "count": 378
+          "count": 387
         },
         {
           "key": "us-economy",
@@ -3879,14 +3879,14 @@
           "label": "사회",
           "hub": "kr",
           "hub_label": "대한민국",
-          "count": 339
+          "count": 347
         },
         {
           "key": "kr-politics",
           "label": "정치",
           "hub": "kr",
           "hub_label": "대한민국",
-          "count": 286
+          "count": 288
         },
         {
           "key": "us-markets",
@@ -3927,11 +3927,11 @@
       "language_counts": [
         {
           "language": "en",
-          "count": 2988
+          "count": 2992
         },
         {
           "language": "ko",
-          "count": 1491
+          "count": 1510
         }
       ],
       "repeated_titles": [
@@ -4140,6 +4140,468 @@
           ]
         },
         {
+          "stable_key": "433ba3a7f1d0c800d344c11bfc5679630ba64d727a8947ee5e25bdec3a8fda4e",
+          "source_key": "khan-society-rss",
+          "source_name": "Kyunghyang Society",
+          "category": "kr-society",
+          "hub": "kr",
+          "hub_label": "대한민국",
+          "section_label": "사회",
+          "language": "ko",
+          "title": "인제군, 상남면 LPG 배관망 구축···175세대 에너지 복지 향상",
+          "canonical_url": "https://www.khan.co.kr/article/202604051105001",
+          "published_at": "2026-04-05T02:05:00+00:00",
+          "title_hash": "56303d0fa1870a7c0b5d0c87f4774194cb22a9e76d8b5ba6f5b51aabfa34b839",
+          "keywords": [
+            "인제군",
+            "상남면",
+            "lpg",
+            "배관망",
+            "구축",
+            "175세대"
+          ]
+        },
+        {
+          "stable_key": "0c723903ff31ec3741759aa93d2aa3c8ba3aeac7b85e9a174d1ba30a5d1b6826",
+          "source_key": "etoday-economy-rss",
+          "source_name": "eToday Economy",
+          "category": "kr-economy",
+          "hub": "kr",
+          "hub_label": "대한민국",
+          "section_label": "경제",
+          "language": "ko",
+          "title": "기본법은 표류, 감시 법안은 전진…가상자산업계 “육성 없는 통제” 지적",
+          "canonical_url": "https://www.etoday.co.kr/news/view/2572625",
+          "published_at": "2026-04-05T02:05:00+00:00",
+          "title_hash": "17fc6b2fbc49346a284ba34897d11f0b1c303c1cdcc41b5cdbc585ef9dade0b7",
+          "keywords": [
+            "기본법은",
+            "표류",
+            "감시",
+            "법안은",
+            "전진",
+            "가상자산업계"
+          ]
+        },
+        {
+          "stable_key": "b77f12866ec855a3b2e1e7a497cde9431b365d50a127bd69b67a173d8f60afaa",
+          "source_key": "donga-society-rss",
+          "source_name": "DongA Society",
+          "category": "kr-society",
+          "hub": "kr",
+          "hub_label": "대한민국",
+          "section_label": "사회",
+          "language": "ko",
+          "title": "울산항만공사, 친환경 연료 선박에 현금 인센티브 최대 1천만원 지원",
+          "canonical_url": "https://www.donga.com/news/Society/article/all/20260405/133674974/1",
+          "published_at": "2026-04-05T02:02:00+00:00",
+          "title_hash": "80fd21109d7c847063094fd79ad9d3b69d0c6b10e1a1f3d4afcc71871a76ea64",
+          "keywords": [
+            "울산항만공사",
+            "친환경",
+            "연료",
+            "선박에",
+            "현금",
+            "인센티브"
+          ]
+        },
+        {
+          "stable_key": "6e85aae9da35fd4075b7a377e6f7db095349d3bd622660cd8da2df6e3301951b",
+          "source_key": "asiae-politics-rss",
+          "source_name": "Asiae Politics",
+          "category": "kr-politics",
+          "hub": "kr",
+          "hub_label": "대한민국",
+          "section_label": "정치",
+          "language": "ko",
+          "title": "국힘 서천군수 경선 여론조사 왜곡 의혹",
+          "canonical_url": "https://www.asiae.co.kr/article/2026040511014447548",
+          "published_at": "2026-04-05T02:01:44+00:00",
+          "title_hash": "e24b5d8d4a4190ee7c3817aed4dc48ba1b0bbd877413a01ac8f1199590821481",
+          "keywords": [
+            "국힘",
+            "서천군수",
+            "경선",
+            "여론조사",
+            "왜곡",
+            "의혹"
+          ]
+        },
+        {
+          "stable_key": "10c713f05d24294318b8e675e493d22c68d77e4367cbc07721c2170d744b648c",
+          "source_key": "donga-society-rss",
+          "source_name": "DongA Society",
+          "category": "kr-society",
+          "hub": "kr",
+          "hub_label": "대한민국",
+          "section_label": "사회",
+          "language": "ko",
+          "title": "전주시, 농업 판로·고부가 가치 창출 적극 나서",
+          "canonical_url": "https://www.donga.com/news/Society/article/all/20260405/133674966/1",
+          "published_at": "2026-04-05T02:01:00+00:00",
+          "title_hash": "03c0b155ef5dc649d49e8163f86a1efd6f1f544b2999553845af181bd3b8203b",
+          "keywords": [
+            "전주시",
+            "농업",
+            "판로",
+            "고부가",
+            "가치",
+            "창출"
+          ]
+        },
+        {
+          "stable_key": "afd0ad90b39b0c9db723f4fd5c33c5845b498d74af0110aa4c901059b68adf82",
+          "source_key": "etoday-economy-rss",
+          "source_name": "eToday Economy",
+          "category": "kr-economy",
+          "hub": "kr",
+          "hub_label": "대한민국",
+          "section_label": "경제",
+          "language": "ko",
+          "title": "한육우·젖소도 동물복지 기준 세운다…농가 실천용 가이드라인 배포",
+          "canonical_url": "https://www.etoday.co.kr/news/view/2572748",
+          "published_at": "2026-04-05T02:00:00+00:00",
+          "title_hash": "895d34c14c254862f2df815d32efde25e41e5309e69ff70e74c0e23a3c0cc3c9",
+          "keywords": [
+            "한육우",
+            "젖소도",
+            "동물복지",
+            "기준",
+            "세운다",
+            "농가"
+          ]
+        },
+        {
+          "stable_key": "236ed18478e0063ccfc2e17b80852b10e2ad1828d5e0da376ae8ce5cc65e9794",
+          "source_key": "etoday-economy-rss",
+          "source_name": "eToday Economy",
+          "category": "kr-economy",
+          "hub": "kr",
+          "hub_label": "대한민국",
+          "section_label": "경제",
+          "language": "ko",
+          "title": "중견기업 10곳, '월드클래스'로 키운다⋯지역 기업엔 최대 50억 지원",
+          "canonical_url": "https://www.etoday.co.kr/news/view/2572752",
+          "published_at": "2026-04-05T02:00:00+00:00",
+          "title_hash": "47eb97eadef8a4fc023e597ef9f8091d8c7bdf2f0ab96f5ad34c07b834b3930e",
+          "keywords": [
+            "중견기업",
+            "10곳",
+            "월드클래스",
+            "키운다",
+            "지역",
+            "기업엔"
+          ]
+        },
+        {
+          "stable_key": "6a152a3cf35346d1060e031ae68803ac54c919ff0e856c32359857893efc8ab1",
+          "source_key": "etoday-economy-rss",
+          "source_name": "eToday Economy",
+          "category": "kr-economy",
+          "hub": "kr",
+          "hub_label": "대한민국",
+          "section_label": "경제",
+          "language": "ko",
+          "title": "식품산업 지역 거점 키운다…경북·전남, 식품융합클러스터 첫 시범지 선정",
+          "canonical_url": "https://www.etoday.co.kr/news/view/2572725",
+          "published_at": "2026-04-05T02:00:00+00:00",
+          "title_hash": "2ed27aa5411bb41ffeb3919660cc4687e8fd71ababdac347978b2310faa88300",
+          "keywords": [
+            "식품산업",
+            "지역",
+            "거점",
+            "키운다",
+            "경북",
+            "전남"
+          ]
+        },
+        {
+          "stable_key": "8e3d3bbd87fd0047fe4d193d4832f3b3a9bd161057dea3a8753a12dfc5cbfedd",
+          "source_key": "etoday-economy-rss",
+          "source_name": "eToday Economy",
+          "category": "kr-economy",
+          "hub": "kr",
+          "hub_label": "대한민국",
+          "section_label": "경제",
+          "language": "ko",
+          "title": "볍씨 그냥 뿌리면 낭패…올해는 ‘싹 확인’ 먼저",
+          "canonical_url": "https://www.etoday.co.kr/news/view/2572755",
+          "published_at": "2026-04-05T02:00:00+00:00",
+          "title_hash": "5cab2ee03d9ef81a275e50ed950350296d1066c3f943f7ea8e6b2a25ab0aabb9",
+          "keywords": [
+            "볍씨",
+            "그냥",
+            "뿌리면",
+            "낭패",
+            "올해는",
+            "확인"
+          ]
+        },
+        {
+          "stable_key": "bc9e24a72f5be343c64c9873c2c4e4b167cfd5de1b665610ab65e3d8792bd25b",
+          "source_key": "etoday-economy-rss",
+          "source_name": "eToday Economy",
+          "category": "kr-economy",
+          "hub": "kr",
+          "hub_label": "대한민국",
+          "section_label": "경제",
+          "language": "ko",
+          "title": "농산물 팔 때 ‘통신판매업’만 등록하면 손해…농업인 세금·고용보험 길잡이 발간",
+          "canonical_url": "https://www.etoday.co.kr/news/view/2572750",
+          "published_at": "2026-04-05T02:00:00+00:00",
+          "title_hash": "22e3e381ed2c772b1ef6f76610f1fb3f7aaa864c8bc1011d7a0c2af20ad093c7",
+          "keywords": [
+            "농산물",
+            "통신판매업",
+            "등록하면",
+            "손해",
+            "농업인",
+            "세금"
+          ]
+        },
+        {
+          "stable_key": "527b319df252ca6e00e4f6da46c5b61a2488ecd3c8682a5201bd1f4b49111399",
+          "source_key": "etoday-economy-rss",
+          "source_name": "eToday Economy",
+          "category": "kr-economy",
+          "hub": "kr",
+          "hub_label": "대한민국",
+          "section_label": "경제",
+          "language": "ko",
+          "title": "국토부, 국토·교통 데이터 활용 경진대회 개최⋯총상금 3400만원",
+          "canonical_url": "https://www.etoday.co.kr/news/view/2572714",
+          "published_at": "2026-04-05T02:00:00+00:00",
+          "title_hash": "33568ea6ff5d57075c5861f71e8f33137648cdcd13afaf3f26a989a3f48759d3",
+          "keywords": [
+            "국토부",
+            "국토",
+            "교통",
+            "데이터",
+            "활용",
+            "경진대회"
+          ]
+        },
+        {
+          "stable_key": "79ac8488e60c1312b2d097f3e8a1ec359db5372b875eaa6d0f2aee5d47bbe780",
+          "source_key": "etoday-economy-rss",
+          "source_name": "eToday Economy",
+          "category": "kr-economy",
+          "hub": "kr",
+          "hub_label": "대한민국",
+          "section_label": "경제",
+          "language": "ko",
+          "title": "“일본도 가져오려 했다” 폭언으로 공동창업자 수익 반환시켰지만.. 법원 \"강압 아냐\"",
+          "canonical_url": "https://www.etoday.co.kr/news/view/2572684",
+          "published_at": "2026-04-05T02:00:00+00:00",
+          "title_hash": "9f0d919f8108c083aa49f6bd11ce72ff600833ffbbfd642fc2daa6baa0bf52b9",
+          "keywords": [
+            "일본도",
+            "가져오려",
+            "했다",
+            "폭언으로",
+            "공동창업자",
+            "수익"
+          ]
+        },
+        {
+          "stable_key": "b71a502537d5226060633a1dc860f8237f36f1b69d1ee854d298797f2f8c301f",
+          "source_key": "donga-society-rss",
+          "source_name": "DongA Society",
+          "category": "kr-society",
+          "hub": "kr",
+          "hub_label": "대한민국",
+          "section_label": "사회",
+          "language": "ko",
+          "title": "울산종갓집도서관 누적 이용 100만 명…하루 평균 2200명 방문",
+          "canonical_url": "https://www.donga.com/news/Society/article/all/20260405/133674993/1",
+          "published_at": "2026-04-05T02:00:00+00:00",
+          "title_hash": "9e8d0eac891f54dc121bf7b7fb6f91e741cdbc8cc96c52d6cd4767a9aa945d59",
+          "keywords": [
+            "울산종갓집도서관",
+            "누적",
+            "이용",
+            "100만",
+            "하루",
+            "평균"
+          ]
+        },
+        {
+          "stable_key": "55b9bd295d4c40afb784a94136256206fd7ae00d224d36eb428a95c7b92d86dd",
+          "source_key": "donga-politics-rss",
+          "source_name": "DongA Politics",
+          "category": "kr-politics",
+          "hub": "kr",
+          "hub_label": "대한민국",
+          "section_label": "정치",
+          "language": "ko",
+          "title": "李 “추경으로 지방정부 부담 명백히 줄어…이건 초보 산수”",
+          "canonical_url": "https://www.donga.com/news/Politics/article/all/20260405/133675386/1",
+          "published_at": "2026-04-05T02:00:00+00:00",
+          "title_hash": "0c221ea449f81c22ab2ca496c0d2446205385779fb7836c8f2bc0e14b1db27fe",
+          "keywords": [
+            "추경으로",
+            "지방정부",
+            "부담",
+            "명백히",
+            "줄어",
+            "이건"
+          ]
+        },
+        {
+          "stable_key": "10273bfa83df982135b3e61e9196a59fb183f1db5b93ec8b8149beaf832a524a",
+          "source_key": "asiae-economy-rss",
+          "source_name": "Asiae Economy",
+          "category": "kr-economy",
+          "hub": "kr",
+          "hub_label": "대한민국",
+          "section_label": "경제",
+          "language": "ko",
+          "title": "'경북·전남' 식품융합클러스터 시범 대상지역 선정…'창업-생산-수출' 전주기 지원",
+          "canonical_url": "https://www.asiae.co.kr/article/2026040410045711246",
+          "published_at": "2026-04-05T02:00:00+00:00",
+          "title_hash": "f50f118710d0b8314fa9800570e9a7eae335354aa67fcd876e27cff146ce4788",
+          "keywords": [
+            "경북",
+            "전남",
+            "식품융합클러스터",
+            "시범",
+            "대상지역",
+            "선정"
+          ]
+        },
+        {
+          "stable_key": "4c250ba772b11d311701e7046f010fd785c9d24551407cef7e1ac630fc330849",
+          "source_key": "donga-society-rss",
+          "source_name": "DongA Society",
+          "category": "kr-society",
+          "hub": "kr",
+          "hub_label": "대한민국",
+          "section_label": "사회",
+          "language": "ko",
+          "title": "전북 진안·순창군에 전북형 반할 주택 200세대 공급",
+          "canonical_url": "https://www.donga.com/news/Society/article/all/20260405/133674956/1",
+          "published_at": "2026-04-05T01:59:00+00:00",
+          "title_hash": "af12433adf7bccd87e5170545681fd179c97b69c427a583642141ef6adde1047",
+          "keywords": [
+            "전북",
+            "진안",
+            "순창군에",
+            "전북형",
+            "반할",
+            "주택"
+          ]
+        },
+        {
+          "stable_key": "dee7fee5794b3288c51ce625ed2b945c0bc217019167739a5dce20c52c4095f3",
+          "source_key": "cbs-us-rss",
+          "source_name": "CBS News US",
+          "category": "us-politics",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "정치",
+          "language": "en",
+          "title": "Would Michigan investigators be able to prove murder in a case without a body?",
+          "canonical_url": "https://www.cbsnews.com/news/dee-warner-missing-would-michigan-investigators-be-able-to-prove-murder-without-a-body",
+          "published_at": "2026-04-05T01:58:30+00:00",
+          "title_hash": "ba212af3f7566ea634ecfc3b62460569333912661b80e871887489055fca9f26",
+          "keywords": [
+            "would",
+            "michigan",
+            "investigators",
+            "able",
+            "prove",
+            "murder"
+          ]
+        },
+        {
+          "stable_key": "579996ac9b99022436fafa82007a29cbe9d735f8907fb9e6f84f48d3a3804add",
+          "source_key": "nypost-feed",
+          "source_name": "New York Post Feed",
+          "category": "us-world",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "세계",
+          "language": "en",
+          "title": "Nicolás Fernández Mercau garnering interest from European clubs while on big-time scoring pace for NYCFC",
+          "canonical_url": "https://nypost.com/2026/04/04/sports/nicolas-fernandez-mercau-garnering-interest-while-on-big-time-scoring-pace-for-nycfc",
+          "published_at": "2026-04-05T01:58:12+00:00",
+          "title_hash": "843724d5410fd2794bc6cc918b9cc5e23e7d195a981e4a4fa8ddb169aface3c4",
+          "keywords": [
+            "nicol",
+            "fern",
+            "ndez",
+            "mercau",
+            "garnering",
+            "interest"
+          ]
+        },
+        {
+          "stable_key": "5a9d67f6b0c2ce9f6ceb1713e814724b2e899c51ced1d6a7bd471d200f036a9b",
+          "source_key": "sbs-society-rss",
+          "source_name": "SBS Society",
+          "category": "kr-society",
+          "hub": "kr",
+          "hub_label": "대한민국",
+          "section_label": "사회",
+          "language": "ko",
+          "title": "\"남친 구해달라\" 불러놓고 '퍽'…보복성 민원 전화까지",
+          "canonical_url": "https://news.sbs.co.kr/news/endPage.do?cooper=RSSREADER&news_id=N1008505698&plink=RSSLINK",
+          "published_at": "2026-04-05T01:58:00+00:00",
+          "title_hash": "9518c762cdadcc4870f3fcc3ff35888f7a856fcdb6551dfd57a41ee26ba77c9c",
+          "keywords": [
+            "남친",
+            "구해달라",
+            "불러놓고",
+            "보복성",
+            "민원",
+            "전화까지"
+          ]
+        },
+        {
+          "stable_key": "3d31eb5869340d6805bad1707702d9764cf1acdb988fec9d20a2724d9df20799",
+          "source_key": "donga-society-rss",
+          "source_name": "DongA Society",
+          "category": "kr-society",
+          "hub": "kr",
+          "hub_label": "대한민국",
+          "section_label": "사회",
+          "language": "ko",
+          "title": "황차동 코스포 동남권협의회장 “회원사 AX 활용 활성화 추진할 것”",
+          "canonical_url": "https://www.donga.com/news/Society/article/all/20260405/133671677/1",
+          "published_at": "2026-04-05T01:58:00+00:00",
+          "title_hash": "6529e07d974fcab21db39a130cfbf151a5e3850fa958507af184a88bd8600694",
+          "keywords": [
+            "황차동",
+            "코스포",
+            "동남권협의회장",
+            "회원사",
+            "ax",
+            "활용"
+          ]
+        },
+        {
+          "stable_key": "2d87f64d47f1baaaa2c7bbf04eb304635fb9486701cb06d40cc3df6d6fbe8760",
+          "source_key": "asiae-society-rss",
+          "source_name": "Asiae Society",
+          "category": "kr-society",
+          "hub": "kr",
+          "hub_label": "대한민국",
+          "section_label": "사회",
+          "language": "ko",
+          "title": "\"간식 먹듯이 틈틈이한 운동 덕에 치매 위험 '뚝'\"",
+          "canonical_url": "https://www.asiae.co.kr/article/2026040510484635871",
+          "published_at": "2026-04-05T01:57:18+00:00",
+          "title_hash": "4ebfc855c3d54e1cbce7abaf1a9d8c05b23cc995bca104528f57ded31ed3341a",
+          "keywords": [
+            "간식",
+            "먹듯이",
+            "틈틈이한",
+            "운동",
+            "덕에",
+            "치매"
+          ]
+        },
+        {
           "stable_key": "70439b697a75d327fd7278ac2d180124a7f0b156204fe9ab97f921235848e9a1",
           "source_key": "telegram-dada-news2",
           "source_name": "Telegram @dada_news2",
@@ -4314,477 +4776,15 @@
             "consider",
             "expelling"
           ]
-        },
-        {
-          "stable_key": "7613239ea940621f449f5b0656746d3cad28037e5c09f3c1d2af3351d19d9b1a",
-          "source_key": "nypost-feed",
-          "source_name": "New York Post Feed",
-          "category": "us-markets",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "시장",
-          "language": "en",
-          "title": "Kevin Warsh needs to be confirmed as Fed Chair in order to avoid an economic shutdown",
-          "canonical_url": "https://nypost.com/2026/04/04/business/kevin-warsh-needs-to-be-confirmed-as-fed-chair-in-order-to-avoid-an-economic-shutdown",
-          "published_at": "2026-04-05T01:38:17+00:00",
-          "title_hash": "863a3aabdafeab43ed5034bcf7ab5c874339fbc7a81d8e6582eb809715f47712",
-          "keywords": [
-            "kevin",
-            "warsh",
-            "needs",
-            "confirmed",
-            "fed",
-            "chair"
-          ]
-        },
-        {
-          "stable_key": "ffe3e841cf8dbc1c4ec20702d44bd373b71a41d5b7d057af39604fef965609f6",
-          "source_key": "asiae-society-rss",
-          "source_name": "Asiae Society",
-          "category": "kr-society",
-          "hub": "kr",
-          "hub_label": "대한민국",
-          "section_label": "사회",
-          "language": "ko",
-          "title": "서울교육청, 특수교육 등 교육공무직원 548명 공개채용",
-          "canonical_url": "https://www.asiae.co.kr/article/2026040510381518160",
-          "published_at": "2026-04-05T01:38:16+00:00",
-          "title_hash": "65b9017189e04933788dc6e370fd4994371e5e60456f466161da4ef9b08f2cff",
-          "keywords": [
-            "서울교육청",
-            "특수교육",
-            "교육공무직원",
-            "548명",
-            "공개채용",
-            "서울교육청 특수교육"
-          ]
-        },
-        {
-          "stable_key": "42a493da45f17f8d334465591318fbff9f17a4932bf2bd6accdbc601e95b94e7",
-          "source_key": "nypost-feed",
-          "source_name": "New York Post Feed",
-          "category": "us-technology",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "기술",
-          "language": "en",
-          "title": "Knicks’ Miles McBride striving for return to pre-injury form before playoffs",
-          "canonical_url": "https://nypost.com/2026/04/04/sports/knicks-miles-mcbride-striving-for-return-to-pre-injury-form-before-playoffs",
-          "published_at": "2026-04-05T01:38:08+00:00",
-          "title_hash": "e153ffe16a9761bfaffa426f7f8ed9d87ff6a1ed4c05fddc538e1afd743f402f",
-          "keywords": [
-            "knicks",
-            "miles",
-            "mcbride",
-            "striving",
-            "return",
-            "pre"
-          ]
-        },
-        {
-          "stable_key": "66afc5ae0e53830f184925181507ae91fbb08a87c37daf6cb71a82e8076de125",
-          "source_key": "khan-society-rss",
-          "source_name": "Kyunghyang Society",
-          "category": "kr-society",
-          "hub": "kr",
-          "hub_label": "대한민국",
-          "section_label": "사회",
-          "language": "ko",
-          "title": "화천군, 초중고 신입생에 입학 축하금 지급···30~50만 원",
-          "canonical_url": "https://www.khan.co.kr/article/202604051038001",
-          "published_at": "2026-04-05T01:38:00+00:00",
-          "title_hash": "0b89837f4c77a77e44dc6f1771d17a9882590590f41c6d0373c3cc166d229e5f",
-          "keywords": [
-            "화천군",
-            "초중고",
-            "신입생에",
-            "입학",
-            "축하금",
-            "지급"
-          ]
-        },
-        {
-          "stable_key": "5ccceec742ef73e683b36754d226a6e2a8362db9413a54255ed4fad743ecce78",
-          "source_key": "khan-politics-rss",
-          "source_name": "Kyunghyang Politics",
-          "category": "kr-politics",
-          "hub": "kr",
-          "hub_label": "대한민국",
-          "section_label": "정치",
-          "language": "ko",
-          "title": "군 헬기, 산불 진화 중에 유엔사 승인 없이 DMZ 진입…경위 파악",
-          "canonical_url": "https://www.khan.co.kr/article/202604051037011",
-          "published_at": "2026-04-05T01:37:01+00:00",
-          "title_hash": "6cac9d596e743dd61a7dfb05c089748b64e34ab094001680e7e58d9afed365f4",
-          "keywords": [
-            "헬기",
-            "산불",
-            "진화",
-            "중에",
-            "유엔사",
-            "승인"
-          ]
-        },
-        {
-          "stable_key": "da97467290bed22b5ecdb77d1e7c6fc1453af9bee5e8bd1e199fd97a3f692bfb",
-          "source_key": "khan-economy-rss",
-          "source_name": "Kyunghyang Economy",
-          "category": "kr-economy",
-          "hub": "kr",
-          "hub_label": "대한민국",
-          "section_label": "경제",
-          "language": "ko",
-          "title": "한전 “경제 전시 상황에 직면”···그룹사, 긴급 사장단 회의 개최",
-          "canonical_url": "https://www.khan.co.kr/article/202604051037001",
-          "published_at": "2026-04-05T01:37:00+00:00",
-          "title_hash": "d824c85c7c5e53766de6f2425df66acecd8484b82404e8e47d40c21617efe1e6",
-          "keywords": [
-            "한전",
-            "경제",
-            "전시",
-            "상황에",
-            "직면",
-            "그룹사"
-          ]
-        },
-        {
-          "stable_key": "9e1e8aba25b0e1331af0715bfeb06898b9e17fc064b3ef4ac3703f999c0d03c7",
-          "source_key": "telegram-claw-summary",
-          "source_name": "Telegram @clawnewssummary",
-          "category": "military",
-          "hub": "global",
-          "hub_label": "글로벌 전문",
-          "section_label": "군사",
-          "language": "ko",
-          "title": "🚨 [CRITICAL] 호르무즈 해협 알림",
-          "canonical_url": "https://www.aljazeera.com/news/2026/4/5/us-satellite-firm-planet-labs-announces-blackout-on-war-on-iran-images?traffic_source=rss",
-          "published_at": "2026-04-05T01:36:25+00:00",
-          "title_hash": "1ba172554ef1c7fcb4ab3d83322e6f471392708251d575eb55dfe385f79a6b1c",
-          "keywords": [
-            "critical",
-            "호르무즈",
-            "해협",
-            "알림",
-            "critical 호르무즈",
-            "호르무즈 해협"
-          ]
-        },
-        {
-          "stable_key": "0e8f3bdce0dcb9123b363c298c10a8db6cc8b6c3081910765b3c1a35e8c1f634",
-          "source_key": "mk-society-rss",
-          "source_name": "Maeil Business Society",
-          "category": "kr-society",
-          "hub": "kr",
-          "hub_label": "대한민국",
-          "section_label": "사회",
-          "language": "ko",
-          "title": "“감기 조심하세요”…월요일 비 그친 뒤 기온 ‘뚝’",
-          "canonical_url": "https://www.mk.co.kr/news/society/12008132",
-          "published_at": "2026-04-05T01:34:32+00:00",
-          "title_hash": "2f4dae76e7f6553a9c1d9a681ba757d6239cab75e52603b2aa0c0773b54830a1",
-          "keywords": [
-            "감기",
-            "조심하세요",
-            "월요일",
-            "그친",
-            "기온",
-            "감기 조심하세요"
-          ]
-        },
-        {
-          "stable_key": "af544c9c70b857171c84143caa996552ddf55f00c4a5f22f7159f6b90c7a8951",
-          "source_key": "sbs-society-rss",
-          "source_name": "SBS Society",
-          "category": "kr-society",
-          "hub": "kr",
-          "hub_label": "대한민국",
-          "section_label": "사회",
-          "language": "ko",
-          "title": "경찰청·미국 에너지부 심포지엄 공동개최…AI 신종테러 대응책 등 논의",
-          "canonical_url": "https://news.sbs.co.kr/news/endPage.do?cooper=RSSREADER&news_id=N1008505692&plink=RSSLINK",
-          "published_at": "2026-04-05T01:34:00+00:00",
-          "title_hash": "df8267922740feb1bcc6b84f1ce4ca0887a309b204b72dd2327130edda422620",
-          "keywords": [
-            "경찰청",
-            "미국",
-            "에너지부",
-            "심포지엄",
-            "공동개최",
-            "ai"
-          ]
-        },
-        {
-          "stable_key": "42ea59c785cdbd25701b74d39f2c6a40af22b17b6cfddbd48c638f7546f42d42",
-          "source_key": "donga-culture-rss",
-          "source_name": "DongA Culture",
-          "category": "kr-culture",
-          "hub": "kr",
-          "hub_label": "대한민국",
-          "section_label": "문화",
-          "language": "ko",
-          "title": "안젤리나 졸리 딸, K팝 뮤직비디오에 등장",
-          "canonical_url": "https://www.donga.com/news/Culture/article/all/20260405/133675293/1",
-          "published_at": "2026-04-05T01:31:00+00:00",
-          "title_hash": "b6334c87466ea28c896e86d3dafa8b37bd2b9eed82e4c5612b923d11d3b19b2c",
-          "keywords": [
-            "안젤리나",
-            "졸리",
-            "k팝",
-            "뮤직비디오에",
-            "등장",
-            "안젤리나 졸리"
-          ]
-        },
-        {
-          "stable_key": "f256833dced092a00e3056ed3db087ae2b29e3540862eddd4dc1f4d911cbe0b5",
-          "source_key": "mk-society-rss",
-          "source_name": "Maeil Business Society",
-          "category": "kr-society",
-          "hub": "kr",
-          "hub_label": "대한민국",
-          "section_label": "사회",
-          "language": "ko",
-          "title": "“조금 식었을 뿐인데”…실온서 2시간 지난 볶음밥, 아이에게 먹이면",
-          "canonical_url": "https://www.mk.co.kr/news/society/12008130",
-          "published_at": "2026-04-05T01:28:48+00:00",
-          "title_hash": "f53ba4dd2e7b5416227f27f282a58139f8616730711f57f5a435547e70d2d8a5",
-          "keywords": [
-            "조금",
-            "식었을",
-            "뿐인데",
-            "실온서",
-            "2시간",
-            "지난"
-          ]
-        },
-        {
-          "stable_key": "0b384cc55e3239a7679f408a3ac20d7403c9b5df458186b3e56061d0f63b8b03",
-          "source_key": "donga-society-rss",
-          "source_name": "DongA Society",
-          "category": "kr-society",
-          "hub": "kr",
-          "hub_label": "대한민국",
-          "section_label": "사회",
-          "language": "ko",
-          "title": "“다른 남성과 침대에 있자 격분”…전 연인 흉기 협박한 30대",
-          "canonical_url": "https://www.donga.com/news/Society/article/all/20260405/133675303/1",
-          "published_at": "2026-04-05T01:28:24+00:00",
-          "title_hash": "fc362cfef62938d233b0bed2f91970d74653c0bac03fe0b5903c83b407c41208",
-          "keywords": [
-            "다른",
-            "남성과",
-            "침대에",
-            "있자",
-            "격분",
-            "연인"
-          ]
-        },
-        {
-          "stable_key": "fed0fa7dad43331469c615413b04b59704d56f1238d737cce21f3e7e8cd57506",
-          "source_key": "donga-society-rss",
-          "source_name": "DongA Society",
-          "category": "kr-society",
-          "hub": "kr",
-          "hub_label": "대한민국",
-          "section_label": "사회",
-          "language": "ko",
-          "title": "“보면 뭘 아냐” 출동 구급대원 폭행…30대, 집유로 ‘감형’",
-          "canonical_url": "https://www.donga.com/news/Society/article/all/20260405/133675295/1",
-          "published_at": "2026-04-05T01:27:07+00:00",
-          "title_hash": "04dfa4f6a664e1f948c87405a54b835a219e2570b983f16064d53cff2454d791",
-          "keywords": [
-            "보면",
-            "아냐",
-            "출동",
-            "구급대원",
-            "폭행",
-            "30대"
-          ]
-        },
-        {
-          "stable_key": "3d55ce53db7d18330b8bdf15abb2c01e7042f77157812efe668dfb1ad285b3d7",
-          "source_key": "nypost-feed",
-          "source_name": "New York Post Feed",
-          "category": "us-economy",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "경제",
-          "language": "en",
-          "title": "Jake Bird’s Triple-A stint helped build strengths ahead of promising Yankees start",
-          "canonical_url": "https://nypost.com/2026/04/04/sports/jake-birds-triple-a-stint-helped-build-strengths-ahead-of-promising-yankees-start",
-          "published_at": "2026-04-05T01:23:05+00:00",
-          "title_hash": "5c4242b6cd851146c4f261b20b754d3b467fc3f7eab0210fa4db8e15c0e73b3e",
-          "keywords": [
-            "jake",
-            "bird",
-            "triple",
-            "stint",
-            "helped",
-            "build"
-          ]
-        },
-        {
-          "stable_key": "e7f14643c1b94b16e7799a4f458504230b14c06739a5ce258a3c9f345aab92ae",
-          "source_key": "khan-society-rss",
-          "source_name": "Kyunghyang Society",
-          "category": "kr-society",
-          "hub": "kr",
-          "hub_label": "대한민국",
-          "section_label": "사회",
-          "language": "ko",
-          "title": "강원도, 무기질 비료 52억 원 지원···농가 경영 부담 완화",
-          "canonical_url": "https://www.khan.co.kr/article/202604051023001",
-          "published_at": "2026-04-05T01:23:00+00:00",
-          "title_hash": "381347fcdc433b25e98c9b74f1ffd8b9b78ba5798e8ab48d079a9e4a7be3877b",
-          "keywords": [
-            "강원도",
-            "무기질",
-            "비료",
-            "52억",
-            "지원",
-            "농가"
-          ]
-        },
-        {
-          "stable_key": "03b035c7de9625095c7073f4f19b5b32e9ad9d289b0cd81a2d196f299f9ee164",
-          "source_key": "washingtonexaminer-feed",
-          "source_name": "Washington Examiner Feed",
-          "category": "us-politics",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "정치",
-          "language": "en",
-          "title": "White House slaps down rumors Trump is at Walter Reed",
-          "canonical_url": "https://www.washingtonexaminer.com/news/white-house/4516444/white-house-trump-walter-reed-rumors",
-          "published_at": "2026-04-05T01:22:17+00:00",
-          "title_hash": "ac142aa48a950b32b31a6e4cbfd8943037f573845d96afc9bce7e6c04db801a0",
-          "keywords": [
-            "white",
-            "house",
-            "slaps",
-            "down",
-            "rumors",
-            "trump"
-          ]
-        },
-        {
-          "stable_key": "eb69ae525cdb7614fc9d5cbecb48d91c4369b4a32d0f767b73bca293003119f6",
-          "source_key": "etoday-economy-rss",
-          "source_name": "eToday Economy",
-          "category": "kr-economy",
-          "hub": "kr",
-          "hub_label": "대한민국",
-          "section_label": "경제",
-          "language": "ko",
-          "title": "중국 성장둔화 시 한국 GDP 0.22% 감소…공급망·첨단산업 ‘이중 압박’",
-          "canonical_url": "https://www.etoday.co.kr/news/view/2572708",
-          "published_at": "2026-04-05T01:22:00+00:00",
-          "title_hash": "195fb4e3aea2cbe579798694195b1dac003b50b030360a03eb599ba555d54911",
-          "keywords": [
-            "중국",
-            "성장둔화",
-            "한국",
-            "gdp",
-            "감소",
-            "공급망"
-          ]
-        },
-        {
-          "stable_key": "61c82754bf58f30673678c9082f5476bd779d03f4fb008dd1e71feee18c47f2a",
-          "source_key": "etoday-economy-rss",
-          "source_name": "eToday Economy",
-          "category": "kr-economy",
-          "hub": "kr",
-          "hub_label": "대한민국",
-          "section_label": "경제",
-          "language": "ko",
-          "title": "해외 IB \"韓 물가 3% 뚫을 것\"⋯공산품·서비스 고물가 도미노 비상",
-          "canonical_url": "https://www.etoday.co.kr/news/view/2572754",
-          "published_at": "2026-04-05T01:21:00+00:00",
-          "title_hash": "f0eb5085aa76675c8aa77b9db3926cfdf8da8fa123ed09c657f432faec9eb1cb",
-          "keywords": [
-            "해외",
-            "ib",
-            "물가",
-            "뚫을",
-            "공산품",
-            "서비스"
-          ]
-        },
-        {
-          "stable_key": "20d5880aa8daf8c27892726f47bc4d2477116d93f46e83f48350361e2ca9d084",
-          "source_key": "fox-politics-rss",
-          "source_name": "Fox News Politics",
-          "category": "us-politics",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "정치",
-          "language": "en",
-          "title": "DHS slams Democrat Sen Chris Van Hollen claim, says illegal alien caused crash while fleeing ICE",
-          "canonical_url": "https://www.foxnews.com/politics/dhs-slams-democrat-sen-chris-van-hollen-claim-illegal-alien-caused-crash-fleeing-ice",
-          "published_at": "2026-04-05T01:18:47+00:00",
-          "title_hash": "303a9c2bede376264969fb89ebf7700dadeda102f35da2d73bc5fb05eb7f285a",
-          "keywords": [
-            "dhs",
-            "slams",
-            "democrat",
-            "sen",
-            "chris",
-            "van"
-          ]
-        },
-        {
-          "stable_key": "9a2b9da4aacbd36485044046f02386411b9bba025ce813df638268ede1e96f62",
-          "source_key": "newsweek-feed",
-          "source_name": "Newsweek Feed",
-          "category": "us-technology",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "기술",
-          "language": "en",
-          "title": "California Wildfire Update: Evacuations Lifted as Springs Fire Contained",
-          "canonical_url": "https://www.newsweek.com/california-wildfire-update-evacuations-lifted-as-springs-fire-contained-11784212",
-          "published_at": "2026-04-05T01:18:04+00:00",
-          "title_hash": "063ef589c7d51aa058ee4f3907134071f87849470b169c153ec5001296082e22",
-          "keywords": [
-            "california",
-            "wildfire",
-            "evacuations",
-            "lifted",
-            "springs",
-            "fire"
-          ]
-        },
-        {
-          "stable_key": "ec3938ec954782a33d7bdb9bc708cfbfdcbf0ba9be49323a169f4d7f58ded3c5",
-          "source_key": "khan-economy-rss",
-          "source_name": "Kyunghyang Economy",
-          "category": "kr-economy",
-          "hub": "kr",
-          "hub_label": "대한민국",
-          "section_label": "경제",
-          "language": "ko",
-          "title": "봄마다 반복되는 ‘이상기후 공포’···충남도 농기원, 과수·채소 농가 현장점검 강화",
-          "canonical_url": "https://www.khan.co.kr/article/202604051018011",
-          "published_at": "2026-04-05T01:18:01+00:00",
-          "title_hash": "d8e9f36649d3a478d3c93a56f9f4e141a2232ecd519404924168e259b4d2a245",
-          "keywords": [
-            "봄마다",
-            "반복되는",
-            "이상기후",
-            "공포",
-            "충남도",
-            "농기원"
-          ]
         }
       ]
     },
     "all": {
       "label": "All",
-      "article_count": 5436,
-      "unknown_time_count": 861,
+      "article_count": 5479,
+      "unknown_time_count": 881,
       "active_source_count": 131,
-      "repeated_title_count": 379,
+      "repeated_title_count": 382,
       "timeline": [
         {
           "date": "2016-11-02",
@@ -5208,15 +5208,15 @@
         },
         {
           "date": "2026-04-03",
-          "count": 1404
+          "count": 1405
         },
         {
           "date": "2026-04-04",
-          "count": 1191
+          "count": 1192
         },
         {
           "date": "2026-04-05",
-          "count": 133
+          "count": 154
         }
       ],
       "top_keywords": [
@@ -5273,7 +5273,7 @@
         {
           "source_key": "naver-kr-society",
           "name": "NAVER News Search",
-          "count": 303
+          "count": 320
         },
         {
           "source_key": "semafor-feed",
@@ -5288,17 +5288,17 @@
         {
           "source_key": "nypost-feed",
           "name": "New York Post Feed",
-          "count": 123
+          "count": 124
         },
         {
           "source_key": "yahoo-news-rss",
           "name": "Yahoo News RSS",
-          "count": 122
+          "count": 124
         },
         {
           "source_key": "asiae-society-rss",
           "name": "Asiae Society",
-          "count": 118
+          "count": 119
         },
         {
           "source_key": "thehill-feed",
@@ -5308,7 +5308,7 @@
         {
           "source_key": "asiae-economy-rss",
           "name": "Asiae Economy",
-          "count": 101
+          "count": 102
         },
         {
           "source_key": "latimes-politics-rss",
@@ -5335,12 +5335,12 @@
         {
           "key": "us",
           "label": "미국",
-          "count": 3267
+          "count": 3271
         },
         {
           "key": "kr",
           "label": "대한민국",
-          "count": 1966
+          "count": 2005
         },
         {
           "key": "global",
@@ -5354,35 +5354,35 @@
           "label": "정치",
           "hub": "us",
           "hub_label": "미국",
-          "count": 1081
+          "count": 1082
         },
         {
           "key": "us-technology",
           "label": "기술",
           "hub": "us",
           "hub_label": "미국",
-          "count": 891
+          "count": 893
         },
         {
           "key": "kr-society",
           "label": "사회",
           "hub": "kr",
           "hub_label": "대한민국",
-          "count": 683
+          "count": 708
         },
         {
           "key": "us-world",
           "label": "세계",
           "hub": "us",
           "hub_label": "미국",
-          "count": 524
+          "count": 525
         },
         {
           "key": "kr-economy",
           "label": "경제",
           "hub": "kr",
           "hub_label": "대한민국",
-          "count": 457
+          "count": 467
         },
         {
           "key": "us-economy",
@@ -5403,21 +5403,21 @@
           "label": "정치",
           "hub": "kr",
           "hub_label": "대한민국",
-          "count": 317
+          "count": 319
         },
         {
           "key": "kr-culture",
           "label": "문화",
           "hub": "kr",
           "hub_label": "대한민국",
-          "count": 268
+          "count": 269
         },
         {
           "key": "kr-sports",
           "label": "스포츠",
           "hub": "kr",
           "hub_label": "대한민국",
-          "count": 176
+          "count": 177
         },
         {
           "key": "tech-it",
@@ -5437,11 +5437,11 @@
       "language_counts": [
         {
           "language": "en",
-          "count": 3430
+          "count": 3434
         },
         {
           "language": "ko",
-          "count": 2006
+          "count": 2045
         }
       ],
       "repeated_titles": [
@@ -5650,6 +5650,468 @@
           ]
         },
         {
+          "stable_key": "433ba3a7f1d0c800d344c11bfc5679630ba64d727a8947ee5e25bdec3a8fda4e",
+          "source_key": "khan-society-rss",
+          "source_name": "Kyunghyang Society",
+          "category": "kr-society",
+          "hub": "kr",
+          "hub_label": "대한민국",
+          "section_label": "사회",
+          "language": "ko",
+          "title": "인제군, 상남면 LPG 배관망 구축···175세대 에너지 복지 향상",
+          "canonical_url": "https://www.khan.co.kr/article/202604051105001",
+          "published_at": "2026-04-05T02:05:00+00:00",
+          "title_hash": "56303d0fa1870a7c0b5d0c87f4774194cb22a9e76d8b5ba6f5b51aabfa34b839",
+          "keywords": [
+            "인제군",
+            "상남면",
+            "lpg",
+            "배관망",
+            "구축",
+            "175세대"
+          ]
+        },
+        {
+          "stable_key": "0c723903ff31ec3741759aa93d2aa3c8ba3aeac7b85e9a174d1ba30a5d1b6826",
+          "source_key": "etoday-economy-rss",
+          "source_name": "eToday Economy",
+          "category": "kr-economy",
+          "hub": "kr",
+          "hub_label": "대한민국",
+          "section_label": "경제",
+          "language": "ko",
+          "title": "기본법은 표류, 감시 법안은 전진…가상자산업계 “육성 없는 통제” 지적",
+          "canonical_url": "https://www.etoday.co.kr/news/view/2572625",
+          "published_at": "2026-04-05T02:05:00+00:00",
+          "title_hash": "17fc6b2fbc49346a284ba34897d11f0b1c303c1cdcc41b5cdbc585ef9dade0b7",
+          "keywords": [
+            "기본법은",
+            "표류",
+            "감시",
+            "법안은",
+            "전진",
+            "가상자산업계"
+          ]
+        },
+        {
+          "stable_key": "b77f12866ec855a3b2e1e7a497cde9431b365d50a127bd69b67a173d8f60afaa",
+          "source_key": "donga-society-rss",
+          "source_name": "DongA Society",
+          "category": "kr-society",
+          "hub": "kr",
+          "hub_label": "대한민국",
+          "section_label": "사회",
+          "language": "ko",
+          "title": "울산항만공사, 친환경 연료 선박에 현금 인센티브 최대 1천만원 지원",
+          "canonical_url": "https://www.donga.com/news/Society/article/all/20260405/133674974/1",
+          "published_at": "2026-04-05T02:02:00+00:00",
+          "title_hash": "80fd21109d7c847063094fd79ad9d3b69d0c6b10e1a1f3d4afcc71871a76ea64",
+          "keywords": [
+            "울산항만공사",
+            "친환경",
+            "연료",
+            "선박에",
+            "현금",
+            "인센티브"
+          ]
+        },
+        {
+          "stable_key": "6e85aae9da35fd4075b7a377e6f7db095349d3bd622660cd8da2df6e3301951b",
+          "source_key": "asiae-politics-rss",
+          "source_name": "Asiae Politics",
+          "category": "kr-politics",
+          "hub": "kr",
+          "hub_label": "대한민국",
+          "section_label": "정치",
+          "language": "ko",
+          "title": "국힘 서천군수 경선 여론조사 왜곡 의혹",
+          "canonical_url": "https://www.asiae.co.kr/article/2026040511014447548",
+          "published_at": "2026-04-05T02:01:44+00:00",
+          "title_hash": "e24b5d8d4a4190ee7c3817aed4dc48ba1b0bbd877413a01ac8f1199590821481",
+          "keywords": [
+            "국힘",
+            "서천군수",
+            "경선",
+            "여론조사",
+            "왜곡",
+            "의혹"
+          ]
+        },
+        {
+          "stable_key": "10c713f05d24294318b8e675e493d22c68d77e4367cbc07721c2170d744b648c",
+          "source_key": "donga-society-rss",
+          "source_name": "DongA Society",
+          "category": "kr-society",
+          "hub": "kr",
+          "hub_label": "대한민국",
+          "section_label": "사회",
+          "language": "ko",
+          "title": "전주시, 농업 판로·고부가 가치 창출 적극 나서",
+          "canonical_url": "https://www.donga.com/news/Society/article/all/20260405/133674966/1",
+          "published_at": "2026-04-05T02:01:00+00:00",
+          "title_hash": "03c0b155ef5dc649d49e8163f86a1efd6f1f544b2999553845af181bd3b8203b",
+          "keywords": [
+            "전주시",
+            "농업",
+            "판로",
+            "고부가",
+            "가치",
+            "창출"
+          ]
+        },
+        {
+          "stable_key": "afd0ad90b39b0c9db723f4fd5c33c5845b498d74af0110aa4c901059b68adf82",
+          "source_key": "etoday-economy-rss",
+          "source_name": "eToday Economy",
+          "category": "kr-economy",
+          "hub": "kr",
+          "hub_label": "대한민국",
+          "section_label": "경제",
+          "language": "ko",
+          "title": "한육우·젖소도 동물복지 기준 세운다…농가 실천용 가이드라인 배포",
+          "canonical_url": "https://www.etoday.co.kr/news/view/2572748",
+          "published_at": "2026-04-05T02:00:00+00:00",
+          "title_hash": "895d34c14c254862f2df815d32efde25e41e5309e69ff70e74c0e23a3c0cc3c9",
+          "keywords": [
+            "한육우",
+            "젖소도",
+            "동물복지",
+            "기준",
+            "세운다",
+            "농가"
+          ]
+        },
+        {
+          "stable_key": "236ed18478e0063ccfc2e17b80852b10e2ad1828d5e0da376ae8ce5cc65e9794",
+          "source_key": "etoday-economy-rss",
+          "source_name": "eToday Economy",
+          "category": "kr-economy",
+          "hub": "kr",
+          "hub_label": "대한민국",
+          "section_label": "경제",
+          "language": "ko",
+          "title": "중견기업 10곳, '월드클래스'로 키운다⋯지역 기업엔 최대 50억 지원",
+          "canonical_url": "https://www.etoday.co.kr/news/view/2572752",
+          "published_at": "2026-04-05T02:00:00+00:00",
+          "title_hash": "47eb97eadef8a4fc023e597ef9f8091d8c7bdf2f0ab96f5ad34c07b834b3930e",
+          "keywords": [
+            "중견기업",
+            "10곳",
+            "월드클래스",
+            "키운다",
+            "지역",
+            "기업엔"
+          ]
+        },
+        {
+          "stable_key": "6a152a3cf35346d1060e031ae68803ac54c919ff0e856c32359857893efc8ab1",
+          "source_key": "etoday-economy-rss",
+          "source_name": "eToday Economy",
+          "category": "kr-economy",
+          "hub": "kr",
+          "hub_label": "대한민국",
+          "section_label": "경제",
+          "language": "ko",
+          "title": "식품산업 지역 거점 키운다…경북·전남, 식품융합클러스터 첫 시범지 선정",
+          "canonical_url": "https://www.etoday.co.kr/news/view/2572725",
+          "published_at": "2026-04-05T02:00:00+00:00",
+          "title_hash": "2ed27aa5411bb41ffeb3919660cc4687e8fd71ababdac347978b2310faa88300",
+          "keywords": [
+            "식품산업",
+            "지역",
+            "거점",
+            "키운다",
+            "경북",
+            "전남"
+          ]
+        },
+        {
+          "stable_key": "8e3d3bbd87fd0047fe4d193d4832f3b3a9bd161057dea3a8753a12dfc5cbfedd",
+          "source_key": "etoday-economy-rss",
+          "source_name": "eToday Economy",
+          "category": "kr-economy",
+          "hub": "kr",
+          "hub_label": "대한민국",
+          "section_label": "경제",
+          "language": "ko",
+          "title": "볍씨 그냥 뿌리면 낭패…올해는 ‘싹 확인’ 먼저",
+          "canonical_url": "https://www.etoday.co.kr/news/view/2572755",
+          "published_at": "2026-04-05T02:00:00+00:00",
+          "title_hash": "5cab2ee03d9ef81a275e50ed950350296d1066c3f943f7ea8e6b2a25ab0aabb9",
+          "keywords": [
+            "볍씨",
+            "그냥",
+            "뿌리면",
+            "낭패",
+            "올해는",
+            "확인"
+          ]
+        },
+        {
+          "stable_key": "bc9e24a72f5be343c64c9873c2c4e4b167cfd5de1b665610ab65e3d8792bd25b",
+          "source_key": "etoday-economy-rss",
+          "source_name": "eToday Economy",
+          "category": "kr-economy",
+          "hub": "kr",
+          "hub_label": "대한민국",
+          "section_label": "경제",
+          "language": "ko",
+          "title": "농산물 팔 때 ‘통신판매업’만 등록하면 손해…농업인 세금·고용보험 길잡이 발간",
+          "canonical_url": "https://www.etoday.co.kr/news/view/2572750",
+          "published_at": "2026-04-05T02:00:00+00:00",
+          "title_hash": "22e3e381ed2c772b1ef6f76610f1fb3f7aaa864c8bc1011d7a0c2af20ad093c7",
+          "keywords": [
+            "농산물",
+            "통신판매업",
+            "등록하면",
+            "손해",
+            "농업인",
+            "세금"
+          ]
+        },
+        {
+          "stable_key": "527b319df252ca6e00e4f6da46c5b61a2488ecd3c8682a5201bd1f4b49111399",
+          "source_key": "etoday-economy-rss",
+          "source_name": "eToday Economy",
+          "category": "kr-economy",
+          "hub": "kr",
+          "hub_label": "대한민국",
+          "section_label": "경제",
+          "language": "ko",
+          "title": "국토부, 국토·교통 데이터 활용 경진대회 개최⋯총상금 3400만원",
+          "canonical_url": "https://www.etoday.co.kr/news/view/2572714",
+          "published_at": "2026-04-05T02:00:00+00:00",
+          "title_hash": "33568ea6ff5d57075c5861f71e8f33137648cdcd13afaf3f26a989a3f48759d3",
+          "keywords": [
+            "국토부",
+            "국토",
+            "교통",
+            "데이터",
+            "활용",
+            "경진대회"
+          ]
+        },
+        {
+          "stable_key": "79ac8488e60c1312b2d097f3e8a1ec359db5372b875eaa6d0f2aee5d47bbe780",
+          "source_key": "etoday-economy-rss",
+          "source_name": "eToday Economy",
+          "category": "kr-economy",
+          "hub": "kr",
+          "hub_label": "대한민국",
+          "section_label": "경제",
+          "language": "ko",
+          "title": "“일본도 가져오려 했다” 폭언으로 공동창업자 수익 반환시켰지만.. 법원 \"강압 아냐\"",
+          "canonical_url": "https://www.etoday.co.kr/news/view/2572684",
+          "published_at": "2026-04-05T02:00:00+00:00",
+          "title_hash": "9f0d919f8108c083aa49f6bd11ce72ff600833ffbbfd642fc2daa6baa0bf52b9",
+          "keywords": [
+            "일본도",
+            "가져오려",
+            "했다",
+            "폭언으로",
+            "공동창업자",
+            "수익"
+          ]
+        },
+        {
+          "stable_key": "b71a502537d5226060633a1dc860f8237f36f1b69d1ee854d298797f2f8c301f",
+          "source_key": "donga-society-rss",
+          "source_name": "DongA Society",
+          "category": "kr-society",
+          "hub": "kr",
+          "hub_label": "대한민국",
+          "section_label": "사회",
+          "language": "ko",
+          "title": "울산종갓집도서관 누적 이용 100만 명…하루 평균 2200명 방문",
+          "canonical_url": "https://www.donga.com/news/Society/article/all/20260405/133674993/1",
+          "published_at": "2026-04-05T02:00:00+00:00",
+          "title_hash": "9e8d0eac891f54dc121bf7b7fb6f91e741cdbc8cc96c52d6cd4767a9aa945d59",
+          "keywords": [
+            "울산종갓집도서관",
+            "누적",
+            "이용",
+            "100만",
+            "하루",
+            "평균"
+          ]
+        },
+        {
+          "stable_key": "55b9bd295d4c40afb784a94136256206fd7ae00d224d36eb428a95c7b92d86dd",
+          "source_key": "donga-politics-rss",
+          "source_name": "DongA Politics",
+          "category": "kr-politics",
+          "hub": "kr",
+          "hub_label": "대한민국",
+          "section_label": "정치",
+          "language": "ko",
+          "title": "李 “추경으로 지방정부 부담 명백히 줄어…이건 초보 산수”",
+          "canonical_url": "https://www.donga.com/news/Politics/article/all/20260405/133675386/1",
+          "published_at": "2026-04-05T02:00:00+00:00",
+          "title_hash": "0c221ea449f81c22ab2ca496c0d2446205385779fb7836c8f2bc0e14b1db27fe",
+          "keywords": [
+            "추경으로",
+            "지방정부",
+            "부담",
+            "명백히",
+            "줄어",
+            "이건"
+          ]
+        },
+        {
+          "stable_key": "10273bfa83df982135b3e61e9196a59fb183f1db5b93ec8b8149beaf832a524a",
+          "source_key": "asiae-economy-rss",
+          "source_name": "Asiae Economy",
+          "category": "kr-economy",
+          "hub": "kr",
+          "hub_label": "대한민국",
+          "section_label": "경제",
+          "language": "ko",
+          "title": "'경북·전남' 식품융합클러스터 시범 대상지역 선정…'창업-생산-수출' 전주기 지원",
+          "canonical_url": "https://www.asiae.co.kr/article/2026040410045711246",
+          "published_at": "2026-04-05T02:00:00+00:00",
+          "title_hash": "f50f118710d0b8314fa9800570e9a7eae335354aa67fcd876e27cff146ce4788",
+          "keywords": [
+            "경북",
+            "전남",
+            "식품융합클러스터",
+            "시범",
+            "대상지역",
+            "선정"
+          ]
+        },
+        {
+          "stable_key": "4c250ba772b11d311701e7046f010fd785c9d24551407cef7e1ac630fc330849",
+          "source_key": "donga-society-rss",
+          "source_name": "DongA Society",
+          "category": "kr-society",
+          "hub": "kr",
+          "hub_label": "대한민국",
+          "section_label": "사회",
+          "language": "ko",
+          "title": "전북 진안·순창군에 전북형 반할 주택 200세대 공급",
+          "canonical_url": "https://www.donga.com/news/Society/article/all/20260405/133674956/1",
+          "published_at": "2026-04-05T01:59:00+00:00",
+          "title_hash": "af12433adf7bccd87e5170545681fd179c97b69c427a583642141ef6adde1047",
+          "keywords": [
+            "전북",
+            "진안",
+            "순창군에",
+            "전북형",
+            "반할",
+            "주택"
+          ]
+        },
+        {
+          "stable_key": "dee7fee5794b3288c51ce625ed2b945c0bc217019167739a5dce20c52c4095f3",
+          "source_key": "cbs-us-rss",
+          "source_name": "CBS News US",
+          "category": "us-politics",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "정치",
+          "language": "en",
+          "title": "Would Michigan investigators be able to prove murder in a case without a body?",
+          "canonical_url": "https://www.cbsnews.com/news/dee-warner-missing-would-michigan-investigators-be-able-to-prove-murder-without-a-body",
+          "published_at": "2026-04-05T01:58:30+00:00",
+          "title_hash": "ba212af3f7566ea634ecfc3b62460569333912661b80e871887489055fca9f26",
+          "keywords": [
+            "would",
+            "michigan",
+            "investigators",
+            "able",
+            "prove",
+            "murder"
+          ]
+        },
+        {
+          "stable_key": "579996ac9b99022436fafa82007a29cbe9d735f8907fb9e6f84f48d3a3804add",
+          "source_key": "nypost-feed",
+          "source_name": "New York Post Feed",
+          "category": "us-world",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "세계",
+          "language": "en",
+          "title": "Nicolás Fernández Mercau garnering interest from European clubs while on big-time scoring pace for NYCFC",
+          "canonical_url": "https://nypost.com/2026/04/04/sports/nicolas-fernandez-mercau-garnering-interest-while-on-big-time-scoring-pace-for-nycfc",
+          "published_at": "2026-04-05T01:58:12+00:00",
+          "title_hash": "843724d5410fd2794bc6cc918b9cc5e23e7d195a981e4a4fa8ddb169aface3c4",
+          "keywords": [
+            "nicol",
+            "fern",
+            "ndez",
+            "mercau",
+            "garnering",
+            "interest"
+          ]
+        },
+        {
+          "stable_key": "5a9d67f6b0c2ce9f6ceb1713e814724b2e899c51ced1d6a7bd471d200f036a9b",
+          "source_key": "sbs-society-rss",
+          "source_name": "SBS Society",
+          "category": "kr-society",
+          "hub": "kr",
+          "hub_label": "대한민국",
+          "section_label": "사회",
+          "language": "ko",
+          "title": "\"남친 구해달라\" 불러놓고 '퍽'…보복성 민원 전화까지",
+          "canonical_url": "https://news.sbs.co.kr/news/endPage.do?cooper=RSSREADER&news_id=N1008505698&plink=RSSLINK",
+          "published_at": "2026-04-05T01:58:00+00:00",
+          "title_hash": "9518c762cdadcc4870f3fcc3ff35888f7a856fcdb6551dfd57a41ee26ba77c9c",
+          "keywords": [
+            "남친",
+            "구해달라",
+            "불러놓고",
+            "보복성",
+            "민원",
+            "전화까지"
+          ]
+        },
+        {
+          "stable_key": "3d31eb5869340d6805bad1707702d9764cf1acdb988fec9d20a2724d9df20799",
+          "source_key": "donga-society-rss",
+          "source_name": "DongA Society",
+          "category": "kr-society",
+          "hub": "kr",
+          "hub_label": "대한민국",
+          "section_label": "사회",
+          "language": "ko",
+          "title": "황차동 코스포 동남권협의회장 “회원사 AX 활용 활성화 추진할 것”",
+          "canonical_url": "https://www.donga.com/news/Society/article/all/20260405/133671677/1",
+          "published_at": "2026-04-05T01:58:00+00:00",
+          "title_hash": "6529e07d974fcab21db39a130cfbf151a5e3850fa958507af184a88bd8600694",
+          "keywords": [
+            "황차동",
+            "코스포",
+            "동남권협의회장",
+            "회원사",
+            "ax",
+            "활용"
+          ]
+        },
+        {
+          "stable_key": "2d87f64d47f1baaaa2c7bbf04eb304635fb9486701cb06d40cc3df6d6fbe8760",
+          "source_key": "asiae-society-rss",
+          "source_name": "Asiae Society",
+          "category": "kr-society",
+          "hub": "kr",
+          "hub_label": "대한민국",
+          "section_label": "사회",
+          "language": "ko",
+          "title": "\"간식 먹듯이 틈틈이한 운동 덕에 치매 위험 '뚝'\"",
+          "canonical_url": "https://www.asiae.co.kr/article/2026040510484635871",
+          "published_at": "2026-04-05T01:57:18+00:00",
+          "title_hash": "4ebfc855c3d54e1cbce7abaf1a9d8c05b23cc995bca104528f57ded31ed3341a",
+          "keywords": [
+            "간식",
+            "먹듯이",
+            "틈틈이한",
+            "운동",
+            "덕에",
+            "치매"
+          ]
+        },
+        {
           "stable_key": "70439b697a75d327fd7278ac2d180124a7f0b156204fe9ab97f921235848e9a1",
           "source_key": "telegram-dada-news2",
           "source_name": "Telegram @dada_news2",
@@ -5823,468 +6285,6 @@
             "move",
             "consider",
             "expelling"
-          ]
-        },
-        {
-          "stable_key": "7613239ea940621f449f5b0656746d3cad28037e5c09f3c1d2af3351d19d9b1a",
-          "source_key": "nypost-feed",
-          "source_name": "New York Post Feed",
-          "category": "us-markets",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "시장",
-          "language": "en",
-          "title": "Kevin Warsh needs to be confirmed as Fed Chair in order to avoid an economic shutdown",
-          "canonical_url": "https://nypost.com/2026/04/04/business/kevin-warsh-needs-to-be-confirmed-as-fed-chair-in-order-to-avoid-an-economic-shutdown",
-          "published_at": "2026-04-05T01:38:17+00:00",
-          "title_hash": "863a3aabdafeab43ed5034bcf7ab5c874339fbc7a81d8e6582eb809715f47712",
-          "keywords": [
-            "kevin",
-            "warsh",
-            "needs",
-            "confirmed",
-            "fed",
-            "chair"
-          ]
-        },
-        {
-          "stable_key": "ffe3e841cf8dbc1c4ec20702d44bd373b71a41d5b7d057af39604fef965609f6",
-          "source_key": "asiae-society-rss",
-          "source_name": "Asiae Society",
-          "category": "kr-society",
-          "hub": "kr",
-          "hub_label": "대한민국",
-          "section_label": "사회",
-          "language": "ko",
-          "title": "서울교육청, 특수교육 등 교육공무직원 548명 공개채용",
-          "canonical_url": "https://www.asiae.co.kr/article/2026040510381518160",
-          "published_at": "2026-04-05T01:38:16+00:00",
-          "title_hash": "65b9017189e04933788dc6e370fd4994371e5e60456f466161da4ef9b08f2cff",
-          "keywords": [
-            "서울교육청",
-            "특수교육",
-            "교육공무직원",
-            "548명",
-            "공개채용",
-            "서울교육청 특수교육"
-          ]
-        },
-        {
-          "stable_key": "42a493da45f17f8d334465591318fbff9f17a4932bf2bd6accdbc601e95b94e7",
-          "source_key": "nypost-feed",
-          "source_name": "New York Post Feed",
-          "category": "us-technology",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "기술",
-          "language": "en",
-          "title": "Knicks’ Miles McBride striving for return to pre-injury form before playoffs",
-          "canonical_url": "https://nypost.com/2026/04/04/sports/knicks-miles-mcbride-striving-for-return-to-pre-injury-form-before-playoffs",
-          "published_at": "2026-04-05T01:38:08+00:00",
-          "title_hash": "e153ffe16a9761bfaffa426f7f8ed9d87ff6a1ed4c05fddc538e1afd743f402f",
-          "keywords": [
-            "knicks",
-            "miles",
-            "mcbride",
-            "striving",
-            "return",
-            "pre"
-          ]
-        },
-        {
-          "stable_key": "66afc5ae0e53830f184925181507ae91fbb08a87c37daf6cb71a82e8076de125",
-          "source_key": "khan-society-rss",
-          "source_name": "Kyunghyang Society",
-          "category": "kr-society",
-          "hub": "kr",
-          "hub_label": "대한민국",
-          "section_label": "사회",
-          "language": "ko",
-          "title": "화천군, 초중고 신입생에 입학 축하금 지급···30~50만 원",
-          "canonical_url": "https://www.khan.co.kr/article/202604051038001",
-          "published_at": "2026-04-05T01:38:00+00:00",
-          "title_hash": "0b89837f4c77a77e44dc6f1771d17a9882590590f41c6d0373c3cc166d229e5f",
-          "keywords": [
-            "화천군",
-            "초중고",
-            "신입생에",
-            "입학",
-            "축하금",
-            "지급"
-          ]
-        },
-        {
-          "stable_key": "5ccceec742ef73e683b36754d226a6e2a8362db9413a54255ed4fad743ecce78",
-          "source_key": "khan-politics-rss",
-          "source_name": "Kyunghyang Politics",
-          "category": "kr-politics",
-          "hub": "kr",
-          "hub_label": "대한민국",
-          "section_label": "정치",
-          "language": "ko",
-          "title": "군 헬기, 산불 진화 중에 유엔사 승인 없이 DMZ 진입…경위 파악",
-          "canonical_url": "https://www.khan.co.kr/article/202604051037011",
-          "published_at": "2026-04-05T01:37:01+00:00",
-          "title_hash": "6cac9d596e743dd61a7dfb05c089748b64e34ab094001680e7e58d9afed365f4",
-          "keywords": [
-            "헬기",
-            "산불",
-            "진화",
-            "중에",
-            "유엔사",
-            "승인"
-          ]
-        },
-        {
-          "stable_key": "da97467290bed22b5ecdb77d1e7c6fc1453af9bee5e8bd1e199fd97a3f692bfb",
-          "source_key": "khan-economy-rss",
-          "source_name": "Kyunghyang Economy",
-          "category": "kr-economy",
-          "hub": "kr",
-          "hub_label": "대한민국",
-          "section_label": "경제",
-          "language": "ko",
-          "title": "한전 “경제 전시 상황에 직면”···그룹사, 긴급 사장단 회의 개최",
-          "canonical_url": "https://www.khan.co.kr/article/202604051037001",
-          "published_at": "2026-04-05T01:37:00+00:00",
-          "title_hash": "d824c85c7c5e53766de6f2425df66acecd8484b82404e8e47d40c21617efe1e6",
-          "keywords": [
-            "한전",
-            "경제",
-            "전시",
-            "상황에",
-            "직면",
-            "그룹사"
-          ]
-        },
-        {
-          "stable_key": "9e1e8aba25b0e1331af0715bfeb06898b9e17fc064b3ef4ac3703f999c0d03c7",
-          "source_key": "telegram-claw-summary",
-          "source_name": "Telegram @clawnewssummary",
-          "category": "military",
-          "hub": "global",
-          "hub_label": "글로벌 전문",
-          "section_label": "군사",
-          "language": "ko",
-          "title": "🚨 [CRITICAL] 호르무즈 해협 알림",
-          "canonical_url": "https://www.aljazeera.com/news/2026/4/5/us-satellite-firm-planet-labs-announces-blackout-on-war-on-iran-images?traffic_source=rss",
-          "published_at": "2026-04-05T01:36:25+00:00",
-          "title_hash": "1ba172554ef1c7fcb4ab3d83322e6f471392708251d575eb55dfe385f79a6b1c",
-          "keywords": [
-            "critical",
-            "호르무즈",
-            "해협",
-            "알림",
-            "critical 호르무즈",
-            "호르무즈 해협"
-          ]
-        },
-        {
-          "stable_key": "0e8f3bdce0dcb9123b363c298c10a8db6cc8b6c3081910765b3c1a35e8c1f634",
-          "source_key": "mk-society-rss",
-          "source_name": "Maeil Business Society",
-          "category": "kr-society",
-          "hub": "kr",
-          "hub_label": "대한민국",
-          "section_label": "사회",
-          "language": "ko",
-          "title": "“감기 조심하세요”…월요일 비 그친 뒤 기온 ‘뚝’",
-          "canonical_url": "https://www.mk.co.kr/news/society/12008132",
-          "published_at": "2026-04-05T01:34:32+00:00",
-          "title_hash": "2f4dae76e7f6553a9c1d9a681ba757d6239cab75e52603b2aa0c0773b54830a1",
-          "keywords": [
-            "감기",
-            "조심하세요",
-            "월요일",
-            "그친",
-            "기온",
-            "감기 조심하세요"
-          ]
-        },
-        {
-          "stable_key": "af544c9c70b857171c84143caa996552ddf55f00c4a5f22f7159f6b90c7a8951",
-          "source_key": "sbs-society-rss",
-          "source_name": "SBS Society",
-          "category": "kr-society",
-          "hub": "kr",
-          "hub_label": "대한민국",
-          "section_label": "사회",
-          "language": "ko",
-          "title": "경찰청·미국 에너지부 심포지엄 공동개최…AI 신종테러 대응책 등 논의",
-          "canonical_url": "https://news.sbs.co.kr/news/endPage.do?cooper=RSSREADER&news_id=N1008505692&plink=RSSLINK",
-          "published_at": "2026-04-05T01:34:00+00:00",
-          "title_hash": "df8267922740feb1bcc6b84f1ce4ca0887a309b204b72dd2327130edda422620",
-          "keywords": [
-            "경찰청",
-            "미국",
-            "에너지부",
-            "심포지엄",
-            "공동개최",
-            "ai"
-          ]
-        },
-        {
-          "stable_key": "42ea59c785cdbd25701b74d39f2c6a40af22b17b6cfddbd48c638f7546f42d42",
-          "source_key": "donga-culture-rss",
-          "source_name": "DongA Culture",
-          "category": "kr-culture",
-          "hub": "kr",
-          "hub_label": "대한민국",
-          "section_label": "문화",
-          "language": "ko",
-          "title": "안젤리나 졸리 딸, K팝 뮤직비디오에 등장",
-          "canonical_url": "https://www.donga.com/news/Culture/article/all/20260405/133675293/1",
-          "published_at": "2026-04-05T01:31:00+00:00",
-          "title_hash": "b6334c87466ea28c896e86d3dafa8b37bd2b9eed82e4c5612b923d11d3b19b2c",
-          "keywords": [
-            "안젤리나",
-            "졸리",
-            "k팝",
-            "뮤직비디오에",
-            "등장",
-            "안젤리나 졸리"
-          ]
-        },
-        {
-          "stable_key": "f256833dced092a00e3056ed3db087ae2b29e3540862eddd4dc1f4d911cbe0b5",
-          "source_key": "mk-society-rss",
-          "source_name": "Maeil Business Society",
-          "category": "kr-society",
-          "hub": "kr",
-          "hub_label": "대한민국",
-          "section_label": "사회",
-          "language": "ko",
-          "title": "“조금 식었을 뿐인데”…실온서 2시간 지난 볶음밥, 아이에게 먹이면",
-          "canonical_url": "https://www.mk.co.kr/news/society/12008130",
-          "published_at": "2026-04-05T01:28:48+00:00",
-          "title_hash": "f53ba4dd2e7b5416227f27f282a58139f8616730711f57f5a435547e70d2d8a5",
-          "keywords": [
-            "조금",
-            "식었을",
-            "뿐인데",
-            "실온서",
-            "2시간",
-            "지난"
-          ]
-        },
-        {
-          "stable_key": "0b384cc55e3239a7679f408a3ac20d7403c9b5df458186b3e56061d0f63b8b03",
-          "source_key": "donga-society-rss",
-          "source_name": "DongA Society",
-          "category": "kr-society",
-          "hub": "kr",
-          "hub_label": "대한민국",
-          "section_label": "사회",
-          "language": "ko",
-          "title": "“다른 남성과 침대에 있자 격분”…전 연인 흉기 협박한 30대",
-          "canonical_url": "https://www.donga.com/news/Society/article/all/20260405/133675303/1",
-          "published_at": "2026-04-05T01:28:24+00:00",
-          "title_hash": "fc362cfef62938d233b0bed2f91970d74653c0bac03fe0b5903c83b407c41208",
-          "keywords": [
-            "다른",
-            "남성과",
-            "침대에",
-            "있자",
-            "격분",
-            "연인"
-          ]
-        },
-        {
-          "stable_key": "fed0fa7dad43331469c615413b04b59704d56f1238d737cce21f3e7e8cd57506",
-          "source_key": "donga-society-rss",
-          "source_name": "DongA Society",
-          "category": "kr-society",
-          "hub": "kr",
-          "hub_label": "대한민국",
-          "section_label": "사회",
-          "language": "ko",
-          "title": "“보면 뭘 아냐” 출동 구급대원 폭행…30대, 집유로 ‘감형’",
-          "canonical_url": "https://www.donga.com/news/Society/article/all/20260405/133675295/1",
-          "published_at": "2026-04-05T01:27:07+00:00",
-          "title_hash": "04dfa4f6a664e1f948c87405a54b835a219e2570b983f16064d53cff2454d791",
-          "keywords": [
-            "보면",
-            "아냐",
-            "출동",
-            "구급대원",
-            "폭행",
-            "30대"
-          ]
-        },
-        {
-          "stable_key": "3d55ce53db7d18330b8bdf15abb2c01e7042f77157812efe668dfb1ad285b3d7",
-          "source_key": "nypost-feed",
-          "source_name": "New York Post Feed",
-          "category": "us-economy",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "경제",
-          "language": "en",
-          "title": "Jake Bird’s Triple-A stint helped build strengths ahead of promising Yankees start",
-          "canonical_url": "https://nypost.com/2026/04/04/sports/jake-birds-triple-a-stint-helped-build-strengths-ahead-of-promising-yankees-start",
-          "published_at": "2026-04-05T01:23:05+00:00",
-          "title_hash": "5c4242b6cd851146c4f261b20b754d3b467fc3f7eab0210fa4db8e15c0e73b3e",
-          "keywords": [
-            "jake",
-            "bird",
-            "triple",
-            "stint",
-            "helped",
-            "build"
-          ]
-        },
-        {
-          "stable_key": "e7f14643c1b94b16e7799a4f458504230b14c06739a5ce258a3c9f345aab92ae",
-          "source_key": "khan-society-rss",
-          "source_name": "Kyunghyang Society",
-          "category": "kr-society",
-          "hub": "kr",
-          "hub_label": "대한민국",
-          "section_label": "사회",
-          "language": "ko",
-          "title": "강원도, 무기질 비료 52억 원 지원···농가 경영 부담 완화",
-          "canonical_url": "https://www.khan.co.kr/article/202604051023001",
-          "published_at": "2026-04-05T01:23:00+00:00",
-          "title_hash": "381347fcdc433b25e98c9b74f1ffd8b9b78ba5798e8ab48d079a9e4a7be3877b",
-          "keywords": [
-            "강원도",
-            "무기질",
-            "비료",
-            "52억",
-            "지원",
-            "농가"
-          ]
-        },
-        {
-          "stable_key": "03b035c7de9625095c7073f4f19b5b32e9ad9d289b0cd81a2d196f299f9ee164",
-          "source_key": "washingtonexaminer-feed",
-          "source_name": "Washington Examiner Feed",
-          "category": "us-politics",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "정치",
-          "language": "en",
-          "title": "White House slaps down rumors Trump is at Walter Reed",
-          "canonical_url": "https://www.washingtonexaminer.com/news/white-house/4516444/white-house-trump-walter-reed-rumors",
-          "published_at": "2026-04-05T01:22:17+00:00",
-          "title_hash": "ac142aa48a950b32b31a6e4cbfd8943037f573845d96afc9bce7e6c04db801a0",
-          "keywords": [
-            "white",
-            "house",
-            "slaps",
-            "down",
-            "rumors",
-            "trump"
-          ]
-        },
-        {
-          "stable_key": "eb69ae525cdb7614fc9d5cbecb48d91c4369b4a32d0f767b73bca293003119f6",
-          "source_key": "etoday-economy-rss",
-          "source_name": "eToday Economy",
-          "category": "kr-economy",
-          "hub": "kr",
-          "hub_label": "대한민국",
-          "section_label": "경제",
-          "language": "ko",
-          "title": "중국 성장둔화 시 한국 GDP 0.22% 감소…공급망·첨단산업 ‘이중 압박’",
-          "canonical_url": "https://www.etoday.co.kr/news/view/2572708",
-          "published_at": "2026-04-05T01:22:00+00:00",
-          "title_hash": "195fb4e3aea2cbe579798694195b1dac003b50b030360a03eb599ba555d54911",
-          "keywords": [
-            "중국",
-            "성장둔화",
-            "한국",
-            "gdp",
-            "감소",
-            "공급망"
-          ]
-        },
-        {
-          "stable_key": "61c82754bf58f30673678c9082f5476bd779d03f4fb008dd1e71feee18c47f2a",
-          "source_key": "etoday-economy-rss",
-          "source_name": "eToday Economy",
-          "category": "kr-economy",
-          "hub": "kr",
-          "hub_label": "대한민국",
-          "section_label": "경제",
-          "language": "ko",
-          "title": "해외 IB \"韓 물가 3% 뚫을 것\"⋯공산품·서비스 고물가 도미노 비상",
-          "canonical_url": "https://www.etoday.co.kr/news/view/2572754",
-          "published_at": "2026-04-05T01:21:00+00:00",
-          "title_hash": "f0eb5085aa76675c8aa77b9db3926cfdf8da8fa123ed09c657f432faec9eb1cb",
-          "keywords": [
-            "해외",
-            "ib",
-            "물가",
-            "뚫을",
-            "공산품",
-            "서비스"
-          ]
-        },
-        {
-          "stable_key": "20d5880aa8daf8c27892726f47bc4d2477116d93f46e83f48350361e2ca9d084",
-          "source_key": "fox-politics-rss",
-          "source_name": "Fox News Politics",
-          "category": "us-politics",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "정치",
-          "language": "en",
-          "title": "DHS slams Democrat Sen Chris Van Hollen claim, says illegal alien caused crash while fleeing ICE",
-          "canonical_url": "https://www.foxnews.com/politics/dhs-slams-democrat-sen-chris-van-hollen-claim-illegal-alien-caused-crash-fleeing-ice",
-          "published_at": "2026-04-05T01:18:47+00:00",
-          "title_hash": "303a9c2bede376264969fb89ebf7700dadeda102f35da2d73bc5fb05eb7f285a",
-          "keywords": [
-            "dhs",
-            "slams",
-            "democrat",
-            "sen",
-            "chris",
-            "van"
-          ]
-        },
-        {
-          "stable_key": "9a2b9da4aacbd36485044046f02386411b9bba025ce813df638268ede1e96f62",
-          "source_key": "newsweek-feed",
-          "source_name": "Newsweek Feed",
-          "category": "us-technology",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "기술",
-          "language": "en",
-          "title": "California Wildfire Update: Evacuations Lifted as Springs Fire Contained",
-          "canonical_url": "https://www.newsweek.com/california-wildfire-update-evacuations-lifted-as-springs-fire-contained-11784212",
-          "published_at": "2026-04-05T01:18:04+00:00",
-          "title_hash": "063ef589c7d51aa058ee4f3907134071f87849470b169c153ec5001296082e22",
-          "keywords": [
-            "california",
-            "wildfire",
-            "evacuations",
-            "lifted",
-            "springs",
-            "fire"
-          ]
-        },
-        {
-          "stable_key": "ec3938ec954782a33d7bdb9bc708cfbfdcbf0ba9be49323a169f4d7f58ded3c5",
-          "source_key": "khan-economy-rss",
-          "source_name": "Kyunghyang Economy",
-          "category": "kr-economy",
-          "hub": "kr",
-          "hub_label": "대한민국",
-          "section_label": "경제",
-          "language": "ko",
-          "title": "봄마다 반복되는 ‘이상기후 공포’···충남도 농기원, 과수·채소 농가 현장점검 강화",
-          "canonical_url": "https://www.khan.co.kr/article/202604051018011",
-          "published_at": "2026-04-05T01:18:01+00:00",
-          "title_hash": "d8e9f36649d3a478d3c93a56f9f4e141a2232ecd519404924168e259b4d2a245",
-          "keywords": [
-            "봄마다",
-            "반복되는",
-            "이상기후",
-            "공포",
-            "충남도",
-            "농기원"
           ]
         }
       ]
