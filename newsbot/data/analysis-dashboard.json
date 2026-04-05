@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-04-05T14:30:39.465502+00:00",
+  "generated_at": "2026-04-05T14:54:19.128316+00:00",
   "retention_days": 90,
   "default_window": "7d",
-  "lifetime_total_articles": 6947,
-  "lifetime_unknown_time_count": 1441,
+  "lifetime_total_articles": 6973,
+  "lifetime_unknown_time_count": 1449,
   "available_windows": [
     {
       "key": "24h",
@@ -29,18 +29,18 @@
   "windows": {
     "24h": {
       "label": "24h",
-      "article_count": 1472,
+      "article_count": 1477,
       "unknown_time_count": 0,
       "active_source_count": 83,
       "repeated_title_count": 66,
       "timeline": [
         {
           "date": "2026-04-04",
-          "count": 462
+          "count": 450
         },
         {
           "date": "2026-04-05",
-          "count": 1010
+          "count": 1027
         }
       ],
       "top_keywords": [
@@ -50,31 +50,31 @@
         },
         {
           "keyword": "iran",
-          "count": 75
+          "count": 74
         },
         {
           "keyword": "ai",
-          "count": 35
+          "count": 36
         },
         {
           "keyword": "us",
-          "count": 32
+          "count": 30
         },
         {
           "keyword": "new",
-          "count": 31
+          "count": 29
         },
         {
           "keyword": "says",
           "count": 29
         },
         {
-          "keyword": "after",
-          "count": 26
+          "keyword": "how",
+          "count": 28
         },
         {
-          "keyword": "how",
-          "count": 26
+          "keyword": "after",
+          "count": 27
         },
         {
           "keyword": "대통령",
@@ -82,11 +82,11 @@
         },
         {
           "keyword": "airman",
-          "count": 21
+          "count": 22
         },
         {
           "keyword": "easter",
-          "count": 21
+          "count": 22
         },
         {
           "keyword": "호르무즈",
@@ -112,12 +112,12 @@
         {
           "source_key": "newsweek-feed",
           "name": "Newsweek Feed",
-          "count": 60
+          "count": 61
         },
         {
           "source_key": "guardian-us-rss",
           "name": "The Guardian US",
-          "count": 57
+          "count": 56
         },
         {
           "source_key": "asiae-society-rss",
@@ -132,12 +132,12 @@
         {
           "source_key": "forbes-innovation-rss",
           "name": "Forbes Innovation",
-          "count": 43
+          "count": 44
         },
         {
           "source_key": "yahoo-news-rss",
           "name": "Yahoo News RSS",
-          "count": 42
+          "count": 43
         },
         {
           "source_key": "breitbart-feed",
@@ -145,21 +145,21 @@
           "count": 41
         },
         {
-          "source_key": "forbes-business-rss",
-          "name": "Forbes Business",
-          "count": 38
-        },
-        {
           "source_key": "khan-society-rss",
           "name": "Kyunghyang Society",
           "count": 38
+        },
+        {
+          "source_key": "telegram-dada-news2",
+          "name": "Telegram @dada_news2",
+          "count": 37
         }
       ],
       "top_hubs": [
         {
           "key": "us",
           "label": "미국",
-          "count": 761
+          "count": 766
         },
         {
           "key": "kr",
@@ -192,7 +192,7 @@
           "label": "기술",
           "hub": "us",
           "hub_label": "미국",
-          "count": 231
+          "count": 234
         },
         {
           "key": "kr-economy",
@@ -206,14 +206,14 @@
           "label": "세계",
           "hub": "us",
           "hub_label": "미국",
-          "count": 112
+          "count": 114
         },
         {
           "key": "us-markets",
           "label": "시장",
           "hub": "us",
           "hub_label": "미국",
-          "count": 96
+          "count": 99
         },
         {
           "key": "kr-politics",
@@ -227,7 +227,7 @@
           "label": "경제",
           "hub": "us",
           "hub_label": "미국",
-          "count": 76
+          "count": 73
         },
         {
           "key": "kr-sports",
@@ -261,7 +261,7 @@
       "language_counts": [
         {
           "language": "en",
-          "count": 784
+          "count": 789
         },
         {
           "language": "ko",
@@ -349,6 +349,15 @@
           "latest_published_at": "2026-04-04T19:18:59+00:00",
           "canonical_url": "https://www.cnbc.com/2026/04/04/polymarket-war-bet-iran-rescue-prediction-market-moulton.html",
           "sort_timestamp": 1775330339
+        },
+        {
+          "title_hash": "8ead2e8e5967bbdb64628b8a741fec1dac9b62c94ee14f57080e98b23c0d9fbb",
+          "title": "Trump threatens Iran with ‘Hell’ over Strait of Hormuz in profane post",
+          "article_count": 2,
+          "source_count": 2,
+          "latest_published_at": "2026-04-05T14:27:44+00:00",
+          "canonical_url": "https://www.washingtonpost.com/politics/2026/04/05/trump-iran-strait-hormuz-easter-threat",
+          "sort_timestamp": 1775399264
         },
         {
           "title_hash": "4464c8b342c2973cc3dcfaadf8bd34aaa126ecc582396721fd57a44c7c07a4c0",
@@ -439,18 +448,337 @@
           "latest_published_at": "2026-04-05T10:00:00+00:00",
           "canonical_url": "https://www.latimes.com/politics/story/2026-04-05/inside-pentagon-fears-of-disrupted-war-effort-after-army-chiefs-ouster",
           "sort_timestamp": 1775383200
-        },
-        {
-          "title_hash": "7e179ca93935c88f6aea756cbbd3904951c3fc130ab948afb99e4bd3ffa7eb02",
-          "title": "The U.S. is dangling a familiar, and failed, ghost of history over Iran",
-          "article_count": 2,
-          "source_count": 2,
-          "latest_published_at": "2026-04-05T10:00:00+00:00",
-          "canonical_url": "https://www.ms.now/opinion/iran-war-trump-reza-pahlavi-iranian-leadership",
-          "sort_timestamp": 1775383200
         }
       ],
       "recent_samples": [
+        {
+          "stable_key": "1cc93386805dd7ee18334aa9d8d2989e0aed3a38e8bd2e94792c7e45f19f10bc",
+          "source_key": "newsweek-feed",
+          "source_name": "Newsweek Feed",
+          "category": "us-technology",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "기술",
+          "language": "en",
+          "title": "UConn Coach Sends 2-Word Message for Michigan Championship Game",
+          "canonical_url": "https://www.newsweek.com/sports/ncaa/uconn-coach-sends-2-word-message-for-michigan-championship-game-11785080",
+          "published_at": "2026-04-05T14:51:01+00:00",
+          "title_hash": "61521873c08a36ae4b488bc277160c857673793d90e67e1b32682ba493887481",
+          "keywords": [
+            "uconn",
+            "coach",
+            "sends",
+            "word",
+            "message",
+            "michigan"
+          ]
+        },
+        {
+          "stable_key": "47c9533a0f4df46b09b1cf2190973827ecfdc1e736bd55314eab4fef33925201",
+          "source_key": "businessinsider-feed",
+          "source_name": "Business Insider Feed",
+          "category": "us-technology",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "기술",
+          "language": "en",
+          "title": "I tried Italian sandwiches from Subway, Jimmy John's, and Jersey Mike's. One stood out from the rest.",
+          "canonical_url": "https://www.businessinsider.com/which-chain-best-italian-sandwich-subway-jimmy-johns-jersey-mikes-2026-4",
+          "published_at": "2026-04-05T14:48:01+00:00",
+          "title_hash": "79ab2a24b6af225d5044a6dd2f0a1b56579c60d51162c033df4c2afca223fb87",
+          "keywords": [
+            "tried",
+            "italian",
+            "sandwiches",
+            "subway",
+            "jimmy",
+            "john"
+          ]
+        },
+        {
+          "stable_key": "5367081974e239bf25e712bd73afd8ce88fe309516f8c8123a30496cae973b1b",
+          "source_key": "nypost-feed",
+          "source_name": "New York Post Feed",
+          "category": "us-technology",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "기술",
+          "language": "en",
+          "title": "Floundering Islanders must take advantage of rare break with playoff hopes in peril",
+          "canonical_url": "https://nypost.com/2026/04/05/sports/floundering-islanders-must-take-advantage-of-rare-break",
+          "published_at": "2026-04-05T14:47:44+00:00",
+          "title_hash": "c7c2a218ae311744e66bd2a72a34de2fa33bf8e425a8da53c1f547b958809b13",
+          "keywords": [
+            "floundering",
+            "islanders",
+            "must",
+            "take",
+            "advantage",
+            "rare"
+          ]
+        },
+        {
+          "stable_key": "1f52e5ae84a22d7750d888fb9daa378c5a461b1c2c8d8ef1b5e9938c2dd2760e",
+          "source_key": "nyt-world-rss",
+          "source_name": "New York Times World",
+          "category": "us-world",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "세계",
+          "language": "en",
+          "title": "How the C.I.A. Helped Locate a U.S. Airman Hiding on an Iranian Ridgeline",
+          "canonical_url": "https://www.nytimes.com/2026/04/05/world/middleeast/cia-us-airman-rescue-iran.html",
+          "published_at": "2026-04-05T14:46:40+00:00",
+          "title_hash": "2c419d3039367ec1c821f1bb3c01a29ad42e821118904a7cf96b0c72b1039a33",
+          "keywords": [
+            "how",
+            "helped",
+            "locate",
+            "airman",
+            "hiding",
+            "iranian"
+          ]
+        },
+        {
+          "stable_key": "78bca90a4bfcdfcc9588947720ceaed0cdce8f054cb70b549d175db0f282ecc8",
+          "source_key": "forbes-innovation-rss",
+          "source_name": "Forbes Innovation",
+          "category": "us-technology",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "기술",
+          "language": "en",
+          "title": "Is The Tesla Diner A Flop?",
+          "canonical_url": "https://www.forbes.com/sites/brookecrothers/2026/04/05/is-the-tesla-diner-a-flop",
+          "published_at": "2026-04-05T14:46:03+00:00",
+          "title_hash": "2da47cd6ac446dbe4d91a3ffacded83bbc4d4b86f87b6a78912329e668e05e66",
+          "keywords": [
+            "tesla",
+            "diner",
+            "flop",
+            "tesla diner",
+            "diner flop"
+          ]
+        },
+        {
+          "stable_key": "d962665a2c901eb24bfb602adeefd005923fe74139e91825d2907034f24a8c0a",
+          "source_key": "bloomberg-markets-rss",
+          "source_name": "Bloomberg Markets",
+          "category": "us-markets",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "시장",
+          "language": "en",
+          "title": "Trump Gives 48-Hour Ultimatum to Reopen Strait",
+          "canonical_url": "https://www.bloomberg.com/news/videos/2026-04-05/trump-gives-48-hour-ultimatum-to-reopen-strait-video",
+          "published_at": "2026-04-05T14:44:32+00:00",
+          "title_hash": "d27a9b69e82162afc77b0a43544882785f916bee917f67f6f33a1349e1878c55",
+          "keywords": [
+            "trump",
+            "gives",
+            "hour",
+            "ultimatum",
+            "reopen",
+            "strait"
+          ]
+        },
+        {
+          "stable_key": "f0721fff45089a77f39d83633613ad9baad7bf468871ed8388be2a84f0c41329",
+          "source_key": "nyt-world-rss",
+          "source_name": "New York Times World",
+          "category": "us-world",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "세계",
+          "language": "en",
+          "title": "Former Matador Is Gored to Death Before Annual Bullfight in Spain",
+          "canonical_url": "https://www.nytimes.com/2026/04/05/world/europe/matador-dead-bull-fighting-malaga.html",
+          "published_at": "2026-04-05T14:37:59+00:00",
+          "title_hash": "049cc1dad107827c24944c0f01c7b47d34803ae75c90ce2b4ef8fcdc9f9d62ee",
+          "keywords": [
+            "former",
+            "matador",
+            "gored",
+            "death",
+            "before",
+            "annual"
+          ]
+        },
+        {
+          "stable_key": "de5169b4782fdae09bcc8fdbacbdcce9bcab8403945811926fe2391c49109270",
+          "source_key": "forbes-innovation-rss",
+          "source_name": "Forbes Innovation",
+          "category": "us-technology",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "기술",
+          "language": "en",
+          "title": "Apple’s Update Mistake—Hundreds Of Millions Of iPhones Affected",
+          "canonical_url": "https://www.forbes.com/sites/zakdoffman/2026/04/05/apples-update-mistake-hundreds-of-millions-of-iphones-affected",
+          "published_at": "2026-04-05T14:37:46+00:00",
+          "title_hash": "813602bd0b631ecea775860a59a0242da496f8596a3c112fb78d93781a952720",
+          "keywords": [
+            "apple",
+            "mistake",
+            "hundreds",
+            "millions",
+            "iphones",
+            "affected"
+          ]
+        },
+        {
+          "stable_key": "b75607d68690a2dfb2b8286f613be57e1a8c5efc7e0650faf9405a17b3d32c93",
+          "source_key": "forbes-business-rss",
+          "source_name": "Forbes Business",
+          "category": "us-economy",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "경제",
+          "language": "en",
+          "title": "2026 Masters: How To Watch - TV And Streaming Schedule",
+          "canonical_url": "https://www.forbes.com/sites/mikefore/2026/04/05/2026-masters-how-to-watchtv-and-streaming-schedule",
+          "published_at": "2026-04-05T14:37:07+00:00",
+          "title_hash": "b988b15e24c178236aa4db5783dc6a605c689e182dd1cfff11827cc947f1ace2",
+          "keywords": [
+            "masters",
+            "how",
+            "watch",
+            "tv",
+            "streaming",
+            "schedule"
+          ]
+        },
+        {
+          "stable_key": "0f2a487eab8cec82d720a2d06fee0b80a48b67f7d23b945fc4647331b12a881a",
+          "source_key": "nypost-feed",
+          "source_name": "New York Post Feed",
+          "category": "us-politics",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "정치",
+          "language": "en",
+          "title": "Trump heralds ‘Easter Miracle’ after daring rescue of F-15 airman in Iran: ‘The enemy was large and violent’",
+          "canonical_url": "https://nypost.com/2026/04/05/us-news/trump-heralds-easter-miracle-after-rescue-of-f-15-airman-in-iran",
+          "published_at": "2026-04-05T14:31:37+00:00",
+          "title_hash": "a350e4f32f24ef9a894b819a168beaa1cc281b9841309f9042b62b44c697c21a",
+          "keywords": [
+            "trump",
+            "heralds",
+            "easter",
+            "miracle",
+            "after",
+            "daring"
+          ]
+        },
+        {
+          "stable_key": "b6d241365e2fbc577a8558be455d519a018e2c6635ec2f9c070412d682c03510",
+          "source_key": "salon-feed",
+          "source_name": "Salon Feed",
+          "category": "us-markets",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "시장",
+          "language": "en",
+          "title": "Why does the right hate the pope so much?",
+          "canonical_url": "https://www.salon.com/2026/04/05/why-does-the-right-hate-the-pope-so-much",
+          "published_at": "2026-04-05T14:30:39+00:00",
+          "title_hash": "69632acfcf875c50aa7a3360996693891165c68aa0f8b351445d53b904a09dbd",
+          "keywords": [
+            "why",
+            "does",
+            "right",
+            "hate",
+            "pope",
+            "so"
+          ]
+        },
+        {
+          "stable_key": "f0313e77294e4083f6b2030e89454d01db4ce3ef2c55673aae70ec8a41df55d3",
+          "source_key": "cbs-us-rss",
+          "source_name": "CBS News US",
+          "category": "us-politics",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "정치",
+          "language": "en",
+          "title": "Nature: Spring in Pennsylvania",
+          "canonical_url": "https://www.cbsnews.com/video/nature-spring-in-pennsylvania",
+          "published_at": "2026-04-05T14:30:02+00:00",
+          "title_hash": "f6d19f9a62c3b25542e674bedafdcad5400791ec6df036012aa74e54093b58b0",
+          "keywords": [
+            "nature",
+            "spring",
+            "pennsylvania",
+            "nature spring",
+            "spring pennsylvania"
+          ]
+        },
+        {
+          "stable_key": "2d5636687e2b06ced7050a04c43f3982622ff7f7d66887e6154304978bcc2a0e",
+          "source_key": "cbs-us-rss",
+          "source_name": "CBS News US",
+          "category": "us-politics",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "정치",
+          "language": "en",
+          "title": "These United States: An ode to baseball",
+          "canonical_url": "https://www.cbsnews.com/video/these-united-states-an-ode-to-baseball",
+          "published_at": "2026-04-05T14:27:51+00:00",
+          "title_hash": "1b476139d6a066773dd398f226d0f27a48898147b26d67199b6e46d270adddd3",
+          "keywords": [
+            "these",
+            "united",
+            "states",
+            "ode",
+            "baseball",
+            "these united"
+          ]
+        },
+        {
+          "stable_key": "28abe8c7940f07447415655c83b21a0bcf09abc971e77b2af5e6bc60f4ab0531",
+          "source_key": "wapo-world-rss",
+          "source_name": "Washington Post World",
+          "category": "us-world",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "세계",
+          "language": "en",
+          "title": "Trump threatens Iran with ‘Hell’ over Strait of Hormuz in profane post",
+          "canonical_url": "https://www.washingtonpost.com/politics/2026/04/05/trump-iran-strait-hormuz-easter-threat",
+          "published_at": "2026-04-05T14:27:44+00:00",
+          "title_hash": "8ead2e8e5967bbdb64628b8a741fec1dac9b62c94ee14f57080e98b23c0d9fbb",
+          "keywords": [
+            "trump",
+            "threatens",
+            "iran",
+            "hell",
+            "over",
+            "strait"
+          ]
+        },
+        {
+          "stable_key": "6a7b100834b802d9d6f0c58dc92d44530baa9e265f2ad8e6cadedab741216f15",
+          "source_key": "wapo-politics-rss",
+          "source_name": "Washington Post Politics",
+          "category": "us-politics",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "정치",
+          "language": "en",
+          "title": "Trump threatens Iran with ‘Hell’ over Strait of Hormuz in profane post",
+          "canonical_url": "https://www.washingtonpost.com/politics/2026/04/05/trump-iran-strait-hormuz-easter-threat",
+          "published_at": "2026-04-05T14:27:44+00:00",
+          "title_hash": "8ead2e8e5967bbdb64628b8a741fec1dac9b62c94ee14f57080e98b23c0d9fbb",
+          "keywords": [
+            "trump",
+            "threatens",
+            "iran",
+            "hell",
+            "over",
+            "strait"
+          ]
+        },
         {
           "stable_key": "924fe3317a4b6b227219f720384fbef303f6f64a8e3926fbdd53775f73c46f1d",
           "source_key": "abc-money-rss",
@@ -780,346 +1108,16 @@
             "emboldened",
             "successful"
           ]
-        },
-        {
-          "stable_key": "9f4ed6181b4e87f434513a4dbc2b687ce9fa8ad01e6cfa081e26e30230f7a1d0",
-          "source_key": "cbs-world-rss",
-          "source_name": "CBS News World",
-          "category": "us-world",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "세계",
-          "language": "en",
-          "title": "Sister recounts 903-day fight to free sibling kidnapped in Iraq",
-          "canonical_url": "https://www.cbsnews.com/news/sister-recounts-relentless-903-day-fight-to-free-sibling-kidnapped-iraq",
-          "published_at": "2026-04-05T14:01:53+00:00",
-          "title_hash": "c07f00c8384f73c197784d5255684e7734acca53822e0edcda7e62362206bd0b",
-          "keywords": [
-            "sister",
-            "recounts",
-            "day",
-            "fight",
-            "free",
-            "sibling"
-          ]
-        },
-        {
-          "stable_key": "66c42efbccbf79beba51890445b62980340a6b2de79a2f1e82e79b574e7aa8e6",
-          "source_key": "nypost-feed",
-          "source_name": "New York Post Feed",
-          "category": "us-economy",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "경제",
-          "language": "en",
-          "title": "One mistake unknowingly racks up over $5K on family’s cell phone bill — here’s how to prevent this from happening to you",
-          "canonical_url": "https://nypost.com/2026/04/05/lifestyle/teen-unknowingly-racks-up-over-5k-on-family-cell-phone-bill",
-          "published_at": "2026-04-05T14:01:45+00:00",
-          "title_hash": "522041a5927c129d49b1914c6d01c625997b0057dbad546b08a791165175e436",
-          "keywords": [
-            "one",
-            "mistake",
-            "unknowingly",
-            "racks",
-            "up",
-            "over"
-          ]
-        },
-        {
-          "stable_key": "1bcb63c57521e95330a0a4b87751696f21bd6d7533d22e140b130a22f73b4a65",
-          "source_key": "guardian-us-rss",
-          "source_name": "The Guardian US",
-          "category": "us-markets",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "시장",
-          "language": "en",
-          "title": "‘I always considered social media evil’: big tobacco whistleblower on tech’s addictive products",
-          "canonical_url": "https://www.theguardian.com/media/2026/apr/05/big-tobacco-whistleblower-social-media",
-          "published_at": "2026-04-05T14:00:52+00:00",
-          "title_hash": "3388b727866f6f5c74dde21ffc0399e7a0d0bb1c7c71c112393adb32670e0b34",
-          "keywords": [
-            "always",
-            "considered",
-            "social",
-            "media",
-            "evil",
-            "big"
-          ]
-        },
-        {
-          "stable_key": "b9d1c63082f35bf7d7b3db8154c913c80187299f81aa7772aad3fe04c00749c5",
-          "source_key": "guardian-us-rss",
-          "source_name": "The Guardian US",
-          "category": "us-world",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "세계",
-          "language": "en",
-          "title": "Easter Sunday around the world – in pictures",
-          "canonical_url": "https://www.theguardian.com/lifeandstyle/gallery/2026/apr/05/easter-sunday-around-the-world-in-pictures",
-          "published_at": "2026-04-05T14:00:25+00:00",
-          "title_hash": "f0c887f2bcace5ae5485efe2c8030fd44bcfb29886f8b675b0d6df0b7ad4a38b",
-          "keywords": [
-            "easter",
-            "sunday",
-            "around",
-            "world",
-            "pictures",
-            "easter sunday"
-          ]
-        },
-        {
-          "stable_key": "5dab70a6f8029a2d3b0ea9cfb9cc8dddceb6552ae95a8c778ae69f88aeb9acfc",
-          "source_key": "cbs-us-rss",
-          "source_name": "CBS News US",
-          "category": "us-politics",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "정치",
-          "language": "en",
-          "title": "Signs of compassion from a deaf first-grader's classmates",
-          "canonical_url": "https://www.cbsnews.com/video/signs-of-compassion-from-a-deaf-first-graders-classmates",
-          "published_at": "2026-04-05T14:00:11+00:00",
-          "title_hash": "e59ac6004c3a26e079f2436f8ddc04ab0cf0443e1c186a60bb772f1031d16bee",
-          "keywords": [
-            "signs",
-            "compassion",
-            "deaf",
-            "first",
-            "grader",
-            "classmates"
-          ]
-        },
-        {
-          "stable_key": "63dfabd1427d3c3606271430f6a66ff2522852cfc76c26010792198f00ed4418",
-          "source_key": "forbes-innovation-rss",
-          "source_name": "Forbes Innovation",
-          "category": "us-technology",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "기술",
-          "language": "en",
-          "title": "3 Relationship Habits That Predict Lasting Happiness—By A Psychologist",
-          "canonical_url": "https://www.forbes.com/sites/traversmark/2026/04/05/3-relationship-habits-that-predict-lasting-happiness-by-a-psychologist",
-          "published_at": "2026-04-05T14:00:09+00:00",
-          "title_hash": "0c4e7e0b3667c84032e162d18cda5d7c31e701e54c666edaa42a17692d4420ac",
-          "keywords": [
-            "relationship",
-            "habits",
-            "predict",
-            "lasting",
-            "happiness",
-            "psychologist"
-          ]
-        },
-        {
-          "stable_key": "9f930e026621424aa7c745c997f3ef5e8ec293407d4d3800ea24c4de7bd1b792",
-          "source_key": "forbes-business-rss",
-          "source_name": "Forbes Business",
-          "category": "us-economy",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "경제",
-          "language": "en",
-          "title": "UConn Star Tarris Reed Jr. To Face Former Michigan Squad In Final",
-          "canonical_url": "https://www.forbes.com/sites/jefffedotin/2026/04/05/uconn-star-tarris-reed-jr-to-face-former-michigan-squad-in-final",
-          "published_at": "2026-04-05T14:00:02+00:00",
-          "title_hash": "14a58eb7ef63aac666f528dbfc9eb983513ca04988fda36b42b4a9897059a42c",
-          "keywords": [
-            "uconn",
-            "star",
-            "tarris",
-            "reed",
-            "jr",
-            "face"
-          ]
-        },
-        {
-          "stable_key": "19d239b0ef8c01cf7f1c0342183d893beeadc99e2bfdc4f9315f7aefdb54b03a",
-          "source_key": "verge-rss",
-          "source_name": "The Verge RSS",
-          "category": "us-technology",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "기술",
-          "language": "en",
-          "title": "I let Gemini in Google Maps plan my day and it went surprisingly well",
-          "canonical_url": "https://www.theverge.com/tech/907015/gemini-google-maps-hands-on",
-          "published_at": "2026-04-05T14:00:00+00:00",
-          "title_hash": "8539b3227a8b62830cf633c0f97d2fecf4d9f03b8af32c1084203ce5ba2e6632",
-          "keywords": [
-            "let",
-            "gemini",
-            "google",
-            "maps",
-            "plan",
-            "my"
-          ]
-        },
-        {
-          "stable_key": "394fb316ada3ce7636aaa19f2b0d88c88b89e024622e35be5b7ddc9fed05106b",
-          "source_key": "thehill-feed",
-          "source_name": "The Hill Feed",
-          "category": "us-technology",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "기술",
-          "language": "en",
-          "title": "The White House vows America will never give up the moon again",
-          "canonical_url": "https://thehill.com/opinion/technology/5815359-artemis-mission-moon-base",
-          "published_at": "2026-04-05T14:00:00+00:00",
-          "title_hash": "0c8ce0d113a2284858a51976110ff40e217d273bb198c08cc1b97e18c660bfc8",
-          "keywords": [
-            "white",
-            "house",
-            "vows",
-            "america",
-            "never",
-            "give"
-          ]
-        },
-        {
-          "stable_key": "4e5d4f325369953e2b5669d794ece708939ddc314505ce489c0ededd5062e319",
-          "source_key": "techcrunch-rss",
-          "source_name": "TechCrunch",
-          "category": "tech-it",
-          "hub": "global",
-          "hub_label": "글로벌 전문",
-          "section_label": "테크",
-          "language": "en",
-          "title": "In Japan, the robot isn’t coming for your job; it’s filling the one nobody wants",
-          "canonical_url": "https://techcrunch.com/2026/04/05/japan-is-proving-experimental-physical-ai-is-ready-for-the-real-world",
-          "published_at": "2026-04-05T14:00:00+00:00",
-          "title_hash": "07eeeac6bba2323df51a470c0cf27dfc992d7a44b0e1d19e865b4e202cd37417",
-          "keywords": [
-            "japan",
-            "robot",
-            "isn",
-            "coming",
-            "your",
-            "job"
-          ]
-        },
-        {
-          "stable_key": "d544aa07cac74e28a7570d8bc9a4e2c127b419a044a7b7037860a5f5c7a2d4cb",
-          "source_key": "nypost-feed",
-          "source_name": "New York Post Feed",
-          "category": "us-politics",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "정치",
-          "language": "en",
-          "title": "When Does ‘The Real Housewives Of Rhode Island’ Episode 2 Come Out? ‘RHORI’ Has Already Moved Its Air Date",
-          "canonical_url": "https://decider.com/2026/04/05/when-real-housewives-rhode-island-come-out-rhori-new-air-date",
-          "published_at": "2026-04-05T14:00:00+00:00",
-          "title_hash": "aa0f95e3d706d20b36f19ab04d84f66647dba98927304986bf5f26be7935d5ad",
-          "keywords": [
-            "when",
-            "does",
-            "real",
-            "housewives",
-            "rhode",
-            "island"
-          ]
-        },
-        {
-          "stable_key": "270d0ab1ecfa9a13b80c2e541d84e7971ae73b97d65c3b79e79cd8210850d28f",
-          "source_key": "nypost-feed",
-          "source_name": "New York Post Feed",
-          "category": "us-technology",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "기술",
-          "language": "en",
-          "title": "Make golf fun again: Bring the noise",
-          "canonical_url": "https://nypost.com/2026/04/05/opinion/golf-needs-to-shed-its-fusty-image",
-          "published_at": "2026-04-05T14:00:00+00:00",
-          "title_hash": "24708e03b61a9d63a32c257a35f6836b742fd7f896824abc34b3ea96902aefce",
-          "keywords": [
-            "make",
-            "golf",
-            "fun",
-            "again",
-            "bring",
-            "noise"
-          ]
-        },
-        {
-          "stable_key": "608ac6a60125ce7a305e658c795f4c75a85c334d1a9e614e4f6aeee941190d1a",
-          "source_key": "forbes-innovation-rss",
-          "source_name": "Forbes Innovation",
-          "category": "us-technology",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "기술",
-          "language": "en",
-          "title": "Quordle Hints Today: Monday, April 6 Clues And Answers",
-          "canonical_url": "https://www.forbes.com/sites/krisholt/2026/04/05/quordle-hints-today-monday-april-6-clues-and-answers",
-          "published_at": "2026-04-05T14:00:00+00:00",
-          "title_hash": "ffa6f748a56bbdaf8ebe08f968e109587aefeaf220beb3ba4f3ec09104ff7d03",
-          "keywords": [
-            "quordle",
-            "hints",
-            "today",
-            "monday",
-            "april",
-            "clues"
-          ]
-        },
-        {
-          "stable_key": "0c1bd1ce47877c62942c88b78ea96360501c6f61bd571ec3694d175f1a90ae28",
-          "source_key": "forbes-innovation-rss",
-          "source_name": "Forbes Innovation",
-          "category": "us-technology",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "기술",
-          "language": "en",
-          "title": "NYT Strands Hint Today: Monday, April 6 Clues And Answers (Fringe Group)",
-          "canonical_url": "https://www.forbes.com/sites/krisholt/2026/04/05/nyt-strands-hint-today-monday-april-6-clues-and-answers-fringe-group",
-          "published_at": "2026-04-05T14:00:00+00:00",
-          "title_hash": "afa3584887782b1c40d2cfe6ba869be31e8f44b110b0f52ae8e673bbd0086f78",
-          "keywords": [
-            "nyt",
-            "strands",
-            "hint",
-            "today",
-            "monday",
-            "april"
-          ]
-        },
-        {
-          "stable_key": "842c98a091ffefb9e6becb9e2cc8f77fcd56bbc38c3a5cc9030cc0f36cab9fd9",
-          "source_key": "forbes-business-rss",
-          "source_name": "Forbes Business",
-          "category": "us-economy",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "경제",
-          "language": "en",
-          "title": "The Strait Of Hormuz Couldn’t Care Less About The Federal Reserve",
-          "canonical_url": "https://www.forbes.com/sites/johntamny/2026/04/05/the-strait-of-hormuz-couldnt-care-less-about-the-federal-reserve",
-          "published_at": "2026-04-05T14:00:00+00:00",
-          "title_hash": "9188729e0475798f3c876d1ce734bd2be8f57d607cc3a28670399c7b415146d0",
-          "keywords": [
-            "strait",
-            "hormuz",
-            "couldn",
-            "care",
-            "less",
-            "about"
-          ]
         }
       ],
       "kpi_series": [
         {
           "key": "articles",
           "label": "기사 수",
-          "value": 1472,
+          "value": 1477,
           "series": [
-            462,
-            1010
+            450,
+            1027
           ]
         },
         {
@@ -1127,8 +1125,8 @@
           "label": "활성 소스",
           "value": 83,
           "series": [
-            462,
-            1010
+            450,
+            1027
           ]
         },
         {
@@ -1136,8 +1134,8 @@
           "label": "반복 기사",
           "value": 66,
           "series": [
-            462,
-            1010
+            450,
+            1027
           ]
         },
         {
@@ -1145,8 +1143,8 @@
           "label": "시간 미상",
           "value": 0,
           "series": [
-            462,
-            1010
+            450,
+            1027
           ]
         }
       ],
@@ -1173,12 +1171,12 @@
             {
               "source_key": "newsweek-feed",
               "name": "Newsweek Feed",
-              "count": 60
+              "count": 61
             },
             {
               "source_key": "guardian-us-rss",
               "name": "The Guardian US",
-              "count": 57
+              "count": 56
             },
             {
               "source_key": "asiae-society-rss",
@@ -1193,7 +1191,7 @@
             {
               "source_key": "forbes-innovation-rss",
               "name": "Forbes Innovation",
-              "count": 43
+              "count": 44
             }
           ]
         },
@@ -1220,7 +1218,7 @@
               "label": "기술",
               "hub": "us",
               "hub_label": "미국",
-              "count": 231
+              "count": 234
             },
             {
               "key": "kr-economy",
@@ -1234,14 +1232,14 @@
               "label": "세계",
               "hub": "us",
               "hub_label": "미국",
-              "count": 112
+              "count": 114
             },
             {
               "key": "us-markets",
               "label": "시장",
               "hub": "us",
               "hub_label": "미국",
-              "count": 96
+              "count": 99
             },
             {
               "key": "kr-politics",
@@ -1255,7 +1253,7 @@
               "label": "경제",
               "hub": "us",
               "hub_label": "미국",
-              "count": 76
+              "count": 73
             }
           ],
           "chart": "donut"
@@ -1272,22 +1270,22 @@
             {
               "key": "iran",
               "label": "iran",
-              "count": 75
+              "count": 74
             },
             {
               "key": "ai",
               "label": "ai",
-              "count": 35
+              "count": 36
             },
             {
               "key": "us",
               "label": "us",
-              "count": 32
+              "count": 30
             },
             {
               "key": "new",
               "label": "new",
-              "count": 31
+              "count": 29
             },
             {
               "key": "says",
@@ -1295,14 +1293,14 @@
               "count": 29
             },
             {
-              "key": "after",
-              "label": "after",
-              "count": 26
-            },
-            {
               "key": "how",
               "label": "how",
-              "count": 26
+              "count": 28
+            },
+            {
+              "key": "after",
+              "label": "after",
+              "count": 27
             }
           ]
         }
@@ -1314,25 +1312,25 @@
           "series": [
             {
               "date": "2026-04-04",
-              "count": 462
+              "count": 450
             },
             {
               "date": "2026-04-05",
-              "count": 1010
+              "count": 1027
             }
           ],
           "summary_items": [
             {
               "label": "최근 집계",
-              "value": 1010
+              "value": 1027
             },
             {
               "label": "일 평균",
-              "value": 736.0
+              "value": 738.5
             },
             {
               "label": "최대 일자",
-              "value": "2026-04-05 / 1010"
+              "value": "2026-04-05 / 1027"
             }
           ]
         },
@@ -1343,15 +1341,15 @@
             {
               "key": "us",
               "label": "미국",
-              "count": 761,
+              "count": 766,
               "series": [
                 {
                   "date": "2026-04-04",
-                  "count": 380
+                  "count": 368
                 },
                 {
                   "date": "2026-04-05",
-                  "count": 381
+                  "count": 398
                 }
               ]
             },
@@ -1374,7 +1372,7 @@
           "summary_items": [
             {
               "label": "미국",
-              "value": 761
+              "value": 766
             },
             {
               "label": "대한민국",
@@ -1408,26 +1406,26 @@
               "series": [
                 {
                   "date": "2026-04-04",
-                  "count": 120
+                  "count": 115
                 },
                 {
                   "date": "2026-04-05",
-                  "count": 126
+                  "count": 131
                 }
               ]
             },
             {
               "key": "us-technology",
               "label": "기술",
-              "count": 231,
+              "count": 234,
               "series": [
                 {
                   "date": "2026-04-04",
-                  "count": 122
+                  "count": 120
                 },
                 {
                   "date": "2026-04-05",
-                  "count": 109
+                  "count": 114
                 }
               ]
             }
@@ -1443,7 +1441,7 @@
             },
             {
               "label": "기술",
-              "value": 231
+              "value": 234
             }
           ]
         }
@@ -1451,10 +1449,10 @@
     },
     "7d": {
       "label": "7d",
-      "article_count": 4740,
+      "article_count": 4758,
       "unknown_time_count": 0,
       "active_source_count": 100,
-      "repeated_title_count": 264,
+      "repeated_title_count": 265,
       "timeline": [
         {
           "date": "2026-03-29",
@@ -1482,21 +1480,21 @@
         },
         {
           "date": "2026-04-04",
-          "count": 1207
+          "count": 1208
         },
         {
           "date": "2026-04-05",
-          "count": 1010
+          "count": 1027
         }
       ],
       "top_keywords": [
         {
           "keyword": "trump",
-          "count": 489
+          "count": 493
         },
         {
           "keyword": "iran",
-          "count": 249
+          "count": 251
         },
         {
           "keyword": "war",
@@ -1512,11 +1510,11 @@
         },
         {
           "keyword": "after",
-          "count": 94
+          "count": 95
         },
         {
           "keyword": "ai",
-          "count": 94
+          "count": 95
         },
         {
           "keyword": "says",
@@ -1524,7 +1522,7 @@
         },
         {
           "keyword": "how",
-          "count": 78
+          "count": 80
         },
         {
           "keyword": "what",
@@ -1532,7 +1530,7 @@
         },
         {
           "keyword": "over",
-          "count": 57
+          "count": 59
         },
         {
           "keyword": "about",
@@ -1541,19 +1539,19 @@
       ],
       "top_sources": [
         {
+          "source_key": "yahoo-news-rss",
+          "name": "Yahoo News RSS",
+          "count": 169
+        },
+        {
           "source_key": "guardian-us-rss",
           "name": "The Guardian US",
           "count": 167
         },
         {
-          "source_key": "yahoo-news-rss",
-          "name": "Yahoo News RSS",
-          "count": 167
-        },
-        {
           "source_key": "nypost-feed",
           "name": "New York Post Feed",
-          "count": 160
+          "count": 162
         },
         {
           "source_key": "asiae-society-rss",
@@ -1605,7 +1603,7 @@
         {
           "key": "us",
           "label": "미국",
-          "count": 2717
+          "count": 2735
         },
         {
           "key": "kr",
@@ -1624,14 +1622,14 @@
           "label": "정치",
           "hub": "us",
           "hub_label": "미국",
-          "count": 988
+          "count": 993
         },
         {
           "key": "us-technology",
           "label": "기술",
           "hub": "us",
           "hub_label": "미국",
-          "count": 712
+          "count": 717
         },
         {
           "key": "kr-society",
@@ -1652,14 +1650,14 @@
           "label": "세계",
           "hub": "us",
           "hub_label": "미국",
-          "count": 449
+          "count": 452
         },
         {
           "key": "us-economy",
           "label": "경제",
           "hub": "us",
           "hub_label": "미국",
-          "count": 299
+          "count": 300
         },
         {
           "key": "kr-politics",
@@ -1673,7 +1671,7 @@
           "label": "시장",
           "hub": "us",
           "hub_label": "미국",
-          "count": 269
+          "count": 273
         },
         {
           "key": "kr-culture",
@@ -1707,7 +1705,7 @@
       "language_counts": [
         {
           "language": "en",
-          "count": 2857
+          "count": 2875
         },
         {
           "language": "ko",
@@ -1898,6 +1896,334 @@
       ],
       "recent_samples": [
         {
+          "stable_key": "1cc93386805dd7ee18334aa9d8d2989e0aed3a38e8bd2e94792c7e45f19f10bc",
+          "source_key": "newsweek-feed",
+          "source_name": "Newsweek Feed",
+          "category": "us-technology",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "기술",
+          "language": "en",
+          "title": "UConn Coach Sends 2-Word Message for Michigan Championship Game",
+          "canonical_url": "https://www.newsweek.com/sports/ncaa/uconn-coach-sends-2-word-message-for-michigan-championship-game-11785080",
+          "published_at": "2026-04-05T14:51:01+00:00",
+          "title_hash": "61521873c08a36ae4b488bc277160c857673793d90e67e1b32682ba493887481",
+          "keywords": [
+            "uconn",
+            "coach",
+            "sends",
+            "word",
+            "message",
+            "michigan"
+          ]
+        },
+        {
+          "stable_key": "47c9533a0f4df46b09b1cf2190973827ecfdc1e736bd55314eab4fef33925201",
+          "source_key": "businessinsider-feed",
+          "source_name": "Business Insider Feed",
+          "category": "us-technology",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "기술",
+          "language": "en",
+          "title": "I tried Italian sandwiches from Subway, Jimmy John's, and Jersey Mike's. One stood out from the rest.",
+          "canonical_url": "https://www.businessinsider.com/which-chain-best-italian-sandwich-subway-jimmy-johns-jersey-mikes-2026-4",
+          "published_at": "2026-04-05T14:48:01+00:00",
+          "title_hash": "79ab2a24b6af225d5044a6dd2f0a1b56579c60d51162c033df4c2afca223fb87",
+          "keywords": [
+            "tried",
+            "italian",
+            "sandwiches",
+            "subway",
+            "jimmy",
+            "john"
+          ]
+        },
+        {
+          "stable_key": "5367081974e239bf25e712bd73afd8ce88fe309516f8c8123a30496cae973b1b",
+          "source_key": "nypost-feed",
+          "source_name": "New York Post Feed",
+          "category": "us-technology",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "기술",
+          "language": "en",
+          "title": "Floundering Islanders must take advantage of rare break with playoff hopes in peril",
+          "canonical_url": "https://nypost.com/2026/04/05/sports/floundering-islanders-must-take-advantage-of-rare-break",
+          "published_at": "2026-04-05T14:47:44+00:00",
+          "title_hash": "c7c2a218ae311744e66bd2a72a34de2fa33bf8e425a8da53c1f547b958809b13",
+          "keywords": [
+            "floundering",
+            "islanders",
+            "must",
+            "take",
+            "advantage",
+            "rare"
+          ]
+        },
+        {
+          "stable_key": "1f52e5ae84a22d7750d888fb9daa378c5a461b1c2c8d8ef1b5e9938c2dd2760e",
+          "source_key": "nyt-world-rss",
+          "source_name": "New York Times World",
+          "category": "us-world",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "세계",
+          "language": "en",
+          "title": "How the C.I.A. Helped Locate a U.S. Airman Hiding on an Iranian Ridgeline",
+          "canonical_url": "https://www.nytimes.com/2026/04/05/world/middleeast/cia-us-airman-rescue-iran.html",
+          "published_at": "2026-04-05T14:46:40+00:00",
+          "title_hash": "2c419d3039367ec1c821f1bb3c01a29ad42e821118904a7cf96b0c72b1039a33",
+          "keywords": [
+            "how",
+            "helped",
+            "locate",
+            "airman",
+            "hiding",
+            "iranian"
+          ]
+        },
+        {
+          "stable_key": "78bca90a4bfcdfcc9588947720ceaed0cdce8f054cb70b549d175db0f282ecc8",
+          "source_key": "forbes-innovation-rss",
+          "source_name": "Forbes Innovation",
+          "category": "us-technology",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "기술",
+          "language": "en",
+          "title": "Is The Tesla Diner A Flop?",
+          "canonical_url": "https://www.forbes.com/sites/brookecrothers/2026/04/05/is-the-tesla-diner-a-flop",
+          "published_at": "2026-04-05T14:46:03+00:00",
+          "title_hash": "2da47cd6ac446dbe4d91a3ffacded83bbc4d4b86f87b6a78912329e668e05e66",
+          "keywords": [
+            "tesla",
+            "diner",
+            "flop",
+            "tesla diner",
+            "diner flop"
+          ]
+        },
+        {
+          "stable_key": "d962665a2c901eb24bfb602adeefd005923fe74139e91825d2907034f24a8c0a",
+          "source_key": "bloomberg-markets-rss",
+          "source_name": "Bloomberg Markets",
+          "category": "us-markets",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "시장",
+          "language": "en",
+          "title": "Trump Gives 48-Hour Ultimatum to Reopen Strait",
+          "canonical_url": "https://www.bloomberg.com/news/videos/2026-04-05/trump-gives-48-hour-ultimatum-to-reopen-strait-video",
+          "published_at": "2026-04-05T14:44:32+00:00",
+          "title_hash": "d27a9b69e82162afc77b0a43544882785f916bee917f67f6f33a1349e1878c55",
+          "keywords": [
+            "trump",
+            "gives",
+            "hour",
+            "ultimatum",
+            "reopen",
+            "strait"
+          ]
+        },
+        {
+          "stable_key": "f0721fff45089a77f39d83633613ad9baad7bf468871ed8388be2a84f0c41329",
+          "source_key": "nyt-world-rss",
+          "source_name": "New York Times World",
+          "category": "us-world",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "세계",
+          "language": "en",
+          "title": "Former Matador Is Gored to Death Before Annual Bullfight in Spain",
+          "canonical_url": "https://www.nytimes.com/2026/04/05/world/europe/matador-dead-bull-fighting-malaga.html",
+          "published_at": "2026-04-05T14:37:59+00:00",
+          "title_hash": "049cc1dad107827c24944c0f01c7b47d34803ae75c90ce2b4ef8fcdc9f9d62ee",
+          "keywords": [
+            "former",
+            "matador",
+            "gored",
+            "death",
+            "before",
+            "annual"
+          ]
+        },
+        {
+          "stable_key": "de5169b4782fdae09bcc8fdbacbdcce9bcab8403945811926fe2391c49109270",
+          "source_key": "forbes-innovation-rss",
+          "source_name": "Forbes Innovation",
+          "category": "us-technology",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "기술",
+          "language": "en",
+          "title": "Apple’s Update Mistake—Hundreds Of Millions Of iPhones Affected",
+          "canonical_url": "https://www.forbes.com/sites/zakdoffman/2026/04/05/apples-update-mistake-hundreds-of-millions-of-iphones-affected",
+          "published_at": "2026-04-05T14:37:46+00:00",
+          "title_hash": "813602bd0b631ecea775860a59a0242da496f8596a3c112fb78d93781a952720",
+          "keywords": [
+            "apple",
+            "mistake",
+            "hundreds",
+            "millions",
+            "iphones",
+            "affected"
+          ]
+        },
+        {
+          "stable_key": "b75607d68690a2dfb2b8286f613be57e1a8c5efc7e0650faf9405a17b3d32c93",
+          "source_key": "forbes-business-rss",
+          "source_name": "Forbes Business",
+          "category": "us-economy",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "경제",
+          "language": "en",
+          "title": "2026 Masters: How To Watch - TV And Streaming Schedule",
+          "canonical_url": "https://www.forbes.com/sites/mikefore/2026/04/05/2026-masters-how-to-watchtv-and-streaming-schedule",
+          "published_at": "2026-04-05T14:37:07+00:00",
+          "title_hash": "b988b15e24c178236aa4db5783dc6a605c689e182dd1cfff11827cc947f1ace2",
+          "keywords": [
+            "masters",
+            "how",
+            "watch",
+            "tv",
+            "streaming",
+            "schedule"
+          ]
+        },
+        {
+          "stable_key": "0f2a487eab8cec82d720a2d06fee0b80a48b67f7d23b945fc4647331b12a881a",
+          "source_key": "nypost-feed",
+          "source_name": "New York Post Feed",
+          "category": "us-politics",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "정치",
+          "language": "en",
+          "title": "Trump heralds ‘Easter Miracle’ after daring rescue of F-15 airman in Iran: ‘The enemy was large and violent’",
+          "canonical_url": "https://nypost.com/2026/04/05/us-news/trump-heralds-easter-miracle-after-rescue-of-f-15-airman-in-iran",
+          "published_at": "2026-04-05T14:31:37+00:00",
+          "title_hash": "a350e4f32f24ef9a894b819a168beaa1cc281b9841309f9042b62b44c697c21a",
+          "keywords": [
+            "trump",
+            "heralds",
+            "easter",
+            "miracle",
+            "after",
+            "daring"
+          ]
+        },
+        {
+          "stable_key": "b6d241365e2fbc577a8558be455d519a018e2c6635ec2f9c070412d682c03510",
+          "source_key": "salon-feed",
+          "source_name": "Salon Feed",
+          "category": "us-markets",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "시장",
+          "language": "en",
+          "title": "Why does the right hate the pope so much?",
+          "canonical_url": "https://www.salon.com/2026/04/05/why-does-the-right-hate-the-pope-so-much",
+          "published_at": "2026-04-05T14:30:39+00:00",
+          "title_hash": "69632acfcf875c50aa7a3360996693891165c68aa0f8b351445d53b904a09dbd",
+          "keywords": [
+            "why",
+            "does",
+            "right",
+            "hate",
+            "pope",
+            "so"
+          ]
+        },
+        {
+          "stable_key": "f0313e77294e4083f6b2030e89454d01db4ce3ef2c55673aae70ec8a41df55d3",
+          "source_key": "cbs-us-rss",
+          "source_name": "CBS News US",
+          "category": "us-politics",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "정치",
+          "language": "en",
+          "title": "Nature: Spring in Pennsylvania",
+          "canonical_url": "https://www.cbsnews.com/video/nature-spring-in-pennsylvania",
+          "published_at": "2026-04-05T14:30:02+00:00",
+          "title_hash": "f6d19f9a62c3b25542e674bedafdcad5400791ec6df036012aa74e54093b58b0",
+          "keywords": [
+            "nature",
+            "spring",
+            "pennsylvania",
+            "nature spring",
+            "spring pennsylvania"
+          ]
+        },
+        {
+          "stable_key": "2d5636687e2b06ced7050a04c43f3982622ff7f7d66887e6154304978bcc2a0e",
+          "source_key": "cbs-us-rss",
+          "source_name": "CBS News US",
+          "category": "us-politics",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "정치",
+          "language": "en",
+          "title": "These United States: An ode to baseball",
+          "canonical_url": "https://www.cbsnews.com/video/these-united-states-an-ode-to-baseball",
+          "published_at": "2026-04-05T14:27:51+00:00",
+          "title_hash": "1b476139d6a066773dd398f226d0f27a48898147b26d67199b6e46d270adddd3",
+          "keywords": [
+            "these",
+            "united",
+            "states",
+            "ode",
+            "baseball",
+            "these united"
+          ]
+        },
+        {
+          "stable_key": "28abe8c7940f07447415655c83b21a0bcf09abc971e77b2af5e6bc60f4ab0531",
+          "source_key": "wapo-world-rss",
+          "source_name": "Washington Post World",
+          "category": "us-world",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "세계",
+          "language": "en",
+          "title": "Trump threatens Iran with ‘Hell’ over Strait of Hormuz in profane post",
+          "canonical_url": "https://www.washingtonpost.com/politics/2026/04/05/trump-iran-strait-hormuz-easter-threat",
+          "published_at": "2026-04-05T14:27:44+00:00",
+          "title_hash": "8ead2e8e5967bbdb64628b8a741fec1dac9b62c94ee14f57080e98b23c0d9fbb",
+          "keywords": [
+            "trump",
+            "threatens",
+            "iran",
+            "hell",
+            "over",
+            "strait"
+          ]
+        },
+        {
+          "stable_key": "6a7b100834b802d9d6f0c58dc92d44530baa9e265f2ad8e6cadedab741216f15",
+          "source_key": "wapo-politics-rss",
+          "source_name": "Washington Post Politics",
+          "category": "us-politics",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "정치",
+          "language": "en",
+          "title": "Trump threatens Iran with ‘Hell’ over Strait of Hormuz in profane post",
+          "canonical_url": "https://www.washingtonpost.com/politics/2026/04/05/trump-iran-strait-hormuz-easter-threat",
+          "published_at": "2026-04-05T14:27:44+00:00",
+          "title_hash": "8ead2e8e5967bbdb64628b8a741fec1dac9b62c94ee14f57080e98b23c0d9fbb",
+          "keywords": [
+            "trump",
+            "threatens",
+            "iran",
+            "hell",
+            "over",
+            "strait"
+          ]
+        },
+        {
           "stable_key": "924fe3317a4b6b227219f720384fbef303f6f64a8e3926fbdd53775f73c46f1d",
           "source_key": "abc-money-rss",
           "source_name": "ABC News Money",
@@ -2226,343 +2552,13 @@
             "emboldened",
             "successful"
           ]
-        },
-        {
-          "stable_key": "9f4ed6181b4e87f434513a4dbc2b687ce9fa8ad01e6cfa081e26e30230f7a1d0",
-          "source_key": "cbs-world-rss",
-          "source_name": "CBS News World",
-          "category": "us-world",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "세계",
-          "language": "en",
-          "title": "Sister recounts 903-day fight to free sibling kidnapped in Iraq",
-          "canonical_url": "https://www.cbsnews.com/news/sister-recounts-relentless-903-day-fight-to-free-sibling-kidnapped-iraq",
-          "published_at": "2026-04-05T14:01:53+00:00",
-          "title_hash": "c07f00c8384f73c197784d5255684e7734acca53822e0edcda7e62362206bd0b",
-          "keywords": [
-            "sister",
-            "recounts",
-            "day",
-            "fight",
-            "free",
-            "sibling"
-          ]
-        },
-        {
-          "stable_key": "66c42efbccbf79beba51890445b62980340a6b2de79a2f1e82e79b574e7aa8e6",
-          "source_key": "nypost-feed",
-          "source_name": "New York Post Feed",
-          "category": "us-economy",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "경제",
-          "language": "en",
-          "title": "One mistake unknowingly racks up over $5K on family’s cell phone bill — here’s how to prevent this from happening to you",
-          "canonical_url": "https://nypost.com/2026/04/05/lifestyle/teen-unknowingly-racks-up-over-5k-on-family-cell-phone-bill",
-          "published_at": "2026-04-05T14:01:45+00:00",
-          "title_hash": "522041a5927c129d49b1914c6d01c625997b0057dbad546b08a791165175e436",
-          "keywords": [
-            "one",
-            "mistake",
-            "unknowingly",
-            "racks",
-            "up",
-            "over"
-          ]
-        },
-        {
-          "stable_key": "1bcb63c57521e95330a0a4b87751696f21bd6d7533d22e140b130a22f73b4a65",
-          "source_key": "guardian-us-rss",
-          "source_name": "The Guardian US",
-          "category": "us-markets",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "시장",
-          "language": "en",
-          "title": "‘I always considered social media evil’: big tobacco whistleblower on tech’s addictive products",
-          "canonical_url": "https://www.theguardian.com/media/2026/apr/05/big-tobacco-whistleblower-social-media",
-          "published_at": "2026-04-05T14:00:52+00:00",
-          "title_hash": "3388b727866f6f5c74dde21ffc0399e7a0d0bb1c7c71c112393adb32670e0b34",
-          "keywords": [
-            "always",
-            "considered",
-            "social",
-            "media",
-            "evil",
-            "big"
-          ]
-        },
-        {
-          "stable_key": "b9d1c63082f35bf7d7b3db8154c913c80187299f81aa7772aad3fe04c00749c5",
-          "source_key": "guardian-us-rss",
-          "source_name": "The Guardian US",
-          "category": "us-world",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "세계",
-          "language": "en",
-          "title": "Easter Sunday around the world – in pictures",
-          "canonical_url": "https://www.theguardian.com/lifeandstyle/gallery/2026/apr/05/easter-sunday-around-the-world-in-pictures",
-          "published_at": "2026-04-05T14:00:25+00:00",
-          "title_hash": "f0c887f2bcace5ae5485efe2c8030fd44bcfb29886f8b675b0d6df0b7ad4a38b",
-          "keywords": [
-            "easter",
-            "sunday",
-            "around",
-            "world",
-            "pictures",
-            "easter sunday"
-          ]
-        },
-        {
-          "stable_key": "5dab70a6f8029a2d3b0ea9cfb9cc8dddceb6552ae95a8c778ae69f88aeb9acfc",
-          "source_key": "cbs-us-rss",
-          "source_name": "CBS News US",
-          "category": "us-politics",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "정치",
-          "language": "en",
-          "title": "Signs of compassion from a deaf first-grader's classmates",
-          "canonical_url": "https://www.cbsnews.com/video/signs-of-compassion-from-a-deaf-first-graders-classmates",
-          "published_at": "2026-04-05T14:00:11+00:00",
-          "title_hash": "e59ac6004c3a26e079f2436f8ddc04ab0cf0443e1c186a60bb772f1031d16bee",
-          "keywords": [
-            "signs",
-            "compassion",
-            "deaf",
-            "first",
-            "grader",
-            "classmates"
-          ]
-        },
-        {
-          "stable_key": "63dfabd1427d3c3606271430f6a66ff2522852cfc76c26010792198f00ed4418",
-          "source_key": "forbes-innovation-rss",
-          "source_name": "Forbes Innovation",
-          "category": "us-technology",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "기술",
-          "language": "en",
-          "title": "3 Relationship Habits That Predict Lasting Happiness—By A Psychologist",
-          "canonical_url": "https://www.forbes.com/sites/traversmark/2026/04/05/3-relationship-habits-that-predict-lasting-happiness-by-a-psychologist",
-          "published_at": "2026-04-05T14:00:09+00:00",
-          "title_hash": "0c4e7e0b3667c84032e162d18cda5d7c31e701e54c666edaa42a17692d4420ac",
-          "keywords": [
-            "relationship",
-            "habits",
-            "predict",
-            "lasting",
-            "happiness",
-            "psychologist"
-          ]
-        },
-        {
-          "stable_key": "9f930e026621424aa7c745c997f3ef5e8ec293407d4d3800ea24c4de7bd1b792",
-          "source_key": "forbes-business-rss",
-          "source_name": "Forbes Business",
-          "category": "us-economy",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "경제",
-          "language": "en",
-          "title": "UConn Star Tarris Reed Jr. To Face Former Michigan Squad In Final",
-          "canonical_url": "https://www.forbes.com/sites/jefffedotin/2026/04/05/uconn-star-tarris-reed-jr-to-face-former-michigan-squad-in-final",
-          "published_at": "2026-04-05T14:00:02+00:00",
-          "title_hash": "14a58eb7ef63aac666f528dbfc9eb983513ca04988fda36b42b4a9897059a42c",
-          "keywords": [
-            "uconn",
-            "star",
-            "tarris",
-            "reed",
-            "jr",
-            "face"
-          ]
-        },
-        {
-          "stable_key": "19d239b0ef8c01cf7f1c0342183d893beeadc99e2bfdc4f9315f7aefdb54b03a",
-          "source_key": "verge-rss",
-          "source_name": "The Verge RSS",
-          "category": "us-technology",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "기술",
-          "language": "en",
-          "title": "I let Gemini in Google Maps plan my day and it went surprisingly well",
-          "canonical_url": "https://www.theverge.com/tech/907015/gemini-google-maps-hands-on",
-          "published_at": "2026-04-05T14:00:00+00:00",
-          "title_hash": "8539b3227a8b62830cf633c0f97d2fecf4d9f03b8af32c1084203ce5ba2e6632",
-          "keywords": [
-            "let",
-            "gemini",
-            "google",
-            "maps",
-            "plan",
-            "my"
-          ]
-        },
-        {
-          "stable_key": "394fb316ada3ce7636aaa19f2b0d88c88b89e024622e35be5b7ddc9fed05106b",
-          "source_key": "thehill-feed",
-          "source_name": "The Hill Feed",
-          "category": "us-technology",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "기술",
-          "language": "en",
-          "title": "The White House vows America will never give up the moon again",
-          "canonical_url": "https://thehill.com/opinion/technology/5815359-artemis-mission-moon-base",
-          "published_at": "2026-04-05T14:00:00+00:00",
-          "title_hash": "0c8ce0d113a2284858a51976110ff40e217d273bb198c08cc1b97e18c660bfc8",
-          "keywords": [
-            "white",
-            "house",
-            "vows",
-            "america",
-            "never",
-            "give"
-          ]
-        },
-        {
-          "stable_key": "4e5d4f325369953e2b5669d794ece708939ddc314505ce489c0ededd5062e319",
-          "source_key": "techcrunch-rss",
-          "source_name": "TechCrunch",
-          "category": "tech-it",
-          "hub": "global",
-          "hub_label": "글로벌 전문",
-          "section_label": "테크",
-          "language": "en",
-          "title": "In Japan, the robot isn’t coming for your job; it’s filling the one nobody wants",
-          "canonical_url": "https://techcrunch.com/2026/04/05/japan-is-proving-experimental-physical-ai-is-ready-for-the-real-world",
-          "published_at": "2026-04-05T14:00:00+00:00",
-          "title_hash": "07eeeac6bba2323df51a470c0cf27dfc992d7a44b0e1d19e865b4e202cd37417",
-          "keywords": [
-            "japan",
-            "robot",
-            "isn",
-            "coming",
-            "your",
-            "job"
-          ]
-        },
-        {
-          "stable_key": "d544aa07cac74e28a7570d8bc9a4e2c127b419a044a7b7037860a5f5c7a2d4cb",
-          "source_key": "nypost-feed",
-          "source_name": "New York Post Feed",
-          "category": "us-politics",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "정치",
-          "language": "en",
-          "title": "When Does ‘The Real Housewives Of Rhode Island’ Episode 2 Come Out? ‘RHORI’ Has Already Moved Its Air Date",
-          "canonical_url": "https://decider.com/2026/04/05/when-real-housewives-rhode-island-come-out-rhori-new-air-date",
-          "published_at": "2026-04-05T14:00:00+00:00",
-          "title_hash": "aa0f95e3d706d20b36f19ab04d84f66647dba98927304986bf5f26be7935d5ad",
-          "keywords": [
-            "when",
-            "does",
-            "real",
-            "housewives",
-            "rhode",
-            "island"
-          ]
-        },
-        {
-          "stable_key": "270d0ab1ecfa9a13b80c2e541d84e7971ae73b97d65c3b79e79cd8210850d28f",
-          "source_key": "nypost-feed",
-          "source_name": "New York Post Feed",
-          "category": "us-technology",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "기술",
-          "language": "en",
-          "title": "Make golf fun again: Bring the noise",
-          "canonical_url": "https://nypost.com/2026/04/05/opinion/golf-needs-to-shed-its-fusty-image",
-          "published_at": "2026-04-05T14:00:00+00:00",
-          "title_hash": "24708e03b61a9d63a32c257a35f6836b742fd7f896824abc34b3ea96902aefce",
-          "keywords": [
-            "make",
-            "golf",
-            "fun",
-            "again",
-            "bring",
-            "noise"
-          ]
-        },
-        {
-          "stable_key": "608ac6a60125ce7a305e658c795f4c75a85c334d1a9e614e4f6aeee941190d1a",
-          "source_key": "forbes-innovation-rss",
-          "source_name": "Forbes Innovation",
-          "category": "us-technology",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "기술",
-          "language": "en",
-          "title": "Quordle Hints Today: Monday, April 6 Clues And Answers",
-          "canonical_url": "https://www.forbes.com/sites/krisholt/2026/04/05/quordle-hints-today-monday-april-6-clues-and-answers",
-          "published_at": "2026-04-05T14:00:00+00:00",
-          "title_hash": "ffa6f748a56bbdaf8ebe08f968e109587aefeaf220beb3ba4f3ec09104ff7d03",
-          "keywords": [
-            "quordle",
-            "hints",
-            "today",
-            "monday",
-            "april",
-            "clues"
-          ]
-        },
-        {
-          "stable_key": "0c1bd1ce47877c62942c88b78ea96360501c6f61bd571ec3694d175f1a90ae28",
-          "source_key": "forbes-innovation-rss",
-          "source_name": "Forbes Innovation",
-          "category": "us-technology",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "기술",
-          "language": "en",
-          "title": "NYT Strands Hint Today: Monday, April 6 Clues And Answers (Fringe Group)",
-          "canonical_url": "https://www.forbes.com/sites/krisholt/2026/04/05/nyt-strands-hint-today-monday-april-6-clues-and-answers-fringe-group",
-          "published_at": "2026-04-05T14:00:00+00:00",
-          "title_hash": "afa3584887782b1c40d2cfe6ba869be31e8f44b110b0f52ae8e673bbd0086f78",
-          "keywords": [
-            "nyt",
-            "strands",
-            "hint",
-            "today",
-            "monday",
-            "april"
-          ]
-        },
-        {
-          "stable_key": "842c98a091ffefb9e6becb9e2cc8f77fcd56bbc38c3a5cc9030cc0f36cab9fd9",
-          "source_key": "forbes-business-rss",
-          "source_name": "Forbes Business",
-          "category": "us-economy",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "경제",
-          "language": "en",
-          "title": "The Strait Of Hormuz Couldn’t Care Less About The Federal Reserve",
-          "canonical_url": "https://www.forbes.com/sites/johntamny/2026/04/05/the-strait-of-hormuz-couldnt-care-less-about-the-federal-reserve",
-          "published_at": "2026-04-05T14:00:00+00:00",
-          "title_hash": "9188729e0475798f3c876d1ce734bd2be8f57d607cc3a28670399c7b415146d0",
-          "keywords": [
-            "strait",
-            "hormuz",
-            "couldn",
-            "care",
-            "less",
-            "about"
-          ]
         }
       ],
       "kpi_series": [
         {
           "key": "articles",
           "label": "기사 수",
-          "value": 4740,
+          "value": 4758,
           "series": [
             13,
             91,
@@ -2570,8 +2566,8 @@
             247,
             615,
             1401,
-            1207,
-            1010
+            1208,
+            1027
           ]
         },
         {
@@ -2585,14 +2581,14 @@
             247,
             615,
             1401,
-            1207,
-            1010
+            1208,
+            1027
           ]
         },
         {
           "key": "repeats",
           "label": "반복 기사",
-          "value": 264,
+          "value": 265,
           "series": [
             13,
             91,
@@ -2600,8 +2596,8 @@
             247,
             615,
             1401,
-            1207,
-            1010
+            1208,
+            1027
           ]
         },
         {
@@ -2615,8 +2611,8 @@
             247,
             615,
             1401,
-            1207,
-            1010
+            1208,
+            1027
           ]
         }
       ],
@@ -2626,19 +2622,19 @@
           "label": "소스 분포",
           "items": [
             {
+              "source_key": "yahoo-news-rss",
+              "name": "Yahoo News RSS",
+              "count": 169
+            },
+            {
               "source_key": "guardian-us-rss",
               "name": "The Guardian US",
               "count": 167
             },
             {
-              "source_key": "yahoo-news-rss",
-              "name": "Yahoo News RSS",
-              "count": 167
-            },
-            {
               "source_key": "nypost-feed",
               "name": "New York Post Feed",
-              "count": 160
+              "count": 162
             },
             {
               "source_key": "asiae-society-rss",
@@ -2676,14 +2672,14 @@
               "label": "정치",
               "hub": "us",
               "hub_label": "미국",
-              "count": 988
+              "count": 993
             },
             {
               "key": "us-technology",
               "label": "기술",
               "hub": "us",
               "hub_label": "미국",
-              "count": 712
+              "count": 717
             },
             {
               "key": "kr-society",
@@ -2704,14 +2700,14 @@
               "label": "세계",
               "hub": "us",
               "hub_label": "미국",
-              "count": 449
+              "count": 452
             },
             {
               "key": "us-economy",
               "label": "경제",
               "hub": "us",
               "hub_label": "미국",
-              "count": 299
+              "count": 300
             },
             {
               "key": "kr-politics",
@@ -2725,7 +2721,7 @@
               "label": "시장",
               "hub": "us",
               "hub_label": "미국",
-              "count": 269
+              "count": 273
             }
           ],
           "chart": "donut"
@@ -2737,12 +2733,12 @@
             {
               "key": "trump",
               "label": "trump",
-              "count": 489
+              "count": 493
             },
             {
               "key": "iran",
               "label": "iran",
-              "count": 249
+              "count": 251
             },
             {
               "key": "war",
@@ -2762,12 +2758,12 @@
             {
               "key": "after",
               "label": "after",
-              "count": 94
+              "count": 95
             },
             {
               "key": "ai",
               "label": "ai",
-              "count": 94
+              "count": 95
             },
             {
               "key": "says",
@@ -2808,21 +2804,21 @@
             },
             {
               "date": "2026-04-04",
-              "count": 1207
+              "count": 1208
             },
             {
               "date": "2026-04-05",
-              "count": 1010
+              "count": 1027
             }
           ],
           "summary_items": [
             {
               "label": "최근 집계",
-              "value": 1010
+              "value": 1027
             },
             {
               "label": "일 평균",
-              "value": 592.5
+              "value": 594.8
             },
             {
               "label": "최대 일자",
@@ -2837,7 +2833,7 @@
             {
               "key": "us",
               "label": "미국",
-              "count": 2717,
+              "count": 2735,
               "series": [
                 {
                   "date": "2026-03-29",
@@ -2865,11 +2861,11 @@
                 },
                 {
                   "date": "2026-04-04",
-                  "count": 791
+                  "count": 792
                 },
                 {
                   "date": "2026-04-05",
-                  "count": 381
+                  "count": 398
                 }
               ]
             },
@@ -2916,7 +2912,7 @@
           "summary_items": [
             {
               "label": "미국",
-              "value": 2717
+              "value": 2735
             },
             {
               "label": "대한민국",
@@ -2931,7 +2927,7 @@
             {
               "key": "us-politics",
               "label": "정치",
-              "count": 988,
+              "count": 993,
               "series": [
                 {
                   "date": "2026-03-29",
@@ -2963,14 +2959,14 @@
                 },
                 {
                   "date": "2026-04-05",
-                  "count": 126
+                  "count": 131
                 }
               ]
             },
             {
               "key": "us-technology",
               "label": "기술",
-              "count": 712,
+              "count": 717,
               "series": [
                 {
                   "date": "2026-03-29",
@@ -3002,7 +2998,7 @@
                 },
                 {
                   "date": "2026-04-05",
-                  "count": 109
+                  "count": 114
                 }
               ]
             },
@@ -3049,11 +3045,11 @@
           "summary_items": [
             {
               "label": "정치",
-              "value": 988
+              "value": 993
             },
             {
               "label": "기술",
-              "value": 712
+              "value": 717
             },
             {
               "label": "사회",
@@ -3065,10 +3061,10 @@
     },
     "30d": {
       "label": "30d",
-      "article_count": 5255,
+      "article_count": 5273,
       "unknown_time_count": 0,
       "active_source_count": 101,
-      "repeated_title_count": 327,
+      "repeated_title_count": 328,
       "timeline": [
         {
           "date": "2026-03-07",
@@ -3184,21 +3180,21 @@
         },
         {
           "date": "2026-04-04",
-          "count": 1207
+          "count": 1208
         },
         {
           "date": "2026-04-05",
-          "count": 1010
+          "count": 1027
         }
       ],
       "top_keywords": [
         {
           "keyword": "trump",
-          "count": 540
+          "count": 544
         },
         {
           "keyword": "iran",
-          "count": 294
+          "count": 296
         },
         {
           "keyword": "war",
@@ -3214,15 +3210,15 @@
         },
         {
           "keyword": "ai",
-          "count": 113
+          "count": 114
         },
         {
           "keyword": "how",
-          "count": 102
+          "count": 104
         },
         {
           "keyword": "after",
-          "count": 101
+          "count": 102
         },
         {
           "keyword": "says",
@@ -3234,7 +3230,7 @@
         },
         {
           "keyword": "over",
-          "count": 69
+          "count": 71
         },
         {
           "keyword": "about",
@@ -3248,19 +3244,19 @@
           "count": 238
         },
         {
+          "source_key": "yahoo-news-rss",
+          "name": "Yahoo News RSS",
+          "count": 170
+        },
+        {
           "source_key": "guardian-us-rss",
           "name": "The Guardian US",
           "count": 169
         },
         {
-          "source_key": "yahoo-news-rss",
-          "name": "Yahoo News RSS",
-          "count": 168
-        },
-        {
           "source_key": "nypost-feed",
           "name": "New York Post Feed",
-          "count": 160
+          "count": 162
         },
         {
           "source_key": "asiae-society-rss",
@@ -3307,7 +3303,7 @@
         {
           "key": "us",
           "label": "미국",
-          "count": 3166
+          "count": 3184
         },
         {
           "key": "kr",
@@ -3326,21 +3322,21 @@
           "label": "정치",
           "hub": "us",
           "hub_label": "미국",
-          "count": 1107
+          "count": 1112
         },
         {
           "key": "us-technology",
           "label": "기술",
           "hub": "us",
           "hub_label": "미국",
-          "count": 824
+          "count": 829
         },
         {
           "key": "us-world",
           "label": "세계",
           "hub": "us",
           "hub_label": "미국",
-          "count": 535
+          "count": 538
         },
         {
           "key": "kr-society",
@@ -3361,7 +3357,7 @@
           "label": "경제",
           "hub": "us",
           "hub_label": "미국",
-          "count": 398
+          "count": 399
         },
         {
           "key": "kr-politics",
@@ -3375,7 +3371,7 @@
           "label": "시장",
           "hub": "us",
           "hub_label": "미국",
-          "count": 302
+          "count": 306
         },
         {
           "key": "kr-culture",
@@ -3409,7 +3405,7 @@
       "language_counts": [
         {
           "language": "en",
-          "count": 3310
+          "count": 3328
         },
         {
           "language": "ko",
@@ -3600,6 +3596,334 @@
       ],
       "recent_samples": [
         {
+          "stable_key": "1cc93386805dd7ee18334aa9d8d2989e0aed3a38e8bd2e94792c7e45f19f10bc",
+          "source_key": "newsweek-feed",
+          "source_name": "Newsweek Feed",
+          "category": "us-technology",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "기술",
+          "language": "en",
+          "title": "UConn Coach Sends 2-Word Message for Michigan Championship Game",
+          "canonical_url": "https://www.newsweek.com/sports/ncaa/uconn-coach-sends-2-word-message-for-michigan-championship-game-11785080",
+          "published_at": "2026-04-05T14:51:01+00:00",
+          "title_hash": "61521873c08a36ae4b488bc277160c857673793d90e67e1b32682ba493887481",
+          "keywords": [
+            "uconn",
+            "coach",
+            "sends",
+            "word",
+            "message",
+            "michigan"
+          ]
+        },
+        {
+          "stable_key": "47c9533a0f4df46b09b1cf2190973827ecfdc1e736bd55314eab4fef33925201",
+          "source_key": "businessinsider-feed",
+          "source_name": "Business Insider Feed",
+          "category": "us-technology",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "기술",
+          "language": "en",
+          "title": "I tried Italian sandwiches from Subway, Jimmy John's, and Jersey Mike's. One stood out from the rest.",
+          "canonical_url": "https://www.businessinsider.com/which-chain-best-italian-sandwich-subway-jimmy-johns-jersey-mikes-2026-4",
+          "published_at": "2026-04-05T14:48:01+00:00",
+          "title_hash": "79ab2a24b6af225d5044a6dd2f0a1b56579c60d51162c033df4c2afca223fb87",
+          "keywords": [
+            "tried",
+            "italian",
+            "sandwiches",
+            "subway",
+            "jimmy",
+            "john"
+          ]
+        },
+        {
+          "stable_key": "5367081974e239bf25e712bd73afd8ce88fe309516f8c8123a30496cae973b1b",
+          "source_key": "nypost-feed",
+          "source_name": "New York Post Feed",
+          "category": "us-technology",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "기술",
+          "language": "en",
+          "title": "Floundering Islanders must take advantage of rare break with playoff hopes in peril",
+          "canonical_url": "https://nypost.com/2026/04/05/sports/floundering-islanders-must-take-advantage-of-rare-break",
+          "published_at": "2026-04-05T14:47:44+00:00",
+          "title_hash": "c7c2a218ae311744e66bd2a72a34de2fa33bf8e425a8da53c1f547b958809b13",
+          "keywords": [
+            "floundering",
+            "islanders",
+            "must",
+            "take",
+            "advantage",
+            "rare"
+          ]
+        },
+        {
+          "stable_key": "1f52e5ae84a22d7750d888fb9daa378c5a461b1c2c8d8ef1b5e9938c2dd2760e",
+          "source_key": "nyt-world-rss",
+          "source_name": "New York Times World",
+          "category": "us-world",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "세계",
+          "language": "en",
+          "title": "How the C.I.A. Helped Locate a U.S. Airman Hiding on an Iranian Ridgeline",
+          "canonical_url": "https://www.nytimes.com/2026/04/05/world/middleeast/cia-us-airman-rescue-iran.html",
+          "published_at": "2026-04-05T14:46:40+00:00",
+          "title_hash": "2c419d3039367ec1c821f1bb3c01a29ad42e821118904a7cf96b0c72b1039a33",
+          "keywords": [
+            "how",
+            "helped",
+            "locate",
+            "airman",
+            "hiding",
+            "iranian"
+          ]
+        },
+        {
+          "stable_key": "78bca90a4bfcdfcc9588947720ceaed0cdce8f054cb70b549d175db0f282ecc8",
+          "source_key": "forbes-innovation-rss",
+          "source_name": "Forbes Innovation",
+          "category": "us-technology",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "기술",
+          "language": "en",
+          "title": "Is The Tesla Diner A Flop?",
+          "canonical_url": "https://www.forbes.com/sites/brookecrothers/2026/04/05/is-the-tesla-diner-a-flop",
+          "published_at": "2026-04-05T14:46:03+00:00",
+          "title_hash": "2da47cd6ac446dbe4d91a3ffacded83bbc4d4b86f87b6a78912329e668e05e66",
+          "keywords": [
+            "tesla",
+            "diner",
+            "flop",
+            "tesla diner",
+            "diner flop"
+          ]
+        },
+        {
+          "stable_key": "d962665a2c901eb24bfb602adeefd005923fe74139e91825d2907034f24a8c0a",
+          "source_key": "bloomberg-markets-rss",
+          "source_name": "Bloomberg Markets",
+          "category": "us-markets",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "시장",
+          "language": "en",
+          "title": "Trump Gives 48-Hour Ultimatum to Reopen Strait",
+          "canonical_url": "https://www.bloomberg.com/news/videos/2026-04-05/trump-gives-48-hour-ultimatum-to-reopen-strait-video",
+          "published_at": "2026-04-05T14:44:32+00:00",
+          "title_hash": "d27a9b69e82162afc77b0a43544882785f916bee917f67f6f33a1349e1878c55",
+          "keywords": [
+            "trump",
+            "gives",
+            "hour",
+            "ultimatum",
+            "reopen",
+            "strait"
+          ]
+        },
+        {
+          "stable_key": "f0721fff45089a77f39d83633613ad9baad7bf468871ed8388be2a84f0c41329",
+          "source_key": "nyt-world-rss",
+          "source_name": "New York Times World",
+          "category": "us-world",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "세계",
+          "language": "en",
+          "title": "Former Matador Is Gored to Death Before Annual Bullfight in Spain",
+          "canonical_url": "https://www.nytimes.com/2026/04/05/world/europe/matador-dead-bull-fighting-malaga.html",
+          "published_at": "2026-04-05T14:37:59+00:00",
+          "title_hash": "049cc1dad107827c24944c0f01c7b47d34803ae75c90ce2b4ef8fcdc9f9d62ee",
+          "keywords": [
+            "former",
+            "matador",
+            "gored",
+            "death",
+            "before",
+            "annual"
+          ]
+        },
+        {
+          "stable_key": "de5169b4782fdae09bcc8fdbacbdcce9bcab8403945811926fe2391c49109270",
+          "source_key": "forbes-innovation-rss",
+          "source_name": "Forbes Innovation",
+          "category": "us-technology",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "기술",
+          "language": "en",
+          "title": "Apple’s Update Mistake—Hundreds Of Millions Of iPhones Affected",
+          "canonical_url": "https://www.forbes.com/sites/zakdoffman/2026/04/05/apples-update-mistake-hundreds-of-millions-of-iphones-affected",
+          "published_at": "2026-04-05T14:37:46+00:00",
+          "title_hash": "813602bd0b631ecea775860a59a0242da496f8596a3c112fb78d93781a952720",
+          "keywords": [
+            "apple",
+            "mistake",
+            "hundreds",
+            "millions",
+            "iphones",
+            "affected"
+          ]
+        },
+        {
+          "stable_key": "b75607d68690a2dfb2b8286f613be57e1a8c5efc7e0650faf9405a17b3d32c93",
+          "source_key": "forbes-business-rss",
+          "source_name": "Forbes Business",
+          "category": "us-economy",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "경제",
+          "language": "en",
+          "title": "2026 Masters: How To Watch - TV And Streaming Schedule",
+          "canonical_url": "https://www.forbes.com/sites/mikefore/2026/04/05/2026-masters-how-to-watchtv-and-streaming-schedule",
+          "published_at": "2026-04-05T14:37:07+00:00",
+          "title_hash": "b988b15e24c178236aa4db5783dc6a605c689e182dd1cfff11827cc947f1ace2",
+          "keywords": [
+            "masters",
+            "how",
+            "watch",
+            "tv",
+            "streaming",
+            "schedule"
+          ]
+        },
+        {
+          "stable_key": "0f2a487eab8cec82d720a2d06fee0b80a48b67f7d23b945fc4647331b12a881a",
+          "source_key": "nypost-feed",
+          "source_name": "New York Post Feed",
+          "category": "us-politics",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "정치",
+          "language": "en",
+          "title": "Trump heralds ‘Easter Miracle’ after daring rescue of F-15 airman in Iran: ‘The enemy was large and violent’",
+          "canonical_url": "https://nypost.com/2026/04/05/us-news/trump-heralds-easter-miracle-after-rescue-of-f-15-airman-in-iran",
+          "published_at": "2026-04-05T14:31:37+00:00",
+          "title_hash": "a350e4f32f24ef9a894b819a168beaa1cc281b9841309f9042b62b44c697c21a",
+          "keywords": [
+            "trump",
+            "heralds",
+            "easter",
+            "miracle",
+            "after",
+            "daring"
+          ]
+        },
+        {
+          "stable_key": "b6d241365e2fbc577a8558be455d519a018e2c6635ec2f9c070412d682c03510",
+          "source_key": "salon-feed",
+          "source_name": "Salon Feed",
+          "category": "us-markets",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "시장",
+          "language": "en",
+          "title": "Why does the right hate the pope so much?",
+          "canonical_url": "https://www.salon.com/2026/04/05/why-does-the-right-hate-the-pope-so-much",
+          "published_at": "2026-04-05T14:30:39+00:00",
+          "title_hash": "69632acfcf875c50aa7a3360996693891165c68aa0f8b351445d53b904a09dbd",
+          "keywords": [
+            "why",
+            "does",
+            "right",
+            "hate",
+            "pope",
+            "so"
+          ]
+        },
+        {
+          "stable_key": "f0313e77294e4083f6b2030e89454d01db4ce3ef2c55673aae70ec8a41df55d3",
+          "source_key": "cbs-us-rss",
+          "source_name": "CBS News US",
+          "category": "us-politics",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "정치",
+          "language": "en",
+          "title": "Nature: Spring in Pennsylvania",
+          "canonical_url": "https://www.cbsnews.com/video/nature-spring-in-pennsylvania",
+          "published_at": "2026-04-05T14:30:02+00:00",
+          "title_hash": "f6d19f9a62c3b25542e674bedafdcad5400791ec6df036012aa74e54093b58b0",
+          "keywords": [
+            "nature",
+            "spring",
+            "pennsylvania",
+            "nature spring",
+            "spring pennsylvania"
+          ]
+        },
+        {
+          "stable_key": "2d5636687e2b06ced7050a04c43f3982622ff7f7d66887e6154304978bcc2a0e",
+          "source_key": "cbs-us-rss",
+          "source_name": "CBS News US",
+          "category": "us-politics",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "정치",
+          "language": "en",
+          "title": "These United States: An ode to baseball",
+          "canonical_url": "https://www.cbsnews.com/video/these-united-states-an-ode-to-baseball",
+          "published_at": "2026-04-05T14:27:51+00:00",
+          "title_hash": "1b476139d6a066773dd398f226d0f27a48898147b26d67199b6e46d270adddd3",
+          "keywords": [
+            "these",
+            "united",
+            "states",
+            "ode",
+            "baseball",
+            "these united"
+          ]
+        },
+        {
+          "stable_key": "28abe8c7940f07447415655c83b21a0bcf09abc971e77b2af5e6bc60f4ab0531",
+          "source_key": "wapo-world-rss",
+          "source_name": "Washington Post World",
+          "category": "us-world",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "세계",
+          "language": "en",
+          "title": "Trump threatens Iran with ‘Hell’ over Strait of Hormuz in profane post",
+          "canonical_url": "https://www.washingtonpost.com/politics/2026/04/05/trump-iran-strait-hormuz-easter-threat",
+          "published_at": "2026-04-05T14:27:44+00:00",
+          "title_hash": "8ead2e8e5967bbdb64628b8a741fec1dac9b62c94ee14f57080e98b23c0d9fbb",
+          "keywords": [
+            "trump",
+            "threatens",
+            "iran",
+            "hell",
+            "over",
+            "strait"
+          ]
+        },
+        {
+          "stable_key": "6a7b100834b802d9d6f0c58dc92d44530baa9e265f2ad8e6cadedab741216f15",
+          "source_key": "wapo-politics-rss",
+          "source_name": "Washington Post Politics",
+          "category": "us-politics",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "정치",
+          "language": "en",
+          "title": "Trump threatens Iran with ‘Hell’ over Strait of Hormuz in profane post",
+          "canonical_url": "https://www.washingtonpost.com/politics/2026/04/05/trump-iran-strait-hormuz-easter-threat",
+          "published_at": "2026-04-05T14:27:44+00:00",
+          "title_hash": "8ead2e8e5967bbdb64628b8a741fec1dac9b62c94ee14f57080e98b23c0d9fbb",
+          "keywords": [
+            "trump",
+            "threatens",
+            "iran",
+            "hell",
+            "over",
+            "strait"
+          ]
+        },
+        {
           "stable_key": "924fe3317a4b6b227219f720384fbef303f6f64a8e3926fbdd53775f73c46f1d",
           "source_key": "abc-money-rss",
           "source_name": "ABC News Money",
@@ -3928,343 +4252,13 @@
             "emboldened",
             "successful"
           ]
-        },
-        {
-          "stable_key": "9f4ed6181b4e87f434513a4dbc2b687ce9fa8ad01e6cfa081e26e30230f7a1d0",
-          "source_key": "cbs-world-rss",
-          "source_name": "CBS News World",
-          "category": "us-world",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "세계",
-          "language": "en",
-          "title": "Sister recounts 903-day fight to free sibling kidnapped in Iraq",
-          "canonical_url": "https://www.cbsnews.com/news/sister-recounts-relentless-903-day-fight-to-free-sibling-kidnapped-iraq",
-          "published_at": "2026-04-05T14:01:53+00:00",
-          "title_hash": "c07f00c8384f73c197784d5255684e7734acca53822e0edcda7e62362206bd0b",
-          "keywords": [
-            "sister",
-            "recounts",
-            "day",
-            "fight",
-            "free",
-            "sibling"
-          ]
-        },
-        {
-          "stable_key": "66c42efbccbf79beba51890445b62980340a6b2de79a2f1e82e79b574e7aa8e6",
-          "source_key": "nypost-feed",
-          "source_name": "New York Post Feed",
-          "category": "us-economy",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "경제",
-          "language": "en",
-          "title": "One mistake unknowingly racks up over $5K on family’s cell phone bill — here’s how to prevent this from happening to you",
-          "canonical_url": "https://nypost.com/2026/04/05/lifestyle/teen-unknowingly-racks-up-over-5k-on-family-cell-phone-bill",
-          "published_at": "2026-04-05T14:01:45+00:00",
-          "title_hash": "522041a5927c129d49b1914c6d01c625997b0057dbad546b08a791165175e436",
-          "keywords": [
-            "one",
-            "mistake",
-            "unknowingly",
-            "racks",
-            "up",
-            "over"
-          ]
-        },
-        {
-          "stable_key": "1bcb63c57521e95330a0a4b87751696f21bd6d7533d22e140b130a22f73b4a65",
-          "source_key": "guardian-us-rss",
-          "source_name": "The Guardian US",
-          "category": "us-markets",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "시장",
-          "language": "en",
-          "title": "‘I always considered social media evil’: big tobacco whistleblower on tech’s addictive products",
-          "canonical_url": "https://www.theguardian.com/media/2026/apr/05/big-tobacco-whistleblower-social-media",
-          "published_at": "2026-04-05T14:00:52+00:00",
-          "title_hash": "3388b727866f6f5c74dde21ffc0399e7a0d0bb1c7c71c112393adb32670e0b34",
-          "keywords": [
-            "always",
-            "considered",
-            "social",
-            "media",
-            "evil",
-            "big"
-          ]
-        },
-        {
-          "stable_key": "b9d1c63082f35bf7d7b3db8154c913c80187299f81aa7772aad3fe04c00749c5",
-          "source_key": "guardian-us-rss",
-          "source_name": "The Guardian US",
-          "category": "us-world",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "세계",
-          "language": "en",
-          "title": "Easter Sunday around the world – in pictures",
-          "canonical_url": "https://www.theguardian.com/lifeandstyle/gallery/2026/apr/05/easter-sunday-around-the-world-in-pictures",
-          "published_at": "2026-04-05T14:00:25+00:00",
-          "title_hash": "f0c887f2bcace5ae5485efe2c8030fd44bcfb29886f8b675b0d6df0b7ad4a38b",
-          "keywords": [
-            "easter",
-            "sunday",
-            "around",
-            "world",
-            "pictures",
-            "easter sunday"
-          ]
-        },
-        {
-          "stable_key": "5dab70a6f8029a2d3b0ea9cfb9cc8dddceb6552ae95a8c778ae69f88aeb9acfc",
-          "source_key": "cbs-us-rss",
-          "source_name": "CBS News US",
-          "category": "us-politics",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "정치",
-          "language": "en",
-          "title": "Signs of compassion from a deaf first-grader's classmates",
-          "canonical_url": "https://www.cbsnews.com/video/signs-of-compassion-from-a-deaf-first-graders-classmates",
-          "published_at": "2026-04-05T14:00:11+00:00",
-          "title_hash": "e59ac6004c3a26e079f2436f8ddc04ab0cf0443e1c186a60bb772f1031d16bee",
-          "keywords": [
-            "signs",
-            "compassion",
-            "deaf",
-            "first",
-            "grader",
-            "classmates"
-          ]
-        },
-        {
-          "stable_key": "63dfabd1427d3c3606271430f6a66ff2522852cfc76c26010792198f00ed4418",
-          "source_key": "forbes-innovation-rss",
-          "source_name": "Forbes Innovation",
-          "category": "us-technology",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "기술",
-          "language": "en",
-          "title": "3 Relationship Habits That Predict Lasting Happiness—By A Psychologist",
-          "canonical_url": "https://www.forbes.com/sites/traversmark/2026/04/05/3-relationship-habits-that-predict-lasting-happiness-by-a-psychologist",
-          "published_at": "2026-04-05T14:00:09+00:00",
-          "title_hash": "0c4e7e0b3667c84032e162d18cda5d7c31e701e54c666edaa42a17692d4420ac",
-          "keywords": [
-            "relationship",
-            "habits",
-            "predict",
-            "lasting",
-            "happiness",
-            "psychologist"
-          ]
-        },
-        {
-          "stable_key": "9f930e026621424aa7c745c997f3ef5e8ec293407d4d3800ea24c4de7bd1b792",
-          "source_key": "forbes-business-rss",
-          "source_name": "Forbes Business",
-          "category": "us-economy",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "경제",
-          "language": "en",
-          "title": "UConn Star Tarris Reed Jr. To Face Former Michigan Squad In Final",
-          "canonical_url": "https://www.forbes.com/sites/jefffedotin/2026/04/05/uconn-star-tarris-reed-jr-to-face-former-michigan-squad-in-final",
-          "published_at": "2026-04-05T14:00:02+00:00",
-          "title_hash": "14a58eb7ef63aac666f528dbfc9eb983513ca04988fda36b42b4a9897059a42c",
-          "keywords": [
-            "uconn",
-            "star",
-            "tarris",
-            "reed",
-            "jr",
-            "face"
-          ]
-        },
-        {
-          "stable_key": "19d239b0ef8c01cf7f1c0342183d893beeadc99e2bfdc4f9315f7aefdb54b03a",
-          "source_key": "verge-rss",
-          "source_name": "The Verge RSS",
-          "category": "us-technology",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "기술",
-          "language": "en",
-          "title": "I let Gemini in Google Maps plan my day and it went surprisingly well",
-          "canonical_url": "https://www.theverge.com/tech/907015/gemini-google-maps-hands-on",
-          "published_at": "2026-04-05T14:00:00+00:00",
-          "title_hash": "8539b3227a8b62830cf633c0f97d2fecf4d9f03b8af32c1084203ce5ba2e6632",
-          "keywords": [
-            "let",
-            "gemini",
-            "google",
-            "maps",
-            "plan",
-            "my"
-          ]
-        },
-        {
-          "stable_key": "394fb316ada3ce7636aaa19f2b0d88c88b89e024622e35be5b7ddc9fed05106b",
-          "source_key": "thehill-feed",
-          "source_name": "The Hill Feed",
-          "category": "us-technology",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "기술",
-          "language": "en",
-          "title": "The White House vows America will never give up the moon again",
-          "canonical_url": "https://thehill.com/opinion/technology/5815359-artemis-mission-moon-base",
-          "published_at": "2026-04-05T14:00:00+00:00",
-          "title_hash": "0c8ce0d113a2284858a51976110ff40e217d273bb198c08cc1b97e18c660bfc8",
-          "keywords": [
-            "white",
-            "house",
-            "vows",
-            "america",
-            "never",
-            "give"
-          ]
-        },
-        {
-          "stable_key": "4e5d4f325369953e2b5669d794ece708939ddc314505ce489c0ededd5062e319",
-          "source_key": "techcrunch-rss",
-          "source_name": "TechCrunch",
-          "category": "tech-it",
-          "hub": "global",
-          "hub_label": "글로벌 전문",
-          "section_label": "테크",
-          "language": "en",
-          "title": "In Japan, the robot isn’t coming for your job; it’s filling the one nobody wants",
-          "canonical_url": "https://techcrunch.com/2026/04/05/japan-is-proving-experimental-physical-ai-is-ready-for-the-real-world",
-          "published_at": "2026-04-05T14:00:00+00:00",
-          "title_hash": "07eeeac6bba2323df51a470c0cf27dfc992d7a44b0e1d19e865b4e202cd37417",
-          "keywords": [
-            "japan",
-            "robot",
-            "isn",
-            "coming",
-            "your",
-            "job"
-          ]
-        },
-        {
-          "stable_key": "d544aa07cac74e28a7570d8bc9a4e2c127b419a044a7b7037860a5f5c7a2d4cb",
-          "source_key": "nypost-feed",
-          "source_name": "New York Post Feed",
-          "category": "us-politics",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "정치",
-          "language": "en",
-          "title": "When Does ‘The Real Housewives Of Rhode Island’ Episode 2 Come Out? ‘RHORI’ Has Already Moved Its Air Date",
-          "canonical_url": "https://decider.com/2026/04/05/when-real-housewives-rhode-island-come-out-rhori-new-air-date",
-          "published_at": "2026-04-05T14:00:00+00:00",
-          "title_hash": "aa0f95e3d706d20b36f19ab04d84f66647dba98927304986bf5f26be7935d5ad",
-          "keywords": [
-            "when",
-            "does",
-            "real",
-            "housewives",
-            "rhode",
-            "island"
-          ]
-        },
-        {
-          "stable_key": "270d0ab1ecfa9a13b80c2e541d84e7971ae73b97d65c3b79e79cd8210850d28f",
-          "source_key": "nypost-feed",
-          "source_name": "New York Post Feed",
-          "category": "us-technology",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "기술",
-          "language": "en",
-          "title": "Make golf fun again: Bring the noise",
-          "canonical_url": "https://nypost.com/2026/04/05/opinion/golf-needs-to-shed-its-fusty-image",
-          "published_at": "2026-04-05T14:00:00+00:00",
-          "title_hash": "24708e03b61a9d63a32c257a35f6836b742fd7f896824abc34b3ea96902aefce",
-          "keywords": [
-            "make",
-            "golf",
-            "fun",
-            "again",
-            "bring",
-            "noise"
-          ]
-        },
-        {
-          "stable_key": "608ac6a60125ce7a305e658c795f4c75a85c334d1a9e614e4f6aeee941190d1a",
-          "source_key": "forbes-innovation-rss",
-          "source_name": "Forbes Innovation",
-          "category": "us-technology",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "기술",
-          "language": "en",
-          "title": "Quordle Hints Today: Monday, April 6 Clues And Answers",
-          "canonical_url": "https://www.forbes.com/sites/krisholt/2026/04/05/quordle-hints-today-monday-april-6-clues-and-answers",
-          "published_at": "2026-04-05T14:00:00+00:00",
-          "title_hash": "ffa6f748a56bbdaf8ebe08f968e109587aefeaf220beb3ba4f3ec09104ff7d03",
-          "keywords": [
-            "quordle",
-            "hints",
-            "today",
-            "monday",
-            "april",
-            "clues"
-          ]
-        },
-        {
-          "stable_key": "0c1bd1ce47877c62942c88b78ea96360501c6f61bd571ec3694d175f1a90ae28",
-          "source_key": "forbes-innovation-rss",
-          "source_name": "Forbes Innovation",
-          "category": "us-technology",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "기술",
-          "language": "en",
-          "title": "NYT Strands Hint Today: Monday, April 6 Clues And Answers (Fringe Group)",
-          "canonical_url": "https://www.forbes.com/sites/krisholt/2026/04/05/nyt-strands-hint-today-monday-april-6-clues-and-answers-fringe-group",
-          "published_at": "2026-04-05T14:00:00+00:00",
-          "title_hash": "afa3584887782b1c40d2cfe6ba869be31e8f44b110b0f52ae8e673bbd0086f78",
-          "keywords": [
-            "nyt",
-            "strands",
-            "hint",
-            "today",
-            "monday",
-            "april"
-          ]
-        },
-        {
-          "stable_key": "842c98a091ffefb9e6becb9e2cc8f77fcd56bbc38c3a5cc9030cc0f36cab9fd9",
-          "source_key": "forbes-business-rss",
-          "source_name": "Forbes Business",
-          "category": "us-economy",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "경제",
-          "language": "en",
-          "title": "The Strait Of Hormuz Couldn’t Care Less About The Federal Reserve",
-          "canonical_url": "https://www.forbes.com/sites/johntamny/2026/04/05/the-strait-of-hormuz-couldnt-care-less-about-the-federal-reserve",
-          "published_at": "2026-04-05T14:00:00+00:00",
-          "title_hash": "9188729e0475798f3c876d1ce734bd2be8f57d607cc3a28670399c7b415146d0",
-          "keywords": [
-            "strait",
-            "hormuz",
-            "couldn",
-            "care",
-            "less",
-            "about"
-          ]
         }
       ],
       "kpi_series": [
         {
           "key": "articles",
           "label": "기사 수",
-          "value": 5255,
+          "value": 5273,
           "series": [
             22,
             53,
@@ -4278,8 +4272,8 @@
             247,
             615,
             1401,
-            1207,
-            1010
+            1208,
+            1027
           ]
         },
         {
@@ -4299,14 +4293,14 @@
             247,
             615,
             1401,
-            1207,
-            1010
+            1208,
+            1027
           ]
         },
         {
           "key": "repeats",
           "label": "반복 기사",
-          "value": 327,
+          "value": 328,
           "series": [
             22,
             53,
@@ -4320,8 +4314,8 @@
             247,
             615,
             1401,
-            1207,
-            1010
+            1208,
+            1027
           ]
         },
         {
@@ -4341,8 +4335,8 @@
             247,
             615,
             1401,
-            1207,
-            1010
+            1208,
+            1027
           ]
         }
       ],
@@ -4357,19 +4351,19 @@
               "count": 238
             },
             {
+              "source_key": "yahoo-news-rss",
+              "name": "Yahoo News RSS",
+              "count": 170
+            },
+            {
               "source_key": "guardian-us-rss",
               "name": "The Guardian US",
               "count": 169
             },
             {
-              "source_key": "yahoo-news-rss",
-              "name": "Yahoo News RSS",
-              "count": 168
-            },
-            {
               "source_key": "nypost-feed",
               "name": "New York Post Feed",
-              "count": 160
+              "count": 162
             },
             {
               "source_key": "asiae-society-rss",
@@ -4402,21 +4396,21 @@
               "label": "정치",
               "hub": "us",
               "hub_label": "미국",
-              "count": 1107
+              "count": 1112
             },
             {
               "key": "us-technology",
               "label": "기술",
               "hub": "us",
               "hub_label": "미국",
-              "count": 824
+              "count": 829
             },
             {
               "key": "us-world",
               "label": "세계",
               "hub": "us",
               "hub_label": "미국",
-              "count": 535
+              "count": 538
             },
             {
               "key": "kr-society",
@@ -4437,7 +4431,7 @@
               "label": "경제",
               "hub": "us",
               "hub_label": "미국",
-              "count": 398
+              "count": 399
             },
             {
               "key": "kr-politics",
@@ -4451,7 +4445,7 @@
               "label": "시장",
               "hub": "us",
               "hub_label": "미국",
-              "count": 302
+              "count": 306
             }
           ],
           "chart": "donut"
@@ -4463,12 +4457,12 @@
             {
               "key": "trump",
               "label": "trump",
-              "count": 540
+              "count": 544
             },
             {
               "key": "iran",
               "label": "iran",
-              "count": 294
+              "count": 296
             },
             {
               "key": "war",
@@ -4488,17 +4482,17 @@
             {
               "key": "ai",
               "label": "ai",
-              "count": 113
+              "count": 114
             },
             {
               "key": "how",
               "label": "how",
-              "count": 102
+              "count": 104
             },
             {
               "key": "after",
               "label": "after",
-              "count": 101
+              "count": 102
             }
           ]
         }
@@ -4622,21 +4616,21 @@
             },
             {
               "date": "2026-04-04",
-              "count": 1207
+              "count": 1208
             },
             {
               "date": "2026-04-05",
-              "count": 1010
+              "count": 1027
             }
           ],
           "summary_items": [
             {
               "label": "최근 집계",
-              "value": 1010
+              "value": 1027
             },
             {
               "label": "일 평균",
-              "value": 175.2
+              "value": 175.8
             },
             {
               "label": "최대 일자",
@@ -4651,7 +4645,7 @@
             {
               "key": "us",
               "label": "미국",
-              "count": 3166,
+              "count": 3184,
               "series": [
                 {
                   "date": "2026-03-07",
@@ -4767,11 +4761,11 @@
                 },
                 {
                   "date": "2026-04-04",
-                  "count": 791
+                  "count": 792
                 },
                 {
                   "date": "2026-04-05",
-                  "count": 381
+                  "count": 398
                 }
               ]
             },
@@ -4906,7 +4900,7 @@
           "summary_items": [
             {
               "label": "미국",
-              "value": 3166
+              "value": 3184
             },
             {
               "label": "대한민국",
@@ -4921,7 +4915,7 @@
             {
               "key": "us-politics",
               "label": "정치",
-              "count": 1107,
+              "count": 1112,
               "series": [
                 {
                   "date": "2026-03-07",
@@ -5041,14 +5035,14 @@
                 },
                 {
                   "date": "2026-04-05",
-                  "count": 126
+                  "count": 131
                 }
               ]
             },
             {
               "key": "us-technology",
               "label": "기술",
-              "count": 824,
+              "count": 829,
               "series": [
                 {
                   "date": "2026-03-07",
@@ -5168,14 +5162,14 @@
                 },
                 {
                   "date": "2026-04-05",
-                  "count": 109
+                  "count": 114
                 }
               ]
             },
             {
               "key": "us-world",
               "label": "세계",
-              "count": 535,
+              "count": 538,
               "series": [
                 {
                   "date": "2026-03-07",
@@ -5295,7 +5289,7 @@
                 },
                 {
                   "date": "2026-04-05",
-                  "count": 63
+                  "count": 66
                 }
               ]
             }
@@ -5303,15 +5297,15 @@
           "summary_items": [
             {
               "label": "정치",
-              "value": 1107
+              "value": 1112
             },
             {
               "label": "기술",
-              "value": 824
+              "value": 829
             },
             {
               "label": "세계",
-              "value": 535
+              "value": 538
             }
           ]
         }
@@ -5319,10 +5313,10 @@
     },
     "90d": {
       "label": "90d",
-      "article_count": 5348,
+      "article_count": 5366,
       "unknown_time_count": 0,
       "active_source_count": 101,
-      "repeated_title_count": 329,
+      "repeated_title_count": 330,
       "timeline": [
         {
           "date": "2026-01-07",
@@ -5594,33 +5588,33 @@
         },
         {
           "date": "2026-04-04",
-          "count": 1207
+          "count": 1208
         },
         {
           "date": "2026-04-05",
-          "count": 1010
+          "count": 1027
         }
       ],
       "top_keywords": [
         {
           "keyword": "trump",
-          "count": 542
+          "count": 546
         },
         {
           "keyword": "iran",
-          "count": 294
+          "count": 296
         },
         {
           "keyword": "war",
           "count": 150
         },
         {
-          "keyword": "new",
+          "keyword": "ai",
           "count": 125
         },
         {
-          "keyword": "ai",
-          "count": 124
+          "keyword": "new",
+          "count": 125
         },
         {
           "keyword": "us",
@@ -5628,11 +5622,11 @@
         },
         {
           "keyword": "how",
-          "count": 105
+          "count": 107
         },
         {
           "keyword": "after",
-          "count": 102
+          "count": 103
         },
         {
           "keyword": "says",
@@ -5644,7 +5638,7 @@
         },
         {
           "keyword": "over",
-          "count": 72
+          "count": 74
         },
         {
           "keyword": "california",
@@ -5665,12 +5659,12 @@
         {
           "source_key": "yahoo-news-rss",
           "name": "Yahoo News RSS",
-          "count": 168
+          "count": 170
         },
         {
           "source_key": "nypost-feed",
           "name": "New York Post Feed",
-          "count": 160
+          "count": 162
         },
         {
           "source_key": "asiae-society-rss",
@@ -5717,7 +5711,7 @@
         {
           "key": "us",
           "label": "미국",
-          "count": 3255
+          "count": 3273
         },
         {
           "key": "kr",
@@ -5736,21 +5730,21 @@
           "label": "정치",
           "hub": "us",
           "hub_label": "미국",
-          "count": 1107
+          "count": 1112
         },
         {
           "key": "us-technology",
           "label": "기술",
           "hub": "us",
           "hub_label": "미국",
-          "count": 888
+          "count": 893
         },
         {
           "key": "us-world",
           "label": "세계",
           "hub": "us",
           "hub_label": "미국",
-          "count": 536
+          "count": 539
         },
         {
           "key": "kr-society",
@@ -5771,7 +5765,7 @@
           "label": "경제",
           "hub": "us",
           "hub_label": "미국",
-          "count": 398
+          "count": 399
         },
         {
           "key": "kr-politics",
@@ -5785,7 +5779,7 @@
           "label": "시장",
           "hub": "us",
           "hub_label": "미국",
-          "count": 326
+          "count": 330
         },
         {
           "key": "kr-culture",
@@ -5819,7 +5813,7 @@
       "language_counts": [
         {
           "language": "en",
-          "count": 3401
+          "count": 3419
         },
         {
           "language": "ko",
@@ -6009,6 +6003,334 @@
         }
       ],
       "recent_samples": [
+        {
+          "stable_key": "1cc93386805dd7ee18334aa9d8d2989e0aed3a38e8bd2e94792c7e45f19f10bc",
+          "source_key": "newsweek-feed",
+          "source_name": "Newsweek Feed",
+          "category": "us-technology",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "기술",
+          "language": "en",
+          "title": "UConn Coach Sends 2-Word Message for Michigan Championship Game",
+          "canonical_url": "https://www.newsweek.com/sports/ncaa/uconn-coach-sends-2-word-message-for-michigan-championship-game-11785080",
+          "published_at": "2026-04-05T14:51:01+00:00",
+          "title_hash": "61521873c08a36ae4b488bc277160c857673793d90e67e1b32682ba493887481",
+          "keywords": [
+            "uconn",
+            "coach",
+            "sends",
+            "word",
+            "message",
+            "michigan"
+          ]
+        },
+        {
+          "stable_key": "47c9533a0f4df46b09b1cf2190973827ecfdc1e736bd55314eab4fef33925201",
+          "source_key": "businessinsider-feed",
+          "source_name": "Business Insider Feed",
+          "category": "us-technology",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "기술",
+          "language": "en",
+          "title": "I tried Italian sandwiches from Subway, Jimmy John's, and Jersey Mike's. One stood out from the rest.",
+          "canonical_url": "https://www.businessinsider.com/which-chain-best-italian-sandwich-subway-jimmy-johns-jersey-mikes-2026-4",
+          "published_at": "2026-04-05T14:48:01+00:00",
+          "title_hash": "79ab2a24b6af225d5044a6dd2f0a1b56579c60d51162c033df4c2afca223fb87",
+          "keywords": [
+            "tried",
+            "italian",
+            "sandwiches",
+            "subway",
+            "jimmy",
+            "john"
+          ]
+        },
+        {
+          "stable_key": "5367081974e239bf25e712bd73afd8ce88fe309516f8c8123a30496cae973b1b",
+          "source_key": "nypost-feed",
+          "source_name": "New York Post Feed",
+          "category": "us-technology",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "기술",
+          "language": "en",
+          "title": "Floundering Islanders must take advantage of rare break with playoff hopes in peril",
+          "canonical_url": "https://nypost.com/2026/04/05/sports/floundering-islanders-must-take-advantage-of-rare-break",
+          "published_at": "2026-04-05T14:47:44+00:00",
+          "title_hash": "c7c2a218ae311744e66bd2a72a34de2fa33bf8e425a8da53c1f547b958809b13",
+          "keywords": [
+            "floundering",
+            "islanders",
+            "must",
+            "take",
+            "advantage",
+            "rare"
+          ]
+        },
+        {
+          "stable_key": "1f52e5ae84a22d7750d888fb9daa378c5a461b1c2c8d8ef1b5e9938c2dd2760e",
+          "source_key": "nyt-world-rss",
+          "source_name": "New York Times World",
+          "category": "us-world",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "세계",
+          "language": "en",
+          "title": "How the C.I.A. Helped Locate a U.S. Airman Hiding on an Iranian Ridgeline",
+          "canonical_url": "https://www.nytimes.com/2026/04/05/world/middleeast/cia-us-airman-rescue-iran.html",
+          "published_at": "2026-04-05T14:46:40+00:00",
+          "title_hash": "2c419d3039367ec1c821f1bb3c01a29ad42e821118904a7cf96b0c72b1039a33",
+          "keywords": [
+            "how",
+            "helped",
+            "locate",
+            "airman",
+            "hiding",
+            "iranian"
+          ]
+        },
+        {
+          "stable_key": "78bca90a4bfcdfcc9588947720ceaed0cdce8f054cb70b549d175db0f282ecc8",
+          "source_key": "forbes-innovation-rss",
+          "source_name": "Forbes Innovation",
+          "category": "us-technology",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "기술",
+          "language": "en",
+          "title": "Is The Tesla Diner A Flop?",
+          "canonical_url": "https://www.forbes.com/sites/brookecrothers/2026/04/05/is-the-tesla-diner-a-flop",
+          "published_at": "2026-04-05T14:46:03+00:00",
+          "title_hash": "2da47cd6ac446dbe4d91a3ffacded83bbc4d4b86f87b6a78912329e668e05e66",
+          "keywords": [
+            "tesla",
+            "diner",
+            "flop",
+            "tesla diner",
+            "diner flop"
+          ]
+        },
+        {
+          "stable_key": "d962665a2c901eb24bfb602adeefd005923fe74139e91825d2907034f24a8c0a",
+          "source_key": "bloomberg-markets-rss",
+          "source_name": "Bloomberg Markets",
+          "category": "us-markets",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "시장",
+          "language": "en",
+          "title": "Trump Gives 48-Hour Ultimatum to Reopen Strait",
+          "canonical_url": "https://www.bloomberg.com/news/videos/2026-04-05/trump-gives-48-hour-ultimatum-to-reopen-strait-video",
+          "published_at": "2026-04-05T14:44:32+00:00",
+          "title_hash": "d27a9b69e82162afc77b0a43544882785f916bee917f67f6f33a1349e1878c55",
+          "keywords": [
+            "trump",
+            "gives",
+            "hour",
+            "ultimatum",
+            "reopen",
+            "strait"
+          ]
+        },
+        {
+          "stable_key": "f0721fff45089a77f39d83633613ad9baad7bf468871ed8388be2a84f0c41329",
+          "source_key": "nyt-world-rss",
+          "source_name": "New York Times World",
+          "category": "us-world",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "세계",
+          "language": "en",
+          "title": "Former Matador Is Gored to Death Before Annual Bullfight in Spain",
+          "canonical_url": "https://www.nytimes.com/2026/04/05/world/europe/matador-dead-bull-fighting-malaga.html",
+          "published_at": "2026-04-05T14:37:59+00:00",
+          "title_hash": "049cc1dad107827c24944c0f01c7b47d34803ae75c90ce2b4ef8fcdc9f9d62ee",
+          "keywords": [
+            "former",
+            "matador",
+            "gored",
+            "death",
+            "before",
+            "annual"
+          ]
+        },
+        {
+          "stable_key": "de5169b4782fdae09bcc8fdbacbdcce9bcab8403945811926fe2391c49109270",
+          "source_key": "forbes-innovation-rss",
+          "source_name": "Forbes Innovation",
+          "category": "us-technology",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "기술",
+          "language": "en",
+          "title": "Apple’s Update Mistake—Hundreds Of Millions Of iPhones Affected",
+          "canonical_url": "https://www.forbes.com/sites/zakdoffman/2026/04/05/apples-update-mistake-hundreds-of-millions-of-iphones-affected",
+          "published_at": "2026-04-05T14:37:46+00:00",
+          "title_hash": "813602bd0b631ecea775860a59a0242da496f8596a3c112fb78d93781a952720",
+          "keywords": [
+            "apple",
+            "mistake",
+            "hundreds",
+            "millions",
+            "iphones",
+            "affected"
+          ]
+        },
+        {
+          "stable_key": "b75607d68690a2dfb2b8286f613be57e1a8c5efc7e0650faf9405a17b3d32c93",
+          "source_key": "forbes-business-rss",
+          "source_name": "Forbes Business",
+          "category": "us-economy",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "경제",
+          "language": "en",
+          "title": "2026 Masters: How To Watch - TV And Streaming Schedule",
+          "canonical_url": "https://www.forbes.com/sites/mikefore/2026/04/05/2026-masters-how-to-watchtv-and-streaming-schedule",
+          "published_at": "2026-04-05T14:37:07+00:00",
+          "title_hash": "b988b15e24c178236aa4db5783dc6a605c689e182dd1cfff11827cc947f1ace2",
+          "keywords": [
+            "masters",
+            "how",
+            "watch",
+            "tv",
+            "streaming",
+            "schedule"
+          ]
+        },
+        {
+          "stable_key": "0f2a487eab8cec82d720a2d06fee0b80a48b67f7d23b945fc4647331b12a881a",
+          "source_key": "nypost-feed",
+          "source_name": "New York Post Feed",
+          "category": "us-politics",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "정치",
+          "language": "en",
+          "title": "Trump heralds ‘Easter Miracle’ after daring rescue of F-15 airman in Iran: ‘The enemy was large and violent’",
+          "canonical_url": "https://nypost.com/2026/04/05/us-news/trump-heralds-easter-miracle-after-rescue-of-f-15-airman-in-iran",
+          "published_at": "2026-04-05T14:31:37+00:00",
+          "title_hash": "a350e4f32f24ef9a894b819a168beaa1cc281b9841309f9042b62b44c697c21a",
+          "keywords": [
+            "trump",
+            "heralds",
+            "easter",
+            "miracle",
+            "after",
+            "daring"
+          ]
+        },
+        {
+          "stable_key": "b6d241365e2fbc577a8558be455d519a018e2c6635ec2f9c070412d682c03510",
+          "source_key": "salon-feed",
+          "source_name": "Salon Feed",
+          "category": "us-markets",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "시장",
+          "language": "en",
+          "title": "Why does the right hate the pope so much?",
+          "canonical_url": "https://www.salon.com/2026/04/05/why-does-the-right-hate-the-pope-so-much",
+          "published_at": "2026-04-05T14:30:39+00:00",
+          "title_hash": "69632acfcf875c50aa7a3360996693891165c68aa0f8b351445d53b904a09dbd",
+          "keywords": [
+            "why",
+            "does",
+            "right",
+            "hate",
+            "pope",
+            "so"
+          ]
+        },
+        {
+          "stable_key": "f0313e77294e4083f6b2030e89454d01db4ce3ef2c55673aae70ec8a41df55d3",
+          "source_key": "cbs-us-rss",
+          "source_name": "CBS News US",
+          "category": "us-politics",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "정치",
+          "language": "en",
+          "title": "Nature: Spring in Pennsylvania",
+          "canonical_url": "https://www.cbsnews.com/video/nature-spring-in-pennsylvania",
+          "published_at": "2026-04-05T14:30:02+00:00",
+          "title_hash": "f6d19f9a62c3b25542e674bedafdcad5400791ec6df036012aa74e54093b58b0",
+          "keywords": [
+            "nature",
+            "spring",
+            "pennsylvania",
+            "nature spring",
+            "spring pennsylvania"
+          ]
+        },
+        {
+          "stable_key": "2d5636687e2b06ced7050a04c43f3982622ff7f7d66887e6154304978bcc2a0e",
+          "source_key": "cbs-us-rss",
+          "source_name": "CBS News US",
+          "category": "us-politics",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "정치",
+          "language": "en",
+          "title": "These United States: An ode to baseball",
+          "canonical_url": "https://www.cbsnews.com/video/these-united-states-an-ode-to-baseball",
+          "published_at": "2026-04-05T14:27:51+00:00",
+          "title_hash": "1b476139d6a066773dd398f226d0f27a48898147b26d67199b6e46d270adddd3",
+          "keywords": [
+            "these",
+            "united",
+            "states",
+            "ode",
+            "baseball",
+            "these united"
+          ]
+        },
+        {
+          "stable_key": "28abe8c7940f07447415655c83b21a0bcf09abc971e77b2af5e6bc60f4ab0531",
+          "source_key": "wapo-world-rss",
+          "source_name": "Washington Post World",
+          "category": "us-world",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "세계",
+          "language": "en",
+          "title": "Trump threatens Iran with ‘Hell’ over Strait of Hormuz in profane post",
+          "canonical_url": "https://www.washingtonpost.com/politics/2026/04/05/trump-iran-strait-hormuz-easter-threat",
+          "published_at": "2026-04-05T14:27:44+00:00",
+          "title_hash": "8ead2e8e5967bbdb64628b8a741fec1dac9b62c94ee14f57080e98b23c0d9fbb",
+          "keywords": [
+            "trump",
+            "threatens",
+            "iran",
+            "hell",
+            "over",
+            "strait"
+          ]
+        },
+        {
+          "stable_key": "6a7b100834b802d9d6f0c58dc92d44530baa9e265f2ad8e6cadedab741216f15",
+          "source_key": "wapo-politics-rss",
+          "source_name": "Washington Post Politics",
+          "category": "us-politics",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "정치",
+          "language": "en",
+          "title": "Trump threatens Iran with ‘Hell’ over Strait of Hormuz in profane post",
+          "canonical_url": "https://www.washingtonpost.com/politics/2026/04/05/trump-iran-strait-hormuz-easter-threat",
+          "published_at": "2026-04-05T14:27:44+00:00",
+          "title_hash": "8ead2e8e5967bbdb64628b8a741fec1dac9b62c94ee14f57080e98b23c0d9fbb",
+          "keywords": [
+            "trump",
+            "threatens",
+            "iran",
+            "hell",
+            "over",
+            "strait"
+          ]
+        },
         {
           "stable_key": "924fe3317a4b6b227219f720384fbef303f6f64a8e3926fbdd53775f73c46f1d",
           "source_key": "abc-money-rss",
@@ -6338,343 +6660,13 @@
             "emboldened",
             "successful"
           ]
-        },
-        {
-          "stable_key": "9f4ed6181b4e87f434513a4dbc2b687ce9fa8ad01e6cfa081e26e30230f7a1d0",
-          "source_key": "cbs-world-rss",
-          "source_name": "CBS News World",
-          "category": "us-world",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "세계",
-          "language": "en",
-          "title": "Sister recounts 903-day fight to free sibling kidnapped in Iraq",
-          "canonical_url": "https://www.cbsnews.com/news/sister-recounts-relentless-903-day-fight-to-free-sibling-kidnapped-iraq",
-          "published_at": "2026-04-05T14:01:53+00:00",
-          "title_hash": "c07f00c8384f73c197784d5255684e7734acca53822e0edcda7e62362206bd0b",
-          "keywords": [
-            "sister",
-            "recounts",
-            "day",
-            "fight",
-            "free",
-            "sibling"
-          ]
-        },
-        {
-          "stable_key": "66c42efbccbf79beba51890445b62980340a6b2de79a2f1e82e79b574e7aa8e6",
-          "source_key": "nypost-feed",
-          "source_name": "New York Post Feed",
-          "category": "us-economy",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "경제",
-          "language": "en",
-          "title": "One mistake unknowingly racks up over $5K on family’s cell phone bill — here’s how to prevent this from happening to you",
-          "canonical_url": "https://nypost.com/2026/04/05/lifestyle/teen-unknowingly-racks-up-over-5k-on-family-cell-phone-bill",
-          "published_at": "2026-04-05T14:01:45+00:00",
-          "title_hash": "522041a5927c129d49b1914c6d01c625997b0057dbad546b08a791165175e436",
-          "keywords": [
-            "one",
-            "mistake",
-            "unknowingly",
-            "racks",
-            "up",
-            "over"
-          ]
-        },
-        {
-          "stable_key": "1bcb63c57521e95330a0a4b87751696f21bd6d7533d22e140b130a22f73b4a65",
-          "source_key": "guardian-us-rss",
-          "source_name": "The Guardian US",
-          "category": "us-markets",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "시장",
-          "language": "en",
-          "title": "‘I always considered social media evil’: big tobacco whistleblower on tech’s addictive products",
-          "canonical_url": "https://www.theguardian.com/media/2026/apr/05/big-tobacco-whistleblower-social-media",
-          "published_at": "2026-04-05T14:00:52+00:00",
-          "title_hash": "3388b727866f6f5c74dde21ffc0399e7a0d0bb1c7c71c112393adb32670e0b34",
-          "keywords": [
-            "always",
-            "considered",
-            "social",
-            "media",
-            "evil",
-            "big"
-          ]
-        },
-        {
-          "stable_key": "b9d1c63082f35bf7d7b3db8154c913c80187299f81aa7772aad3fe04c00749c5",
-          "source_key": "guardian-us-rss",
-          "source_name": "The Guardian US",
-          "category": "us-world",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "세계",
-          "language": "en",
-          "title": "Easter Sunday around the world – in pictures",
-          "canonical_url": "https://www.theguardian.com/lifeandstyle/gallery/2026/apr/05/easter-sunday-around-the-world-in-pictures",
-          "published_at": "2026-04-05T14:00:25+00:00",
-          "title_hash": "f0c887f2bcace5ae5485efe2c8030fd44bcfb29886f8b675b0d6df0b7ad4a38b",
-          "keywords": [
-            "easter",
-            "sunday",
-            "around",
-            "world",
-            "pictures",
-            "easter sunday"
-          ]
-        },
-        {
-          "stable_key": "5dab70a6f8029a2d3b0ea9cfb9cc8dddceb6552ae95a8c778ae69f88aeb9acfc",
-          "source_key": "cbs-us-rss",
-          "source_name": "CBS News US",
-          "category": "us-politics",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "정치",
-          "language": "en",
-          "title": "Signs of compassion from a deaf first-grader's classmates",
-          "canonical_url": "https://www.cbsnews.com/video/signs-of-compassion-from-a-deaf-first-graders-classmates",
-          "published_at": "2026-04-05T14:00:11+00:00",
-          "title_hash": "e59ac6004c3a26e079f2436f8ddc04ab0cf0443e1c186a60bb772f1031d16bee",
-          "keywords": [
-            "signs",
-            "compassion",
-            "deaf",
-            "first",
-            "grader",
-            "classmates"
-          ]
-        },
-        {
-          "stable_key": "63dfabd1427d3c3606271430f6a66ff2522852cfc76c26010792198f00ed4418",
-          "source_key": "forbes-innovation-rss",
-          "source_name": "Forbes Innovation",
-          "category": "us-technology",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "기술",
-          "language": "en",
-          "title": "3 Relationship Habits That Predict Lasting Happiness—By A Psychologist",
-          "canonical_url": "https://www.forbes.com/sites/traversmark/2026/04/05/3-relationship-habits-that-predict-lasting-happiness-by-a-psychologist",
-          "published_at": "2026-04-05T14:00:09+00:00",
-          "title_hash": "0c4e7e0b3667c84032e162d18cda5d7c31e701e54c666edaa42a17692d4420ac",
-          "keywords": [
-            "relationship",
-            "habits",
-            "predict",
-            "lasting",
-            "happiness",
-            "psychologist"
-          ]
-        },
-        {
-          "stable_key": "9f930e026621424aa7c745c997f3ef5e8ec293407d4d3800ea24c4de7bd1b792",
-          "source_key": "forbes-business-rss",
-          "source_name": "Forbes Business",
-          "category": "us-economy",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "경제",
-          "language": "en",
-          "title": "UConn Star Tarris Reed Jr. To Face Former Michigan Squad In Final",
-          "canonical_url": "https://www.forbes.com/sites/jefffedotin/2026/04/05/uconn-star-tarris-reed-jr-to-face-former-michigan-squad-in-final",
-          "published_at": "2026-04-05T14:00:02+00:00",
-          "title_hash": "14a58eb7ef63aac666f528dbfc9eb983513ca04988fda36b42b4a9897059a42c",
-          "keywords": [
-            "uconn",
-            "star",
-            "tarris",
-            "reed",
-            "jr",
-            "face"
-          ]
-        },
-        {
-          "stable_key": "19d239b0ef8c01cf7f1c0342183d893beeadc99e2bfdc4f9315f7aefdb54b03a",
-          "source_key": "verge-rss",
-          "source_name": "The Verge RSS",
-          "category": "us-technology",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "기술",
-          "language": "en",
-          "title": "I let Gemini in Google Maps plan my day and it went surprisingly well",
-          "canonical_url": "https://www.theverge.com/tech/907015/gemini-google-maps-hands-on",
-          "published_at": "2026-04-05T14:00:00+00:00",
-          "title_hash": "8539b3227a8b62830cf633c0f97d2fecf4d9f03b8af32c1084203ce5ba2e6632",
-          "keywords": [
-            "let",
-            "gemini",
-            "google",
-            "maps",
-            "plan",
-            "my"
-          ]
-        },
-        {
-          "stable_key": "394fb316ada3ce7636aaa19f2b0d88c88b89e024622e35be5b7ddc9fed05106b",
-          "source_key": "thehill-feed",
-          "source_name": "The Hill Feed",
-          "category": "us-technology",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "기술",
-          "language": "en",
-          "title": "The White House vows America will never give up the moon again",
-          "canonical_url": "https://thehill.com/opinion/technology/5815359-artemis-mission-moon-base",
-          "published_at": "2026-04-05T14:00:00+00:00",
-          "title_hash": "0c8ce0d113a2284858a51976110ff40e217d273bb198c08cc1b97e18c660bfc8",
-          "keywords": [
-            "white",
-            "house",
-            "vows",
-            "america",
-            "never",
-            "give"
-          ]
-        },
-        {
-          "stable_key": "4e5d4f325369953e2b5669d794ece708939ddc314505ce489c0ededd5062e319",
-          "source_key": "techcrunch-rss",
-          "source_name": "TechCrunch",
-          "category": "tech-it",
-          "hub": "global",
-          "hub_label": "글로벌 전문",
-          "section_label": "테크",
-          "language": "en",
-          "title": "In Japan, the robot isn’t coming for your job; it’s filling the one nobody wants",
-          "canonical_url": "https://techcrunch.com/2026/04/05/japan-is-proving-experimental-physical-ai-is-ready-for-the-real-world",
-          "published_at": "2026-04-05T14:00:00+00:00",
-          "title_hash": "07eeeac6bba2323df51a470c0cf27dfc992d7a44b0e1d19e865b4e202cd37417",
-          "keywords": [
-            "japan",
-            "robot",
-            "isn",
-            "coming",
-            "your",
-            "job"
-          ]
-        },
-        {
-          "stable_key": "d544aa07cac74e28a7570d8bc9a4e2c127b419a044a7b7037860a5f5c7a2d4cb",
-          "source_key": "nypost-feed",
-          "source_name": "New York Post Feed",
-          "category": "us-politics",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "정치",
-          "language": "en",
-          "title": "When Does ‘The Real Housewives Of Rhode Island’ Episode 2 Come Out? ‘RHORI’ Has Already Moved Its Air Date",
-          "canonical_url": "https://decider.com/2026/04/05/when-real-housewives-rhode-island-come-out-rhori-new-air-date",
-          "published_at": "2026-04-05T14:00:00+00:00",
-          "title_hash": "aa0f95e3d706d20b36f19ab04d84f66647dba98927304986bf5f26be7935d5ad",
-          "keywords": [
-            "when",
-            "does",
-            "real",
-            "housewives",
-            "rhode",
-            "island"
-          ]
-        },
-        {
-          "stable_key": "270d0ab1ecfa9a13b80c2e541d84e7971ae73b97d65c3b79e79cd8210850d28f",
-          "source_key": "nypost-feed",
-          "source_name": "New York Post Feed",
-          "category": "us-technology",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "기술",
-          "language": "en",
-          "title": "Make golf fun again: Bring the noise",
-          "canonical_url": "https://nypost.com/2026/04/05/opinion/golf-needs-to-shed-its-fusty-image",
-          "published_at": "2026-04-05T14:00:00+00:00",
-          "title_hash": "24708e03b61a9d63a32c257a35f6836b742fd7f896824abc34b3ea96902aefce",
-          "keywords": [
-            "make",
-            "golf",
-            "fun",
-            "again",
-            "bring",
-            "noise"
-          ]
-        },
-        {
-          "stable_key": "608ac6a60125ce7a305e658c795f4c75a85c334d1a9e614e4f6aeee941190d1a",
-          "source_key": "forbes-innovation-rss",
-          "source_name": "Forbes Innovation",
-          "category": "us-technology",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "기술",
-          "language": "en",
-          "title": "Quordle Hints Today: Monday, April 6 Clues And Answers",
-          "canonical_url": "https://www.forbes.com/sites/krisholt/2026/04/05/quordle-hints-today-monday-april-6-clues-and-answers",
-          "published_at": "2026-04-05T14:00:00+00:00",
-          "title_hash": "ffa6f748a56bbdaf8ebe08f968e109587aefeaf220beb3ba4f3ec09104ff7d03",
-          "keywords": [
-            "quordle",
-            "hints",
-            "today",
-            "monday",
-            "april",
-            "clues"
-          ]
-        },
-        {
-          "stable_key": "0c1bd1ce47877c62942c88b78ea96360501c6f61bd571ec3694d175f1a90ae28",
-          "source_key": "forbes-innovation-rss",
-          "source_name": "Forbes Innovation",
-          "category": "us-technology",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "기술",
-          "language": "en",
-          "title": "NYT Strands Hint Today: Monday, April 6 Clues And Answers (Fringe Group)",
-          "canonical_url": "https://www.forbes.com/sites/krisholt/2026/04/05/nyt-strands-hint-today-monday-april-6-clues-and-answers-fringe-group",
-          "published_at": "2026-04-05T14:00:00+00:00",
-          "title_hash": "afa3584887782b1c40d2cfe6ba869be31e8f44b110b0f52ae8e673bbd0086f78",
-          "keywords": [
-            "nyt",
-            "strands",
-            "hint",
-            "today",
-            "monday",
-            "april"
-          ]
-        },
-        {
-          "stable_key": "842c98a091ffefb9e6becb9e2cc8f77fcd56bbc38c3a5cc9030cc0f36cab9fd9",
-          "source_key": "forbes-business-rss",
-          "source_name": "Forbes Business",
-          "category": "us-economy",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "경제",
-          "language": "en",
-          "title": "The Strait Of Hormuz Couldn’t Care Less About The Federal Reserve",
-          "canonical_url": "https://www.forbes.com/sites/johntamny/2026/04/05/the-strait-of-hormuz-couldnt-care-less-about-the-federal-reserve",
-          "published_at": "2026-04-05T14:00:00+00:00",
-          "title_hash": "9188729e0475798f3c876d1ce734bd2be8f57d607cc3a28670399c7b415146d0",
-          "keywords": [
-            "strait",
-            "hormuz",
-            "couldn",
-            "care",
-            "less",
-            "about"
-          ]
         }
       ],
       "kpi_series": [
         {
           "key": "articles",
           "label": "기사 수",
-          "value": 5348,
+          "value": 5366,
           "series": [
             22,
             53,
@@ -6688,8 +6680,8 @@
             247,
             615,
             1401,
-            1207,
-            1010
+            1208,
+            1027
           ]
         },
         {
@@ -6709,14 +6701,14 @@
             247,
             615,
             1401,
-            1207,
-            1010
+            1208,
+            1027
           ]
         },
         {
           "key": "repeats",
           "label": "반복 기사",
-          "value": 329,
+          "value": 330,
           "series": [
             22,
             53,
@@ -6730,8 +6722,8 @@
             247,
             615,
             1401,
-            1207,
-            1010
+            1208,
+            1027
           ]
         },
         {
@@ -6751,8 +6743,8 @@
             247,
             615,
             1401,
-            1207,
-            1010
+            1208,
+            1027
           ]
         }
       ],
@@ -6774,12 +6766,12 @@
             {
               "source_key": "yahoo-news-rss",
               "name": "Yahoo News RSS",
-              "count": 168
+              "count": 170
             },
             {
               "source_key": "nypost-feed",
               "name": "New York Post Feed",
-              "count": 160
+              "count": 162
             },
             {
               "source_key": "asiae-society-rss",
@@ -6812,21 +6804,21 @@
               "label": "정치",
               "hub": "us",
               "hub_label": "미국",
-              "count": 1107
+              "count": 1112
             },
             {
               "key": "us-technology",
               "label": "기술",
               "hub": "us",
               "hub_label": "미국",
-              "count": 888
+              "count": 893
             },
             {
               "key": "us-world",
               "label": "세계",
               "hub": "us",
               "hub_label": "미국",
-              "count": 536
+              "count": 539
             },
             {
               "key": "kr-society",
@@ -6847,7 +6839,7 @@
               "label": "경제",
               "hub": "us",
               "hub_label": "미국",
-              "count": 398
+              "count": 399
             },
             {
               "key": "kr-politics",
@@ -6861,7 +6853,7 @@
               "label": "시장",
               "hub": "us",
               "hub_label": "미국",
-              "count": 326
+              "count": 330
             }
           ],
           "chart": "donut"
@@ -6873,12 +6865,12 @@
             {
               "key": "trump",
               "label": "trump",
-              "count": 542
+              "count": 546
             },
             {
               "key": "iran",
               "label": "iran",
-              "count": 294
+              "count": 296
             },
             {
               "key": "war",
@@ -6886,14 +6878,14 @@
               "count": 150
             },
             {
-              "key": "new",
-              "label": "new",
+              "key": "ai",
+              "label": "ai",
               "count": 125
             },
             {
-              "key": "ai",
-              "label": "ai",
-              "count": 124
+              "key": "new",
+              "label": "new",
+              "count": 125
             },
             {
               "key": "us",
@@ -6903,12 +6895,12 @@
             {
               "key": "how",
               "label": "how",
-              "count": 105
+              "count": 107
             },
             {
               "key": "after",
               "label": "after",
-              "count": 102
+              "count": 103
             }
           ]
         }
@@ -7188,21 +7180,21 @@
             },
             {
               "date": "2026-04-04",
-              "count": 1207
+              "count": 1208
             },
             {
               "date": "2026-04-05",
-              "count": 1010
+              "count": 1027
             }
           ],
           "summary_items": [
             {
               "label": "최근 집계",
-              "value": 1010
+              "value": 1027
             },
             {
               "label": "일 평균",
-              "value": 77.5
+              "value": 77.8
             },
             {
               "label": "최대 일자",
@@ -7217,7 +7209,7 @@
             {
               "key": "us",
               "label": "미국",
-              "count": 3255,
+              "count": 3273,
               "series": [
                 {
                   "date": "2026-01-07",
@@ -7489,11 +7481,11 @@
                 },
                 {
                   "date": "2026-04-04",
-                  "count": 791
+                  "count": 792
                 },
                 {
                   "date": "2026-04-05",
-                  "count": 381
+                  "count": 398
                 }
               ]
             },
@@ -7784,7 +7776,7 @@
           "summary_items": [
             {
               "label": "미국",
-              "value": 3255
+              "value": 3273
             },
             {
               "label": "대한민국",
@@ -7799,7 +7791,7 @@
             {
               "key": "us-politics",
               "label": "정치",
-              "count": 1107,
+              "count": 1112,
               "series": [
                 {
                   "date": "2026-01-07",
@@ -8075,14 +8067,14 @@
                 },
                 {
                   "date": "2026-04-05",
-                  "count": 126
+                  "count": 131
                 }
               ]
             },
             {
               "key": "us-technology",
               "label": "기술",
-              "count": 888,
+              "count": 893,
               "series": [
                 {
                   "date": "2026-01-07",
@@ -8358,14 +8350,14 @@
                 },
                 {
                   "date": "2026-04-05",
-                  "count": 109
+                  "count": 114
                 }
               ]
             },
             {
               "key": "us-world",
               "label": "세계",
-              "count": 536,
+              "count": 539,
               "series": [
                 {
                   "date": "2026-01-07",
@@ -8641,7 +8633,7 @@
                 },
                 {
                   "date": "2026-04-05",
-                  "count": 63
+                  "count": 66
                 }
               ]
             }
@@ -8649,15 +8641,15 @@
           "summary_items": [
             {
               "label": "정치",
-              "value": 1107
+              "value": 1112
             },
             {
               "label": "기술",
-              "value": 888
+              "value": 893
             },
             {
               "label": "세계",
-              "value": 536
+              "value": 539
             }
           ]
         }
@@ -8665,10 +8657,10 @@
     },
     "all": {
       "label": "All",
-      "article_count": 6947,
-      "unknown_time_count": 1441,
+      "article_count": 6973,
+      "unknown_time_count": 1449,
       "active_source_count": 131,
-      "repeated_title_count": 534,
+      "repeated_title_count": 537,
       "timeline": [
         {
           "date": "2016-11-02",
@@ -9096,21 +9088,21 @@
         },
         {
           "date": "2026-04-04",
-          "count": 1215
+          "count": 1216
         },
         {
           "date": "2026-04-05",
-          "count": 1024
+          "count": 1041
         }
       ],
       "top_keywords": [
         {
           "keyword": "trump",
-          "count": 580
+          "count": 584
         },
         {
           "keyword": "iran",
-          "count": 311
+          "count": 313
         },
         {
           "keyword": "war",
@@ -9122,7 +9114,7 @@
         },
         {
           "keyword": "ai",
-          "count": 139
+          "count": 140
         },
         {
           "keyword": "new",
@@ -9130,11 +9122,11 @@
         },
         {
           "keyword": "after",
-          "count": 118
+          "count": 119
         },
         {
           "keyword": "how",
-          "count": 117
+          "count": 119
         },
         {
           "keyword": "says",
@@ -9145,19 +9137,19 @@
           "count": 93
         },
         {
-          "keyword": "대통령",
-          "count": 81
+          "keyword": "over",
+          "count": 82
         },
         {
-          "keyword": "over",
-          "count": 80
+          "keyword": "대통령",
+          "count": 81
         }
       ],
       "top_sources": [
         {
           "source_key": "naver-kr-society",
           "name": "NAVER News Search",
-          "count": 689
+          "count": 695
         },
         {
           "source_key": "semafor-feed",
@@ -9172,12 +9164,12 @@
         {
           "source_key": "yahoo-news-rss",
           "name": "Yahoo News RSS",
-          "count": 168
+          "count": 170
         },
         {
           "source_key": "nypost-feed",
           "name": "New York Post Feed",
-          "count": 160
+          "count": 162
         },
         {
           "source_key": "asiae-society-rss",
@@ -9219,12 +9211,12 @@
         {
           "key": "us",
           "label": "미국",
-          "count": 3717
+          "count": 3736
         },
         {
           "key": "kr",
           "label": "대한민국",
-          "count": 2993
+          "count": 3000
         },
         {
           "key": "global",
@@ -9238,21 +9230,21 @@
           "label": "사회",
           "hub": "kr",
           "hub_label": "대한민국",
-          "count": 1303
+          "count": 1310
         },
         {
           "key": "us-politics",
           "label": "정치",
           "hub": "us",
           "hub_label": "미국",
-          "count": 1225
+          "count": 1230
         },
         {
           "key": "us-technology",
           "label": "기술",
           "hub": "us",
           "hub_label": "미국",
-          "count": 1024
+          "count": 1030
         },
         {
           "key": "kr-economy",
@@ -9266,14 +9258,14 @@
           "label": "세계",
           "hub": "us",
           "hub_label": "미국",
-          "count": 589
+          "count": 592
         },
         {
           "key": "us-economy",
           "label": "경제",
           "hub": "us",
           "hub_label": "미국",
-          "count": 493
+          "count": 494
         },
         {
           "key": "kr-politics",
@@ -9287,7 +9279,7 @@
           "label": "시장",
           "hub": "us",
           "hub_label": "미국",
-          "count": 386
+          "count": 390
         },
         {
           "key": "kr-culture",
@@ -9321,11 +9313,11 @@
       "language_counts": [
         {
           "language": "en",
-          "count": 3893
+          "count": 3912
         },
         {
           "language": "ko",
-          "count": 3054
+          "count": 3061
         }
       ],
       "repeated_titles": [
@@ -9511,6 +9503,334 @@
         }
       ],
       "recent_samples": [
+        {
+          "stable_key": "1cc93386805dd7ee18334aa9d8d2989e0aed3a38e8bd2e94792c7e45f19f10bc",
+          "source_key": "newsweek-feed",
+          "source_name": "Newsweek Feed",
+          "category": "us-technology",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "기술",
+          "language": "en",
+          "title": "UConn Coach Sends 2-Word Message for Michigan Championship Game",
+          "canonical_url": "https://www.newsweek.com/sports/ncaa/uconn-coach-sends-2-word-message-for-michigan-championship-game-11785080",
+          "published_at": "2026-04-05T14:51:01+00:00",
+          "title_hash": "61521873c08a36ae4b488bc277160c857673793d90e67e1b32682ba493887481",
+          "keywords": [
+            "uconn",
+            "coach",
+            "sends",
+            "word",
+            "message",
+            "michigan"
+          ]
+        },
+        {
+          "stable_key": "47c9533a0f4df46b09b1cf2190973827ecfdc1e736bd55314eab4fef33925201",
+          "source_key": "businessinsider-feed",
+          "source_name": "Business Insider Feed",
+          "category": "us-technology",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "기술",
+          "language": "en",
+          "title": "I tried Italian sandwiches from Subway, Jimmy John's, and Jersey Mike's. One stood out from the rest.",
+          "canonical_url": "https://www.businessinsider.com/which-chain-best-italian-sandwich-subway-jimmy-johns-jersey-mikes-2026-4",
+          "published_at": "2026-04-05T14:48:01+00:00",
+          "title_hash": "79ab2a24b6af225d5044a6dd2f0a1b56579c60d51162c033df4c2afca223fb87",
+          "keywords": [
+            "tried",
+            "italian",
+            "sandwiches",
+            "subway",
+            "jimmy",
+            "john"
+          ]
+        },
+        {
+          "stable_key": "5367081974e239bf25e712bd73afd8ce88fe309516f8c8123a30496cae973b1b",
+          "source_key": "nypost-feed",
+          "source_name": "New York Post Feed",
+          "category": "us-technology",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "기술",
+          "language": "en",
+          "title": "Floundering Islanders must take advantage of rare break with playoff hopes in peril",
+          "canonical_url": "https://nypost.com/2026/04/05/sports/floundering-islanders-must-take-advantage-of-rare-break",
+          "published_at": "2026-04-05T14:47:44+00:00",
+          "title_hash": "c7c2a218ae311744e66bd2a72a34de2fa33bf8e425a8da53c1f547b958809b13",
+          "keywords": [
+            "floundering",
+            "islanders",
+            "must",
+            "take",
+            "advantage",
+            "rare"
+          ]
+        },
+        {
+          "stable_key": "1f52e5ae84a22d7750d888fb9daa378c5a461b1c2c8d8ef1b5e9938c2dd2760e",
+          "source_key": "nyt-world-rss",
+          "source_name": "New York Times World",
+          "category": "us-world",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "세계",
+          "language": "en",
+          "title": "How the C.I.A. Helped Locate a U.S. Airman Hiding on an Iranian Ridgeline",
+          "canonical_url": "https://www.nytimes.com/2026/04/05/world/middleeast/cia-us-airman-rescue-iran.html",
+          "published_at": "2026-04-05T14:46:40+00:00",
+          "title_hash": "2c419d3039367ec1c821f1bb3c01a29ad42e821118904a7cf96b0c72b1039a33",
+          "keywords": [
+            "how",
+            "helped",
+            "locate",
+            "airman",
+            "hiding",
+            "iranian"
+          ]
+        },
+        {
+          "stable_key": "78bca90a4bfcdfcc9588947720ceaed0cdce8f054cb70b549d175db0f282ecc8",
+          "source_key": "forbes-innovation-rss",
+          "source_name": "Forbes Innovation",
+          "category": "us-technology",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "기술",
+          "language": "en",
+          "title": "Is The Tesla Diner A Flop?",
+          "canonical_url": "https://www.forbes.com/sites/brookecrothers/2026/04/05/is-the-tesla-diner-a-flop",
+          "published_at": "2026-04-05T14:46:03+00:00",
+          "title_hash": "2da47cd6ac446dbe4d91a3ffacded83bbc4d4b86f87b6a78912329e668e05e66",
+          "keywords": [
+            "tesla",
+            "diner",
+            "flop",
+            "tesla diner",
+            "diner flop"
+          ]
+        },
+        {
+          "stable_key": "d962665a2c901eb24bfb602adeefd005923fe74139e91825d2907034f24a8c0a",
+          "source_key": "bloomberg-markets-rss",
+          "source_name": "Bloomberg Markets",
+          "category": "us-markets",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "시장",
+          "language": "en",
+          "title": "Trump Gives 48-Hour Ultimatum to Reopen Strait",
+          "canonical_url": "https://www.bloomberg.com/news/videos/2026-04-05/trump-gives-48-hour-ultimatum-to-reopen-strait-video",
+          "published_at": "2026-04-05T14:44:32+00:00",
+          "title_hash": "d27a9b69e82162afc77b0a43544882785f916bee917f67f6f33a1349e1878c55",
+          "keywords": [
+            "trump",
+            "gives",
+            "hour",
+            "ultimatum",
+            "reopen",
+            "strait"
+          ]
+        },
+        {
+          "stable_key": "f0721fff45089a77f39d83633613ad9baad7bf468871ed8388be2a84f0c41329",
+          "source_key": "nyt-world-rss",
+          "source_name": "New York Times World",
+          "category": "us-world",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "세계",
+          "language": "en",
+          "title": "Former Matador Is Gored to Death Before Annual Bullfight in Spain",
+          "canonical_url": "https://www.nytimes.com/2026/04/05/world/europe/matador-dead-bull-fighting-malaga.html",
+          "published_at": "2026-04-05T14:37:59+00:00",
+          "title_hash": "049cc1dad107827c24944c0f01c7b47d34803ae75c90ce2b4ef8fcdc9f9d62ee",
+          "keywords": [
+            "former",
+            "matador",
+            "gored",
+            "death",
+            "before",
+            "annual"
+          ]
+        },
+        {
+          "stable_key": "de5169b4782fdae09bcc8fdbacbdcce9bcab8403945811926fe2391c49109270",
+          "source_key": "forbes-innovation-rss",
+          "source_name": "Forbes Innovation",
+          "category": "us-technology",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "기술",
+          "language": "en",
+          "title": "Apple’s Update Mistake—Hundreds Of Millions Of iPhones Affected",
+          "canonical_url": "https://www.forbes.com/sites/zakdoffman/2026/04/05/apples-update-mistake-hundreds-of-millions-of-iphones-affected",
+          "published_at": "2026-04-05T14:37:46+00:00",
+          "title_hash": "813602bd0b631ecea775860a59a0242da496f8596a3c112fb78d93781a952720",
+          "keywords": [
+            "apple",
+            "mistake",
+            "hundreds",
+            "millions",
+            "iphones",
+            "affected"
+          ]
+        },
+        {
+          "stable_key": "b75607d68690a2dfb2b8286f613be57e1a8c5efc7e0650faf9405a17b3d32c93",
+          "source_key": "forbes-business-rss",
+          "source_name": "Forbes Business",
+          "category": "us-economy",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "경제",
+          "language": "en",
+          "title": "2026 Masters: How To Watch - TV And Streaming Schedule",
+          "canonical_url": "https://www.forbes.com/sites/mikefore/2026/04/05/2026-masters-how-to-watchtv-and-streaming-schedule",
+          "published_at": "2026-04-05T14:37:07+00:00",
+          "title_hash": "b988b15e24c178236aa4db5783dc6a605c689e182dd1cfff11827cc947f1ace2",
+          "keywords": [
+            "masters",
+            "how",
+            "watch",
+            "tv",
+            "streaming",
+            "schedule"
+          ]
+        },
+        {
+          "stable_key": "0f2a487eab8cec82d720a2d06fee0b80a48b67f7d23b945fc4647331b12a881a",
+          "source_key": "nypost-feed",
+          "source_name": "New York Post Feed",
+          "category": "us-politics",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "정치",
+          "language": "en",
+          "title": "Trump heralds ‘Easter Miracle’ after daring rescue of F-15 airman in Iran: ‘The enemy was large and violent’",
+          "canonical_url": "https://nypost.com/2026/04/05/us-news/trump-heralds-easter-miracle-after-rescue-of-f-15-airman-in-iran",
+          "published_at": "2026-04-05T14:31:37+00:00",
+          "title_hash": "a350e4f32f24ef9a894b819a168beaa1cc281b9841309f9042b62b44c697c21a",
+          "keywords": [
+            "trump",
+            "heralds",
+            "easter",
+            "miracle",
+            "after",
+            "daring"
+          ]
+        },
+        {
+          "stable_key": "b6d241365e2fbc577a8558be455d519a018e2c6635ec2f9c070412d682c03510",
+          "source_key": "salon-feed",
+          "source_name": "Salon Feed",
+          "category": "us-markets",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "시장",
+          "language": "en",
+          "title": "Why does the right hate the pope so much?",
+          "canonical_url": "https://www.salon.com/2026/04/05/why-does-the-right-hate-the-pope-so-much",
+          "published_at": "2026-04-05T14:30:39+00:00",
+          "title_hash": "69632acfcf875c50aa7a3360996693891165c68aa0f8b351445d53b904a09dbd",
+          "keywords": [
+            "why",
+            "does",
+            "right",
+            "hate",
+            "pope",
+            "so"
+          ]
+        },
+        {
+          "stable_key": "f0313e77294e4083f6b2030e89454d01db4ce3ef2c55673aae70ec8a41df55d3",
+          "source_key": "cbs-us-rss",
+          "source_name": "CBS News US",
+          "category": "us-politics",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "정치",
+          "language": "en",
+          "title": "Nature: Spring in Pennsylvania",
+          "canonical_url": "https://www.cbsnews.com/video/nature-spring-in-pennsylvania",
+          "published_at": "2026-04-05T14:30:02+00:00",
+          "title_hash": "f6d19f9a62c3b25542e674bedafdcad5400791ec6df036012aa74e54093b58b0",
+          "keywords": [
+            "nature",
+            "spring",
+            "pennsylvania",
+            "nature spring",
+            "spring pennsylvania"
+          ]
+        },
+        {
+          "stable_key": "2d5636687e2b06ced7050a04c43f3982622ff7f7d66887e6154304978bcc2a0e",
+          "source_key": "cbs-us-rss",
+          "source_name": "CBS News US",
+          "category": "us-politics",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "정치",
+          "language": "en",
+          "title": "These United States: An ode to baseball",
+          "canonical_url": "https://www.cbsnews.com/video/these-united-states-an-ode-to-baseball",
+          "published_at": "2026-04-05T14:27:51+00:00",
+          "title_hash": "1b476139d6a066773dd398f226d0f27a48898147b26d67199b6e46d270adddd3",
+          "keywords": [
+            "these",
+            "united",
+            "states",
+            "ode",
+            "baseball",
+            "these united"
+          ]
+        },
+        {
+          "stable_key": "28abe8c7940f07447415655c83b21a0bcf09abc971e77b2af5e6bc60f4ab0531",
+          "source_key": "wapo-world-rss",
+          "source_name": "Washington Post World",
+          "category": "us-world",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "세계",
+          "language": "en",
+          "title": "Trump threatens Iran with ‘Hell’ over Strait of Hormuz in profane post",
+          "canonical_url": "https://www.washingtonpost.com/politics/2026/04/05/trump-iran-strait-hormuz-easter-threat",
+          "published_at": "2026-04-05T14:27:44+00:00",
+          "title_hash": "8ead2e8e5967bbdb64628b8a741fec1dac9b62c94ee14f57080e98b23c0d9fbb",
+          "keywords": [
+            "trump",
+            "threatens",
+            "iran",
+            "hell",
+            "over",
+            "strait"
+          ]
+        },
+        {
+          "stable_key": "6a7b100834b802d9d6f0c58dc92d44530baa9e265f2ad8e6cadedab741216f15",
+          "source_key": "wapo-politics-rss",
+          "source_name": "Washington Post Politics",
+          "category": "us-politics",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "정치",
+          "language": "en",
+          "title": "Trump threatens Iran with ‘Hell’ over Strait of Hormuz in profane post",
+          "canonical_url": "https://www.washingtonpost.com/politics/2026/04/05/trump-iran-strait-hormuz-easter-threat",
+          "published_at": "2026-04-05T14:27:44+00:00",
+          "title_hash": "8ead2e8e5967bbdb64628b8a741fec1dac9b62c94ee14f57080e98b23c0d9fbb",
+          "keywords": [
+            "trump",
+            "threatens",
+            "iran",
+            "hell",
+            "over",
+            "strait"
+          ]
+        },
         {
           "stable_key": "924fe3317a4b6b227219f720384fbef303f6f64a8e3926fbdd53775f73c46f1d",
           "source_key": "abc-money-rss",
@@ -9840,343 +10160,13 @@
             "emboldened",
             "successful"
           ]
-        },
-        {
-          "stable_key": "9f4ed6181b4e87f434513a4dbc2b687ce9fa8ad01e6cfa081e26e30230f7a1d0",
-          "source_key": "cbs-world-rss",
-          "source_name": "CBS News World",
-          "category": "us-world",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "세계",
-          "language": "en",
-          "title": "Sister recounts 903-day fight to free sibling kidnapped in Iraq",
-          "canonical_url": "https://www.cbsnews.com/news/sister-recounts-relentless-903-day-fight-to-free-sibling-kidnapped-iraq",
-          "published_at": "2026-04-05T14:01:53+00:00",
-          "title_hash": "c07f00c8384f73c197784d5255684e7734acca53822e0edcda7e62362206bd0b",
-          "keywords": [
-            "sister",
-            "recounts",
-            "day",
-            "fight",
-            "free",
-            "sibling"
-          ]
-        },
-        {
-          "stable_key": "66c42efbccbf79beba51890445b62980340a6b2de79a2f1e82e79b574e7aa8e6",
-          "source_key": "nypost-feed",
-          "source_name": "New York Post Feed",
-          "category": "us-economy",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "경제",
-          "language": "en",
-          "title": "One mistake unknowingly racks up over $5K on family’s cell phone bill — here’s how to prevent this from happening to you",
-          "canonical_url": "https://nypost.com/2026/04/05/lifestyle/teen-unknowingly-racks-up-over-5k-on-family-cell-phone-bill",
-          "published_at": "2026-04-05T14:01:45+00:00",
-          "title_hash": "522041a5927c129d49b1914c6d01c625997b0057dbad546b08a791165175e436",
-          "keywords": [
-            "one",
-            "mistake",
-            "unknowingly",
-            "racks",
-            "up",
-            "over"
-          ]
-        },
-        {
-          "stable_key": "1bcb63c57521e95330a0a4b87751696f21bd6d7533d22e140b130a22f73b4a65",
-          "source_key": "guardian-us-rss",
-          "source_name": "The Guardian US",
-          "category": "us-markets",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "시장",
-          "language": "en",
-          "title": "‘I always considered social media evil’: big tobacco whistleblower on tech’s addictive products",
-          "canonical_url": "https://www.theguardian.com/media/2026/apr/05/big-tobacco-whistleblower-social-media",
-          "published_at": "2026-04-05T14:00:52+00:00",
-          "title_hash": "3388b727866f6f5c74dde21ffc0399e7a0d0bb1c7c71c112393adb32670e0b34",
-          "keywords": [
-            "always",
-            "considered",
-            "social",
-            "media",
-            "evil",
-            "big"
-          ]
-        },
-        {
-          "stable_key": "b9d1c63082f35bf7d7b3db8154c913c80187299f81aa7772aad3fe04c00749c5",
-          "source_key": "guardian-us-rss",
-          "source_name": "The Guardian US",
-          "category": "us-world",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "세계",
-          "language": "en",
-          "title": "Easter Sunday around the world – in pictures",
-          "canonical_url": "https://www.theguardian.com/lifeandstyle/gallery/2026/apr/05/easter-sunday-around-the-world-in-pictures",
-          "published_at": "2026-04-05T14:00:25+00:00",
-          "title_hash": "f0c887f2bcace5ae5485efe2c8030fd44bcfb29886f8b675b0d6df0b7ad4a38b",
-          "keywords": [
-            "easter",
-            "sunday",
-            "around",
-            "world",
-            "pictures",
-            "easter sunday"
-          ]
-        },
-        {
-          "stable_key": "5dab70a6f8029a2d3b0ea9cfb9cc8dddceb6552ae95a8c778ae69f88aeb9acfc",
-          "source_key": "cbs-us-rss",
-          "source_name": "CBS News US",
-          "category": "us-politics",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "정치",
-          "language": "en",
-          "title": "Signs of compassion from a deaf first-grader's classmates",
-          "canonical_url": "https://www.cbsnews.com/video/signs-of-compassion-from-a-deaf-first-graders-classmates",
-          "published_at": "2026-04-05T14:00:11+00:00",
-          "title_hash": "e59ac6004c3a26e079f2436f8ddc04ab0cf0443e1c186a60bb772f1031d16bee",
-          "keywords": [
-            "signs",
-            "compassion",
-            "deaf",
-            "first",
-            "grader",
-            "classmates"
-          ]
-        },
-        {
-          "stable_key": "63dfabd1427d3c3606271430f6a66ff2522852cfc76c26010792198f00ed4418",
-          "source_key": "forbes-innovation-rss",
-          "source_name": "Forbes Innovation",
-          "category": "us-technology",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "기술",
-          "language": "en",
-          "title": "3 Relationship Habits That Predict Lasting Happiness—By A Psychologist",
-          "canonical_url": "https://www.forbes.com/sites/traversmark/2026/04/05/3-relationship-habits-that-predict-lasting-happiness-by-a-psychologist",
-          "published_at": "2026-04-05T14:00:09+00:00",
-          "title_hash": "0c4e7e0b3667c84032e162d18cda5d7c31e701e54c666edaa42a17692d4420ac",
-          "keywords": [
-            "relationship",
-            "habits",
-            "predict",
-            "lasting",
-            "happiness",
-            "psychologist"
-          ]
-        },
-        {
-          "stable_key": "9f930e026621424aa7c745c997f3ef5e8ec293407d4d3800ea24c4de7bd1b792",
-          "source_key": "forbes-business-rss",
-          "source_name": "Forbes Business",
-          "category": "us-economy",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "경제",
-          "language": "en",
-          "title": "UConn Star Tarris Reed Jr. To Face Former Michigan Squad In Final",
-          "canonical_url": "https://www.forbes.com/sites/jefffedotin/2026/04/05/uconn-star-tarris-reed-jr-to-face-former-michigan-squad-in-final",
-          "published_at": "2026-04-05T14:00:02+00:00",
-          "title_hash": "14a58eb7ef63aac666f528dbfc9eb983513ca04988fda36b42b4a9897059a42c",
-          "keywords": [
-            "uconn",
-            "star",
-            "tarris",
-            "reed",
-            "jr",
-            "face"
-          ]
-        },
-        {
-          "stable_key": "19d239b0ef8c01cf7f1c0342183d893beeadc99e2bfdc4f9315f7aefdb54b03a",
-          "source_key": "verge-rss",
-          "source_name": "The Verge RSS",
-          "category": "us-technology",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "기술",
-          "language": "en",
-          "title": "I let Gemini in Google Maps plan my day and it went surprisingly well",
-          "canonical_url": "https://www.theverge.com/tech/907015/gemini-google-maps-hands-on",
-          "published_at": "2026-04-05T14:00:00+00:00",
-          "title_hash": "8539b3227a8b62830cf633c0f97d2fecf4d9f03b8af32c1084203ce5ba2e6632",
-          "keywords": [
-            "let",
-            "gemini",
-            "google",
-            "maps",
-            "plan",
-            "my"
-          ]
-        },
-        {
-          "stable_key": "394fb316ada3ce7636aaa19f2b0d88c88b89e024622e35be5b7ddc9fed05106b",
-          "source_key": "thehill-feed",
-          "source_name": "The Hill Feed",
-          "category": "us-technology",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "기술",
-          "language": "en",
-          "title": "The White House vows America will never give up the moon again",
-          "canonical_url": "https://thehill.com/opinion/technology/5815359-artemis-mission-moon-base",
-          "published_at": "2026-04-05T14:00:00+00:00",
-          "title_hash": "0c8ce0d113a2284858a51976110ff40e217d273bb198c08cc1b97e18c660bfc8",
-          "keywords": [
-            "white",
-            "house",
-            "vows",
-            "america",
-            "never",
-            "give"
-          ]
-        },
-        {
-          "stable_key": "4e5d4f325369953e2b5669d794ece708939ddc314505ce489c0ededd5062e319",
-          "source_key": "techcrunch-rss",
-          "source_name": "TechCrunch",
-          "category": "tech-it",
-          "hub": "global",
-          "hub_label": "글로벌 전문",
-          "section_label": "테크",
-          "language": "en",
-          "title": "In Japan, the robot isn’t coming for your job; it’s filling the one nobody wants",
-          "canonical_url": "https://techcrunch.com/2026/04/05/japan-is-proving-experimental-physical-ai-is-ready-for-the-real-world",
-          "published_at": "2026-04-05T14:00:00+00:00",
-          "title_hash": "07eeeac6bba2323df51a470c0cf27dfc992d7a44b0e1d19e865b4e202cd37417",
-          "keywords": [
-            "japan",
-            "robot",
-            "isn",
-            "coming",
-            "your",
-            "job"
-          ]
-        },
-        {
-          "stable_key": "d544aa07cac74e28a7570d8bc9a4e2c127b419a044a7b7037860a5f5c7a2d4cb",
-          "source_key": "nypost-feed",
-          "source_name": "New York Post Feed",
-          "category": "us-politics",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "정치",
-          "language": "en",
-          "title": "When Does ‘The Real Housewives Of Rhode Island’ Episode 2 Come Out? ‘RHORI’ Has Already Moved Its Air Date",
-          "canonical_url": "https://decider.com/2026/04/05/when-real-housewives-rhode-island-come-out-rhori-new-air-date",
-          "published_at": "2026-04-05T14:00:00+00:00",
-          "title_hash": "aa0f95e3d706d20b36f19ab04d84f66647dba98927304986bf5f26be7935d5ad",
-          "keywords": [
-            "when",
-            "does",
-            "real",
-            "housewives",
-            "rhode",
-            "island"
-          ]
-        },
-        {
-          "stable_key": "270d0ab1ecfa9a13b80c2e541d84e7971ae73b97d65c3b79e79cd8210850d28f",
-          "source_key": "nypost-feed",
-          "source_name": "New York Post Feed",
-          "category": "us-technology",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "기술",
-          "language": "en",
-          "title": "Make golf fun again: Bring the noise",
-          "canonical_url": "https://nypost.com/2026/04/05/opinion/golf-needs-to-shed-its-fusty-image",
-          "published_at": "2026-04-05T14:00:00+00:00",
-          "title_hash": "24708e03b61a9d63a32c257a35f6836b742fd7f896824abc34b3ea96902aefce",
-          "keywords": [
-            "make",
-            "golf",
-            "fun",
-            "again",
-            "bring",
-            "noise"
-          ]
-        },
-        {
-          "stable_key": "608ac6a60125ce7a305e658c795f4c75a85c334d1a9e614e4f6aeee941190d1a",
-          "source_key": "forbes-innovation-rss",
-          "source_name": "Forbes Innovation",
-          "category": "us-technology",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "기술",
-          "language": "en",
-          "title": "Quordle Hints Today: Monday, April 6 Clues And Answers",
-          "canonical_url": "https://www.forbes.com/sites/krisholt/2026/04/05/quordle-hints-today-monday-april-6-clues-and-answers",
-          "published_at": "2026-04-05T14:00:00+00:00",
-          "title_hash": "ffa6f748a56bbdaf8ebe08f968e109587aefeaf220beb3ba4f3ec09104ff7d03",
-          "keywords": [
-            "quordle",
-            "hints",
-            "today",
-            "monday",
-            "april",
-            "clues"
-          ]
-        },
-        {
-          "stable_key": "0c1bd1ce47877c62942c88b78ea96360501c6f61bd571ec3694d175f1a90ae28",
-          "source_key": "forbes-innovation-rss",
-          "source_name": "Forbes Innovation",
-          "category": "us-technology",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "기술",
-          "language": "en",
-          "title": "NYT Strands Hint Today: Monday, April 6 Clues And Answers (Fringe Group)",
-          "canonical_url": "https://www.forbes.com/sites/krisholt/2026/04/05/nyt-strands-hint-today-monday-april-6-clues-and-answers-fringe-group",
-          "published_at": "2026-04-05T14:00:00+00:00",
-          "title_hash": "afa3584887782b1c40d2cfe6ba869be31e8f44b110b0f52ae8e673bbd0086f78",
-          "keywords": [
-            "nyt",
-            "strands",
-            "hint",
-            "today",
-            "monday",
-            "april"
-          ]
-        },
-        {
-          "stable_key": "842c98a091ffefb9e6becb9e2cc8f77fcd56bbc38c3a5cc9030cc0f36cab9fd9",
-          "source_key": "forbes-business-rss",
-          "source_name": "Forbes Business",
-          "category": "us-economy",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "경제",
-          "language": "en",
-          "title": "The Strait Of Hormuz Couldn’t Care Less About The Federal Reserve",
-          "canonical_url": "https://www.forbes.com/sites/johntamny/2026/04/05/the-strait-of-hormuz-couldnt-care-less-about-the-federal-reserve",
-          "published_at": "2026-04-05T14:00:00+00:00",
-          "title_hash": "9188729e0475798f3c876d1ce734bd2be8f57d607cc3a28670399c7b415146d0",
-          "keywords": [
-            "strait",
-            "hormuz",
-            "couldn",
-            "care",
-            "less",
-            "about"
-          ]
         }
       ],
       "kpi_series": [
         {
           "key": "articles",
           "label": "기사 수",
-          "value": 6947,
+          "value": 6973,
           "series": [
             23,
             55,
@@ -10190,8 +10180,8 @@
             248,
             621,
             1417,
-            1215,
-            1024
+            1216,
+            1041
           ]
         },
         {
@@ -10211,14 +10201,14 @@
             248,
             621,
             1417,
-            1215,
-            1024
+            1216,
+            1041
           ]
         },
         {
           "key": "repeats",
           "label": "반복 기사",
-          "value": 534,
+          "value": 537,
           "series": [
             23,
             55,
@@ -10232,14 +10222,14 @@
             248,
             621,
             1417,
-            1215,
-            1024
+            1216,
+            1041
           ]
         },
         {
           "key": "unknown",
           "label": "시간 미상",
-          "value": 1441,
+          "value": 1449,
           "series": [
             23,
             55,
@@ -10253,8 +10243,8 @@
             248,
             621,
             1417,
-            1215,
-            1024
+            1216,
+            1041
           ]
         }
       ],
@@ -10266,7 +10256,7 @@
             {
               "source_key": "naver-kr-society",
               "name": "NAVER News Search",
-              "count": 689
+              "count": 695
             },
             {
               "source_key": "semafor-feed",
@@ -10281,12 +10271,12 @@
             {
               "source_key": "yahoo-news-rss",
               "name": "Yahoo News RSS",
-              "count": 168
+              "count": 170
             },
             {
               "source_key": "nypost-feed",
               "name": "New York Post Feed",
-              "count": 160
+              "count": 162
             },
             {
               "source_key": "asiae-society-rss",
@@ -10314,21 +10304,21 @@
               "label": "사회",
               "hub": "kr",
               "hub_label": "대한민국",
-              "count": 1303
+              "count": 1310
             },
             {
               "key": "us-politics",
               "label": "정치",
               "hub": "us",
               "hub_label": "미국",
-              "count": 1225
+              "count": 1230
             },
             {
               "key": "us-technology",
               "label": "기술",
               "hub": "us",
               "hub_label": "미국",
-              "count": 1024
+              "count": 1030
             },
             {
               "key": "kr-economy",
@@ -10342,14 +10332,14 @@
               "label": "세계",
               "hub": "us",
               "hub_label": "미국",
-              "count": 589
+              "count": 592
             },
             {
               "key": "us-economy",
               "label": "경제",
               "hub": "us",
               "hub_label": "미국",
-              "count": 493
+              "count": 494
             },
             {
               "key": "kr-politics",
@@ -10363,7 +10353,7 @@
               "label": "시장",
               "hub": "us",
               "hub_label": "미국",
-              "count": 386
+              "count": 390
             }
           ],
           "chart": "donut"
@@ -10375,12 +10365,12 @@
             {
               "key": "trump",
               "label": "trump",
-              "count": 580
+              "count": 584
             },
             {
               "key": "iran",
               "label": "iran",
-              "count": 311
+              "count": 313
             },
             {
               "key": "war",
@@ -10395,7 +10385,7 @@
             {
               "key": "ai",
               "label": "ai",
-              "count": 139
+              "count": 140
             },
             {
               "key": "new",
@@ -10405,12 +10395,12 @@
             {
               "key": "after",
               "label": "after",
-              "count": 118
+              "count": 119
             },
             {
               "key": "how",
               "label": "how",
-              "count": 117
+              "count": 119
             }
           ]
         }
@@ -10846,21 +10836,21 @@
             },
             {
               "date": "2026-04-04",
-              "count": 1215
+              "count": 1216
             },
             {
               "date": "2026-04-05",
-              "count": 1024
+              "count": 1041
             }
           ],
           "summary_items": [
             {
               "label": "최근 집계",
-              "value": 1024
+              "value": 1041
             },
             {
               "label": "일 평균",
-              "value": 51.0
+              "value": 51.1
             },
             {
               "label": "최대 일자",
@@ -10875,7 +10865,7 @@
             {
               "key": "us",
               "label": "미국",
-              "count": 3717,
+              "count": 3736,
               "series": [
                 {
                   "date": "2016-11-02",
@@ -11303,18 +11293,18 @@
                 },
                 {
                   "date": "2026-04-04",
-                  "count": 791
+                  "count": 792
                 },
                 {
                   "date": "2026-04-05",
-                  "count": 381
+                  "count": 398
                 }
               ]
             },
             {
               "key": "kr",
               "label": "대한민국",
-              "count": 2993,
+              "count": 3000,
               "series": [
                 {
                   "date": "2016-11-02",
@@ -11754,11 +11744,11 @@
           "summary_items": [
             {
               "label": "미국",
-              "value": 3717
+              "value": 3736
             },
             {
               "label": "대한민국",
-              "value": 2993
+              "value": 3000
             }
           ]
         },
@@ -11769,7 +11759,7 @@
             {
               "key": "kr-society",
               "label": "사회",
-              "count": 1303,
+              "count": 1310,
               "series": [
                 {
                   "date": "2016-11-02",
@@ -12208,7 +12198,7 @@
             {
               "key": "us-politics",
               "label": "정치",
-              "count": 1225,
+              "count": 1230,
               "series": [
                 {
                   "date": "2016-11-02",
@@ -12640,14 +12630,14 @@
                 },
                 {
                   "date": "2026-04-05",
-                  "count": 126
+                  "count": 131
                 }
               ]
             },
             {
               "key": "us-technology",
               "label": "기술",
-              "count": 1024,
+              "count": 1030,
               "series": [
                 {
                   "date": "2016-11-02",
@@ -13079,7 +13069,7 @@
                 },
                 {
                   "date": "2026-04-05",
-                  "count": 109
+                  "count": 114
                 }
               ]
             }
@@ -13087,15 +13077,15 @@
           "summary_items": [
             {
               "label": "사회",
-              "value": 1303
+              "value": 1310
             },
             {
               "label": "정치",
-              "value": 1225
+              "value": 1230
             },
             {
               "label": "기술",
-              "value": 1024
+              "value": 1030
             }
           ]
         }
