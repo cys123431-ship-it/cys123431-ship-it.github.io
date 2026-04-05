@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-04-05T13:18:54.729200+00:00",
+  "generated_at": "2026-04-05T13:22:17.791217+00:00",
   "retention_days": 90,
   "default_window": "7d",
-  "lifetime_total_articles": 6811,
-  "lifetime_unknown_time_count": 1381,
+  "lifetime_total_articles": 6827,
+  "lifetime_unknown_time_count": 1391,
   "available_windows": [
     {
       "key": "24h",
@@ -29,24 +29,24 @@
   "windows": {
     "24h": {
       "label": "24h",
-      "article_count": 1470,
+      "article_count": 1472,
       "unknown_time_count": 0,
       "active_source_count": 83,
-      "repeated_title_count": 68,
+      "repeated_title_count": 69,
       "timeline": [
         {
           "date": "2026-04-04",
-          "count": 531
+          "count": 528
         },
         {
           "date": "2026-04-05",
-          "count": 939
+          "count": 944
         }
       ],
       "top_keywords": [
         {
           "keyword": "trump",
-          "count": 116
+          "count": 115
         },
         {
           "keyword": "iran",
@@ -54,15 +54,15 @@
         },
         {
           "keyword": "ai",
-          "count": 32
+          "count": 33
+        },
+        {
+          "keyword": "us",
+          "count": 33
         },
         {
           "keyword": "new",
           "count": 32
-        },
-        {
-          "keyword": "us",
-          "count": 31
         },
         {
           "keyword": "says",
@@ -74,7 +74,7 @@
         },
         {
           "keyword": "how",
-          "count": 24
+          "count": 25
         },
         {
           "keyword": "대통령",
@@ -97,7 +97,7 @@
         {
           "source_key": "nypost-feed",
           "name": "New York Post Feed",
-          "count": 128
+          "count": 127
         },
         {
           "source_key": "etoday-economy-rss",
@@ -117,7 +117,7 @@
         {
           "source_key": "guardian-us-rss",
           "name": "The Guardian US",
-          "count": 54
+          "count": 55
         },
         {
           "source_key": "forbes-innovation-rss",
@@ -150,16 +150,16 @@
           "count": 38
         },
         {
-          "source_key": "breitbart-feed",
-          "name": "Breitbart Feed",
-          "count": 35
+          "source_key": "yahoo-news-rss",
+          "name": "Yahoo News RSS",
+          "count": 37
         }
       ],
       "top_hubs": [
         {
           "key": "us",
           "label": "미국",
-          "count": 757
+          "count": 760
         },
         {
           "key": "kr",
@@ -169,7 +169,7 @@
         {
           "key": "global",
           "label": "글로벌 전문",
-          "count": 73
+          "count": 72
         }
       ],
       "top_sections": [
@@ -178,7 +178,7 @@
           "label": "정치",
           "hub": "us",
           "hub_label": "미국",
-          "count": 250
+          "count": 251
         },
         {
           "key": "kr-society",
@@ -192,7 +192,7 @@
           "label": "기술",
           "hub": "us",
           "hub_label": "미국",
-          "count": 236
+          "count": 237
         },
         {
           "key": "kr-economy",
@@ -213,7 +213,7 @@
           "label": "시장",
           "hub": "us",
           "hub_label": "미국",
-          "count": 92
+          "count": 93
         },
         {
           "key": "kr-politics",
@@ -255,13 +255,13 @@
           "label": "코인",
           "hub": "global",
           "hub_label": "글로벌 전문",
-          "count": 19
+          "count": 18
         }
       ],
       "language_counts": [
         {
           "language": "en",
-          "count": 780
+          "count": 782
         },
         {
           "language": "ko",
@@ -369,6 +369,15 @@
           "sort_timestamp": 1775347860
         },
         {
+          "title_hash": "86dd5b548d0ed8c152d335b57bb30077eea0b07198599f122ed6230a4cf4ab6c",
+          "title": "'Silent killers': How AI start-ups are trying to solve one of the retail industry's biggest problems",
+          "article_count": 2,
+          "source_count": 2,
+          "latest_published_at": "2026-04-05T12:37:57+00:00",
+          "canonical_url": "https://www.cnbc.com/2026/04/05/ai-retail-start-ups-virtual-try-on-tech-margins.html",
+          "sort_timestamp": 1775392677
+        },
+        {
           "title_hash": "a95af20781078dda2fff8ed6835b18e6051596fc802c1419fb3af261acc5507d",
           "title": "🔍[단독] 쌍둥이 나오는데 ‘응급실 뺑뺑이’…“의사·병상 없어” 7번 돌다 첫째 떠났다",
           "article_count": 2,
@@ -438,15 +447,6 @@
           "source_count": 2,
           "latest_published_at": "2026-04-05T10:00:00+00:00",
           "canonical_url": "https://www.latimes.com/politics/story/2026-04-05/inside-pentagon-fears-of-disrupted-war-effort-after-army-chiefs-ouster",
-          "sort_timestamp": 1775383200
-        },
-        {
-          "title_hash": "7e179ca93935c88f6aea756cbbd3904951c3fc130ab948afb99e4bd3ffa7eb02",
-          "title": "The U.S. is dangling a familiar, and failed, ghost of history over Iran",
-          "article_count": 2,
-          "source_count": 2,
-          "latest_published_at": "2026-04-05T10:00:00+00:00",
-          "canonical_url": "https://www.ms.now/opinion/iran-war-trump-reza-pahlavi-iranian-leadership",
           "sort_timestamp": 1775383200
         }
       ],
@@ -754,6 +754,28 @@
             "voice",
             "assistants",
             "ais"
+          ]
+        },
+        {
+          "stable_key": "422f80b12e2a977794ba5c15952cf20f4bc0fdc4a81817925ae5d407134cb79c",
+          "source_key": "guardian-us-rss",
+          "source_name": "The Guardian US",
+          "category": "us-politics",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "정치",
+          "language": "en",
+          "title": "US health officials appear to shy away from anti-vaccine talk ahead of midterms",
+          "canonical_url": "https://www.theguardian.com/us-news/2026/apr/05/health-officials-anti-vaccine-views-midterms",
+          "published_at": "2026-04-05T13:00:51+00:00",
+          "title_hash": "5badb41fbff9918dae2aa94dd26d1f0ba4d1f8bea9a9b7adeaa43bacfc615a1d",
+          "keywords": [
+            "us",
+            "health",
+            "officials",
+            "appear",
+            "shy",
+            "away"
           ]
         },
         {
@@ -1085,38 +1107,16 @@
             "선발",
             "전원안타"
           ]
-        },
-        {
-          "stable_key": "49990c39cc20dbb150a408519a516745053ed28245b69e2fea080dc2acd93484",
-          "source_key": "telegram-dada-news2",
-          "source_name": "Telegram @dada_news2",
-          "category": "tech-it",
-          "hub": "global",
-          "hub_label": "글로벌 전문",
-          "section_label": "테크",
-          "language": "ko",
-          "title": "[뉴스핌] [AI상보] '올러 7이닝 무실점' KIA, NC 3-0으로 누르고 4연패 탈출",
-          "canonical_url": "https://www.newspim.com/news/view/20260405000158",
-          "published_at": "2026-04-05T12:38:13+00:00",
-          "title_hash": "2a118f129f9cd788123368b885db1c2b99df7fd4c7f6c266cfb4cab2a0403ec5",
-          "keywords": [
-            "뉴스핌",
-            "ai상보",
-            "올러",
-            "7이닝",
-            "무실점",
-            "kia"
-          ]
         }
       ],
       "kpi_series": [
         {
           "key": "articles",
           "label": "기사 수",
-          "value": 1470,
+          "value": 1472,
           "series": [
-            531,
-            939
+            528,
+            944
           ]
         },
         {
@@ -1124,17 +1124,17 @@
           "label": "활성 소스",
           "value": 83,
           "series": [
-            531,
-            939
+            528,
+            944
           ]
         },
         {
           "key": "repeats",
           "label": "반복 기사",
-          "value": 68,
+          "value": 69,
           "series": [
-            531,
-            939
+            528,
+            944
           ]
         },
         {
@@ -1142,8 +1142,8 @@
           "label": "시간 미상",
           "value": 0,
           "series": [
-            531,
-            939
+            528,
+            944
           ]
         }
       ],
@@ -1155,7 +1155,7 @@
             {
               "source_key": "nypost-feed",
               "name": "New York Post Feed",
-              "count": 128
+              "count": 127
             },
             {
               "source_key": "etoday-economy-rss",
@@ -1175,7 +1175,7 @@
             {
               "source_key": "guardian-us-rss",
               "name": "The Guardian US",
-              "count": 54
+              "count": 55
             },
             {
               "source_key": "forbes-innovation-rss",
@@ -1203,7 +1203,7 @@
               "label": "정치",
               "hub": "us",
               "hub_label": "미국",
-              "count": 250
+              "count": 251
             },
             {
               "key": "kr-society",
@@ -1217,7 +1217,7 @@
               "label": "기술",
               "hub": "us",
               "hub_label": "미국",
-              "count": 236
+              "count": 237
             },
             {
               "key": "kr-economy",
@@ -1238,7 +1238,7 @@
               "label": "시장",
               "hub": "us",
               "hub_label": "미국",
-              "count": 92
+              "count": 93
             },
             {
               "key": "kr-politics",
@@ -1264,7 +1264,7 @@
             {
               "key": "trump",
               "label": "trump",
-              "count": 116
+              "count": 115
             },
             {
               "key": "iran",
@@ -1274,17 +1274,17 @@
             {
               "key": "ai",
               "label": "ai",
-              "count": 32
+              "count": 33
+            },
+            {
+              "key": "us",
+              "label": "us",
+              "count": 33
             },
             {
               "key": "new",
               "label": "new",
               "count": 32
-            },
-            {
-              "key": "us",
-              "label": "us",
-              "count": 31
             },
             {
               "key": "says",
@@ -1299,7 +1299,7 @@
             {
               "key": "how",
               "label": "how",
-              "count": 24
+              "count": 25
             }
           ]
         }
@@ -1311,25 +1311,25 @@
           "series": [
             {
               "date": "2026-04-04",
-              "count": 531
+              "count": 528
             },
             {
               "date": "2026-04-05",
-              "count": 939
+              "count": 944
             }
           ],
           "summary_items": [
             {
               "label": "최근 집계",
-              "value": 939
+              "value": 944
             },
             {
               "label": "일 평균",
-              "value": 735.0
+              "value": 736.0
             },
             {
               "label": "최대 일자",
-              "value": "2026-04-05 / 939"
+              "value": "2026-04-05 / 944"
             }
           ]
         },
@@ -1340,15 +1340,15 @@
             {
               "key": "us",
               "label": "미국",
-              "count": 757,
+              "count": 760,
               "series": [
                 {
                   "date": "2026-04-04",
-                  "count": 436
+                  "count": 434
                 },
                 {
                   "date": "2026-04-05",
-                  "count": 321
+                  "count": 326
                 }
               ]
             },
@@ -1371,7 +1371,7 @@
           "summary_items": [
             {
               "label": "미국",
-              "value": 757
+              "value": 760
             },
             {
               "label": "대한민국",
@@ -1386,15 +1386,15 @@
             {
               "key": "us-politics",
               "label": "정치",
-              "count": 250,
+              "count": 251,
               "series": [
                 {
                   "date": "2026-04-04",
-                  "count": 138
+                  "count": 137
                 },
                 {
                   "date": "2026-04-05",
-                  "count": 112
+                  "count": 114
                 }
               ]
             },
@@ -1416,15 +1416,15 @@
             {
               "key": "us-technology",
               "label": "기술",
-              "count": 236,
+              "count": 237,
               "series": [
                 {
                   "date": "2026-04-04",
-                  "count": 145
+                  "count": 144
                 },
                 {
                   "date": "2026-04-05",
-                  "count": 91
+                  "count": 93
                 }
               ]
             }
@@ -1432,7 +1432,7 @@
           "summary_items": [
             {
               "label": "정치",
-              "value": 250
+              "value": 251
             },
             {
               "label": "사회",
@@ -1440,7 +1440,7 @@
             },
             {
               "label": "기술",
-              "value": 236
+              "value": 237
             }
           ]
         }
@@ -1448,14 +1448,14 @@
     },
     "7d": {
       "label": "7d",
-      "article_count": 4667,
+      "article_count": 4672,
       "unknown_time_count": 0,
       "active_source_count": 100,
-      "repeated_title_count": 260,
+      "repeated_title_count": 261,
       "timeline": [
         {
           "date": "2026-03-29",
-          "count": 16
+          "count": 15
         },
         {
           "date": "2026-03-30",
@@ -1475,7 +1475,7 @@
         },
         {
           "date": "2026-04-03",
-          "count": 1399
+          "count": 1400
         },
         {
           "date": "2026-04-04",
@@ -1483,7 +1483,7 @@
         },
         {
           "date": "2026-04-05",
-          "count": 939
+          "count": 944
         }
       ],
       "top_keywords": [
@@ -1501,7 +1501,7 @@
         },
         {
           "keyword": "us",
-          "count": 105
+          "count": 107
         },
         {
           "keyword": "new",
@@ -1513,7 +1513,7 @@
         },
         {
           "keyword": "ai",
-          "count": 90
+          "count": 91
         },
         {
           "keyword": "says",
@@ -1521,7 +1521,7 @@
         },
         {
           "keyword": "how",
-          "count": 75
+          "count": 76
         },
         {
           "keyword": "what",
@@ -1540,12 +1540,12 @@
         {
           "source_key": "guardian-us-rss",
           "name": "The Guardian US",
-          "count": 164
+          "count": 165
         },
         {
           "source_key": "yahoo-news-rss",
           "name": "Yahoo News RSS",
-          "count": 155
+          "count": 159
         },
         {
           "source_key": "nypost-feed",
@@ -1602,12 +1602,12 @@
         {
           "key": "us",
           "label": "미국",
-          "count": 2654
+          "count": 2660
         },
         {
           "key": "kr",
           "label": "대한민국",
-          "count": 1815
+          "count": 1814
         },
         {
           "key": "global",
@@ -1621,14 +1621,14 @@
           "label": "정치",
           "hub": "us",
           "hub_label": "미국",
-          "count": 973
+          "count": 975
         },
         {
           "key": "us-technology",
           "label": "기술",
           "hub": "us",
           "hub_label": "미국",
-          "count": 695
+          "count": 697
         },
         {
           "key": "kr-society",
@@ -1670,7 +1670,7 @@
           "label": "시장",
           "hub": "us",
           "hub_label": "미국",
-          "count": 260
+          "count": 262
         },
         {
           "key": "kr-culture",
@@ -1684,7 +1684,7 @@
           "label": "스포츠",
           "hub": "kr",
           "hub_label": "대한민국",
-          "count": 165
+          "count": 164
         },
         {
           "key": "tech-it",
@@ -1704,11 +1704,11 @@
       "language_counts": [
         {
           "language": "en",
-          "count": 2792
+          "count": 2798
         },
         {
           "language": "ko",
-          "count": 1875
+          "count": 1874
         }
       ],
       "repeated_titles": [
@@ -2200,6 +2200,28 @@
           ]
         },
         {
+          "stable_key": "422f80b12e2a977794ba5c15952cf20f4bc0fdc4a81817925ae5d407134cb79c",
+          "source_key": "guardian-us-rss",
+          "source_name": "The Guardian US",
+          "category": "us-politics",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "정치",
+          "language": "en",
+          "title": "US health officials appear to shy away from anti-vaccine talk ahead of midterms",
+          "canonical_url": "https://www.theguardian.com/us-news/2026/apr/05/health-officials-anti-vaccine-views-midterms",
+          "published_at": "2026-04-05T13:00:51+00:00",
+          "title_hash": "5badb41fbff9918dae2aa94dd26d1f0ba4d1f8bea9a9b7adeaa43bacfc615a1d",
+          "keywords": [
+            "us",
+            "health",
+            "officials",
+            "appear",
+            "shy",
+            "away"
+          ]
+        },
+        {
           "stable_key": "81cd034df00033b890e2605c066327fa4df0d28304470176632d1bdeaf914f5f",
           "source_key": "guardian-us-rss",
           "source_name": "The Guardian US",
@@ -2528,44 +2550,22 @@
             "선발",
             "전원안타"
           ]
-        },
-        {
-          "stable_key": "49990c39cc20dbb150a408519a516745053ed28245b69e2fea080dc2acd93484",
-          "source_key": "telegram-dada-news2",
-          "source_name": "Telegram @dada_news2",
-          "category": "tech-it",
-          "hub": "global",
-          "hub_label": "글로벌 전문",
-          "section_label": "테크",
-          "language": "ko",
-          "title": "[뉴스핌] [AI상보] '올러 7이닝 무실점' KIA, NC 3-0으로 누르고 4연패 탈출",
-          "canonical_url": "https://www.newspim.com/news/view/20260405000158",
-          "published_at": "2026-04-05T12:38:13+00:00",
-          "title_hash": "2a118f129f9cd788123368b885db1c2b99df7fd4c7f6c266cfb4cab2a0403ec5",
-          "keywords": [
-            "뉴스핌",
-            "ai상보",
-            "올러",
-            "7이닝",
-            "무실점",
-            "kia"
-          ]
         }
       ],
       "kpi_series": [
         {
           "key": "articles",
           "label": "기사 수",
-          "value": 4667,
+          "value": 4672,
           "series": [
-            16,
+            15,
             91,
             156,
             247,
             615,
-            1399,
+            1400,
             1204,
-            939
+            944
           ]
         },
         {
@@ -2573,29 +2573,29 @@
           "label": "활성 소스",
           "value": 100,
           "series": [
-            16,
+            15,
             91,
             156,
             247,
             615,
-            1399,
+            1400,
             1204,
-            939
+            944
           ]
         },
         {
           "key": "repeats",
           "label": "반복 기사",
-          "value": 260,
+          "value": 261,
           "series": [
-            16,
+            15,
             91,
             156,
             247,
             615,
-            1399,
+            1400,
             1204,
-            939
+            944
           ]
         },
         {
@@ -2603,14 +2603,14 @@
           "label": "시간 미상",
           "value": 0,
           "series": [
-            16,
+            15,
             91,
             156,
             247,
             615,
-            1399,
+            1400,
             1204,
-            939
+            944
           ]
         }
       ],
@@ -2622,12 +2622,12 @@
             {
               "source_key": "guardian-us-rss",
               "name": "The Guardian US",
-              "count": 164
+              "count": 165
             },
             {
               "source_key": "yahoo-news-rss",
               "name": "Yahoo News RSS",
-              "count": 155
+              "count": 159
             },
             {
               "source_key": "nypost-feed",
@@ -2670,14 +2670,14 @@
               "label": "정치",
               "hub": "us",
               "hub_label": "미국",
-              "count": 973
+              "count": 975
             },
             {
               "key": "us-technology",
               "label": "기술",
               "hub": "us",
               "hub_label": "미국",
-              "count": 695
+              "count": 697
             },
             {
               "key": "kr-society",
@@ -2719,7 +2719,7 @@
               "label": "시장",
               "hub": "us",
               "hub_label": "미국",
-              "count": 260
+              "count": 262
             }
           ],
           "chart": "donut"
@@ -2746,7 +2746,7 @@
             {
               "key": "us",
               "label": "us",
-              "count": 105
+              "count": 107
             },
             {
               "key": "new",
@@ -2761,7 +2761,7 @@
             {
               "key": "ai",
               "label": "ai",
-              "count": 90
+              "count": 91
             },
             {
               "key": "says",
@@ -2778,7 +2778,7 @@
           "series": [
             {
               "date": "2026-03-29",
-              "count": 16
+              "count": 15
             },
             {
               "date": "2026-03-30",
@@ -2798,7 +2798,7 @@
             },
             {
               "date": "2026-04-03",
-              "count": 1399
+              "count": 1400
             },
             {
               "date": "2026-04-04",
@@ -2806,21 +2806,21 @@
             },
             {
               "date": "2026-04-05",
-              "count": 939
+              "count": 944
             }
           ],
           "summary_items": [
             {
               "label": "최근 집계",
-              "value": 939
+              "value": 944
             },
             {
               "label": "일 평균",
-              "value": 583.4
+              "value": 584.0
             },
             {
               "label": "최대 일자",
-              "value": "2026-04-03 / 1399"
+              "value": "2026-04-03 / 1400"
             }
           ]
         },
@@ -2831,7 +2831,7 @@
             {
               "key": "us",
               "label": "미국",
-              "count": 2654,
+              "count": 2660,
               "series": [
                 {
                   "date": "2026-03-29",
@@ -2855,7 +2855,7 @@
                 },
                 {
                   "date": "2026-04-03",
-                  "count": 763
+                  "count": 764
                 },
                 {
                   "date": "2026-04-04",
@@ -2863,18 +2863,18 @@
                 },
                 {
                   "date": "2026-04-05",
-                  "count": 321
+                  "count": 326
                 }
               ]
             },
             {
               "key": "kr",
               "label": "대한민국",
-              "count": 1815,
+              "count": 1814,
               "series": [
                 {
                   "date": "2026-03-29",
-                  "count": 1
+                  "count": 0
                 },
                 {
                   "date": "2026-03-30",
@@ -2910,11 +2910,11 @@
           "summary_items": [
             {
               "label": "미국",
-              "value": 2654
+              "value": 2660
             },
             {
               "label": "대한민국",
-              "value": 1815
+              "value": 1814
             }
           ]
         },
@@ -2925,7 +2925,7 @@
             {
               "key": "us-politics",
               "label": "정치",
-              "count": 973,
+              "count": 975,
               "series": [
                 {
                   "date": "2026-03-29",
@@ -2957,14 +2957,14 @@
                 },
                 {
                   "date": "2026-04-05",
-                  "count": 112
+                  "count": 114
                 }
               ]
             },
             {
               "key": "us-technology",
               "label": "기술",
-              "count": 695,
+              "count": 697,
               "series": [
                 {
                   "date": "2026-03-29",
@@ -2996,7 +2996,7 @@
                 },
                 {
                   "date": "2026-04-05",
-                  "count": 91
+                  "count": 93
                 }
               ]
             },
@@ -3043,11 +3043,11 @@
           "summary_items": [
             {
               "label": "정치",
-              "value": 973
+              "value": 975
             },
             {
               "label": "기술",
-              "value": 695
+              "value": 697
             },
             {
               "label": "사회",
@@ -3059,10 +3059,10 @@
     },
     "30d": {
       "label": "30d",
-      "article_count": 5179,
+      "article_count": 5185,
       "unknown_time_count": 0,
       "active_source_count": 101,
-      "repeated_title_count": 323,
+      "repeated_title_count": 324,
       "timeline": [
         {
           "date": "2026-03-07",
@@ -3174,7 +3174,7 @@
         },
         {
           "date": "2026-04-03",
-          "count": 1399
+          "count": 1400
         },
         {
           "date": "2026-04-04",
@@ -3182,7 +3182,7 @@
         },
         {
           "date": "2026-04-05",
-          "count": 939
+          "count": 944
         }
       ],
       "top_keywords": [
@@ -3200,7 +3200,7 @@
         },
         {
           "keyword": "us",
-          "count": 121
+          "count": 123
         },
         {
           "keyword": "new",
@@ -3208,7 +3208,7 @@
         },
         {
           "keyword": "ai",
-          "count": 109
+          "count": 110
         },
         {
           "keyword": "after",
@@ -3216,7 +3216,7 @@
         },
         {
           "keyword": "how",
-          "count": 99
+          "count": 100
         },
         {
           "keyword": "says",
@@ -3244,12 +3244,12 @@
         {
           "source_key": "guardian-us-rss",
           "name": "The Guardian US",
-          "count": 165
+          "count": 166
         },
         {
           "source_key": "yahoo-news-rss",
           "name": "Yahoo News RSS",
-          "count": 156
+          "count": 160
         },
         {
           "source_key": "nypost-feed",
@@ -3301,7 +3301,7 @@
         {
           "key": "us",
           "label": "미국",
-          "count": 3101
+          "count": 3107
         },
         {
           "key": "kr",
@@ -3320,14 +3320,14 @@
           "label": "정치",
           "hub": "us",
           "hub_label": "미국",
-          "count": 1092
+          "count": 1094
         },
         {
           "key": "us-technology",
           "label": "기술",
           "hub": "us",
           "hub_label": "미국",
-          "count": 805
+          "count": 807
         },
         {
           "key": "kr-society",
@@ -3369,7 +3369,7 @@
           "label": "시장",
           "hub": "us",
           "hub_label": "미국",
-          "count": 293
+          "count": 295
         },
         {
           "key": "kr-culture",
@@ -3403,7 +3403,7 @@
       "language_counts": [
         {
           "language": "en",
-          "count": 3243
+          "count": 3249
         },
         {
           "language": "ko",
@@ -3899,6 +3899,28 @@
           ]
         },
         {
+          "stable_key": "422f80b12e2a977794ba5c15952cf20f4bc0fdc4a81817925ae5d407134cb79c",
+          "source_key": "guardian-us-rss",
+          "source_name": "The Guardian US",
+          "category": "us-politics",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "정치",
+          "language": "en",
+          "title": "US health officials appear to shy away from anti-vaccine talk ahead of midterms",
+          "canonical_url": "https://www.theguardian.com/us-news/2026/apr/05/health-officials-anti-vaccine-views-midterms",
+          "published_at": "2026-04-05T13:00:51+00:00",
+          "title_hash": "5badb41fbff9918dae2aa94dd26d1f0ba4d1f8bea9a9b7adeaa43bacfc615a1d",
+          "keywords": [
+            "us",
+            "health",
+            "officials",
+            "appear",
+            "shy",
+            "away"
+          ]
+        },
+        {
           "stable_key": "81cd034df00033b890e2605c066327fa4df0d28304470176632d1bdeaf914f5f",
           "source_key": "guardian-us-rss",
           "source_name": "The Guardian US",
@@ -4227,35 +4249,13 @@
             "선발",
             "전원안타"
           ]
-        },
-        {
-          "stable_key": "49990c39cc20dbb150a408519a516745053ed28245b69e2fea080dc2acd93484",
-          "source_key": "telegram-dada-news2",
-          "source_name": "Telegram @dada_news2",
-          "category": "tech-it",
-          "hub": "global",
-          "hub_label": "글로벌 전문",
-          "section_label": "테크",
-          "language": "ko",
-          "title": "[뉴스핌] [AI상보] '올러 7이닝 무실점' KIA, NC 3-0으로 누르고 4연패 탈출",
-          "canonical_url": "https://www.newspim.com/news/view/20260405000158",
-          "published_at": "2026-04-05T12:38:13+00:00",
-          "title_hash": "2a118f129f9cd788123368b885db1c2b99df7fd4c7f6c266cfb4cab2a0403ec5",
-          "keywords": [
-            "뉴스핌",
-            "ai상보",
-            "올러",
-            "7이닝",
-            "무실점",
-            "kia"
-          ]
         }
       ],
       "kpi_series": [
         {
           "key": "articles",
           "label": "기사 수",
-          "value": 5179,
+          "value": 5185,
           "series": [
             22,
             53,
@@ -4268,9 +4268,9 @@
             156,
             247,
             615,
-            1399,
+            1400,
             1204,
-            939
+            944
           ]
         },
         {
@@ -4289,15 +4289,15 @@
             156,
             247,
             615,
-            1399,
+            1400,
             1204,
-            939
+            944
           ]
         },
         {
           "key": "repeats",
           "label": "반복 기사",
-          "value": 323,
+          "value": 324,
           "series": [
             22,
             53,
@@ -4310,9 +4310,9 @@
             156,
             247,
             615,
-            1399,
+            1400,
             1204,
-            939
+            944
           ]
         },
         {
@@ -4331,9 +4331,9 @@
             156,
             247,
             615,
-            1399,
+            1400,
             1204,
-            939
+            944
           ]
         }
       ],
@@ -4350,12 +4350,12 @@
             {
               "source_key": "guardian-us-rss",
               "name": "The Guardian US",
-              "count": 165
+              "count": 166
             },
             {
               "source_key": "yahoo-news-rss",
               "name": "Yahoo News RSS",
-              "count": 156
+              "count": 160
             },
             {
               "source_key": "nypost-feed",
@@ -4393,14 +4393,14 @@
               "label": "정치",
               "hub": "us",
               "hub_label": "미국",
-              "count": 1092
+              "count": 1094
             },
             {
               "key": "us-technology",
               "label": "기술",
               "hub": "us",
               "hub_label": "미국",
-              "count": 805
+              "count": 807
             },
             {
               "key": "kr-society",
@@ -4442,7 +4442,7 @@
               "label": "시장",
               "hub": "us",
               "hub_label": "미국",
-              "count": 293
+              "count": 295
             }
           ],
           "chart": "donut"
@@ -4469,7 +4469,7 @@
             {
               "key": "us",
               "label": "us",
-              "count": 121
+              "count": 123
             },
             {
               "key": "new",
@@ -4479,7 +4479,7 @@
             {
               "key": "ai",
               "label": "ai",
-              "count": 109
+              "count": 110
             },
             {
               "key": "after",
@@ -4489,7 +4489,7 @@
             {
               "key": "how",
               "label": "how",
-              "count": 99
+              "count": 100
             }
           ]
         }
@@ -4609,7 +4609,7 @@
             },
             {
               "date": "2026-04-03",
-              "count": 1399
+              "count": 1400
             },
             {
               "date": "2026-04-04",
@@ -4617,21 +4617,21 @@
             },
             {
               "date": "2026-04-05",
-              "count": 939
+              "count": 944
             }
           ],
           "summary_items": [
             {
               "label": "최근 집계",
-              "value": 939
+              "value": 944
             },
             {
               "label": "일 평균",
-              "value": 172.6
+              "value": 172.8
             },
             {
               "label": "최대 일자",
-              "value": "2026-04-03 / 1399"
+              "value": "2026-04-03 / 1400"
             }
           ]
         },
@@ -4642,7 +4642,7 @@
             {
               "key": "us",
               "label": "미국",
-              "count": 3101,
+              "count": 3107,
               "series": [
                 {
                   "date": "2026-03-07",
@@ -4754,7 +4754,7 @@
                 },
                 {
                   "date": "2026-04-03",
-                  "count": 763
+                  "count": 764
                 },
                 {
                   "date": "2026-04-04",
@@ -4762,7 +4762,7 @@
                 },
                 {
                   "date": "2026-04-05",
-                  "count": 321
+                  "count": 326
                 }
               ]
             },
@@ -4897,7 +4897,7 @@
           "summary_items": [
             {
               "label": "미국",
-              "value": 3101
+              "value": 3107
             },
             {
               "label": "대한민국",
@@ -4912,7 +4912,7 @@
             {
               "key": "us-politics",
               "label": "정치",
-              "count": 1092,
+              "count": 1094,
               "series": [
                 {
                   "date": "2026-03-07",
@@ -5032,14 +5032,14 @@
                 },
                 {
                   "date": "2026-04-05",
-                  "count": 112
+                  "count": 114
                 }
               ]
             },
             {
               "key": "us-technology",
               "label": "기술",
-              "count": 805,
+              "count": 807,
               "series": [
                 {
                   "date": "2026-03-07",
@@ -5159,7 +5159,7 @@
                 },
                 {
                   "date": "2026-04-05",
-                  "count": 91
+                  "count": 93
                 }
               ]
             },
@@ -5294,11 +5294,11 @@
           "summary_items": [
             {
               "label": "정치",
-              "value": 1092
+              "value": 1094
             },
             {
               "label": "기술",
-              "value": 805
+              "value": 807
             },
             {
               "label": "사회",
@@ -5310,10 +5310,10 @@
     },
     "90d": {
       "label": "90d",
-      "article_count": 5272,
+      "article_count": 5278,
       "unknown_time_count": 0,
       "active_source_count": 101,
-      "repeated_title_count": 325,
+      "repeated_title_count": 326,
       "timeline": [
         {
           "date": "2026-01-07",
@@ -5581,7 +5581,7 @@
         },
         {
           "date": "2026-04-03",
-          "count": 1399
+          "count": 1400
         },
         {
           "date": "2026-04-04",
@@ -5589,7 +5589,7 @@
         },
         {
           "date": "2026-04-05",
-          "count": 939
+          "count": 944
         }
       ],
       "top_keywords": [
@@ -5611,15 +5611,15 @@
         },
         {
           "keyword": "us",
-          "count": 122
+          "count": 124
         },
         {
           "keyword": "ai",
-          "count": 120
+          "count": 121
         },
         {
           "keyword": "how",
-          "count": 102
+          "count": 103
         },
         {
           "keyword": "after",
@@ -5651,12 +5651,12 @@
         {
           "source_key": "guardian-us-rss",
           "name": "The Guardian US",
-          "count": 166
+          "count": 167
         },
         {
           "source_key": "yahoo-news-rss",
           "name": "Yahoo News RSS",
-          "count": 156
+          "count": 160
         },
         {
           "source_key": "nypost-feed",
@@ -5708,7 +5708,7 @@
         {
           "key": "us",
           "label": "미국",
-          "count": 3190
+          "count": 3196
         },
         {
           "key": "kr",
@@ -5727,14 +5727,14 @@
           "label": "정치",
           "hub": "us",
           "hub_label": "미국",
-          "count": 1092
+          "count": 1094
         },
         {
           "key": "us-technology",
           "label": "기술",
           "hub": "us",
           "hub_label": "미국",
-          "count": 869
+          "count": 871
         },
         {
           "key": "us-world",
@@ -5776,7 +5776,7 @@
           "label": "시장",
           "hub": "us",
           "hub_label": "미국",
-          "count": 317
+          "count": 319
         },
         {
           "key": "kr-culture",
@@ -5810,7 +5810,7 @@
       "language_counts": [
         {
           "language": "en",
-          "count": 3334
+          "count": 3340
         },
         {
           "language": "ko",
@@ -6306,6 +6306,28 @@
           ]
         },
         {
+          "stable_key": "422f80b12e2a977794ba5c15952cf20f4bc0fdc4a81817925ae5d407134cb79c",
+          "source_key": "guardian-us-rss",
+          "source_name": "The Guardian US",
+          "category": "us-politics",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "정치",
+          "language": "en",
+          "title": "US health officials appear to shy away from anti-vaccine talk ahead of midterms",
+          "canonical_url": "https://www.theguardian.com/us-news/2026/apr/05/health-officials-anti-vaccine-views-midterms",
+          "published_at": "2026-04-05T13:00:51+00:00",
+          "title_hash": "5badb41fbff9918dae2aa94dd26d1f0ba4d1f8bea9a9b7adeaa43bacfc615a1d",
+          "keywords": [
+            "us",
+            "health",
+            "officials",
+            "appear",
+            "shy",
+            "away"
+          ]
+        },
+        {
           "stable_key": "81cd034df00033b890e2605c066327fa4df0d28304470176632d1bdeaf914f5f",
           "source_key": "guardian-us-rss",
           "source_name": "The Guardian US",
@@ -6634,35 +6656,13 @@
             "선발",
             "전원안타"
           ]
-        },
-        {
-          "stable_key": "49990c39cc20dbb150a408519a516745053ed28245b69e2fea080dc2acd93484",
-          "source_key": "telegram-dada-news2",
-          "source_name": "Telegram @dada_news2",
-          "category": "tech-it",
-          "hub": "global",
-          "hub_label": "글로벌 전문",
-          "section_label": "테크",
-          "language": "ko",
-          "title": "[뉴스핌] [AI상보] '올러 7이닝 무실점' KIA, NC 3-0으로 누르고 4연패 탈출",
-          "canonical_url": "https://www.newspim.com/news/view/20260405000158",
-          "published_at": "2026-04-05T12:38:13+00:00",
-          "title_hash": "2a118f129f9cd788123368b885db1c2b99df7fd4c7f6c266cfb4cab2a0403ec5",
-          "keywords": [
-            "뉴스핌",
-            "ai상보",
-            "올러",
-            "7이닝",
-            "무실점",
-            "kia"
-          ]
         }
       ],
       "kpi_series": [
         {
           "key": "articles",
           "label": "기사 수",
-          "value": 5272,
+          "value": 5278,
           "series": [
             22,
             53,
@@ -6675,9 +6675,9 @@
             156,
             247,
             615,
-            1399,
+            1400,
             1204,
-            939
+            944
           ]
         },
         {
@@ -6696,15 +6696,15 @@
             156,
             247,
             615,
-            1399,
+            1400,
             1204,
-            939
+            944
           ]
         },
         {
           "key": "repeats",
           "label": "반복 기사",
-          "value": 325,
+          "value": 326,
           "series": [
             22,
             53,
@@ -6717,9 +6717,9 @@
             156,
             247,
             615,
-            1399,
+            1400,
             1204,
-            939
+            944
           ]
         },
         {
@@ -6738,9 +6738,9 @@
             156,
             247,
             615,
-            1399,
+            1400,
             1204,
-            939
+            944
           ]
         }
       ],
@@ -6757,12 +6757,12 @@
             {
               "source_key": "guardian-us-rss",
               "name": "The Guardian US",
-              "count": 166
+              "count": 167
             },
             {
               "source_key": "yahoo-news-rss",
               "name": "Yahoo News RSS",
-              "count": 156
+              "count": 160
             },
             {
               "source_key": "nypost-feed",
@@ -6800,14 +6800,14 @@
               "label": "정치",
               "hub": "us",
               "hub_label": "미국",
-              "count": 1092
+              "count": 1094
             },
             {
               "key": "us-technology",
               "label": "기술",
               "hub": "us",
               "hub_label": "미국",
-              "count": 869
+              "count": 871
             },
             {
               "key": "us-world",
@@ -6849,7 +6849,7 @@
               "label": "시장",
               "hub": "us",
               "hub_label": "미국",
-              "count": 317
+              "count": 319
             }
           ],
           "chart": "donut"
@@ -6881,17 +6881,17 @@
             {
               "key": "us",
               "label": "us",
-              "count": 122
+              "count": 124
             },
             {
               "key": "ai",
               "label": "ai",
-              "count": 120
+              "count": 121
             },
             {
               "key": "how",
               "label": "how",
-              "count": 102
+              "count": 103
             },
             {
               "key": "after",
@@ -7172,7 +7172,7 @@
             },
             {
               "date": "2026-04-03",
-              "count": 1399
+              "count": 1400
             },
             {
               "date": "2026-04-04",
@@ -7180,21 +7180,21 @@
             },
             {
               "date": "2026-04-05",
-              "count": 939
+              "count": 944
             }
           ],
           "summary_items": [
             {
               "label": "최근 집계",
-              "value": 939
+              "value": 944
             },
             {
               "label": "일 평균",
-              "value": 76.4
+              "value": 76.5
             },
             {
               "label": "최대 일자",
-              "value": "2026-04-03 / 1399"
+              "value": "2026-04-03 / 1400"
             }
           ]
         },
@@ -7205,7 +7205,7 @@
             {
               "key": "us",
               "label": "미국",
-              "count": 3190,
+              "count": 3196,
               "series": [
                 {
                   "date": "2026-01-07",
@@ -7473,7 +7473,7 @@
                 },
                 {
                   "date": "2026-04-03",
-                  "count": 763
+                  "count": 764
                 },
                 {
                   "date": "2026-04-04",
@@ -7481,7 +7481,7 @@
                 },
                 {
                   "date": "2026-04-05",
-                  "count": 321
+                  "count": 326
                 }
               ]
             },
@@ -7772,7 +7772,7 @@
           "summary_items": [
             {
               "label": "미국",
-              "value": 3190
+              "value": 3196
             },
             {
               "label": "대한민국",
@@ -7787,7 +7787,7 @@
             {
               "key": "us-politics",
               "label": "정치",
-              "count": 1092,
+              "count": 1094,
               "series": [
                 {
                   "date": "2026-01-07",
@@ -8063,14 +8063,14 @@
                 },
                 {
                   "date": "2026-04-05",
-                  "count": 112
+                  "count": 114
                 }
               ]
             },
             {
               "key": "us-technology",
               "label": "기술",
-              "count": 869,
+              "count": 871,
               "series": [
                 {
                   "date": "2026-01-07",
@@ -8346,7 +8346,7 @@
                 },
                 {
                   "date": "2026-04-05",
-                  "count": 91
+                  "count": 93
                 }
               ]
             },
@@ -8637,11 +8637,11 @@
           "summary_items": [
             {
               "label": "정치",
-              "value": 1092
+              "value": 1094
             },
             {
               "label": "기술",
-              "value": 869
+              "value": 871
             },
             {
               "label": "세계",
@@ -8653,10 +8653,10 @@
     },
     "all": {
       "label": "All",
-      "article_count": 6811,
-      "unknown_time_count": 1381,
+      "article_count": 6827,
+      "unknown_time_count": 1391,
       "active_source_count": 131,
-      "repeated_title_count": 503,
+      "repeated_title_count": 505,
       "timeline": [
         {
           "date": "2016-11-02",
@@ -9080,7 +9080,7 @@
         },
         {
           "date": "2026-04-03",
-          "count": 1415
+          "count": 1416
         },
         {
           "date": "2026-04-04",
@@ -9088,7 +9088,7 @@
         },
         {
           "date": "2026-04-05",
-          "count": 953
+          "count": 958
         }
       ],
       "top_keywords": [
@@ -9106,11 +9106,11 @@
         },
         {
           "keyword": "us",
-          "count": 143
+          "count": 145
         },
         {
           "keyword": "ai",
-          "count": 135
+          "count": 136
         },
         {
           "keyword": "new",
@@ -9122,7 +9122,7 @@
         },
         {
           "keyword": "how",
-          "count": 114
+          "count": 115
         },
         {
           "keyword": "says",
@@ -9145,7 +9145,7 @@
         {
           "source_key": "naver-kr-society",
           "name": "NAVER News Search",
-          "count": 657
+          "count": 665
         },
         {
           "source_key": "semafor-feed",
@@ -9155,12 +9155,12 @@
         {
           "source_key": "guardian-us-rss",
           "name": "The Guardian US",
-          "count": 170
+          "count": 171
         },
         {
           "source_key": "yahoo-news-rss",
           "name": "Yahoo News RSS",
-          "count": 156
+          "count": 160
         },
         {
           "source_key": "nypost-feed",
@@ -9207,12 +9207,12 @@
         {
           "key": "us",
           "label": "미국",
-          "count": 3643
+          "count": 3651
         },
         {
           "key": "kr",
           "label": "대한민국",
-          "count": 2934
+          "count": 2942
         },
         {
           "key": "global",
@@ -9226,21 +9226,21 @@
           "label": "사회",
           "hub": "kr",
           "hub_label": "대한민국",
-          "count": 1257
+          "count": 1265
         },
         {
           "key": "us-politics",
           "label": "정치",
           "hub": "us",
           "hub_label": "미국",
-          "count": 1208
+          "count": 1210
         },
         {
           "key": "us-technology",
           "label": "기술",
           "hub": "us",
           "hub_label": "미국",
-          "count": 1000
+          "count": 1004
         },
         {
           "key": "kr-economy",
@@ -9275,7 +9275,7 @@
           "label": "시장",
           "hub": "us",
           "hub_label": "미국",
-          "count": 377
+          "count": 379
         },
         {
           "key": "kr-culture",
@@ -9309,11 +9309,11 @@
       "language_counts": [
         {
           "language": "en",
-          "count": 3817
+          "count": 3825
         },
         {
           "language": "ko",
-          "count": 2994
+          "count": 3002
         }
       ],
       "repeated_titles": [
@@ -9805,6 +9805,28 @@
           ]
         },
         {
+          "stable_key": "422f80b12e2a977794ba5c15952cf20f4bc0fdc4a81817925ae5d407134cb79c",
+          "source_key": "guardian-us-rss",
+          "source_name": "The Guardian US",
+          "category": "us-politics",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "정치",
+          "language": "en",
+          "title": "US health officials appear to shy away from anti-vaccine talk ahead of midterms",
+          "canonical_url": "https://www.theguardian.com/us-news/2026/apr/05/health-officials-anti-vaccine-views-midterms",
+          "published_at": "2026-04-05T13:00:51+00:00",
+          "title_hash": "5badb41fbff9918dae2aa94dd26d1f0ba4d1f8bea9a9b7adeaa43bacfc615a1d",
+          "keywords": [
+            "us",
+            "health",
+            "officials",
+            "appear",
+            "shy",
+            "away"
+          ]
+        },
+        {
           "stable_key": "81cd034df00033b890e2605c066327fa4df0d28304470176632d1bdeaf914f5f",
           "source_key": "guardian-us-rss",
           "source_name": "The Guardian US",
@@ -10133,35 +10155,13 @@
             "선발",
             "전원안타"
           ]
-        },
-        {
-          "stable_key": "49990c39cc20dbb150a408519a516745053ed28245b69e2fea080dc2acd93484",
-          "source_key": "telegram-dada-news2",
-          "source_name": "Telegram @dada_news2",
-          "category": "tech-it",
-          "hub": "global",
-          "hub_label": "글로벌 전문",
-          "section_label": "테크",
-          "language": "ko",
-          "title": "[뉴스핌] [AI상보] '올러 7이닝 무실점' KIA, NC 3-0으로 누르고 4연패 탈출",
-          "canonical_url": "https://www.newspim.com/news/view/20260405000158",
-          "published_at": "2026-04-05T12:38:13+00:00",
-          "title_hash": "2a118f129f9cd788123368b885db1c2b99df7fd4c7f6c266cfb4cab2a0403ec5",
-          "keywords": [
-            "뉴스핌",
-            "ai상보",
-            "올러",
-            "7이닝",
-            "무실점",
-            "kia"
-          ]
         }
       ],
       "kpi_series": [
         {
           "key": "articles",
           "label": "기사 수",
-          "value": 6811,
+          "value": 6827,
           "series": [
             23,
             55,
@@ -10174,9 +10174,9 @@
             158,
             248,
             621,
-            1415,
+            1416,
             1212,
-            953
+            958
           ]
         },
         {
@@ -10195,15 +10195,15 @@
             158,
             248,
             621,
-            1415,
+            1416,
             1212,
-            953
+            958
           ]
         },
         {
           "key": "repeats",
           "label": "반복 기사",
-          "value": 503,
+          "value": 505,
           "series": [
             23,
             55,
@@ -10216,15 +10216,15 @@
             158,
             248,
             621,
-            1415,
+            1416,
             1212,
-            953
+            958
           ]
         },
         {
           "key": "unknown",
           "label": "시간 미상",
-          "value": 1381,
+          "value": 1391,
           "series": [
             23,
             55,
@@ -10237,9 +10237,9 @@
             158,
             248,
             621,
-            1415,
+            1416,
             1212,
-            953
+            958
           ]
         }
       ],
@@ -10251,7 +10251,7 @@
             {
               "source_key": "naver-kr-society",
               "name": "NAVER News Search",
-              "count": 657
+              "count": 665
             },
             {
               "source_key": "semafor-feed",
@@ -10261,12 +10261,12 @@
             {
               "source_key": "guardian-us-rss",
               "name": "The Guardian US",
-              "count": 170
+              "count": 171
             },
             {
               "source_key": "yahoo-news-rss",
               "name": "Yahoo News RSS",
-              "count": 156
+              "count": 160
             },
             {
               "source_key": "nypost-feed",
@@ -10299,21 +10299,21 @@
               "label": "사회",
               "hub": "kr",
               "hub_label": "대한민국",
-              "count": 1257
+              "count": 1265
             },
             {
               "key": "us-politics",
               "label": "정치",
               "hub": "us",
               "hub_label": "미국",
-              "count": 1208
+              "count": 1210
             },
             {
               "key": "us-technology",
               "label": "기술",
               "hub": "us",
               "hub_label": "미국",
-              "count": 1000
+              "count": 1004
             },
             {
               "key": "kr-economy",
@@ -10348,7 +10348,7 @@
               "label": "시장",
               "hub": "us",
               "hub_label": "미국",
-              "count": 377
+              "count": 379
             }
           ],
           "chart": "donut"
@@ -10375,12 +10375,12 @@
             {
               "key": "us",
               "label": "us",
-              "count": 143
+              "count": 145
             },
             {
               "key": "ai",
               "label": "ai",
-              "count": 135
+              "count": 136
             },
             {
               "key": "new",
@@ -10395,7 +10395,7 @@
             {
               "key": "how",
               "label": "how",
-              "count": 114
+              "count": 115
             }
           ]
         }
@@ -10827,7 +10827,7 @@
             },
             {
               "date": "2026-04-03",
-              "count": 1415
+              "count": 1416
             },
             {
               "date": "2026-04-04",
@@ -10835,13 +10835,13 @@
             },
             {
               "date": "2026-04-05",
-              "count": 953
+              "count": 958
             }
           ],
           "summary_items": [
             {
               "label": "최근 집계",
-              "value": 953
+              "value": 958
             },
             {
               "label": "일 평균",
@@ -10849,7 +10849,7 @@
             },
             {
               "label": "최대 일자",
-              "value": "2026-04-03 / 1415"
+              "value": "2026-04-03 / 1416"
             }
           ]
         },
@@ -10860,7 +10860,7 @@
             {
               "key": "us",
               "label": "미국",
-              "count": 3643,
+              "count": 3651,
               "series": [
                 {
                   "date": "2016-11-02",
@@ -11284,7 +11284,7 @@
                 },
                 {
                   "date": "2026-04-03",
-                  "count": 763
+                  "count": 764
                 },
                 {
                   "date": "2026-04-04",
@@ -11292,14 +11292,14 @@
                 },
                 {
                   "date": "2026-04-05",
-                  "count": 321
+                  "count": 326
                 }
               ]
             },
             {
               "key": "kr",
               "label": "대한민국",
-              "count": 2934,
+              "count": 2942,
               "series": [
                 {
                   "date": "2016-11-02",
@@ -11739,11 +11739,11 @@
           "summary_items": [
             {
               "label": "미국",
-              "value": 3643
+              "value": 3651
             },
             {
               "label": "대한민국",
-              "value": 2934
+              "value": 2942
             }
           ]
         },
@@ -11754,7 +11754,7 @@
             {
               "key": "kr-society",
               "label": "사회",
-              "count": 1257,
+              "count": 1265,
               "series": [
                 {
                   "date": "2016-11-02",
@@ -12193,7 +12193,7 @@
             {
               "key": "us-politics",
               "label": "정치",
-              "count": 1208,
+              "count": 1210,
               "series": [
                 {
                   "date": "2016-11-02",
@@ -12625,14 +12625,14 @@
                 },
                 {
                   "date": "2026-04-05",
-                  "count": 112
+                  "count": 114
                 }
               ]
             },
             {
               "key": "us-technology",
               "label": "기술",
-              "count": 1000,
+              "count": 1004,
               "series": [
                 {
                   "date": "2016-11-02",
@@ -13064,7 +13064,7 @@
                 },
                 {
                   "date": "2026-04-05",
-                  "count": 91
+                  "count": 93
                 }
               ]
             }
@@ -13072,15 +13072,15 @@
           "summary_items": [
             {
               "label": "사회",
-              "value": 1257
+              "value": 1265
             },
             {
               "label": "정치",
-              "value": 1208
+              "value": 1210
             },
             {
               "label": "기술",
-              "value": 1000
+              "value": 1004
             }
           ]
         }
