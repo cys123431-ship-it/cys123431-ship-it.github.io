@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-05T04:33:08.445305+00:00",
+  "generated_at": "2026-04-05T05:01:35.273182+00:00",
   "top_cards": [
     {
       "label": "US stocks tracked",
@@ -33,13 +33,13 @@
     },
     {
       "label": "Crypto advancers",
-      "value": 58,
-      "detail": "Decliners 55",
+      "value": 52,
+      "detail": "Decliners 61",
       "status": "ok"
     }
   ],
   "status": {
-    "generated_at": "2026-04-05T04:33:08.445305+00:00",
+    "generated_at": "2026-04-05T05:01:35.273182+00:00",
     "overall_status": "warning",
     "providers": {
       "stocks": {
@@ -47,7 +47,7 @@
         "stale": false,
         "provider": "finviz-public",
         "message": "Using public Finviz fallback because NEWSBOT_FMP_API_KEY is not configured. Public Finviz snapshot is capped at the top 100 stocks to avoid rate limits.",
-        "as_of": "2026-04-05T04:33:08.445305+00:00",
+        "as_of": "2026-04-05T05:01:35.273182+00:00",
         "row_count": 100
       },
       "korea": {
@@ -63,7 +63,7 @@
         "stale": false,
         "provider": "coingecko",
         "message": "Binance heatmap unavailable: Client error '451 ' for url 'https://api.binance.com/api/v3/ticker/24hr'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/451",
-        "as_of": "2026-04-05T04:33:09.342Z",
+        "as_of": "2026-04-05T05:01:31.763Z",
         "row_count": 120
       }
     }
@@ -88,7 +88,7 @@
         "avg_volume": 89.53,
         "pe": null,
         "dividend_yield": null,
-        "as_of": "2026-04-05T04:33:08.445305+00:00",
+        "as_of": "2026-04-05T05:01:35.273182+00:00",
         "detail_url": "https://finviz.com/quote.ashx?t=SPY&p=d",
         "high_52w": 697.84,
         "low_52w": 481.8
@@ -108,7 +108,7 @@
         "avg_volume": 66.15,
         "pe": null,
         "dividend_yield": null,
-        "as_of": "2026-04-05T04:33:08.445305+00:00",
+        "as_of": "2026-04-05T05:01:35.273182+00:00",
         "detail_url": "https://finviz.com/quote.ashx?t=QQQ&p=d",
         "high_52w": 637.01,
         "low_52w": 402.39
@@ -128,7 +128,7 @@
         "avg_volume": 7.27,
         "pe": null,
         "dividend_yield": null,
-        "as_of": "2026-04-05T04:33:08.445305+00:00",
+        "as_of": "2026-04-05T05:01:35.273182+00:00",
         "detail_url": "https://finviz.com/quote.ashx?t=DIA&p=d",
         "high_52w": 505.3,
         "low_52w": 366.32
@@ -148,7 +148,7 @@
         "avg_volume": 45.09,
         "pe": null,
         "dividend_yield": null,
-        "as_of": "2026-04-05T04:33:08.445305+00:00",
+        "as_of": "2026-04-05T05:01:35.273182+00:00",
         "detail_url": "https://finviz.com/quote.ashx?t=IWM&p=d",
         "high_52w": 271.6,
         "low_52w": 171.73
@@ -383,11 +383,11 @@
       {
         "label": "NVDA",
         "name": "NVIDIA Corp",
-        "subLabel": "Technology",
         "change_pct": 0.93,
         "value": 4310580000000.0,
-        "share_pct": 10.254464433333895,
-        "metric_display": "10.3% cap share",
+        "weight_pct": 14.77943884089932,
+        "share_pct": 14.77943884089932,
+        "metric_display": "14.78% of NASDAQ",
         "size": 5,
         "tile_cols": 10,
         "tile_rows": 6,
@@ -396,11 +396,11 @@
       {
         "label": "AAPL",
         "name": "Apple Inc",
-        "subLabel": "Technology",
         "change_pct": 0.11,
         "value": 3757200000000.0,
-        "share_pct": 8.938025455721068,
-        "metric_display": "8.9% cap share",
+        "weight_pct": 12.882096519036168,
+        "share_pct": 12.882096519036168,
+        "metric_display": "12.88% of NASDAQ",
         "size": 5,
         "tile_cols": 10,
         "tile_rows": 6,
@@ -409,11 +409,11 @@
       {
         "label": "GOOGL",
         "name": "Alphabet Inc",
-        "subLabel": "Communication Services",
         "change_pct": -0.54,
         "value": 3570810000000.0,
-        "share_pct": 8.494621174689488,
-        "metric_display": "8.5% cap share",
+        "weight_pct": 12.24303179791854,
+        "share_pct": 12.24303179791854,
+        "metric_display": "12.24% of NASDAQ",
         "size": 5,
         "tile_cols": 10,
         "tile_rows": 6,
@@ -422,11 +422,11 @@
       {
         "label": "GOOG",
         "name": "Alphabet Inc",
-        "subLabel": "Communication Services",
         "change_pct": -0.15,
         "value": 3570810000000.0,
-        "share_pct": 8.494621174689488,
-        "metric_display": "8.5% cap share",
+        "weight_pct": 12.24303179791854,
+        "share_pct": 12.24303179791854,
+        "metric_display": "12.24% of NASDAQ",
         "size": 5,
         "tile_cols": 10,
         "tile_rows": 6,
@@ -435,11 +435,11 @@
       {
         "label": "MSFT",
         "name": "Microsoft Corporation",
-        "subLabel": "Technology",
         "change_pct": 1.11,
         "value": 2773180000000.0,
-        "share_pct": 6.597134417464215,
-        "metric_display": "6.6% cap share",
+        "weight_pct": 9.508243485750217,
+        "share_pct": 9.508243485750217,
+        "metric_display": "9.51% of NASDAQ",
         "size": 5,
         "tile_cols": 10,
         "tile_rows": 6,
@@ -448,37 +448,24 @@
       {
         "label": "AMZN",
         "name": "Amazon.com Inc",
-        "subLabel": "Consumer Cyclical",
         "change_pct": -0.38,
         "value": 2251860000000.0,
-        "share_pct": 5.356963164782296,
-        "metric_display": "5.4% cap share",
+        "weight_pct": 7.720823450270623,
+        "share_pct": 7.720823450270623,
+        "metric_display": "7.72% of NASDAQ",
         "size": 4,
         "tile_cols": 8,
         "tile_rows": 5,
         "detail_url": "https://finviz.com/quote.ashx?t=AMZN&p=d"
       },
       {
-        "label": "TSM",
-        "name": "Taiwan Semiconductor Manufacturing ADR",
-        "subLabel": "Technology",
-        "change_pct": -0.72,
-        "value": 1758430000000.0,
-        "share_pct": 4.183139599197166,
-        "metric_display": "4.2% cap share",
-        "size": 4,
-        "tile_cols": 8,
-        "tile_rows": 5,
-        "detail_url": "https://finviz.com/quote.ashx?t=TSM&p=d"
-      },
-      {
         "label": "AVGO",
         "name": "Broadcom Inc",
-        "subLabel": "Technology",
         "change_pct": 0.34,
         "value": 1489290000000.0,
-        "share_pct": 3.5428808503542077,
-        "metric_display": "3.5% cap share",
+        "weight_pct": 5.10624335271888,
+        "share_pct": 5.10624335271888,
+        "metric_display": "5.11% of NASDAQ",
         "size": 4,
         "tile_cols": 8,
         "tile_rows": 5,
@@ -487,11 +474,11 @@
       {
         "label": "META",
         "name": "Meta Platforms Inc",
-        "subLabel": "Communication Services",
         "change_pct": -0.82,
         "value": 1453130000000.0,
-        "share_pct": 3.4568596110060557,
-        "metric_display": "3.5% cap share",
+        "weight_pct": 4.982263631083526,
+        "share_pct": 4.982263631083526,
+        "metric_display": "4.98% of NASDAQ",
         "size": 4,
         "tile_cols": 8,
         "tile_rows": 5,
@@ -500,115 +487,24 @@
       {
         "label": "TSLA",
         "name": "Tesla Inc",
-        "subLabel": "Consumer Cyclical",
         "change_pct": -5.42,
         "value": 1353090000000.0,
-        "share_pct": 3.2188738592253854,
-        "metric_display": "3.2% cap share",
+        "weight_pct": 4.639262210939702,
+        "share_pct": 4.639262210939702,
+        "metric_display": "4.64% of NASDAQ",
         "size": 3,
         "tile_cols": 6,
         "tile_rows": 4,
         "detail_url": "https://finviz.com/quote.ashx?t=TSLA&p=d"
       },
       {
-        "label": "BRK-B",
-        "name": "Berkshire Hathaway Inc",
-        "subLabel": "Financial",
-        "change_pct": -0.24,
-        "value": 1029190000000.0,
-        "share_pct": 2.448346220263378,
-        "metric_display": "2.4% cap share",
-        "size": 3,
-        "tile_cols": 6,
-        "tile_rows": 4,
-        "detail_url": "https://finviz.com/quote.ashx?t=BRK-B&p=d"
-      },
-      {
-        "label": "WMT",
-        "name": "Walmart Inc",
-        "subLabel": "Consumer Defensive",
-        "change_pct": 0.84,
-        "value": 1002850000000.0,
-        "share_pct": 2.385685837397496,
-        "metric_display": "2.4% cap share",
-        "size": 3,
-        "tile_cols": 6,
-        "tile_rows": 4,
-        "detail_url": "https://finviz.com/quote.ashx?t=WMT&p=d"
-      },
-      {
-        "label": "LLY",
-        "name": "Lilly(Eli) & Co",
-        "subLabel": "Healthcare",
-        "change_pct": -1.98,
-        "value": 883950000000.0,
-        "share_pct": 2.1028339192975185,
-        "metric_display": "2.1% cap share",
-        "size": 3,
-        "tile_cols": 6,
-        "tile_rows": 4,
-        "detail_url": "https://finviz.com/quote.ashx?t=LLY&p=d"
-      },
-      {
-        "label": "JPM",
-        "name": "JPMorgan Chase & Co",
-        "subLabel": "Financial",
-        "change_pct": -0.26,
-        "value": 794550000000.0,
-        "share_pct": 1.8901597268825652,
-        "metric_display": "1.9% cap share",
-        "size": 3,
-        "tile_cols": 6,
-        "tile_rows": 4,
-        "detail_url": "https://finviz.com/quote.ashx?t=JPM&p=d"
-      },
-      {
-        "label": "XOM",
-        "name": "Exxon Mobil Corp",
-        "subLabel": "Energy",
-        "change_pct": -0.06,
-        "value": 669560000000.0,
-        "share_pct": 1.5928202715140523,
-        "metric_display": "1.6% cap share",
-        "size": 2,
-        "tile_cols": 4,
-        "tile_rows": 3,
-        "detail_url": "https://finviz.com/quote.ashx?t=XOM&p=d"
-      },
-      {
-        "label": "JNJ",
-        "name": "Johnson & Johnson",
-        "subLabel": "Healthcare",
-        "change_pct": -0.44,
-        "value": 585390000000.0,
-        "share_pct": 1.392587757245969,
-        "metric_display": "1.4% cap share",
-        "size": 2,
-        "tile_cols": 4,
-        "tile_rows": 3,
-        "detail_url": "https://finviz.com/quote.ashx?t=JNJ&p=d"
-      },
-      {
-        "label": "V",
-        "name": "Visa Inc",
-        "subLabel": "Financial",
-        "change_pct": 0.77,
-        "value": 573330000000.0,
-        "share_pct": 1.3638981514235493,
-        "metric_display": "1.4% cap share",
-        "size": 2,
-        "tile_cols": 4,
-        "tile_rows": 3,
-        "detail_url": "https://finviz.com/quote.ashx?t=V&p=d"
-      },
-      {
         "label": "ASML",
         "name": "ASML Holding NV",
-        "subLabel": "Technology",
         "change_pct": -3.13,
         "value": 507690000000.0,
-        "share_pct": 1.2077467645094826,
-        "metric_display": "1.2% cap share",
+        "weight_pct": 1.740687634874234,
+        "share_pct": 1.740687634874234,
+        "metric_display": "1.74% of NASDAQ",
         "size": 2,
         "tile_cols": 4,
         "tile_rows": 3,
@@ -617,50 +513,24 @@
       {
         "label": "COST",
         "name": "Costco Wholesale Corp",
-        "subLabel": "Consumer Defensive",
         "change_pct": 1.85,
         "value": 450290000000.0,
-        "share_pct": 1.0711975626681143,
-        "metric_display": "1.1% cap share",
+        "weight_pct": 1.5438835413490888,
+        "share_pct": 1.5438835413490888,
+        "metric_display": "1.54% of NASDAQ",
         "size": 2,
         "tile_cols": 4,
         "tile_rows": 3,
         "detail_url": "https://finviz.com/quote.ashx?t=COST&p=d"
       },
       {
-        "label": "MA",
-        "name": "Mastercard Incorporated",
-        "subLabel": "Financial",
-        "change_pct": 0.36,
-        "value": 440060000000.0,
-        "share_pct": 1.0468613547441215,
-        "metric_display": "1.0% cap share",
-        "size": 2,
-        "tile_cols": 4,
-        "tile_rows": 3,
-        "detail_url": "https://finviz.com/quote.ashx?t=MA&p=d"
-      },
-      {
-        "label": "ORCL",
-        "name": "Oracle Corp",
-        "subLabel": "Technology",
-        "change_pct": 0.79,
-        "value": 421000000000.0,
-        "share_pct": 1.0015194072337297,
-        "metric_display": "1.0% cap share",
-        "size": 2,
-        "tile_cols": 4,
-        "tile_rows": 3,
-        "detail_url": "https://finviz.com/quote.ashx?t=ORCL&p=d"
-      },
-      {
         "label": "NFLX",
         "name": "Netflix Inc",
-        "subLabel": "Communication Services",
         "change_pct": 3.25,
         "value": 416560000000.0,
-        "share_pct": 0.9909570647916447,
-        "metric_display": "1.0% cap share",
+        "weight_pct": 1.4282354215824833,
+        "share_pct": 1.4282354215824833,
+        "metric_display": "1.43% of NASDAQ",
         "size": 2,
         "tile_cols": 4,
         "tile_rows": 3,
@@ -669,138 +539,190 @@
       {
         "label": "MU",
         "name": "Micron Technology Inc",
-        "subLabel": "Technology",
         "change_pct": -0.44,
         "value": 413020000000.0,
-        "share_pct": 0.9825357377094418,
-        "metric_display": "1.0% cap share",
+        "weight_pct": 1.4160980262675178,
+        "share_pct": 1.4160980262675178,
+        "metric_display": "1.42% of NASDAQ",
         "size": 2,
         "tile_cols": 4,
         "tile_rows": 3,
         "detail_url": "https://finviz.com/quote.ashx?t=MU&p=d"
       },
       {
-        "label": "CVX",
-        "name": "Chevron Corp",
-        "subLabel": "Energy",
-        "change_pct": 0.79,
-        "value": 397020000000.0,
-        "share_pct": 0.9444732424226493,
-        "metric_display": "0.9% cap share",
-        "size": 2,
-        "tile_cols": 4,
-        "tile_rows": 3,
-        "detail_url": "https://finviz.com/quote.ashx?t=CVX&p=d"
-      },
-      {
-        "label": "ABBV",
-        "name": "Abbvie Inc",
-        "subLabel": "Healthcare",
-        "change_pct": -2.86,
-        "value": 369260000000.0,
-        "share_pct": 0.8784348131000642,
-        "metric_display": "0.9% cap share",
-        "size": 2,
-        "tile_cols": 4,
-        "tile_rows": 3,
-        "detail_url": "https://finviz.com/quote.ashx?t=ABBV&p=d"
-      },
-      {
-        "label": "PLTR",
-        "name": "Palantir Technologies Inc",
-        "subLabel": "Technology",
-        "change_pct": 1.34,
-        "value": 355070000000.0,
-        "share_pct": 0.84467813759259,
-        "metric_display": "0.8% cap share",
-        "size": 2,
-        "tile_cols": 4,
-        "tile_rows": 3,
-        "detail_url": "https://finviz.com/quote.ashx?t=PLTR&p=d"
-      },
-      {
         "label": "AMD",
         "name": "Advanced Micro Devices Inc",
-        "subLabel": "Technology",
         "change_pct": 3.47,
         "value": 354610000000.0,
-        "share_pct": 0.8435838408530947,
-        "metric_display": "0.8% cap share",
+        "weight_pct": 1.2158310035705884,
+        "share_pct": 1.2158310035705884,
+        "metric_display": "1.22% of NASDAQ",
         "size": 2,
         "tile_cols": 4,
         "tile_rows": 3,
         "detail_url": "https://finviz.com/quote.ashx?t=AMD&p=d"
       },
       {
-        "label": "BAC",
-        "name": "Bank Of America Corp",
-        "subLabel": "Financial",
-        "change_pct": 0.22,
-        "value": 354380000000.0,
-        "share_pct": 0.843036692483347,
-        "metric_display": "0.8% cap share",
-        "size": 2,
-        "tile_cols": 4,
-        "tile_rows": 3,
-        "detail_url": "https://finviz.com/quote.ashx?t=BAC&p=d"
-      },
-      {
-        "label": "CAT",
-        "name": "Caterpillar Inc",
-        "subLabel": "Industrials",
-        "change_pct": -1.79,
-        "value": 333710000000.0,
-        "share_pct": 0.793864706384722,
-        "metric_display": "0.8% cap share",
+        "label": "CSCO",
+        "name": "Cisco Systems, Inc",
+        "change_pct": 1.4,
+        "value": 312120000000.0,
+        "weight_pct": 1.0701479733635602,
+        "share_pct": 1.0701479733635602,
+        "metric_display": "1.07% of NASDAQ",
         "size": 1,
         "tile_cols": 3,
         "tile_rows": 2,
-        "detail_url": "https://finviz.com/quote.ashx?t=CAT&p=d"
+        "detail_url": "https://finviz.com/quote.ashx?t=CSCO&p=d"
       },
       {
-        "label": "PG",
-        "name": "Procter & Gamble Co",
-        "subLabel": "Consumer Defensive",
-        "change_pct": -0.67,
-        "value": 332610000000.0,
-        "share_pct": 0.791247909833755,
-        "metric_display": "0.8% cap share",
+        "label": "AMAT",
+        "name": "Applied Materials Inc",
+        "change_pct": -1.51,
+        "value": 276550000000.0,
+        "weight_pct": 0.9481911509473683,
+        "share_pct": 0.9481911509473683,
+        "metric_display": "0.95% of NASDAQ",
         "size": 1,
         "tile_cols": 3,
         "tile_rows": 2,
-        "detail_url": "https://finviz.com/quote.ashx?t=PG&p=d"
+        "detail_url": "https://finviz.com/quote.ashx?t=AMAT&p=d"
       },
       {
-        "label": "KO",
-        "name": "Coca-Cola Co",
-        "subLabel": "Consumer Defensive",
-        "change_pct": 0.84,
-        "value": 329950000000.0,
-        "share_pct": 0.7849200199923255,
-        "metric_display": "0.8% cap share",
+        "label": "LRCX",
+        "name": "Lam Research Corp",
+        "change_pct": -1.61,
+        "value": 272779999999.99997,
+        "weight_pct": 0.9352651678012044,
+        "share_pct": 0.9352651678012044,
+        "metric_display": "0.94% of NASDAQ",
         "size": 1,
         "tile_cols": 3,
         "tile_rows": 2,
-        "detail_url": "https://finviz.com/quote.ashx?t=KO&p=d"
+        "detail_url": "https://finviz.com/quote.ashx?t=LRCX&p=d"
       },
       {
-        "label": "HD",
-        "name": "Home Depot, Inc",
-        "subLabel": "Consumer Cyclical",
-        "change_pct": -2.41,
-        "value": 320350000000.0,
-        "share_pct": 0.76208252282025,
-        "metric_display": "0.8% cap share",
+        "label": "INTC",
+        "name": "Intel Corp",
+        "change_pct": 4.89,
+        "value": 251650000000.0,
+        "weight_pct": 0.8628179466132896,
+        "share_pct": 0.8628179466132896,
+        "metric_display": "0.86% of NASDAQ",
         "size": 1,
         "tile_cols": 3,
         "tile_rows": 2,
-        "detail_url": "https://finviz.com/quote.ashx?t=HD&p=d"
+        "detail_url": "https://finviz.com/quote.ashx?t=INTC&p=d"
+      },
+      {
+        "label": "PEP",
+        "name": "PepsiCo Inc",
+        "change_pct": 1.53,
+        "value": 214580000000.0,
+        "weight_pct": 0.7357181600805869,
+        "share_pct": 0.7357181600805869,
+        "metric_display": "0.74% of NASDAQ",
+        "size": 1,
+        "tile_cols": 3,
+        "tile_rows": 2,
+        "detail_url": "https://finviz.com/quote.ashx?t=PEP&p=d"
+      },
+      {
+        "label": "KLAC",
+        "name": "KLA Corp",
+        "change_pct": -0.2,
+        "value": 198820000000.0,
+        "weight_pct": 0.6816827504297803,
+        "share_pct": 0.6816827504297803,
+        "metric_display": "0.68% of NASDAQ",
+        "size": 1,
+        "tile_cols": 3,
+        "tile_rows": 2,
+        "detail_url": "https://finviz.com/quote.ashx?t=KLAC&p=d"
+      },
+      {
+        "label": "AMGN",
+        "name": "AMGEN Inc",
+        "change_pct": -1.51,
+        "value": 187560000000.0,
+        "weight_pct": 0.6430762331285063,
+        "share_pct": 0.6430762331285063,
+        "metric_display": "0.64% of NASDAQ",
+        "size": 1,
+        "tile_cols": 3,
+        "tile_rows": 2,
+        "detail_url": "https://finviz.com/quote.ashx?t=AMGN&p=d"
+      },
+      {
+        "label": "TXN",
+        "name": "Texas Instruments Inc",
+        "change_pct": -0.73,
+        "value": 177420000000.0,
+        "weight_pct": 0.6083097957008935,
+        "share_pct": 0.6083097957008935,
+        "metric_display": "0.61% of NASDAQ",
+        "size": 1,
+        "tile_cols": 3,
+        "tile_rows": 2,
+        "detail_url": "https://finviz.com/quote.ashx?t=TXN&p=d"
+      },
+      {
+        "label": "GILD",
+        "name": "Gilead Sciences, Inc",
+        "change_pct": -0.42,
+        "value": 173440000000.0,
+        "weight_pct": 0.5946637975784183,
+        "share_pct": 0.5946637975784183,
+        "metric_display": "0.59% of NASDAQ",
+        "size": 1,
+        "tile_cols": 3,
+        "tile_rows": 2,
+        "detail_url": "https://finviz.com/quote.ashx?t=GILD&p=d"
+      },
+      {
+        "label": "ISRG",
+        "name": "Intuitive Surgical Inc",
+        "change_pct": -2.67,
+        "value": 160540000000.0,
+        "weight_pct": 0.5504343061764256,
+        "share_pct": 0.5504343061764256,
+        "metric_display": "0.55% of NASDAQ",
+        "size": 1,
+        "tile_cols": 3,
+        "tile_rows": 2,
+        "detail_url": "https://finviz.com/quote.ashx?t=ISRG&p=d"
+      },
+      {
+        "label": "QCOM",
+        "name": "Qualcomm, Inc",
+        "change_pct": -0.38,
+        "value": 135300000000.00002,
+        "weight_pct": 0.46389536330927117,
+        "share_pct": 0.46389536330927117,
+        "metric_display": "0.46% of NASDAQ",
+        "size": 1,
+        "tile_cols": 3,
+        "tile_rows": 2,
+        "detail_url": "https://finviz.com/quote.ashx?t=QCOM&p=d"
+      },
+      {
+        "label": "PANW",
+        "name": "Palo Alto Networks Inc",
+        "change_pct": 1.58,
+        "value": 133180000000.0,
+        "weight_pct": 0.45662664069126924,
+        "share_pct": 0.45662664069126924,
+        "metric_display": "0.46% of NASDAQ",
+        "size": 1,
+        "tile_cols": 3,
+        "tile_rows": 2,
+        "detail_url": "https://finviz.com/quote.ashx?t=PANW&p=d"
       }
     ],
     "heatmap_basis": {
-      "size_label": "market cap share",
+      "size_label": "index weight by market cap",
       "color_label": "daily price change",
-      "source_label": "US equity market map"
+      "source_label": "US index-weight market map"
     }
   },
   "korea": {
@@ -835,17 +757,17 @@
         "country": "Global",
         "sector_or_category": "",
         "industry": "Crypto",
-        "last": 67159.0,
-        "change_pct": 0.48132,
-        "market_cap": 1344012750029.0,
-        "volume": 15595915085.0,
+        "last": 67087.0,
+        "change_pct": 0.34155,
+        "market_cap": 1342542313627.0,
+        "volume": 17199248307.0,
         "avg_volume": null,
         "pe": null,
         "dividend_yield": null,
-        "as_of": "2026-04-05T04:33:00.764Z",
+        "as_of": "2026-04-05T05:01:31.763Z",
         "detail_url": "https://www.coingecko.com/en/coins/bitcoin",
         "high_52w": 67470.0,
-        "low_52w": 66837.0
+        "low_52w": 66841.0
       },
       {
         "asset_type": "crypto",
@@ -855,14 +777,14 @@
         "country": "Global",
         "sector_or_category": "",
         "industry": "Crypto",
-        "last": 2057.05,
-        "change_pct": 0.33237,
-        "market_cap": 248315221030.0,
-        "volume": 6288630581.0,
+        "last": 2054.83,
+        "change_pct": 0.18666,
+        "market_cap": 247968306424.0,
+        "volume": 6298172299.0,
         "avg_volume": null,
         "pe": null,
         "dividend_yield": null,
-        "as_of": "2026-04-05T04:33:00.496Z",
+        "as_of": "2026-04-05T05:01:31.752Z",
         "detail_url": "https://www.coingecko.com/en/coins/ethereum",
         "high_52w": 2072.7,
         "low_52w": 2048.16
@@ -876,13 +798,13 @@
         "sector_or_category": "",
         "industry": "Crypto",
         "last": 1.31,
-        "change_pct": -0.22433,
-        "market_cap": 80668138219.0,
-        "volume": 911848025.0,
+        "change_pct": -0.40638,
+        "market_cap": 80515814671.0,
+        "volume": 871897088.0,
         "avg_volume": null,
         "pe": null,
         "dividend_yield": null,
-        "as_of": "2026-04-05T04:33:02.774Z",
+        "as_of": "2026-04-05T05:01:29.261Z",
         "detail_url": "https://www.coingecko.com/en/coins/ripple",
         "high_52w": 1.32,
         "low_52w": 1.31
@@ -895,79 +817,79 @@
         "country": "Global",
         "sector_or_category": "",
         "industry": "Crypto",
-        "last": 80.49,
-        "change_pct": 0.35056,
-        "market_cap": 46099084565.0,
-        "volume": 1624588712.0,
+        "last": 80.41,
+        "change_pct": 0.26581,
+        "market_cap": 46071900310.0,
+        "volume": 1646502196.0,
         "avg_volume": null,
         "pe": null,
         "dividend_yield": null,
-        "as_of": "2026-04-05T04:33:07.155Z",
+        "as_of": "2026-04-05T05:01:29.233Z",
         "detail_url": "https://www.coingecko.com/en/coins/solana",
         "high_52w": 81.24,
         "low_52w": 79.78
       }
     ],
     "breadth": {
-      "advancers": 58,
-      "decliners": 55,
+      "advancers": 52,
+      "decliners": 61,
       "unchanged": 7,
-      "new_highs": 52,
-      "new_lows": 65
+      "new_highs": 47,
+      "new_lows": 71
     },
     "top_gainers": [
       {
         "symbol": "SIREN",
         "name": "Siren",
-        "change_pct": 126.08485,
-        "last": 0.517799,
-        "market_cap": 379770552.0,
-        "volume": 279840677.0,
+        "change_pct": 132.60875,
+        "last": 0.49345,
+        "market_cap": 357521961.0,
+        "volume": 276739177.0,
         "detail_url": "https://www.coingecko.com/en/coins/siren-2"
       },
       {
         "symbol": "DEXE",
         "name": "DeXe",
-        "change_pct": 12.21543,
-        "last": 9.05,
-        "market_cap": 422922738.0,
-        "volume": 19260058.0,
+        "change_pct": 11.62783,
+        "last": 8.97,
+        "market_cap": 419523373.0,
+        "volume": 19063154.0,
         "detail_url": "https://www.coingecko.com/en/coins/dexe"
       },
       {
         "symbol": "ZEC",
         "name": "Zcash",
-        "change_pct": 5.02992,
+        "change_pct": 4.92525,
         "last": 247.82,
-        "market_cap": 4122682510.0,
-        "volume": 211004529.0,
+        "market_cap": 4124760897.0,
+        "volume": 204709754.0,
         "detail_url": "https://www.coingecko.com/en/coins/zcash"
       },
       {
         "symbol": "KAU",
         "name": "Kinesis Gold",
-        "change_pct": 4.3704,
-        "last": 150.15,
-        "market_cap": 358288187.0,
-        "volume": 31190.0,
+        "change_pct": 4.39156,
+        "last": 150.14,
+        "market_cap": 358271662.0,
+        "volume": 31189.0,
         "detail_url": "https://www.coingecko.com/en/coins/kinesis-gold"
       },
       {
         "symbol": "CAKE",
         "name": "PancakeSwap",
-        "change_pct": 4.18694,
+        "change_pct": 4.29678,
         "last": 1.41,
-        "market_cap": 482404805.0,
-        "volume": 32623045.0,
+        "market_cap": 482931935.0,
+        "volume": 32812692.0,
         "detail_url": "https://www.coingecko.com/en/coins/pancakeswap-token"
       },
       {
         "symbol": "HASH",
         "name": "Provenance Blockchain",
-        "change_pct": 4.09922,
-        "last": 0.01141134,
-        "market_cap": 644533913.0,
-        "volume": 12459.1,
+        "change_pct": 4.1449,
+        "last": 0.01141187,
+        "market_cap": 644570619.0,
+        "volume": 13061.01,
         "detail_url": "https://www.coingecko.com/en/coins/hash-2"
       }
     ],
@@ -975,162 +897,162 @@
       {
         "symbol": "M",
         "name": "MemeCore",
-        "change_pct": -8.29524,
-        "last": 2.55,
-        "market_cap": 4474227314.0,
-        "volume": 10338531.0,
+        "change_pct": -6.39273,
+        "last": 2.56,
+        "market_cap": 4477846149.0,
+        "volume": 10588580.0,
         "detail_url": "https://www.coingecko.com/en/coins/memecore"
       },
       {
         "symbol": "ALGO",
         "name": "Algorand",
-        "change_pct": -4.83179,
-        "last": 0.118181,
-        "market_cap": 1051275945.0,
-        "volume": 106495453.0,
+        "change_pct": -4.92726,
+        "last": 0.118083,
+        "market_cap": 1049629593.0,
+        "volume": 104141021.0,
         "detail_url": "https://www.coingecko.com/en/coins/algorand"
       },
       {
         "symbol": "WLD",
         "name": "Worldcoin",
-        "change_pct": -3.73952,
-        "last": 0.255501,
-        "market_cap": 827591793.0,
-        "volume": 63744067.0,
+        "change_pct": -3.98815,
+        "last": 0.254768,
+        "market_cap": 825324497.0,
+        "volume": 64743701.0,
         "detail_url": "https://www.coingecko.com/en/coins/worldcoin-wld"
       },
       {
         "symbol": "FET",
         "name": "Artificial Superintelligence Alliance",
-        "change_pct": -2.80503,
-        "last": 0.231013,
-        "market_cap": 521216442.0,
-        "volume": 60907766.0,
+        "change_pct": -3.06585,
+        "last": 0.23097,
+        "market_cap": 521348966.0,
+        "volume": 60689741.0,
         "detail_url": "https://www.coingecko.com/en/coins/fetch-ai"
       },
       {
-        "symbol": "SEI",
-        "name": "Sei",
-        "change_pct": -2.59801,
-        "last": 0.053308,
-        "market_cap": 358844287.0,
-        "volume": 27611383.0,
-        "detail_url": "https://www.coingecko.com/en/coins/sei-network"
+        "symbol": "RAIN",
+        "name": "Rain",
+        "change_pct": -2.91747,
+        "last": 0.00722423,
+        "market_cap": 3455563768.0,
+        "volume": 27359181.0,
+        "detail_url": "https://www.coingecko.com/en/coins/rain"
       },
       {
-        "symbol": "TAO",
-        "name": "Bittensor",
-        "change_pct": -2.54377,
-        "last": 303.81,
-        "market_cap": 2918196514.0,
-        "volume": 128976563.0,
-        "detail_url": "https://www.coingecko.com/en/coins/bittensor"
+        "symbol": "NIGHT",
+        "name": "Midnight",
+        "change_pct": -2.8164,
+        "last": 0.04233686,
+        "market_cap": 702823120.0,
+        "volume": 73697335.0,
+        "detail_url": "https://www.coingecko.com/en/coins/midnight-3"
       }
     ],
     "most_active": [
       {
         "symbol": "USDT",
         "name": "Tether",
-        "change_pct": 0.00346,
-        "last": 0.999877,
-        "market_cap": 184130343207.0,
-        "volume": 29621044487.0,
+        "change_pct": -0.00053,
+        "last": 0.999873,
+        "market_cap": 184127939508.0,
+        "volume": 29543696526.0,
         "detail_url": "https://www.coingecko.com/en/coins/tether"
       },
       {
         "symbol": "BTC",
         "name": "Bitcoin",
-        "change_pct": 0.48132,
-        "last": 67159.0,
-        "market_cap": 1344012750029.0,
-        "volume": 15595915085.0,
+        "change_pct": 0.34155,
+        "last": 67087.0,
+        "market_cap": 1342542313627.0,
+        "volume": 17199248307.0,
         "detail_url": "https://www.coingecko.com/en/coins/bitcoin"
       },
       {
         "symbol": "ETH",
         "name": "Ethereum",
-        "change_pct": 0.33237,
-        "last": 2057.05,
-        "market_cap": 248315221030.0,
-        "volume": 6288630581.0,
+        "change_pct": 0.18666,
+        "last": 2054.83,
+        "market_cap": 247968306424.0,
+        "volume": 6298172299.0,
         "detail_url": "https://www.coingecko.com/en/coins/ethereum"
       },
       {
         "symbol": "USDC",
         "name": "USDC",
-        "change_pct": -0.00087,
+        "change_pct": 0.0096,
         "last": 1.0,
-        "market_cap": 77513660918.0,
-        "volume": 3702962898.0,
+        "market_cap": 77515787954.0,
+        "volume": 3827543455.0,
         "detail_url": "https://www.coingecko.com/en/coins/usd-coin"
       },
       {
         "symbol": "SOL",
         "name": "Solana",
-        "change_pct": 0.35056,
-        "last": 80.49,
-        "market_cap": 46099084565.0,
-        "volume": 1624588712.0,
+        "change_pct": 0.26581,
+        "last": 80.41,
+        "market_cap": 46071900310.0,
+        "volume": 1646502196.0,
         "detail_url": "https://www.coingecko.com/en/coins/solana"
       },
       {
         "symbol": "XRP",
         "name": "XRP",
-        "change_pct": -0.22433,
+        "change_pct": -0.40638,
         "last": 1.31,
-        "market_cap": 80668138219.0,
-        "volume": 911848025.0,
+        "market_cap": 80515814671.0,
+        "volume": 871897088.0,
         "detail_url": "https://www.coingecko.com/en/coins/ripple"
       }
     ],
     "group_performance": [
       {
         "label": "Smart Contract Platform",
-        "market_cap": 1954134132336.7222,
-        "change_pct": 0.2374864606785238,
-        "volume": 28947233074.446796
+        "market_cap": 1953416998850.4229,
+        "change_pct": 0.20070103385755647,
+        "volume": 30966551614.76762
       },
       {
         "label": "Layer 1 (L1)",
-        "market_cap": 1922965982663.193,
-        "change_pct": 0.2669263675619747,
-        "volume": 29538622351.59582
+        "market_cap": 1922237306919.04,
+        "change_pct": 0.22893189556219526,
+        "volume": 28705992451.86141
       },
       {
         "label": "Proof of Work (PoW)",
-        "market_cap": 1385831434199.8584,
-        "change_pct": 0.30398806095711806,
-        "volume": 18655385565.929108
+        "market_cap": 1385171510984.7742,
+        "change_pct": 0.2562240049157894,
+        "volume": 18519698010.577152
       },
       {
         "label": "World Liberty Financial Portfolio",
-        "market_cap": 560623712002.5978,
-        "change_pct": 0.07981217064519991,
-        "volume": 39210663891.925285
+        "market_cap": 560575087686.6744,
+        "change_pct": 0.0711319947975693,
+        "volume": 41288641587.392494
       },
       {
         "label": "Proof of Stake (PoS)",
-        "market_cap": 446297279513.1133,
-        "change_pct": 0.33816428481662536,
-        "volume": 9702739180.180012
+        "market_cap": 446073830343.10406,
+        "change_pct": 0.2879276363787271,
+        "volume": 10207267656.812729
       },
       {
         "label": "Stablecoins",
-        "market_cap": 311011322300.4129,
-        "change_pct": 0.017082633715286077,
-        "volume": 34699480238.46934
+        "market_cap": 310937559724.93207,
+        "change_pct": -0.006638424259626554,
+        "volume": 34780654554.65815
       },
       {
         "label": "USD Stablecoin",
-        "market_cap": 306064084891.34436,
-        "change_pct": -0.003298023324683874,
-        "volume": 34541315596.30142
+        "market_cap": 306008802803.4807,
+        "change_pct": -0.021359686674410246,
+        "volume": 34705803736.01125
       },
       {
         "label": "Fiat-backed Stablecoin",
-        "market_cap": 299716832283.7566,
-        "change_pct": 0.00742411758935368,
-        "volume": 33854991212.540077
+        "market_cap": 299712741769.39923,
+        "change_pct": 0.0060592232620028,
+        "volume": 33994012565.254612
       }
     ],
     "heatmap": [
@@ -1336,19 +1258,25 @@
       {
         "symbol": "L3",
         "name": "Layer3",
-        "market_cap_rank": 641,
+        "market_cap_rank": 623,
         "detail_url": "https://www.coingecko.com/en/coins/layer3"
       },
       {
-        "symbol": "CORE",
-        "name": "Core",
-        "market_cap_rank": 547,
-        "detail_url": "https://www.coingecko.com/en/coins/core"
+        "symbol": "PLLD",
+        "name": "Palladium Network",
+        "market_cap_rank": 484,
+        "detail_url": "https://www.coingecko.com/en/coins/palladium-network"
+      },
+      {
+        "symbol": "PENGU",
+        "name": "Pudgy Penguins",
+        "market_cap_rank": 109,
+        "detail_url": "https://www.coingecko.com/en/coins/pudgy-penguins"
       },
       {
         "symbol": "SIREN",
         "name": "Siren",
-        "market_cap_rank": 109,
+        "market_cap_rank": 111,
         "detail_url": "https://www.coingecko.com/en/coins/siren-2"
       },
       {
@@ -1358,32 +1286,54 @@
         "detail_url": "https://www.coingecko.com/en/coins/zksync"
       },
       {
+        "symbol": "CORE",
+        "name": "Core",
+        "market_cap_rank": 557,
+        "detail_url": "https://www.coingecko.com/en/coins/core"
+      },
+      {
         "symbol": "MON",
         "name": "Monad",
         "market_cap_rank": 131,
         "detail_url": "https://www.coingecko.com/en/coins/monad"
       },
       {
-        "symbol": "PENGU",
-        "name": "Pudgy Penguins",
-        "market_cap_rank": 110,
-        "detail_url": "https://www.coingecko.com/en/coins/pudgy-penguins"
-      },
-      {
-        "symbol": "SOL",
-        "name": "Solana",
-        "market_cap_rank": 7,
-        "detail_url": "https://www.coingecko.com/en/coins/solana"
-      },
-      {
-        "symbol": "PIPPIN",
-        "name": "pippin",
-        "market_cap_rank": 478,
-        "detail_url": "https://www.coingecko.com/en/coins/pippin"
+        "symbol": "TAO",
+        "name": "Bittensor",
+        "market_cap_rank": 36,
+        "detail_url": "https://www.coingecko.com/en/coins/bittensor"
       }
     ]
   },
   "market_news": [
+    {
+      "title": "US Military Rescues Second Crew Member From Jet Downed in Iran",
+      "source_name": "Newsweek Feed",
+      "canonical_url": "https://www.newsweek.com/us-military-rescues-second-crew-member-from-jet-downed-in-iran-11784435",
+      "published_at": "2026-04-05T04:56:44+00:00",
+      "section_label": "시장"
+    },
+    {
+      "title": "‘Malcolm in the Middle’ star rejected ‘buckets of money’ to return for reboot",
+      "source_name": "New York Post Feed",
+      "canonical_url": "https://pagesix.com/2026/04/05/entertainment/malcolm-in-the-middle-erik-per-sullivan-rejected-buckets-of-money-pay-to-return-for-disney-reboot",
+      "published_at": "2026-04-05T04:55:44+00:00",
+      "section_label": "시장"
+    },
+    {
+      "title": "U.S. military rescues second fighter jet airman missing since Friday",
+      "source_name": "MSNBC Feed",
+      "canonical_url": "https://www.ms.now/news/u-s-military-rescues-second-fighter-jet-airman-missing-since-friday",
+      "published_at": "2026-04-05T04:34:51+00:00",
+      "section_label": "시장"
+    },
+    {
+      "title": "U.S. airman from F-15 shot down by Iran has been rescued after frantic search in mountainous region",
+      "source_name": "Fortune Feed",
+      "canonical_url": "https://fortune.com/2026/04/05/us-airman-rescue-f15-fighter-second-crewmember-iran-war-search",
+      "published_at": "2026-04-05T04:29:28+00:00",
+      "section_label": "시장"
+    },
     {
       "title": "Second pilot from downed F-15 jet rescued in Iran",
       "source_name": "Washington Examiner Feed",
@@ -1399,7 +1349,7 @@
       "section_label": "시장"
     },
     {
-      "title": "Missing US Airman Rescued After Jet Downed in Iran, Axios Says",
+      "title": "Missing US Airman Rescued as Iran Steps Up Attacks on Neighbors",
       "source_name": "Bloomberg Markets",
       "canonical_url": "https://www.bloomberg.com/news/articles/2026-04-05/missing-us-airman-rescued-after-jet-downed-in-iran-axios",
       "published_at": "2026-04-05T03:49:59+00:00",
@@ -1425,34 +1375,6 @@
       "canonical_url": "https://www.coindesk.com/tech/2026/04/04/bitcoin-s-usd1-3-trillion-security-race-key-initiatives-aimed-at-quantum-proofing-the-world-s-largest-blockchain",
       "published_at": "2026-04-05T03:31:49+00:00",
       "section_label": "코인"
-    },
-    {
-      "title": "Michigan’s Yaxel Lendeborg suffers worrisome ankle injury but returns in bizarre Final Four scenario",
-      "source_name": "New York Post Feed",
-      "canonical_url": "https://nypost.com/2026/04/04/sports/michigans-yaxel-lendeborg-suffers-ankle-injury-but-returns-in-bizarre-final-four-scenario",
-      "published_at": "2026-04-05T02:52:29+00:00",
-      "section_label": "시장"
-    },
-    {
-      "title": "Niece of notorious Iranian Gen. Soleimani cheered Tehran’s threats, boosted regime propaganda in social posts before ICE arrest",
-      "source_name": "New York Post Feed",
-      "canonical_url": "https://nypost.com/2026/04/04/us-news/niece-of-qasem-soleimani-arrested-by-ice-after-cheering-irans-threats-in-socail-posts",
-      "published_at": "2026-04-05T02:21:36+00:00",
-      "section_label": "시장"
-    },
-    {
-      "title": "Kevin Warsh needs to be confirmed as Fed Chair in order to avoid an economic shutdown",
-      "source_name": "New York Post Feed",
-      "canonical_url": "https://nypost.com/2026/04/04/business/kevin-warsh-needs-to-be-confirmed-as-fed-chair-in-order-to-avoid-an-economic-shutdown",
-      "published_at": "2026-04-05T01:38:17+00:00",
-      "section_label": "시장"
-    },
-    {
-      "title": "UConn holds off furious Illinois rally to make March Madness championship game return",
-      "source_name": "New York Post Feed",
-      "canonical_url": "https://nypost.com/2026/04/04/sports/uconn-holds-off-illinois-rally-to-make-march-madness-championship-game-return",
-      "published_at": "2026-04-05T00:27:03+00:00",
-      "section_label": "시장"
     }
   ]
 }
