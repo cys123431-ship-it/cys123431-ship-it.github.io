@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-05T09:47:37.377205+00:00",
+  "generated_at": "2026-04-05T10:28:11.790489+00:00",
   "overall_status": "warning",
   "providers": {
     "stocks": {
@@ -7,7 +7,7 @@
       "stale": false,
       "provider": "finviz-public",
       "message": "Using public Finviz fallback because NEWSBOT_FMP_API_KEY is not configured. Public Finviz snapshot is capped at the top 100 stocks to avoid rate limits.",
-      "as_of": "2026-04-05T09:47:37.377205+00:00",
+      "as_of": "2026-04-05T10:28:11.790489+00:00",
       "row_count": 100
     },
     "korea": {
@@ -23,7 +23,7 @@
       "stale": false,
       "provider": "coingecko",
       "message": "Binance heatmap unavailable: Client error '451 ' for url 'https://api.binance.com/api/v3/ticker/24hr'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/451",
-      "as_of": "2026-04-05T09:47:38.556Z",
+      "as_of": "2026-04-05T10:28:12.777Z",
       "row_count": 120
     }
   }
