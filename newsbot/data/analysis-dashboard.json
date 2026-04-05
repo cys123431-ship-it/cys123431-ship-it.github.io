@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-04-05T13:22:17.791217+00:00",
+  "generated_at": "2026-04-05T13:48:20.642596+00:00",
   "retention_days": 90,
   "default_window": "7d",
-  "lifetime_total_articles": 6827,
-  "lifetime_unknown_time_count": 1391,
+  "lifetime_total_articles": 6855,
+  "lifetime_unknown_time_count": 1402,
   "available_windows": [
     {
       "key": "24h",
@@ -29,18 +29,18 @@
   "windows": {
     "24h": {
       "label": "24h",
-      "article_count": 1472,
+      "article_count": 1461,
       "unknown_time_count": 0,
       "active_source_count": 83,
-      "repeated_title_count": 69,
+      "repeated_title_count": 67,
       "timeline": [
         {
           "date": "2026-04-04",
-          "count": 528
+          "count": 502
         },
         {
           "date": "2026-04-05",
-          "count": 944
+          "count": 959
         }
       ],
       "top_keywords": [
@@ -54,14 +54,14 @@
         },
         {
           "keyword": "ai",
-          "count": 33
-        },
-        {
-          "keyword": "us",
-          "count": 33
+          "count": 34
         },
         {
           "keyword": "new",
+          "count": 32
+        },
+        {
+          "keyword": "us",
           "count": 32
         },
         {
@@ -70,11 +70,11 @@
         },
         {
           "keyword": "after",
-          "count": 27
+          "count": 26
         },
         {
           "keyword": "how",
-          "count": 25
+          "count": 24
         },
         {
           "keyword": "대통령",
@@ -85,11 +85,11 @@
           "count": 22
         },
         {
-          "keyword": "what",
-          "count": 21
+          "keyword": "military",
+          "count": 20
         },
         {
-          "keyword": "military",
+          "keyword": "what",
           "count": 20
         }
       ],
@@ -97,32 +97,27 @@
         {
           "source_key": "nypost-feed",
           "name": "New York Post Feed",
-          "count": 127
+          "count": 125
         },
         {
           "source_key": "etoday-economy-rss",
           "name": "eToday Economy",
-          "count": 114
+          "count": 113
         },
         {
           "source_key": "mk-society-rss",
           "name": "Maeil Business Society",
-          "count": 71
+          "count": 73
         },
         {
           "source_key": "newsweek-feed",
           "name": "Newsweek Feed",
-          "count": 63
+          "count": 61
         },
         {
           "source_key": "guardian-us-rss",
           "name": "The Guardian US",
-          "count": 55
-        },
-        {
-          "source_key": "forbes-innovation-rss",
-          "name": "Forbes Innovation",
-          "count": 51
+          "count": 56
         },
         {
           "source_key": "asiae-society-rss",
@@ -130,14 +125,19 @@
           "count": 49
         },
         {
-          "source_key": "donga-society-rss",
-          "name": "DongA Society",
-          "count": 44
+          "source_key": "forbes-innovation-rss",
+          "name": "Forbes Innovation",
+          "count": 45
         },
         {
-          "source_key": "forbes-business-rss",
-          "name": "Forbes Business",
-          "count": 38
+          "source_key": "donga-society-rss",
+          "name": "DongA Society",
+          "count": 42
+        },
+        {
+          "source_key": "yahoo-news-rss",
+          "name": "Yahoo News RSS",
+          "count": 39
         },
         {
           "source_key": "khan-society-rss",
@@ -145,13 +145,13 @@
           "count": 38
         },
         {
-          "source_key": "telegram-dada-news2",
-          "name": "Telegram @dada_news2",
-          "count": 38
+          "source_key": "forbes-business-rss",
+          "name": "Forbes Business",
+          "count": 37
         },
         {
-          "source_key": "yahoo-news-rss",
-          "name": "Yahoo News RSS",
+          "source_key": "telegram-dada-news2",
+          "name": "Telegram @dada_news2",
           "count": 37
         }
       ],
@@ -159,17 +159,17 @@
         {
           "key": "us",
           "label": "미국",
-          "count": 760
+          "count": 753
         },
         {
           "key": "kr",
           "label": "대한민국",
-          "count": 640
+          "count": 637
         },
         {
           "key": "global",
           "label": "글로벌 전문",
-          "count": 72
+          "count": 71
         }
       ],
       "top_sections": [
@@ -178,42 +178,42 @@
           "label": "정치",
           "hub": "us",
           "hub_label": "미국",
-          "count": 251
+          "count": 250
         },
         {
           "key": "kr-society",
           "label": "사회",
           "hub": "kr",
           "hub_label": "대한민국",
-          "count": 244
+          "count": 245
         },
         {
           "key": "us-technology",
           "label": "기술",
           "hub": "us",
           "hub_label": "미국",
-          "count": 237
+          "count": 231
         },
         {
           "key": "kr-economy",
           "label": "경제",
           "hub": "kr",
           "hub_label": "대한민국",
-          "count": 224
+          "count": 222
         },
         {
           "key": "us-world",
           "label": "세계",
           "hub": "us",
           "hub_label": "미국",
-          "count": 106
+          "count": 105
         },
         {
           "key": "us-markets",
           "label": "시장",
           "hub": "us",
           "hub_label": "미국",
-          "count": 93
+          "count": 94
         },
         {
           "key": "kr-politics",
@@ -234,21 +234,21 @@
           "label": "스포츠",
           "hub": "kr",
           "hub_label": "대한민국",
-          "count": 46
+          "count": 45
         },
         {
           "key": "tech-it",
           "label": "테크",
           "hub": "global",
           "hub_label": "글로벌 전문",
-          "count": 44
+          "count": 43
         },
         {
           "key": "kr-culture",
           "label": "문화",
           "hub": "kr",
           "hub_label": "대한민국",
-          "count": 33
+          "count": 32
         },
         {
           "key": "crypto",
@@ -261,11 +261,11 @@
       "language_counts": [
         {
           "language": "en",
-          "count": 782
+          "count": 775
         },
         {
           "language": "ko",
-          "count": 690
+          "count": 686
         }
       ],
       "repeated_titles": [
@@ -351,15 +351,6 @@
           "sort_timestamp": 1775311200
         },
         {
-          "title_hash": "3ee7c41c71fb832b098ebb846d1ecfbac956e17862cde6acc0364c1fe8953102",
-          "title": "“골프 인기 예전만 못 하네”…레저 회복세 속 ‘나홀로 하락’",
-          "article_count": 3,
-          "source_count": 3,
-          "latest_published_at": "2026-04-04T13:45:07+00:00",
-          "canonical_url": "https://www.donga.com/news/Society/article/all/20260404/133674664/1",
-          "sort_timestamp": 1775310307
-        },
-        {
           "title_hash": "85c3a39e31c86ad48b31d68bd9c627fe250bb407f33c60a8feb8d64d77f91116",
           "title": "🚨 [HIGH] 호르무즈 해협 알림",
           "article_count": 3,
@@ -367,6 +358,15 @@
           "latest_published_at": "2026-04-05T00:11:00+00:00",
           "canonical_url": "https://www.aljazeera.com/news/liveblog/2026/4/5/iran-war-live-tehran-rejects-trumps-ultimatum-fire-at-kuwait-oil-complex?traffic_source=rss",
           "sort_timestamp": 1775347860
+        },
+        {
+          "title_hash": "4464c8b342c2973cc3dcfaadf8bd34aaa126ecc582396721fd57a44c7c07a4c0",
+          "title": "Secret Service investigating overnight gunfire near White House",
+          "article_count": 2,
+          "source_count": 2,
+          "latest_published_at": "2026-04-05T13:40:22+00:00",
+          "canonical_url": "https://www.cbsnews.com/news/secret-service-investigating-overnight-gunfire-near-white-house",
+          "sort_timestamp": 1775396422
         },
         {
           "title_hash": "86dd5b548d0ed8c152d335b57bb30077eea0b07198599f122ed6230a4cf4ab6c",
@@ -451,6 +451,289 @@
         }
       ],
       "recent_samples": [
+        {
+          "stable_key": "c8803deb0b0598f848e3135ef3437279a50e2870ac8492f2c7b3ec4bc87ae3e2",
+          "source_key": "cbs-world-rss",
+          "source_name": "CBS News World",
+          "category": "us-world",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "세계",
+          "language": "en",
+          "title": "British Prime Minister criticizes London festival for booking Kanye West",
+          "canonical_url": "https://www.cbsnews.com/news/british-prime-minister-criticizes-london-festival-booking-ye-kanye-west-antisemitism",
+          "published_at": "2026-04-05T13:44:48+00:00",
+          "title_hash": "7ba4f11bb0ea1e789e69a3e12d4383d14655622854422aa1997044a0601a7edb",
+          "keywords": [
+            "british",
+            "prime",
+            "minister",
+            "criticizes",
+            "london",
+            "festival"
+          ]
+        },
+        {
+          "stable_key": "3d6cbc9aebfb8ba8a9c4696b23d7eed5ec53476bf62275c93c977c51f16c4fd4",
+          "source_key": "forbes-business-rss",
+          "source_name": "Forbes Business",
+          "category": "us-economy",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "경제",
+          "language": "en",
+          "title": "U.S. Rescues Missing ‘Seriously Wounded’ Officer From Fighter Jet Shot Down Over Iran (Live Updates)",
+          "canonical_url": "https://www.forbes.com/sites/conormurray/2026/04/05/us-rescues-missing-seriously-wounded-officer-from-fighter-jet-shot-down-over-iran-live-updates",
+          "published_at": "2026-04-05T13:44:19+00:00",
+          "title_hash": "f5ee28af52aff603c721cfdb84b0b6a273934e261825e4cd5daf7e8068d5819f",
+          "keywords": [
+            "rescues",
+            "missing",
+            "seriously",
+            "wounded",
+            "officer",
+            "fighter"
+          ]
+        },
+        {
+          "stable_key": "e026dd97a9f3b7dc0a0c5f18cb2317195af7946833e1ccb466e814d3239a81b7",
+          "source_key": "cbs-us-rss",
+          "source_name": "CBS News US",
+          "category": "us-politics",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "정치",
+          "language": "en",
+          "title": "Secret Service investigating overnight gunfire near White House",
+          "canonical_url": "https://www.cbsnews.com/news/secret-service-investigating-overnight-gunfire-near-white-house",
+          "published_at": "2026-04-05T13:40:22+00:00",
+          "title_hash": "4464c8b342c2973cc3dcfaadf8bd34aaa126ecc582396721fd57a44c7c07a4c0",
+          "keywords": [
+            "secret",
+            "service",
+            "investigating",
+            "overnight",
+            "gunfire",
+            "near"
+          ]
+        },
+        {
+          "stable_key": "4d913b41858ce7b8a1f1a275dc0857a0f6ae9c3d4d506f98e1d9489dcfe78ac8",
+          "source_key": "cbs-politics-rss",
+          "source_name": "CBS News Politics",
+          "category": "us-politics",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "정치",
+          "language": "en",
+          "title": "Secret Service investigating overnight gunfire near White House",
+          "canonical_url": "https://www.cbsnews.com/news/secret-service-investigating-overnight-gunfire-near-white-house",
+          "published_at": "2026-04-05T13:40:22+00:00",
+          "title_hash": "4464c8b342c2973cc3dcfaadf8bd34aaa126ecc582396721fd57a44c7c07a4c0",
+          "keywords": [
+            "secret",
+            "service",
+            "investigating",
+            "overnight",
+            "gunfire",
+            "near"
+          ]
+        },
+        {
+          "stable_key": "0fd9dc3c49460794b4fd8047f78fe13bebf22cb4c416e768e28466ca035ad688",
+          "source_key": "cbs-us-rss",
+          "source_name": "CBS News US",
+          "category": "us-politics",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "정치",
+          "language": "en",
+          "title": "The beauty of moss",
+          "canonical_url": "https://www.cbsnews.com/video/the-beauty-of-moss",
+          "published_at": "2026-04-05T13:39:16+00:00",
+          "title_hash": "c347fc65c13156ec92190a4e79aaaaef382fb18d85301305a75cfbdad08231a8",
+          "keywords": [
+            "beauty",
+            "moss",
+            "beauty moss"
+          ]
+        },
+        {
+          "stable_key": "46d81782dc1cb0fac6925787e15a962151bfde789690e807bc0e4c11c1fe71fe",
+          "source_key": "mk-society-rss",
+          "source_name": "Maeil Business Society",
+          "category": "kr-society",
+          "hub": "kr",
+          "hub_label": "대한민국",
+          "section_label": "사회",
+          "language": "ko",
+          "title": "기상청 “전남 화순 동북동쪽서 규모 2.4 지진 발생”",
+          "canonical_url": "https://www.mk.co.kr/news/society/12008543",
+          "published_at": "2026-04-05T13:34:04+00:00",
+          "title_hash": "6abe8c76e1ba73234f5ad599c445e33fcbb34b3f83551e5b332c33d16b2dbb08",
+          "keywords": [
+            "기상청",
+            "전남",
+            "화순",
+            "동북동쪽서",
+            "규모",
+            "지진"
+          ]
+        },
+        {
+          "stable_key": "52ac05c60816a4fbec6df3ba7dd73eade3e5047b9e5f9b2e8d7dd37d24c65ba1",
+          "source_key": "businessinsider-feed",
+          "source_name": "Business Insider Feed",
+          "category": "us-technology",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "기술",
+          "language": "en",
+          "title": "I compared Martha Stewart's and Ina Garten's BLT sandwiches, and I preferred the recipe with store-bought mayo",
+          "canonical_url": "https://www.businessinsider.com/ina-garten-martha-stewart-blt-sandwiches-compared-review-2022-4",
+          "published_at": "2026-04-05T13:32:01+00:00",
+          "title_hash": "e35a9f1d9e8f557702f7fbdc2844d3a0cc2d3e023f525b8da8fa2d45a9c1d2cf",
+          "keywords": [
+            "compared",
+            "martha",
+            "stewart",
+            "ina",
+            "garten",
+            "blt"
+          ]
+        },
+        {
+          "stable_key": "669c801ae0835adb4a3e3471a29f50e27b6e5262d3081ca525f2c28ee77dd4e5",
+          "source_key": "sbs-society-rss",
+          "source_name": "SBS Society",
+          "category": "kr-society",
+          "hub": "kr",
+          "hub_label": "대한민국",
+          "section_label": "사회",
+          "language": "ko",
+          "title": "서해안고속도로 일직분기점 부근 SUV서 불…3명 대피",
+          "canonical_url": "https://news.sbs.co.kr/news/endPage.do?cooper=RSSREADER&news_id=N1008506064&plink=RSSLINK",
+          "published_at": "2026-04-05T13:31:00+00:00",
+          "title_hash": "fdb370ee5321be8ec507547e39208a785e8bfe527a8c72dcd48f7434b6b6f041",
+          "keywords": [
+            "서해안고속도로",
+            "일직분기점",
+            "부근",
+            "suv서",
+            "3명",
+            "대피"
+          ]
+        },
+        {
+          "stable_key": "62f5ed90345acf8e4496beaa3bb0f09aa181a0a31595a1f533237e875bea8ea5",
+          "source_key": "salon-feed",
+          "source_name": "Salon Feed",
+          "category": "us-economy",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "경제",
+          "language": "en",
+          "title": "A year later, Trump doubles down on tariffs",
+          "canonical_url": "https://www.salon.com/2026/04/05/a-year-later-trump-doubles-down-on-tariffs",
+          "published_at": "2026-04-05T13:30:58+00:00",
+          "title_hash": "b7c33982ee126518043d013b9a32fff54c00462225c44fe9a3d2d5cc9503e639",
+          "keywords": [
+            "year",
+            "later",
+            "trump",
+            "doubles",
+            "down",
+            "tariffs"
+          ]
+        },
+        {
+          "stable_key": "df1cbad39b981abc049329753ee38c9de0229300639fe12d44e1047c4c6de5e1",
+          "source_key": "mk-society-rss",
+          "source_name": "Maeil Business Society",
+          "category": "kr-society",
+          "hub": "kr",
+          "hub_label": "대한민국",
+          "section_label": "사회",
+          "language": "ko",
+          "title": "“무기를 가진 자들은 그것을 내려놓아라”…교황 첫 부활절 미사서 이란·우크라 전쟁 언급",
+          "canonical_url": "https://www.mk.co.kr/news/society/12008542",
+          "published_at": "2026-04-05T13:24:42+00:00",
+          "title_hash": "00a242f670c934fa76bb5dd6b498ff0ca69309330915a2be55cd88a55c99e41b",
+          "keywords": [
+            "무기를",
+            "가진",
+            "자들은",
+            "그것을",
+            "내려놓아라",
+            "교황"
+          ]
+        },
+        {
+          "stable_key": "affd9c93748944fcc2c4553de0be8bbd3e7e230b0ed2c4bb0d4d12f85367ded0",
+          "source_key": "cbs-world-rss",
+          "source_name": "CBS News World",
+          "category": "us-world",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "세계",
+          "language": "en",
+          "title": "Divine art: Inside the Vatican's Mosaic Studio",
+          "canonical_url": "https://www.cbsnews.com/news/divine-art-inside-the-vaticans-mosaic-studio",
+          "published_at": "2026-04-05T13:24:22+00:00",
+          "title_hash": "8452418b05e48982fa3bf497c1cef362fda3fb28e60c575e39ee20fda7857f80",
+          "keywords": [
+            "divine",
+            "art",
+            "inside",
+            "vatican",
+            "mosaic",
+            "studio"
+          ]
+        },
+        {
+          "stable_key": "07896381d77025112365a1c532df5180a51159ea91fba5622f64a200e1699980",
+          "source_key": "cbs-world-rss",
+          "source_name": "CBS News World",
+          "category": "us-world",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "세계",
+          "language": "en",
+          "title": "Divine art: Inside the Vatican's Mosaic Studio",
+          "canonical_url": "https://www.cbsnews.com/video/inside-the-vaticans-mosaic-studio",
+          "published_at": "2026-04-05T13:23:09+00:00",
+          "title_hash": "8452418b05e48982fa3bf497c1cef362fda3fb28e60c575e39ee20fda7857f80",
+          "keywords": [
+            "divine",
+            "art",
+            "inside",
+            "vatican",
+            "mosaic",
+            "studio"
+          ]
+        },
+        {
+          "stable_key": "2f40232b85d2cd99d2b5b009b67640abeac7ffdcf318fb3057f5509f04af43b9",
+          "source_key": "bloomberg-tech-rss",
+          "source_name": "Bloomberg Technology",
+          "category": "us-technology",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "기술",
+          "language": "en",
+          "title": "IBM, Masters use AI to Bring the Fairway to Every Fan",
+          "canonical_url": "https://www.bloomberg.com/news/videos/2026-04-05/ibm-masters-use-ai-to-bring-the-fairway-to-every-fan-video",
+          "published_at": "2026-04-05T13:19:47+00:00",
+          "title_hash": "663dedf4e10e0f1877ad3d60eab2e1fc86444a9907ce2de9b1f7ff17300e87d8",
+          "keywords": [
+            "ibm",
+            "masters",
+            "use",
+            "ai",
+            "bring",
+            "fairway"
+          ]
+        },
         {
           "stable_key": "fb41aa25eec2012bc2bfc1126de06689260f80d4f9d4cc0424132787b92ae80b",
           "source_key": "msnbc-feed",
@@ -821,302 +1104,16 @@
             "own",
             "good"
           ]
-        },
-        {
-          "stable_key": "dda84f75795057d476fe0da53680164d338a5728d5c2ea4256022aabc69486d2",
-          "source_key": "nypost-feed",
-          "source_name": "New York Post Feed",
-          "category": "us-technology",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "기술",
-          "language": "en",
-          "title": "Ted McGinley and Robert Carradine were ‘real adversaries’ on ‘Revenge of the Nerds’ set",
-          "canonical_url": "https://pagesix.com/2026/04/05/celebrity-news/ted-mcginley-and-robert-carradine-were-real-adversaries-on-revenge-of-the-nerds-set",
-          "published_at": "2026-04-05T13:00:00+00:00",
-          "title_hash": "de7ec432a1118e8d33c6bd775e65db5abc26c43ccfa161df743a312788517931",
-          "keywords": [
-            "ted",
-            "mcginley",
-            "robert",
-            "carradine",
-            "real",
-            "adversaries"
-          ]
-        },
-        {
-          "stable_key": "84fac11ed7253c87238ccef26689e109d514e9169abea8defe9dbe214d9e12f0",
-          "source_key": "forbes-business-rss",
-          "source_name": "Forbes Business",
-          "category": "us-economy",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "경제",
-          "language": "en",
-          "title": "Bon Jovi’s Signature Hit Reaches The Top 10 — For The Second Time",
-          "canonical_url": "https://www.forbes.com/sites/hughmcintyre/2026/04/05/bon-jovis-signature-hit-reaches-the-top-10---for-the-second-time",
-          "published_at": "2026-04-05T13:00:00+00:00",
-          "title_hash": "2d9fbd2ac7f1645f1293a03972fd7d5373a408a214fb19f4a928415050fe5693",
-          "keywords": [
-            "bon",
-            "jovi",
-            "signature",
-            "hit",
-            "reaches",
-            "top"
-          ]
-        },
-        {
-          "stable_key": "58c780e8da7b9715d0b8584c299b6cd7a8074777fe10d2dbd9dead4243f1e265",
-          "source_key": "mk-sports-rss",
-          "source_name": "Maeil Business Sports",
-          "category": "kr-sports",
-          "hub": "kr",
-          "hub_label": "대한민국",
-          "section_label": "스포츠",
-          "language": "ko",
-          "title": "V-리그 최고 공격수, 3년 만에 챔피언 등극…GS칼텍스 V4 이끈 실바, 챔프전 MVP 영예 [MK현장]",
-          "canonical_url": "https://www.mk.co.kr/news/sports/12008439",
-          "published_at": "2026-04-05T12:59:00+00:00",
-          "title_hash": "dc449a546bd38c0981797c6fea878da7f0f54d0ce1c5bdb200c3989e6b725327",
-          "keywords": [
-            "리그",
-            "최고",
-            "공격수",
-            "3년",
-            "만에",
-            "챔피언"
-          ]
-        },
-        {
-          "stable_key": "d320fefd0fe52455d791018eb14f347a727325add6fd010749a6eba398a8de03",
-          "source_key": "newsweek-feed",
-          "source_name": "Newsweek Feed",
-          "category": "us-technology",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "기술",
-          "language": "en",
-          "title": "Everyone Had the Same Complaint About Final Four Last Night",
-          "canonical_url": "https://www.newsweek.com/sports/ncaa/everyone-had-the-same-complaint-about-final-four-last-night-11784874",
-          "published_at": "2026-04-05T12:56:09+00:00",
-          "title_hash": "daad9e597217a9e71b5f0dcd896a0663e1c49a80744eca6fa17c94f7776df716",
-          "keywords": [
-            "everyone",
-            "had",
-            "same",
-            "complaint",
-            "about",
-            "final"
-          ]
-        },
-        {
-          "stable_key": "cbf2230f354488f4b4f72011053d03cc644f8a78324913745058c3423d1a1b4a",
-          "source_key": "guardian-us-rss",
-          "source_name": "The Guardian US",
-          "category": "us-technology",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "기술",
-          "language": "en",
-          "title": "‘We’re home’: Even in a draw, Inter Miami’s stadium opener was a win for David Beckham",
-          "canonical_url": "https://www.theguardian.com/football/2026/apr/05/inter-miami-lionel-messi-david-beckham-nu-stadium-opener",
-          "published_at": "2026-04-05T12:52:45+00:00",
-          "title_hash": "7152fd2c0ed742d6912d5511dda1c1a81034726121504b71968a1269a7e04d82",
-          "keywords": [
-            "we",
-            "re",
-            "home",
-            "even",
-            "draw",
-            "inter"
-          ]
-        },
-        {
-          "stable_key": "efca396b8d3084dd37309a90804d7625a6d0e906a7e585a0121698d2d869b5f3",
-          "source_key": "guardian-us-rss",
-          "source_name": "The Guardian US",
-          "category": "us-politics",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "정치",
-          "language": "en",
-          "title": "Secret Service investigates reports of gunfire near White House",
-          "canonical_url": "https://www.theguardian.com/us-news/2026/apr/05/secret-service-investigates-gunfire-near-white-house",
-          "published_at": "2026-04-05T12:51:39+00:00",
-          "title_hash": "37ddeac791eb2248196b824984864d2f3cf172e63fc502f4313f9735489b0982",
-          "keywords": [
-            "secret",
-            "service",
-            "investigates",
-            "reports",
-            "gunfire",
-            "near"
-          ]
-        },
-        {
-          "stable_key": "5de7f38aee9665fef41f3f96068930aa4f912c62a4719916aa7a7bb627941d26",
-          "source_key": "nypost-feed",
-          "source_name": "New York Post Feed",
-          "category": "us-world",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "세계",
-          "language": "en",
-          "title": "How US used SEAL Team 6, a CIA ruse and death from above to rescue missing F-15 airman in Iran: ‘They’ve been schwackin’ dudes chasing him’",
-          "canonical_url": "https://nypost.com/2026/04/05/world-news/us-rescued-f-15-airman-in-iran-with-seal-team-6-cia-ruse-and-death-from-above",
-          "published_at": "2026-04-05T12:50:51+00:00",
-          "title_hash": "02c5fdd5a94b648edebf251059937ad50beb575a24f603160e78dfb3fabe0e37",
-          "keywords": [
-            "how",
-            "us",
-            "used",
-            "seal",
-            "team",
-            "cia"
-          ]
-        },
-        {
-          "stable_key": "e9e651620be1b32984231a10fde966a14acdc698d4c3af06ecaf492b5b42ee4b",
-          "source_key": "bloomberg-markets-rss",
-          "source_name": "Bloomberg Markets",
-          "category": "us-markets",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "시장",
-          "language": "en",
-          "title": "US Successfully Rescues Second Airman from Iran",
-          "canonical_url": "https://www.bloomberg.com/news/videos/2026-04-05/us-successfully-rescues-second-airman-from-iran-video",
-          "published_at": "2026-04-05T12:44:57+00:00",
-          "title_hash": "450edd44571e4ece542b29402e898804ccd7df3ac8ade8ae51cb9348aa4dfade",
-          "keywords": [
-            "us",
-            "successfully",
-            "rescues",
-            "second",
-            "airman",
-            "iran"
-          ]
-        },
-        {
-          "stable_key": "8d3cc0fb89611c0a37e7a40407f3d49c5b65b618ce723e198d0407a7cea0674d",
-          "source_key": "cbs-world-rss",
-          "source_name": "CBS News World",
-          "category": "us-world",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "세계",
-          "language": "en",
-          "title": "British royals attend Easter service without Andrew",
-          "canonical_url": "https://www.cbsnews.com/news/british-royals-attend-easter-service-without-andrew",
-          "published_at": "2026-04-05T12:41:42+00:00",
-          "title_hash": "4f582a69ddcdec21665eca66152e9475a55f377686cb623540187d4f38161534",
-          "keywords": [
-            "british",
-            "royals",
-            "attend",
-            "easter",
-            "service",
-            "without"
-          ]
-        },
-        {
-          "stable_key": "72338218e126476054b90b4143a764ca556df89e35765b0f0d29e4cb2a56db66",
-          "source_key": "etoday-economy-rss",
-          "source_name": "eToday Economy",
-          "category": "kr-economy",
-          "hub": "kr",
-          "hub_label": "대한민국",
-          "section_label": "경제",
-          "language": "ko",
-          "title": "트럼프, 발전소·인프라 대대적 공격 압박…“호르무즈 열어라”",
-          "canonical_url": "https://www.etoday.co.kr/news/view/2572819",
-          "published_at": "2026-04-05T12:41:00+00:00",
-          "title_hash": "7087d215037b751794597d0cefd3002c5fe0d2bcff65e907e32d7206537b8caa",
-          "keywords": [
-            "트럼프",
-            "발전소",
-            "인프라",
-            "대대적",
-            "공격",
-            "압박"
-          ]
-        },
-        {
-          "stable_key": "05d27ee34aac0b4b264fd8ba2f2fa83deddc74ee556a6d4e0d5ee3657aafdddc",
-          "source_key": "mk-sports-rss",
-          "source_name": "Maeil Business Sports",
-          "category": "kr-sports",
-          "hub": "kr",
-          "hub_label": "대한민국",
-          "section_label": "스포츠",
-          "language": "ko",
-          "title": "“볼 배합 신경 썼다”…‘3이닝 7실점→6이닝 KKKKKKK 1실점’ 반등 계기 마련한 톨허스트, LG 선발진 이끌까",
-          "canonical_url": "https://www.mk.co.kr/news/sports/12008528",
-          "published_at": "2026-04-05T12:40:00+00:00",
-          "title_hash": "8f1d60109a5d76b701f8656eeaf4677036a428cccd4d4cfd45b5579e45933312",
-          "keywords": [
-            "배합",
-            "신경",
-            "썼다",
-            "3이닝",
-            "7실점",
-            "6이닝"
-          ]
-        },
-        {
-          "stable_key": "10ba08e3102377e867c330586b5c3143127812fd01a583ee935445050394362b",
-          "source_key": "donga-sports-rss",
-          "source_name": "DongA Sports",
-          "category": "kr-sports",
-          "hub": "kr",
-          "hub_label": "대한민국",
-          "section_label": "스포츠",
-          "language": "ko",
-          "title": "여자 U20 축구, 요르단 2-1 제압…2연승, 사실상 8강 확정",
-          "canonical_url": "https://www.donga.com/news/Sports/article/all/20260405/133679320/1",
-          "published_at": "2026-04-05T12:39:59+00:00",
-          "title_hash": "c5c581b8e9f84a2eb14b3381b3c32240e45dd6cbb05cd74969c358ecee7834a3",
-          "keywords": [
-            "여자",
-            "u20",
-            "축구",
-            "요르단",
-            "제압",
-            "2연승"
-          ]
-        },
-        {
-          "stable_key": "1089a57226969576046793a59d5f4306f8b92f52ed8b0f7b15c406db3e2ffac3",
-          "source_key": "telegram-dada-news2",
-          "source_name": "Telegram @dada_news2",
-          "category": "tech-it",
-          "hub": "global",
-          "hub_label": "글로벌 전문",
-          "section_label": "테크",
-          "language": "ko",
-          "title": "[뉴스핌] [AI상보] 톨허스트 호투·선발 전원안타 폭발…LG, 키움 꺾고 위닝시리즈 완성",
-          "canonical_url": "https://www.newspim.com/news/view/20260405000153",
-          "published_at": "2026-04-05T12:39:08+00:00",
-          "title_hash": "079e0c7f35f2a5463695dab7a9baead33f8e0e0088ec3c7bd0c7d3c5e6a50b8d",
-          "keywords": [
-            "뉴스핌",
-            "ai상보",
-            "톨허스트",
-            "호투",
-            "선발",
-            "전원안타"
-          ]
         }
       ],
       "kpi_series": [
         {
           "key": "articles",
           "label": "기사 수",
-          "value": 1472,
+          "value": 1461,
           "series": [
-            528,
-            944
+            502,
+            959
           ]
         },
         {
@@ -1124,17 +1121,17 @@
           "label": "활성 소스",
           "value": 83,
           "series": [
-            528,
-            944
+            502,
+            959
           ]
         },
         {
           "key": "repeats",
           "label": "반복 기사",
-          "value": 69,
+          "value": 67,
           "series": [
-            528,
-            944
+            502,
+            959
           ]
         },
         {
@@ -1142,8 +1139,8 @@
           "label": "시간 미상",
           "value": 0,
           "series": [
-            528,
-            944
+            502,
+            959
           ]
         }
       ],
@@ -1155,32 +1152,27 @@
             {
               "source_key": "nypost-feed",
               "name": "New York Post Feed",
-              "count": 127
+              "count": 125
             },
             {
               "source_key": "etoday-economy-rss",
               "name": "eToday Economy",
-              "count": 114
+              "count": 113
             },
             {
               "source_key": "mk-society-rss",
               "name": "Maeil Business Society",
-              "count": 71
+              "count": 73
             },
             {
               "source_key": "newsweek-feed",
               "name": "Newsweek Feed",
-              "count": 63
+              "count": 61
             },
             {
               "source_key": "guardian-us-rss",
               "name": "The Guardian US",
-              "count": 55
-            },
-            {
-              "source_key": "forbes-innovation-rss",
-              "name": "Forbes Innovation",
-              "count": 51
+              "count": 56
             },
             {
               "source_key": "asiae-society-rss",
@@ -1188,9 +1180,14 @@
               "count": 49
             },
             {
+              "source_key": "forbes-innovation-rss",
+              "name": "Forbes Innovation",
+              "count": 45
+            },
+            {
               "source_key": "donga-society-rss",
               "name": "DongA Society",
-              "count": 44
+              "count": 42
             }
           ]
         },
@@ -1203,42 +1200,42 @@
               "label": "정치",
               "hub": "us",
               "hub_label": "미국",
-              "count": 251
+              "count": 250
             },
             {
               "key": "kr-society",
               "label": "사회",
               "hub": "kr",
               "hub_label": "대한민국",
-              "count": 244
+              "count": 245
             },
             {
               "key": "us-technology",
               "label": "기술",
               "hub": "us",
               "hub_label": "미국",
-              "count": 237
+              "count": 231
             },
             {
               "key": "kr-economy",
               "label": "경제",
               "hub": "kr",
               "hub_label": "대한민국",
-              "count": 224
+              "count": 222
             },
             {
               "key": "us-world",
               "label": "세계",
               "hub": "us",
               "hub_label": "미국",
-              "count": 106
+              "count": 105
             },
             {
               "key": "us-markets",
               "label": "시장",
               "hub": "us",
               "hub_label": "미국",
-              "count": 93
+              "count": 94
             },
             {
               "key": "kr-politics",
@@ -1274,16 +1271,16 @@
             {
               "key": "ai",
               "label": "ai",
-              "count": 33
-            },
-            {
-              "key": "us",
-              "label": "us",
-              "count": 33
+              "count": 34
             },
             {
               "key": "new",
               "label": "new",
+              "count": 32
+            },
+            {
+              "key": "us",
+              "label": "us",
               "count": 32
             },
             {
@@ -1294,12 +1291,12 @@
             {
               "key": "after",
               "label": "after",
-              "count": 27
+              "count": 26
             },
             {
               "key": "how",
               "label": "how",
-              "count": 25
+              "count": 24
             }
           ]
         }
@@ -1311,25 +1308,25 @@
           "series": [
             {
               "date": "2026-04-04",
-              "count": 528
+              "count": 502
             },
             {
               "date": "2026-04-05",
-              "count": 944
+              "count": 959
             }
           ],
           "summary_items": [
             {
               "label": "최근 집계",
-              "value": 944
+              "value": 959
             },
             {
               "label": "일 평균",
-              "value": 736.0
+              "value": 730.5
             },
             {
               "label": "최대 일자",
-              "value": "2026-04-05 / 944"
+              "value": "2026-04-05 / 959"
             }
           ]
         },
@@ -1340,30 +1337,30 @@
             {
               "key": "us",
               "label": "미국",
-              "count": 760,
+              "count": 753,
               "series": [
                 {
                   "date": "2026-04-04",
-                  "count": 434
+                  "count": 415
                 },
                 {
                   "date": "2026-04-05",
-                  "count": 326
+                  "count": 338
                 }
               ]
             },
             {
               "key": "kr",
               "label": "대한민국",
-              "count": 640,
+              "count": 637,
               "series": [
                 {
                   "date": "2026-04-04",
-                  "count": 59
+                  "count": 53
                 },
                 {
                   "date": "2026-04-05",
-                  "count": 581
+                  "count": 584
                 }
               ]
             }
@@ -1371,11 +1368,11 @@
           "summary_items": [
             {
               "label": "미국",
-              "value": 760
+              "value": 753
             },
             {
               "label": "대한민국",
-              "value": 640
+              "value": 637
             }
           ]
         },
@@ -1386,45 +1383,45 @@
             {
               "key": "us-politics",
               "label": "정치",
-              "count": 251,
+              "count": 250,
               "series": [
                 {
                   "date": "2026-04-04",
-                  "count": 137
+                  "count": 132
                 },
                 {
                   "date": "2026-04-05",
-                  "count": 114
+                  "count": 118
                 }
               ]
             },
             {
               "key": "kr-society",
               "label": "사회",
-              "count": 244,
+              "count": 245,
               "series": [
                 {
                   "date": "2026-04-04",
-                  "count": 21
+                  "count": 19
                 },
                 {
                   "date": "2026-04-05",
-                  "count": 223
+                  "count": 226
                 }
               ]
             },
             {
               "key": "us-technology",
               "label": "기술",
-              "count": 237,
+              "count": 231,
               "series": [
                 {
                   "date": "2026-04-04",
-                  "count": 144
+                  "count": 136
                 },
                 {
                   "date": "2026-04-05",
-                  "count": 93
+                  "count": 95
                 }
               ]
             }
@@ -1432,15 +1429,15 @@
           "summary_items": [
             {
               "label": "정치",
-              "value": 251
+              "value": 250
             },
             {
               "label": "사회",
-              "value": 244
+              "value": 245
             },
             {
               "label": "기술",
-              "value": 237
+              "value": 231
             }
           ]
         }
@@ -1448,14 +1445,14 @@
     },
     "7d": {
       "label": "7d",
-      "article_count": 4672,
+      "article_count": 4688,
       "unknown_time_count": 0,
       "active_source_count": 100,
-      "repeated_title_count": 261,
+      "repeated_title_count": 263,
       "timeline": [
         {
           "date": "2026-03-29",
-          "count": 15
+          "count": 14
         },
         {
           "date": "2026-03-30",
@@ -1479,21 +1476,21 @@
         },
         {
           "date": "2026-04-04",
-          "count": 1204
+          "count": 1206
         },
         {
           "date": "2026-04-05",
-          "count": 944
+          "count": 959
         }
       ],
       "top_keywords": [
         {
           "keyword": "trump",
-          "count": 483
+          "count": 485
         },
         {
           "keyword": "iran",
-          "count": 243
+          "count": 244
         },
         {
           "keyword": "war",
@@ -1513,7 +1510,7 @@
         },
         {
           "keyword": "ai",
-          "count": 91
+          "count": 92
         },
         {
           "keyword": "says",
@@ -1525,27 +1522,27 @@
         },
         {
           "keyword": "what",
-          "count": 75
-        },
-        {
-          "keyword": "about",
-          "count": 56
+          "count": 74
         },
         {
           "keyword": "over",
           "count": 56
+        },
+        {
+          "keyword": "about",
+          "count": 55
         }
       ],
       "top_sources": [
         {
           "source_key": "guardian-us-rss",
           "name": "The Guardian US",
-          "count": 165
+          "count": 166
         },
         {
           "source_key": "yahoo-news-rss",
           "name": "Yahoo News RSS",
-          "count": 159
+          "count": 162
         },
         {
           "source_key": "nypost-feed",
@@ -1575,7 +1572,7 @@
         {
           "source_key": "mk-society-rss",
           "name": "Maeil Business Society",
-          "count": 120
+          "count": 122
         },
         {
           "source_key": "asiae-economy-rss",
@@ -1602,12 +1599,12 @@
         {
           "key": "us",
           "label": "미국",
-          "count": 2660
+          "count": 2673
         },
         {
           "key": "kr",
           "label": "대한민국",
-          "count": 1814
+          "count": 1817
         },
         {
           "key": "global",
@@ -1621,21 +1618,21 @@
           "label": "정치",
           "hub": "us",
           "hub_label": "미국",
-          "count": 975
+          "count": 979
         },
         {
           "key": "us-technology",
           "label": "기술",
           "hub": "us",
           "hub_label": "미국",
-          "count": 697
+          "count": 699
         },
         {
           "key": "kr-society",
           "label": "사회",
           "hub": "kr",
           "hub_label": "대한민국",
-          "count": 521
+          "count": 524
         },
         {
           "key": "kr-economy",
@@ -1649,7 +1646,7 @@
           "label": "세계",
           "hub": "us",
           "hub_label": "미국",
-          "count": 435
+          "count": 439
         },
         {
           "key": "kr-politics",
@@ -1663,14 +1660,14 @@
           "label": "경제",
           "hub": "us",
           "hub_label": "미국",
-          "count": 291
+          "count": 293
         },
         {
           "key": "us-markets",
           "label": "시장",
           "hub": "us",
           "hub_label": "미국",
-          "count": 262
+          "count": 263
         },
         {
           "key": "kr-culture",
@@ -1704,11 +1701,11 @@
       "language_counts": [
         {
           "language": "en",
-          "count": 2798
+          "count": 2811
         },
         {
           "language": "ko",
-          "count": 1874
+          "count": 1877
         }
       ],
       "repeated_titles": [
@@ -1895,6 +1892,289 @@
       ],
       "recent_samples": [
         {
+          "stable_key": "c8803deb0b0598f848e3135ef3437279a50e2870ac8492f2c7b3ec4bc87ae3e2",
+          "source_key": "cbs-world-rss",
+          "source_name": "CBS News World",
+          "category": "us-world",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "세계",
+          "language": "en",
+          "title": "British Prime Minister criticizes London festival for booking Kanye West",
+          "canonical_url": "https://www.cbsnews.com/news/british-prime-minister-criticizes-london-festival-booking-ye-kanye-west-antisemitism",
+          "published_at": "2026-04-05T13:44:48+00:00",
+          "title_hash": "7ba4f11bb0ea1e789e69a3e12d4383d14655622854422aa1997044a0601a7edb",
+          "keywords": [
+            "british",
+            "prime",
+            "minister",
+            "criticizes",
+            "london",
+            "festival"
+          ]
+        },
+        {
+          "stable_key": "3d6cbc9aebfb8ba8a9c4696b23d7eed5ec53476bf62275c93c977c51f16c4fd4",
+          "source_key": "forbes-business-rss",
+          "source_name": "Forbes Business",
+          "category": "us-economy",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "경제",
+          "language": "en",
+          "title": "U.S. Rescues Missing ‘Seriously Wounded’ Officer From Fighter Jet Shot Down Over Iran (Live Updates)",
+          "canonical_url": "https://www.forbes.com/sites/conormurray/2026/04/05/us-rescues-missing-seriously-wounded-officer-from-fighter-jet-shot-down-over-iran-live-updates",
+          "published_at": "2026-04-05T13:44:19+00:00",
+          "title_hash": "f5ee28af52aff603c721cfdb84b0b6a273934e261825e4cd5daf7e8068d5819f",
+          "keywords": [
+            "rescues",
+            "missing",
+            "seriously",
+            "wounded",
+            "officer",
+            "fighter"
+          ]
+        },
+        {
+          "stable_key": "e026dd97a9f3b7dc0a0c5f18cb2317195af7946833e1ccb466e814d3239a81b7",
+          "source_key": "cbs-us-rss",
+          "source_name": "CBS News US",
+          "category": "us-politics",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "정치",
+          "language": "en",
+          "title": "Secret Service investigating overnight gunfire near White House",
+          "canonical_url": "https://www.cbsnews.com/news/secret-service-investigating-overnight-gunfire-near-white-house",
+          "published_at": "2026-04-05T13:40:22+00:00",
+          "title_hash": "4464c8b342c2973cc3dcfaadf8bd34aaa126ecc582396721fd57a44c7c07a4c0",
+          "keywords": [
+            "secret",
+            "service",
+            "investigating",
+            "overnight",
+            "gunfire",
+            "near"
+          ]
+        },
+        {
+          "stable_key": "4d913b41858ce7b8a1f1a275dc0857a0f6ae9c3d4d506f98e1d9489dcfe78ac8",
+          "source_key": "cbs-politics-rss",
+          "source_name": "CBS News Politics",
+          "category": "us-politics",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "정치",
+          "language": "en",
+          "title": "Secret Service investigating overnight gunfire near White House",
+          "canonical_url": "https://www.cbsnews.com/news/secret-service-investigating-overnight-gunfire-near-white-house",
+          "published_at": "2026-04-05T13:40:22+00:00",
+          "title_hash": "4464c8b342c2973cc3dcfaadf8bd34aaa126ecc582396721fd57a44c7c07a4c0",
+          "keywords": [
+            "secret",
+            "service",
+            "investigating",
+            "overnight",
+            "gunfire",
+            "near"
+          ]
+        },
+        {
+          "stable_key": "0fd9dc3c49460794b4fd8047f78fe13bebf22cb4c416e768e28466ca035ad688",
+          "source_key": "cbs-us-rss",
+          "source_name": "CBS News US",
+          "category": "us-politics",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "정치",
+          "language": "en",
+          "title": "The beauty of moss",
+          "canonical_url": "https://www.cbsnews.com/video/the-beauty-of-moss",
+          "published_at": "2026-04-05T13:39:16+00:00",
+          "title_hash": "c347fc65c13156ec92190a4e79aaaaef382fb18d85301305a75cfbdad08231a8",
+          "keywords": [
+            "beauty",
+            "moss",
+            "beauty moss"
+          ]
+        },
+        {
+          "stable_key": "46d81782dc1cb0fac6925787e15a962151bfde789690e807bc0e4c11c1fe71fe",
+          "source_key": "mk-society-rss",
+          "source_name": "Maeil Business Society",
+          "category": "kr-society",
+          "hub": "kr",
+          "hub_label": "대한민국",
+          "section_label": "사회",
+          "language": "ko",
+          "title": "기상청 “전남 화순 동북동쪽서 규모 2.4 지진 발생”",
+          "canonical_url": "https://www.mk.co.kr/news/society/12008543",
+          "published_at": "2026-04-05T13:34:04+00:00",
+          "title_hash": "6abe8c76e1ba73234f5ad599c445e33fcbb34b3f83551e5b332c33d16b2dbb08",
+          "keywords": [
+            "기상청",
+            "전남",
+            "화순",
+            "동북동쪽서",
+            "규모",
+            "지진"
+          ]
+        },
+        {
+          "stable_key": "52ac05c60816a4fbec6df3ba7dd73eade3e5047b9e5f9b2e8d7dd37d24c65ba1",
+          "source_key": "businessinsider-feed",
+          "source_name": "Business Insider Feed",
+          "category": "us-technology",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "기술",
+          "language": "en",
+          "title": "I compared Martha Stewart's and Ina Garten's BLT sandwiches, and I preferred the recipe with store-bought mayo",
+          "canonical_url": "https://www.businessinsider.com/ina-garten-martha-stewart-blt-sandwiches-compared-review-2022-4",
+          "published_at": "2026-04-05T13:32:01+00:00",
+          "title_hash": "e35a9f1d9e8f557702f7fbdc2844d3a0cc2d3e023f525b8da8fa2d45a9c1d2cf",
+          "keywords": [
+            "compared",
+            "martha",
+            "stewart",
+            "ina",
+            "garten",
+            "blt"
+          ]
+        },
+        {
+          "stable_key": "669c801ae0835adb4a3e3471a29f50e27b6e5262d3081ca525f2c28ee77dd4e5",
+          "source_key": "sbs-society-rss",
+          "source_name": "SBS Society",
+          "category": "kr-society",
+          "hub": "kr",
+          "hub_label": "대한민국",
+          "section_label": "사회",
+          "language": "ko",
+          "title": "서해안고속도로 일직분기점 부근 SUV서 불…3명 대피",
+          "canonical_url": "https://news.sbs.co.kr/news/endPage.do?cooper=RSSREADER&news_id=N1008506064&plink=RSSLINK",
+          "published_at": "2026-04-05T13:31:00+00:00",
+          "title_hash": "fdb370ee5321be8ec507547e39208a785e8bfe527a8c72dcd48f7434b6b6f041",
+          "keywords": [
+            "서해안고속도로",
+            "일직분기점",
+            "부근",
+            "suv서",
+            "3명",
+            "대피"
+          ]
+        },
+        {
+          "stable_key": "62f5ed90345acf8e4496beaa3bb0f09aa181a0a31595a1f533237e875bea8ea5",
+          "source_key": "salon-feed",
+          "source_name": "Salon Feed",
+          "category": "us-economy",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "경제",
+          "language": "en",
+          "title": "A year later, Trump doubles down on tariffs",
+          "canonical_url": "https://www.salon.com/2026/04/05/a-year-later-trump-doubles-down-on-tariffs",
+          "published_at": "2026-04-05T13:30:58+00:00",
+          "title_hash": "b7c33982ee126518043d013b9a32fff54c00462225c44fe9a3d2d5cc9503e639",
+          "keywords": [
+            "year",
+            "later",
+            "trump",
+            "doubles",
+            "down",
+            "tariffs"
+          ]
+        },
+        {
+          "stable_key": "df1cbad39b981abc049329753ee38c9de0229300639fe12d44e1047c4c6de5e1",
+          "source_key": "mk-society-rss",
+          "source_name": "Maeil Business Society",
+          "category": "kr-society",
+          "hub": "kr",
+          "hub_label": "대한민국",
+          "section_label": "사회",
+          "language": "ko",
+          "title": "“무기를 가진 자들은 그것을 내려놓아라”…교황 첫 부활절 미사서 이란·우크라 전쟁 언급",
+          "canonical_url": "https://www.mk.co.kr/news/society/12008542",
+          "published_at": "2026-04-05T13:24:42+00:00",
+          "title_hash": "00a242f670c934fa76bb5dd6b498ff0ca69309330915a2be55cd88a55c99e41b",
+          "keywords": [
+            "무기를",
+            "가진",
+            "자들은",
+            "그것을",
+            "내려놓아라",
+            "교황"
+          ]
+        },
+        {
+          "stable_key": "affd9c93748944fcc2c4553de0be8bbd3e7e230b0ed2c4bb0d4d12f85367ded0",
+          "source_key": "cbs-world-rss",
+          "source_name": "CBS News World",
+          "category": "us-world",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "세계",
+          "language": "en",
+          "title": "Divine art: Inside the Vatican's Mosaic Studio",
+          "canonical_url": "https://www.cbsnews.com/news/divine-art-inside-the-vaticans-mosaic-studio",
+          "published_at": "2026-04-05T13:24:22+00:00",
+          "title_hash": "8452418b05e48982fa3bf497c1cef362fda3fb28e60c575e39ee20fda7857f80",
+          "keywords": [
+            "divine",
+            "art",
+            "inside",
+            "vatican",
+            "mosaic",
+            "studio"
+          ]
+        },
+        {
+          "stable_key": "07896381d77025112365a1c532df5180a51159ea91fba5622f64a200e1699980",
+          "source_key": "cbs-world-rss",
+          "source_name": "CBS News World",
+          "category": "us-world",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "세계",
+          "language": "en",
+          "title": "Divine art: Inside the Vatican's Mosaic Studio",
+          "canonical_url": "https://www.cbsnews.com/video/inside-the-vaticans-mosaic-studio",
+          "published_at": "2026-04-05T13:23:09+00:00",
+          "title_hash": "8452418b05e48982fa3bf497c1cef362fda3fb28e60c575e39ee20fda7857f80",
+          "keywords": [
+            "divine",
+            "art",
+            "inside",
+            "vatican",
+            "mosaic",
+            "studio"
+          ]
+        },
+        {
+          "stable_key": "2f40232b85d2cd99d2b5b009b67640abeac7ffdcf318fb3057f5509f04af43b9",
+          "source_key": "bloomberg-tech-rss",
+          "source_name": "Bloomberg Technology",
+          "category": "us-technology",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "기술",
+          "language": "en",
+          "title": "IBM, Masters use AI to Bring the Fairway to Every Fan",
+          "canonical_url": "https://www.bloomberg.com/news/videos/2026-04-05/ibm-masters-use-ai-to-bring-the-fairway-to-every-fan-video",
+          "published_at": "2026-04-05T13:19:47+00:00",
+          "title_hash": "663dedf4e10e0f1877ad3d60eab2e1fc86444a9907ce2de9b1f7ff17300e87d8",
+          "keywords": [
+            "ibm",
+            "masters",
+            "use",
+            "ai",
+            "bring",
+            "fairway"
+          ]
+        },
+        {
           "stable_key": "fb41aa25eec2012bc2bfc1126de06689260f80d4f9d4cc0424132787b92ae80b",
           "source_key": "msnbc-feed",
           "source_name": "MSNBC Feed",
@@ -2264,308 +2544,22 @@
             "own",
             "good"
           ]
-        },
-        {
-          "stable_key": "dda84f75795057d476fe0da53680164d338a5728d5c2ea4256022aabc69486d2",
-          "source_key": "nypost-feed",
-          "source_name": "New York Post Feed",
-          "category": "us-technology",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "기술",
-          "language": "en",
-          "title": "Ted McGinley and Robert Carradine were ‘real adversaries’ on ‘Revenge of the Nerds’ set",
-          "canonical_url": "https://pagesix.com/2026/04/05/celebrity-news/ted-mcginley-and-robert-carradine-were-real-adversaries-on-revenge-of-the-nerds-set",
-          "published_at": "2026-04-05T13:00:00+00:00",
-          "title_hash": "de7ec432a1118e8d33c6bd775e65db5abc26c43ccfa161df743a312788517931",
-          "keywords": [
-            "ted",
-            "mcginley",
-            "robert",
-            "carradine",
-            "real",
-            "adversaries"
-          ]
-        },
-        {
-          "stable_key": "84fac11ed7253c87238ccef26689e109d514e9169abea8defe9dbe214d9e12f0",
-          "source_key": "forbes-business-rss",
-          "source_name": "Forbes Business",
-          "category": "us-economy",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "경제",
-          "language": "en",
-          "title": "Bon Jovi’s Signature Hit Reaches The Top 10 — For The Second Time",
-          "canonical_url": "https://www.forbes.com/sites/hughmcintyre/2026/04/05/bon-jovis-signature-hit-reaches-the-top-10---for-the-second-time",
-          "published_at": "2026-04-05T13:00:00+00:00",
-          "title_hash": "2d9fbd2ac7f1645f1293a03972fd7d5373a408a214fb19f4a928415050fe5693",
-          "keywords": [
-            "bon",
-            "jovi",
-            "signature",
-            "hit",
-            "reaches",
-            "top"
-          ]
-        },
-        {
-          "stable_key": "58c780e8da7b9715d0b8584c299b6cd7a8074777fe10d2dbd9dead4243f1e265",
-          "source_key": "mk-sports-rss",
-          "source_name": "Maeil Business Sports",
-          "category": "kr-sports",
-          "hub": "kr",
-          "hub_label": "대한민국",
-          "section_label": "스포츠",
-          "language": "ko",
-          "title": "V-리그 최고 공격수, 3년 만에 챔피언 등극…GS칼텍스 V4 이끈 실바, 챔프전 MVP 영예 [MK현장]",
-          "canonical_url": "https://www.mk.co.kr/news/sports/12008439",
-          "published_at": "2026-04-05T12:59:00+00:00",
-          "title_hash": "dc449a546bd38c0981797c6fea878da7f0f54d0ce1c5bdb200c3989e6b725327",
-          "keywords": [
-            "리그",
-            "최고",
-            "공격수",
-            "3년",
-            "만에",
-            "챔피언"
-          ]
-        },
-        {
-          "stable_key": "d320fefd0fe52455d791018eb14f347a727325add6fd010749a6eba398a8de03",
-          "source_key": "newsweek-feed",
-          "source_name": "Newsweek Feed",
-          "category": "us-technology",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "기술",
-          "language": "en",
-          "title": "Everyone Had the Same Complaint About Final Four Last Night",
-          "canonical_url": "https://www.newsweek.com/sports/ncaa/everyone-had-the-same-complaint-about-final-four-last-night-11784874",
-          "published_at": "2026-04-05T12:56:09+00:00",
-          "title_hash": "daad9e597217a9e71b5f0dcd896a0663e1c49a80744eca6fa17c94f7776df716",
-          "keywords": [
-            "everyone",
-            "had",
-            "same",
-            "complaint",
-            "about",
-            "final"
-          ]
-        },
-        {
-          "stable_key": "cbf2230f354488f4b4f72011053d03cc644f8a78324913745058c3423d1a1b4a",
-          "source_key": "guardian-us-rss",
-          "source_name": "The Guardian US",
-          "category": "us-technology",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "기술",
-          "language": "en",
-          "title": "‘We’re home’: Even in a draw, Inter Miami’s stadium opener was a win for David Beckham",
-          "canonical_url": "https://www.theguardian.com/football/2026/apr/05/inter-miami-lionel-messi-david-beckham-nu-stadium-opener",
-          "published_at": "2026-04-05T12:52:45+00:00",
-          "title_hash": "7152fd2c0ed742d6912d5511dda1c1a81034726121504b71968a1269a7e04d82",
-          "keywords": [
-            "we",
-            "re",
-            "home",
-            "even",
-            "draw",
-            "inter"
-          ]
-        },
-        {
-          "stable_key": "efca396b8d3084dd37309a90804d7625a6d0e906a7e585a0121698d2d869b5f3",
-          "source_key": "guardian-us-rss",
-          "source_name": "The Guardian US",
-          "category": "us-politics",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "정치",
-          "language": "en",
-          "title": "Secret Service investigates reports of gunfire near White House",
-          "canonical_url": "https://www.theguardian.com/us-news/2026/apr/05/secret-service-investigates-gunfire-near-white-house",
-          "published_at": "2026-04-05T12:51:39+00:00",
-          "title_hash": "37ddeac791eb2248196b824984864d2f3cf172e63fc502f4313f9735489b0982",
-          "keywords": [
-            "secret",
-            "service",
-            "investigates",
-            "reports",
-            "gunfire",
-            "near"
-          ]
-        },
-        {
-          "stable_key": "5de7f38aee9665fef41f3f96068930aa4f912c62a4719916aa7a7bb627941d26",
-          "source_key": "nypost-feed",
-          "source_name": "New York Post Feed",
-          "category": "us-world",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "세계",
-          "language": "en",
-          "title": "How US used SEAL Team 6, a CIA ruse and death from above to rescue missing F-15 airman in Iran: ‘They’ve been schwackin’ dudes chasing him’",
-          "canonical_url": "https://nypost.com/2026/04/05/world-news/us-rescued-f-15-airman-in-iran-with-seal-team-6-cia-ruse-and-death-from-above",
-          "published_at": "2026-04-05T12:50:51+00:00",
-          "title_hash": "02c5fdd5a94b648edebf251059937ad50beb575a24f603160e78dfb3fabe0e37",
-          "keywords": [
-            "how",
-            "us",
-            "used",
-            "seal",
-            "team",
-            "cia"
-          ]
-        },
-        {
-          "stable_key": "e9e651620be1b32984231a10fde966a14acdc698d4c3af06ecaf492b5b42ee4b",
-          "source_key": "bloomberg-markets-rss",
-          "source_name": "Bloomberg Markets",
-          "category": "us-markets",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "시장",
-          "language": "en",
-          "title": "US Successfully Rescues Second Airman from Iran",
-          "canonical_url": "https://www.bloomberg.com/news/videos/2026-04-05/us-successfully-rescues-second-airman-from-iran-video",
-          "published_at": "2026-04-05T12:44:57+00:00",
-          "title_hash": "450edd44571e4ece542b29402e898804ccd7df3ac8ade8ae51cb9348aa4dfade",
-          "keywords": [
-            "us",
-            "successfully",
-            "rescues",
-            "second",
-            "airman",
-            "iran"
-          ]
-        },
-        {
-          "stable_key": "8d3cc0fb89611c0a37e7a40407f3d49c5b65b618ce723e198d0407a7cea0674d",
-          "source_key": "cbs-world-rss",
-          "source_name": "CBS News World",
-          "category": "us-world",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "세계",
-          "language": "en",
-          "title": "British royals attend Easter service without Andrew",
-          "canonical_url": "https://www.cbsnews.com/news/british-royals-attend-easter-service-without-andrew",
-          "published_at": "2026-04-05T12:41:42+00:00",
-          "title_hash": "4f582a69ddcdec21665eca66152e9475a55f377686cb623540187d4f38161534",
-          "keywords": [
-            "british",
-            "royals",
-            "attend",
-            "easter",
-            "service",
-            "without"
-          ]
-        },
-        {
-          "stable_key": "72338218e126476054b90b4143a764ca556df89e35765b0f0d29e4cb2a56db66",
-          "source_key": "etoday-economy-rss",
-          "source_name": "eToday Economy",
-          "category": "kr-economy",
-          "hub": "kr",
-          "hub_label": "대한민국",
-          "section_label": "경제",
-          "language": "ko",
-          "title": "트럼프, 발전소·인프라 대대적 공격 압박…“호르무즈 열어라”",
-          "canonical_url": "https://www.etoday.co.kr/news/view/2572819",
-          "published_at": "2026-04-05T12:41:00+00:00",
-          "title_hash": "7087d215037b751794597d0cefd3002c5fe0d2bcff65e907e32d7206537b8caa",
-          "keywords": [
-            "트럼프",
-            "발전소",
-            "인프라",
-            "대대적",
-            "공격",
-            "압박"
-          ]
-        },
-        {
-          "stable_key": "05d27ee34aac0b4b264fd8ba2f2fa83deddc74ee556a6d4e0d5ee3657aafdddc",
-          "source_key": "mk-sports-rss",
-          "source_name": "Maeil Business Sports",
-          "category": "kr-sports",
-          "hub": "kr",
-          "hub_label": "대한민국",
-          "section_label": "스포츠",
-          "language": "ko",
-          "title": "“볼 배합 신경 썼다”…‘3이닝 7실점→6이닝 KKKKKKK 1실점’ 반등 계기 마련한 톨허스트, LG 선발진 이끌까",
-          "canonical_url": "https://www.mk.co.kr/news/sports/12008528",
-          "published_at": "2026-04-05T12:40:00+00:00",
-          "title_hash": "8f1d60109a5d76b701f8656eeaf4677036a428cccd4d4cfd45b5579e45933312",
-          "keywords": [
-            "배합",
-            "신경",
-            "썼다",
-            "3이닝",
-            "7실점",
-            "6이닝"
-          ]
-        },
-        {
-          "stable_key": "10ba08e3102377e867c330586b5c3143127812fd01a583ee935445050394362b",
-          "source_key": "donga-sports-rss",
-          "source_name": "DongA Sports",
-          "category": "kr-sports",
-          "hub": "kr",
-          "hub_label": "대한민국",
-          "section_label": "스포츠",
-          "language": "ko",
-          "title": "여자 U20 축구, 요르단 2-1 제압…2연승, 사실상 8강 확정",
-          "canonical_url": "https://www.donga.com/news/Sports/article/all/20260405/133679320/1",
-          "published_at": "2026-04-05T12:39:59+00:00",
-          "title_hash": "c5c581b8e9f84a2eb14b3381b3c32240e45dd6cbb05cd74969c358ecee7834a3",
-          "keywords": [
-            "여자",
-            "u20",
-            "축구",
-            "요르단",
-            "제압",
-            "2연승"
-          ]
-        },
-        {
-          "stable_key": "1089a57226969576046793a59d5f4306f8b92f52ed8b0f7b15c406db3e2ffac3",
-          "source_key": "telegram-dada-news2",
-          "source_name": "Telegram @dada_news2",
-          "category": "tech-it",
-          "hub": "global",
-          "hub_label": "글로벌 전문",
-          "section_label": "테크",
-          "language": "ko",
-          "title": "[뉴스핌] [AI상보] 톨허스트 호투·선발 전원안타 폭발…LG, 키움 꺾고 위닝시리즈 완성",
-          "canonical_url": "https://www.newspim.com/news/view/20260405000153",
-          "published_at": "2026-04-05T12:39:08+00:00",
-          "title_hash": "079e0c7f35f2a5463695dab7a9baead33f8e0e0088ec3c7bd0c7d3c5e6a50b8d",
-          "keywords": [
-            "뉴스핌",
-            "ai상보",
-            "톨허스트",
-            "호투",
-            "선발",
-            "전원안타"
-          ]
         }
       ],
       "kpi_series": [
         {
           "key": "articles",
           "label": "기사 수",
-          "value": 4672,
+          "value": 4688,
           "series": [
-            15,
+            14,
             91,
             156,
             247,
             615,
             1400,
-            1204,
-            944
+            1206,
+            959
           ]
         },
         {
@@ -2573,29 +2567,29 @@
           "label": "활성 소스",
           "value": 100,
           "series": [
-            15,
+            14,
             91,
             156,
             247,
             615,
             1400,
-            1204,
-            944
+            1206,
+            959
           ]
         },
         {
           "key": "repeats",
           "label": "반복 기사",
-          "value": 261,
+          "value": 263,
           "series": [
-            15,
+            14,
             91,
             156,
             247,
             615,
             1400,
-            1204,
-            944
+            1206,
+            959
           ]
         },
         {
@@ -2603,14 +2597,14 @@
           "label": "시간 미상",
           "value": 0,
           "series": [
-            15,
+            14,
             91,
             156,
             247,
             615,
             1400,
-            1204,
-            944
+            1206,
+            959
           ]
         }
       ],
@@ -2622,12 +2616,12 @@
             {
               "source_key": "guardian-us-rss",
               "name": "The Guardian US",
-              "count": 165
+              "count": 166
             },
             {
               "source_key": "yahoo-news-rss",
               "name": "Yahoo News RSS",
-              "count": 159
+              "count": 162
             },
             {
               "source_key": "nypost-feed",
@@ -2657,7 +2651,7 @@
             {
               "source_key": "mk-society-rss",
               "name": "Maeil Business Society",
-              "count": 120
+              "count": 122
             }
           ]
         },
@@ -2670,21 +2664,21 @@
               "label": "정치",
               "hub": "us",
               "hub_label": "미국",
-              "count": 975
+              "count": 979
             },
             {
               "key": "us-technology",
               "label": "기술",
               "hub": "us",
               "hub_label": "미국",
-              "count": 697
+              "count": 699
             },
             {
               "key": "kr-society",
               "label": "사회",
               "hub": "kr",
               "hub_label": "대한민국",
-              "count": 521
+              "count": 524
             },
             {
               "key": "kr-economy",
@@ -2698,7 +2692,7 @@
               "label": "세계",
               "hub": "us",
               "hub_label": "미국",
-              "count": 435
+              "count": 439
             },
             {
               "key": "kr-politics",
@@ -2712,14 +2706,14 @@
               "label": "경제",
               "hub": "us",
               "hub_label": "미국",
-              "count": 291
+              "count": 293
             },
             {
               "key": "us-markets",
               "label": "시장",
               "hub": "us",
               "hub_label": "미국",
-              "count": 262
+              "count": 263
             }
           ],
           "chart": "donut"
@@ -2731,12 +2725,12 @@
             {
               "key": "trump",
               "label": "trump",
-              "count": 483
+              "count": 485
             },
             {
               "key": "iran",
               "label": "iran",
-              "count": 243
+              "count": 244
             },
             {
               "key": "war",
@@ -2761,7 +2755,7 @@
             {
               "key": "ai",
               "label": "ai",
-              "count": 91
+              "count": 92
             },
             {
               "key": "says",
@@ -2778,7 +2772,7 @@
           "series": [
             {
               "date": "2026-03-29",
-              "count": 15
+              "count": 14
             },
             {
               "date": "2026-03-30",
@@ -2802,21 +2796,21 @@
             },
             {
               "date": "2026-04-04",
-              "count": 1204
+              "count": 1206
             },
             {
               "date": "2026-04-05",
-              "count": 944
+              "count": 959
             }
           ],
           "summary_items": [
             {
               "label": "최근 집계",
-              "value": 944
+              "value": 959
             },
             {
               "label": "일 평균",
-              "value": 584.0
+              "value": 586.0
             },
             {
               "label": "최대 일자",
@@ -2831,11 +2825,11 @@
             {
               "key": "us",
               "label": "미국",
-              "count": 2660,
+              "count": 2673,
               "series": [
                 {
                   "date": "2026-03-29",
-                  "count": 14
+                  "count": 13
                 },
                 {
                   "date": "2026-03-30",
@@ -2859,18 +2853,18 @@
                 },
                 {
                   "date": "2026-04-04",
-                  "count": 788
+                  "count": 790
                 },
                 {
                   "date": "2026-04-05",
-                  "count": 326
+                  "count": 338
                 }
               ]
             },
             {
               "key": "kr",
               "label": "대한민국",
-              "count": 1814,
+              "count": 1817,
               "series": [
                 {
                   "date": "2026-03-29",
@@ -2902,7 +2896,7 @@
                 },
                 {
                   "date": "2026-04-05",
-                  "count": 581
+                  "count": 584
                 }
               ]
             }
@@ -2910,11 +2904,11 @@
           "summary_items": [
             {
               "label": "미국",
-              "value": 2660
+              "value": 2673
             },
             {
               "label": "대한민국",
-              "value": 1814
+              "value": 1817
             }
           ]
         },
@@ -2925,7 +2919,7 @@
             {
               "key": "us-politics",
               "label": "정치",
-              "count": 975,
+              "count": 979,
               "series": [
                 {
                   "date": "2026-03-29",
@@ -2957,18 +2951,18 @@
                 },
                 {
                   "date": "2026-04-05",
-                  "count": 114
+                  "count": 118
                 }
               ]
             },
             {
               "key": "us-technology",
               "label": "기술",
-              "count": 697,
+              "count": 699,
               "series": [
                 {
                   "date": "2026-03-29",
-                  "count": 8
+                  "count": 7
                 },
                 {
                   "date": "2026-03-30",
@@ -2992,18 +2986,18 @@
                 },
                 {
                   "date": "2026-04-04",
-                  "count": 238
+                  "count": 239
                 },
                 {
                   "date": "2026-04-05",
-                  "count": 93
+                  "count": 95
                 }
               ]
             },
             {
               "key": "kr-society",
               "label": "사회",
-              "count": 521,
+              "count": 524,
               "series": [
                 {
                   "date": "2026-03-29",
@@ -3035,7 +3029,7 @@
                 },
                 {
                   "date": "2026-04-05",
-                  "count": 223
+                  "count": 226
                 }
               ]
             }
@@ -3043,15 +3037,15 @@
           "summary_items": [
             {
               "label": "정치",
-              "value": 975
+              "value": 979
             },
             {
               "label": "기술",
-              "value": 697
+              "value": 699
             },
             {
               "label": "사회",
-              "value": 521
+              "value": 524
             }
           ]
         }
@@ -3059,10 +3053,10 @@
     },
     "30d": {
       "label": "30d",
-      "article_count": 5185,
+      "article_count": 5202,
       "unknown_time_count": 0,
       "active_source_count": 101,
-      "repeated_title_count": 324,
+      "repeated_title_count": 326,
       "timeline": [
         {
           "date": "2026-03-07",
@@ -3178,21 +3172,21 @@
         },
         {
           "date": "2026-04-04",
-          "count": 1204
+          "count": 1206
         },
         {
           "date": "2026-04-05",
-          "count": 944
+          "count": 959
         }
       ],
       "top_keywords": [
         {
           "keyword": "trump",
-          "count": 534
+          "count": 536
         },
         {
           "keyword": "iran",
-          "count": 288
+          "count": 289
         },
         {
           "keyword": "war",
@@ -3208,7 +3202,7 @@
         },
         {
           "keyword": "ai",
-          "count": 110
+          "count": 111
         },
         {
           "keyword": "after",
@@ -3244,12 +3238,12 @@
         {
           "source_key": "guardian-us-rss",
           "name": "The Guardian US",
-          "count": 166
+          "count": 167
         },
         {
           "source_key": "yahoo-news-rss",
           "name": "Yahoo News RSS",
-          "count": 160
+          "count": 163
         },
         {
           "source_key": "nypost-feed",
@@ -3274,7 +3268,7 @@
         {
           "source_key": "mk-society-rss",
           "name": "Maeil Business Society",
-          "count": 120
+          "count": 122
         },
         {
           "source_key": "asiae-economy-rss",
@@ -3301,12 +3295,12 @@
         {
           "key": "us",
           "label": "미국",
-          "count": 3107
+          "count": 3121
         },
         {
           "key": "kr",
           "label": "대한민국",
-          "count": 1876
+          "count": 1879
         },
         {
           "key": "global",
@@ -3320,28 +3314,28 @@
           "label": "정치",
           "hub": "us",
           "hub_label": "미국",
-          "count": 1094
+          "count": 1098
         },
         {
           "key": "us-technology",
           "label": "기술",
           "hub": "us",
           "hub_label": "미국",
-          "count": 807
-        },
-        {
-          "key": "kr-society",
-          "label": "사회",
-          "hub": "kr",
-          "hub_label": "대한민국",
-          "count": 521
+          "count": 810
         },
         {
           "key": "us-world",
           "label": "세계",
           "hub": "us",
           "hub_label": "미국",
-          "count": 521
+          "count": 525
+        },
+        {
+          "key": "kr-society",
+          "label": "사회",
+          "hub": "kr",
+          "hub_label": "대한민국",
+          "count": 524
         },
         {
           "key": "kr-economy",
@@ -3355,7 +3349,7 @@
           "label": "경제",
           "hub": "us",
           "hub_label": "미국",
-          "count": 390
+          "count": 392
         },
         {
           "key": "kr-politics",
@@ -3369,7 +3363,7 @@
           "label": "시장",
           "hub": "us",
           "hub_label": "미국",
-          "count": 295
+          "count": 296
         },
         {
           "key": "kr-culture",
@@ -3403,11 +3397,11 @@
       "language_counts": [
         {
           "language": "en",
-          "count": 3249
+          "count": 3263
         },
         {
           "language": "ko",
-          "count": 1936
+          "count": 1939
         }
       ],
       "repeated_titles": [
@@ -3594,6 +3588,289 @@
       ],
       "recent_samples": [
         {
+          "stable_key": "c8803deb0b0598f848e3135ef3437279a50e2870ac8492f2c7b3ec4bc87ae3e2",
+          "source_key": "cbs-world-rss",
+          "source_name": "CBS News World",
+          "category": "us-world",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "세계",
+          "language": "en",
+          "title": "British Prime Minister criticizes London festival for booking Kanye West",
+          "canonical_url": "https://www.cbsnews.com/news/british-prime-minister-criticizes-london-festival-booking-ye-kanye-west-antisemitism",
+          "published_at": "2026-04-05T13:44:48+00:00",
+          "title_hash": "7ba4f11bb0ea1e789e69a3e12d4383d14655622854422aa1997044a0601a7edb",
+          "keywords": [
+            "british",
+            "prime",
+            "minister",
+            "criticizes",
+            "london",
+            "festival"
+          ]
+        },
+        {
+          "stable_key": "3d6cbc9aebfb8ba8a9c4696b23d7eed5ec53476bf62275c93c977c51f16c4fd4",
+          "source_key": "forbes-business-rss",
+          "source_name": "Forbes Business",
+          "category": "us-economy",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "경제",
+          "language": "en",
+          "title": "U.S. Rescues Missing ‘Seriously Wounded’ Officer From Fighter Jet Shot Down Over Iran (Live Updates)",
+          "canonical_url": "https://www.forbes.com/sites/conormurray/2026/04/05/us-rescues-missing-seriously-wounded-officer-from-fighter-jet-shot-down-over-iran-live-updates",
+          "published_at": "2026-04-05T13:44:19+00:00",
+          "title_hash": "f5ee28af52aff603c721cfdb84b0b6a273934e261825e4cd5daf7e8068d5819f",
+          "keywords": [
+            "rescues",
+            "missing",
+            "seriously",
+            "wounded",
+            "officer",
+            "fighter"
+          ]
+        },
+        {
+          "stable_key": "e026dd97a9f3b7dc0a0c5f18cb2317195af7946833e1ccb466e814d3239a81b7",
+          "source_key": "cbs-us-rss",
+          "source_name": "CBS News US",
+          "category": "us-politics",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "정치",
+          "language": "en",
+          "title": "Secret Service investigating overnight gunfire near White House",
+          "canonical_url": "https://www.cbsnews.com/news/secret-service-investigating-overnight-gunfire-near-white-house",
+          "published_at": "2026-04-05T13:40:22+00:00",
+          "title_hash": "4464c8b342c2973cc3dcfaadf8bd34aaa126ecc582396721fd57a44c7c07a4c0",
+          "keywords": [
+            "secret",
+            "service",
+            "investigating",
+            "overnight",
+            "gunfire",
+            "near"
+          ]
+        },
+        {
+          "stable_key": "4d913b41858ce7b8a1f1a275dc0857a0f6ae9c3d4d506f98e1d9489dcfe78ac8",
+          "source_key": "cbs-politics-rss",
+          "source_name": "CBS News Politics",
+          "category": "us-politics",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "정치",
+          "language": "en",
+          "title": "Secret Service investigating overnight gunfire near White House",
+          "canonical_url": "https://www.cbsnews.com/news/secret-service-investigating-overnight-gunfire-near-white-house",
+          "published_at": "2026-04-05T13:40:22+00:00",
+          "title_hash": "4464c8b342c2973cc3dcfaadf8bd34aaa126ecc582396721fd57a44c7c07a4c0",
+          "keywords": [
+            "secret",
+            "service",
+            "investigating",
+            "overnight",
+            "gunfire",
+            "near"
+          ]
+        },
+        {
+          "stable_key": "0fd9dc3c49460794b4fd8047f78fe13bebf22cb4c416e768e28466ca035ad688",
+          "source_key": "cbs-us-rss",
+          "source_name": "CBS News US",
+          "category": "us-politics",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "정치",
+          "language": "en",
+          "title": "The beauty of moss",
+          "canonical_url": "https://www.cbsnews.com/video/the-beauty-of-moss",
+          "published_at": "2026-04-05T13:39:16+00:00",
+          "title_hash": "c347fc65c13156ec92190a4e79aaaaef382fb18d85301305a75cfbdad08231a8",
+          "keywords": [
+            "beauty",
+            "moss",
+            "beauty moss"
+          ]
+        },
+        {
+          "stable_key": "46d81782dc1cb0fac6925787e15a962151bfde789690e807bc0e4c11c1fe71fe",
+          "source_key": "mk-society-rss",
+          "source_name": "Maeil Business Society",
+          "category": "kr-society",
+          "hub": "kr",
+          "hub_label": "대한민국",
+          "section_label": "사회",
+          "language": "ko",
+          "title": "기상청 “전남 화순 동북동쪽서 규모 2.4 지진 발생”",
+          "canonical_url": "https://www.mk.co.kr/news/society/12008543",
+          "published_at": "2026-04-05T13:34:04+00:00",
+          "title_hash": "6abe8c76e1ba73234f5ad599c445e33fcbb34b3f83551e5b332c33d16b2dbb08",
+          "keywords": [
+            "기상청",
+            "전남",
+            "화순",
+            "동북동쪽서",
+            "규모",
+            "지진"
+          ]
+        },
+        {
+          "stable_key": "52ac05c60816a4fbec6df3ba7dd73eade3e5047b9e5f9b2e8d7dd37d24c65ba1",
+          "source_key": "businessinsider-feed",
+          "source_name": "Business Insider Feed",
+          "category": "us-technology",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "기술",
+          "language": "en",
+          "title": "I compared Martha Stewart's and Ina Garten's BLT sandwiches, and I preferred the recipe with store-bought mayo",
+          "canonical_url": "https://www.businessinsider.com/ina-garten-martha-stewart-blt-sandwiches-compared-review-2022-4",
+          "published_at": "2026-04-05T13:32:01+00:00",
+          "title_hash": "e35a9f1d9e8f557702f7fbdc2844d3a0cc2d3e023f525b8da8fa2d45a9c1d2cf",
+          "keywords": [
+            "compared",
+            "martha",
+            "stewart",
+            "ina",
+            "garten",
+            "blt"
+          ]
+        },
+        {
+          "stable_key": "669c801ae0835adb4a3e3471a29f50e27b6e5262d3081ca525f2c28ee77dd4e5",
+          "source_key": "sbs-society-rss",
+          "source_name": "SBS Society",
+          "category": "kr-society",
+          "hub": "kr",
+          "hub_label": "대한민국",
+          "section_label": "사회",
+          "language": "ko",
+          "title": "서해안고속도로 일직분기점 부근 SUV서 불…3명 대피",
+          "canonical_url": "https://news.sbs.co.kr/news/endPage.do?cooper=RSSREADER&news_id=N1008506064&plink=RSSLINK",
+          "published_at": "2026-04-05T13:31:00+00:00",
+          "title_hash": "fdb370ee5321be8ec507547e39208a785e8bfe527a8c72dcd48f7434b6b6f041",
+          "keywords": [
+            "서해안고속도로",
+            "일직분기점",
+            "부근",
+            "suv서",
+            "3명",
+            "대피"
+          ]
+        },
+        {
+          "stable_key": "62f5ed90345acf8e4496beaa3bb0f09aa181a0a31595a1f533237e875bea8ea5",
+          "source_key": "salon-feed",
+          "source_name": "Salon Feed",
+          "category": "us-economy",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "경제",
+          "language": "en",
+          "title": "A year later, Trump doubles down on tariffs",
+          "canonical_url": "https://www.salon.com/2026/04/05/a-year-later-trump-doubles-down-on-tariffs",
+          "published_at": "2026-04-05T13:30:58+00:00",
+          "title_hash": "b7c33982ee126518043d013b9a32fff54c00462225c44fe9a3d2d5cc9503e639",
+          "keywords": [
+            "year",
+            "later",
+            "trump",
+            "doubles",
+            "down",
+            "tariffs"
+          ]
+        },
+        {
+          "stable_key": "df1cbad39b981abc049329753ee38c9de0229300639fe12d44e1047c4c6de5e1",
+          "source_key": "mk-society-rss",
+          "source_name": "Maeil Business Society",
+          "category": "kr-society",
+          "hub": "kr",
+          "hub_label": "대한민국",
+          "section_label": "사회",
+          "language": "ko",
+          "title": "“무기를 가진 자들은 그것을 내려놓아라”…교황 첫 부활절 미사서 이란·우크라 전쟁 언급",
+          "canonical_url": "https://www.mk.co.kr/news/society/12008542",
+          "published_at": "2026-04-05T13:24:42+00:00",
+          "title_hash": "00a242f670c934fa76bb5dd6b498ff0ca69309330915a2be55cd88a55c99e41b",
+          "keywords": [
+            "무기를",
+            "가진",
+            "자들은",
+            "그것을",
+            "내려놓아라",
+            "교황"
+          ]
+        },
+        {
+          "stable_key": "affd9c93748944fcc2c4553de0be8bbd3e7e230b0ed2c4bb0d4d12f85367ded0",
+          "source_key": "cbs-world-rss",
+          "source_name": "CBS News World",
+          "category": "us-world",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "세계",
+          "language": "en",
+          "title": "Divine art: Inside the Vatican's Mosaic Studio",
+          "canonical_url": "https://www.cbsnews.com/news/divine-art-inside-the-vaticans-mosaic-studio",
+          "published_at": "2026-04-05T13:24:22+00:00",
+          "title_hash": "8452418b05e48982fa3bf497c1cef362fda3fb28e60c575e39ee20fda7857f80",
+          "keywords": [
+            "divine",
+            "art",
+            "inside",
+            "vatican",
+            "mosaic",
+            "studio"
+          ]
+        },
+        {
+          "stable_key": "07896381d77025112365a1c532df5180a51159ea91fba5622f64a200e1699980",
+          "source_key": "cbs-world-rss",
+          "source_name": "CBS News World",
+          "category": "us-world",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "세계",
+          "language": "en",
+          "title": "Divine art: Inside the Vatican's Mosaic Studio",
+          "canonical_url": "https://www.cbsnews.com/video/inside-the-vaticans-mosaic-studio",
+          "published_at": "2026-04-05T13:23:09+00:00",
+          "title_hash": "8452418b05e48982fa3bf497c1cef362fda3fb28e60c575e39ee20fda7857f80",
+          "keywords": [
+            "divine",
+            "art",
+            "inside",
+            "vatican",
+            "mosaic",
+            "studio"
+          ]
+        },
+        {
+          "stable_key": "2f40232b85d2cd99d2b5b009b67640abeac7ffdcf318fb3057f5509f04af43b9",
+          "source_key": "bloomberg-tech-rss",
+          "source_name": "Bloomberg Technology",
+          "category": "us-technology",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "기술",
+          "language": "en",
+          "title": "IBM, Masters use AI to Bring the Fairway to Every Fan",
+          "canonical_url": "https://www.bloomberg.com/news/videos/2026-04-05/ibm-masters-use-ai-to-bring-the-fairway-to-every-fan-video",
+          "published_at": "2026-04-05T13:19:47+00:00",
+          "title_hash": "663dedf4e10e0f1877ad3d60eab2e1fc86444a9907ce2de9b1f7ff17300e87d8",
+          "keywords": [
+            "ibm",
+            "masters",
+            "use",
+            "ai",
+            "bring",
+            "fairway"
+          ]
+        },
+        {
           "stable_key": "fb41aa25eec2012bc2bfc1126de06689260f80d4f9d4cc0424132787b92ae80b",
           "source_key": "msnbc-feed",
           "source_name": "MSNBC Feed",
@@ -3963,299 +4240,13 @@
             "own",
             "good"
           ]
-        },
-        {
-          "stable_key": "dda84f75795057d476fe0da53680164d338a5728d5c2ea4256022aabc69486d2",
-          "source_key": "nypost-feed",
-          "source_name": "New York Post Feed",
-          "category": "us-technology",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "기술",
-          "language": "en",
-          "title": "Ted McGinley and Robert Carradine were ‘real adversaries’ on ‘Revenge of the Nerds’ set",
-          "canonical_url": "https://pagesix.com/2026/04/05/celebrity-news/ted-mcginley-and-robert-carradine-were-real-adversaries-on-revenge-of-the-nerds-set",
-          "published_at": "2026-04-05T13:00:00+00:00",
-          "title_hash": "de7ec432a1118e8d33c6bd775e65db5abc26c43ccfa161df743a312788517931",
-          "keywords": [
-            "ted",
-            "mcginley",
-            "robert",
-            "carradine",
-            "real",
-            "adversaries"
-          ]
-        },
-        {
-          "stable_key": "84fac11ed7253c87238ccef26689e109d514e9169abea8defe9dbe214d9e12f0",
-          "source_key": "forbes-business-rss",
-          "source_name": "Forbes Business",
-          "category": "us-economy",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "경제",
-          "language": "en",
-          "title": "Bon Jovi’s Signature Hit Reaches The Top 10 — For The Second Time",
-          "canonical_url": "https://www.forbes.com/sites/hughmcintyre/2026/04/05/bon-jovis-signature-hit-reaches-the-top-10---for-the-second-time",
-          "published_at": "2026-04-05T13:00:00+00:00",
-          "title_hash": "2d9fbd2ac7f1645f1293a03972fd7d5373a408a214fb19f4a928415050fe5693",
-          "keywords": [
-            "bon",
-            "jovi",
-            "signature",
-            "hit",
-            "reaches",
-            "top"
-          ]
-        },
-        {
-          "stable_key": "58c780e8da7b9715d0b8584c299b6cd7a8074777fe10d2dbd9dead4243f1e265",
-          "source_key": "mk-sports-rss",
-          "source_name": "Maeil Business Sports",
-          "category": "kr-sports",
-          "hub": "kr",
-          "hub_label": "대한민국",
-          "section_label": "스포츠",
-          "language": "ko",
-          "title": "V-리그 최고 공격수, 3년 만에 챔피언 등극…GS칼텍스 V4 이끈 실바, 챔프전 MVP 영예 [MK현장]",
-          "canonical_url": "https://www.mk.co.kr/news/sports/12008439",
-          "published_at": "2026-04-05T12:59:00+00:00",
-          "title_hash": "dc449a546bd38c0981797c6fea878da7f0f54d0ce1c5bdb200c3989e6b725327",
-          "keywords": [
-            "리그",
-            "최고",
-            "공격수",
-            "3년",
-            "만에",
-            "챔피언"
-          ]
-        },
-        {
-          "stable_key": "d320fefd0fe52455d791018eb14f347a727325add6fd010749a6eba398a8de03",
-          "source_key": "newsweek-feed",
-          "source_name": "Newsweek Feed",
-          "category": "us-technology",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "기술",
-          "language": "en",
-          "title": "Everyone Had the Same Complaint About Final Four Last Night",
-          "canonical_url": "https://www.newsweek.com/sports/ncaa/everyone-had-the-same-complaint-about-final-four-last-night-11784874",
-          "published_at": "2026-04-05T12:56:09+00:00",
-          "title_hash": "daad9e597217a9e71b5f0dcd896a0663e1c49a80744eca6fa17c94f7776df716",
-          "keywords": [
-            "everyone",
-            "had",
-            "same",
-            "complaint",
-            "about",
-            "final"
-          ]
-        },
-        {
-          "stable_key": "cbf2230f354488f4b4f72011053d03cc644f8a78324913745058c3423d1a1b4a",
-          "source_key": "guardian-us-rss",
-          "source_name": "The Guardian US",
-          "category": "us-technology",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "기술",
-          "language": "en",
-          "title": "‘We’re home’: Even in a draw, Inter Miami’s stadium opener was a win for David Beckham",
-          "canonical_url": "https://www.theguardian.com/football/2026/apr/05/inter-miami-lionel-messi-david-beckham-nu-stadium-opener",
-          "published_at": "2026-04-05T12:52:45+00:00",
-          "title_hash": "7152fd2c0ed742d6912d5511dda1c1a81034726121504b71968a1269a7e04d82",
-          "keywords": [
-            "we",
-            "re",
-            "home",
-            "even",
-            "draw",
-            "inter"
-          ]
-        },
-        {
-          "stable_key": "efca396b8d3084dd37309a90804d7625a6d0e906a7e585a0121698d2d869b5f3",
-          "source_key": "guardian-us-rss",
-          "source_name": "The Guardian US",
-          "category": "us-politics",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "정치",
-          "language": "en",
-          "title": "Secret Service investigates reports of gunfire near White House",
-          "canonical_url": "https://www.theguardian.com/us-news/2026/apr/05/secret-service-investigates-gunfire-near-white-house",
-          "published_at": "2026-04-05T12:51:39+00:00",
-          "title_hash": "37ddeac791eb2248196b824984864d2f3cf172e63fc502f4313f9735489b0982",
-          "keywords": [
-            "secret",
-            "service",
-            "investigates",
-            "reports",
-            "gunfire",
-            "near"
-          ]
-        },
-        {
-          "stable_key": "5de7f38aee9665fef41f3f96068930aa4f912c62a4719916aa7a7bb627941d26",
-          "source_key": "nypost-feed",
-          "source_name": "New York Post Feed",
-          "category": "us-world",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "세계",
-          "language": "en",
-          "title": "How US used SEAL Team 6, a CIA ruse and death from above to rescue missing F-15 airman in Iran: ‘They’ve been schwackin’ dudes chasing him’",
-          "canonical_url": "https://nypost.com/2026/04/05/world-news/us-rescued-f-15-airman-in-iran-with-seal-team-6-cia-ruse-and-death-from-above",
-          "published_at": "2026-04-05T12:50:51+00:00",
-          "title_hash": "02c5fdd5a94b648edebf251059937ad50beb575a24f603160e78dfb3fabe0e37",
-          "keywords": [
-            "how",
-            "us",
-            "used",
-            "seal",
-            "team",
-            "cia"
-          ]
-        },
-        {
-          "stable_key": "e9e651620be1b32984231a10fde966a14acdc698d4c3af06ecaf492b5b42ee4b",
-          "source_key": "bloomberg-markets-rss",
-          "source_name": "Bloomberg Markets",
-          "category": "us-markets",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "시장",
-          "language": "en",
-          "title": "US Successfully Rescues Second Airman from Iran",
-          "canonical_url": "https://www.bloomberg.com/news/videos/2026-04-05/us-successfully-rescues-second-airman-from-iran-video",
-          "published_at": "2026-04-05T12:44:57+00:00",
-          "title_hash": "450edd44571e4ece542b29402e898804ccd7df3ac8ade8ae51cb9348aa4dfade",
-          "keywords": [
-            "us",
-            "successfully",
-            "rescues",
-            "second",
-            "airman",
-            "iran"
-          ]
-        },
-        {
-          "stable_key": "8d3cc0fb89611c0a37e7a40407f3d49c5b65b618ce723e198d0407a7cea0674d",
-          "source_key": "cbs-world-rss",
-          "source_name": "CBS News World",
-          "category": "us-world",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "세계",
-          "language": "en",
-          "title": "British royals attend Easter service without Andrew",
-          "canonical_url": "https://www.cbsnews.com/news/british-royals-attend-easter-service-without-andrew",
-          "published_at": "2026-04-05T12:41:42+00:00",
-          "title_hash": "4f582a69ddcdec21665eca66152e9475a55f377686cb623540187d4f38161534",
-          "keywords": [
-            "british",
-            "royals",
-            "attend",
-            "easter",
-            "service",
-            "without"
-          ]
-        },
-        {
-          "stable_key": "72338218e126476054b90b4143a764ca556df89e35765b0f0d29e4cb2a56db66",
-          "source_key": "etoday-economy-rss",
-          "source_name": "eToday Economy",
-          "category": "kr-economy",
-          "hub": "kr",
-          "hub_label": "대한민국",
-          "section_label": "경제",
-          "language": "ko",
-          "title": "트럼프, 발전소·인프라 대대적 공격 압박…“호르무즈 열어라”",
-          "canonical_url": "https://www.etoday.co.kr/news/view/2572819",
-          "published_at": "2026-04-05T12:41:00+00:00",
-          "title_hash": "7087d215037b751794597d0cefd3002c5fe0d2bcff65e907e32d7206537b8caa",
-          "keywords": [
-            "트럼프",
-            "발전소",
-            "인프라",
-            "대대적",
-            "공격",
-            "압박"
-          ]
-        },
-        {
-          "stable_key": "05d27ee34aac0b4b264fd8ba2f2fa83deddc74ee556a6d4e0d5ee3657aafdddc",
-          "source_key": "mk-sports-rss",
-          "source_name": "Maeil Business Sports",
-          "category": "kr-sports",
-          "hub": "kr",
-          "hub_label": "대한민국",
-          "section_label": "스포츠",
-          "language": "ko",
-          "title": "“볼 배합 신경 썼다”…‘3이닝 7실점→6이닝 KKKKKKK 1실점’ 반등 계기 마련한 톨허스트, LG 선발진 이끌까",
-          "canonical_url": "https://www.mk.co.kr/news/sports/12008528",
-          "published_at": "2026-04-05T12:40:00+00:00",
-          "title_hash": "8f1d60109a5d76b701f8656eeaf4677036a428cccd4d4cfd45b5579e45933312",
-          "keywords": [
-            "배합",
-            "신경",
-            "썼다",
-            "3이닝",
-            "7실점",
-            "6이닝"
-          ]
-        },
-        {
-          "stable_key": "10ba08e3102377e867c330586b5c3143127812fd01a583ee935445050394362b",
-          "source_key": "donga-sports-rss",
-          "source_name": "DongA Sports",
-          "category": "kr-sports",
-          "hub": "kr",
-          "hub_label": "대한민국",
-          "section_label": "스포츠",
-          "language": "ko",
-          "title": "여자 U20 축구, 요르단 2-1 제압…2연승, 사실상 8강 확정",
-          "canonical_url": "https://www.donga.com/news/Sports/article/all/20260405/133679320/1",
-          "published_at": "2026-04-05T12:39:59+00:00",
-          "title_hash": "c5c581b8e9f84a2eb14b3381b3c32240e45dd6cbb05cd74969c358ecee7834a3",
-          "keywords": [
-            "여자",
-            "u20",
-            "축구",
-            "요르단",
-            "제압",
-            "2연승"
-          ]
-        },
-        {
-          "stable_key": "1089a57226969576046793a59d5f4306f8b92f52ed8b0f7b15c406db3e2ffac3",
-          "source_key": "telegram-dada-news2",
-          "source_name": "Telegram @dada_news2",
-          "category": "tech-it",
-          "hub": "global",
-          "hub_label": "글로벌 전문",
-          "section_label": "테크",
-          "language": "ko",
-          "title": "[뉴스핌] [AI상보] 톨허스트 호투·선발 전원안타 폭발…LG, 키움 꺾고 위닝시리즈 완성",
-          "canonical_url": "https://www.newspim.com/news/view/20260405000153",
-          "published_at": "2026-04-05T12:39:08+00:00",
-          "title_hash": "079e0c7f35f2a5463695dab7a9baead33f8e0e0088ec3c7bd0c7d3c5e6a50b8d",
-          "keywords": [
-            "뉴스핌",
-            "ai상보",
-            "톨허스트",
-            "호투",
-            "선발",
-            "전원안타"
-          ]
         }
       ],
       "kpi_series": [
         {
           "key": "articles",
           "label": "기사 수",
-          "value": 5185,
+          "value": 5202,
           "series": [
             22,
             53,
@@ -4269,8 +4260,8 @@
             247,
             615,
             1400,
-            1204,
-            944
+            1206,
+            959
           ]
         },
         {
@@ -4290,14 +4281,14 @@
             247,
             615,
             1400,
-            1204,
-            944
+            1206,
+            959
           ]
         },
         {
           "key": "repeats",
           "label": "반복 기사",
-          "value": 324,
+          "value": 326,
           "series": [
             22,
             53,
@@ -4311,8 +4302,8 @@
             247,
             615,
             1400,
-            1204,
-            944
+            1206,
+            959
           ]
         },
         {
@@ -4332,8 +4323,8 @@
             247,
             615,
             1400,
-            1204,
-            944
+            1206,
+            959
           ]
         }
       ],
@@ -4350,12 +4341,12 @@
             {
               "source_key": "guardian-us-rss",
               "name": "The Guardian US",
-              "count": 166
+              "count": 167
             },
             {
               "source_key": "yahoo-news-rss",
               "name": "Yahoo News RSS",
-              "count": 160
+              "count": 163
             },
             {
               "source_key": "nypost-feed",
@@ -4380,7 +4371,7 @@
             {
               "source_key": "mk-society-rss",
               "name": "Maeil Business Society",
-              "count": 120
+              "count": 122
             }
           ]
         },
@@ -4393,28 +4384,28 @@
               "label": "정치",
               "hub": "us",
               "hub_label": "미국",
-              "count": 1094
+              "count": 1098
             },
             {
               "key": "us-technology",
               "label": "기술",
               "hub": "us",
               "hub_label": "미국",
-              "count": 807
-            },
-            {
-              "key": "kr-society",
-              "label": "사회",
-              "hub": "kr",
-              "hub_label": "대한민국",
-              "count": 521
+              "count": 810
             },
             {
               "key": "us-world",
               "label": "세계",
               "hub": "us",
               "hub_label": "미국",
-              "count": 521
+              "count": 525
+            },
+            {
+              "key": "kr-society",
+              "label": "사회",
+              "hub": "kr",
+              "hub_label": "대한민국",
+              "count": 524
             },
             {
               "key": "kr-economy",
@@ -4428,7 +4419,7 @@
               "label": "경제",
               "hub": "us",
               "hub_label": "미국",
-              "count": 390
+              "count": 392
             },
             {
               "key": "kr-politics",
@@ -4442,7 +4433,7 @@
               "label": "시장",
               "hub": "us",
               "hub_label": "미국",
-              "count": 295
+              "count": 296
             }
           ],
           "chart": "donut"
@@ -4454,12 +4445,12 @@
             {
               "key": "trump",
               "label": "trump",
-              "count": 534
+              "count": 536
             },
             {
               "key": "iran",
               "label": "iran",
-              "count": 288
+              "count": 289
             },
             {
               "key": "war",
@@ -4479,7 +4470,7 @@
             {
               "key": "ai",
               "label": "ai",
-              "count": 110
+              "count": 111
             },
             {
               "key": "after",
@@ -4613,21 +4604,21 @@
             },
             {
               "date": "2026-04-04",
-              "count": 1204
+              "count": 1206
             },
             {
               "date": "2026-04-05",
-              "count": 944
+              "count": 959
             }
           ],
           "summary_items": [
             {
               "label": "최근 집계",
-              "value": 944
+              "value": 959
             },
             {
               "label": "일 평균",
-              "value": 172.8
+              "value": 173.4
             },
             {
               "label": "최대 일자",
@@ -4642,7 +4633,7 @@
             {
               "key": "us",
               "label": "미국",
-              "count": 3107,
+              "count": 3121,
               "series": [
                 {
                   "date": "2026-03-07",
@@ -4758,18 +4749,18 @@
                 },
                 {
                   "date": "2026-04-04",
-                  "count": 788
+                  "count": 790
                 },
                 {
                   "date": "2026-04-05",
-                  "count": 326
+                  "count": 338
                 }
               ]
             },
             {
               "key": "kr",
               "label": "대한민국",
-              "count": 1876,
+              "count": 1879,
               "series": [
                 {
                   "date": "2026-03-07",
@@ -4889,7 +4880,7 @@
                 },
                 {
                   "date": "2026-04-05",
-                  "count": 581
+                  "count": 584
                 }
               ]
             }
@@ -4897,11 +4888,11 @@
           "summary_items": [
             {
               "label": "미국",
-              "value": 3107
+              "value": 3121
             },
             {
               "label": "대한민국",
-              "value": 1876
+              "value": 1879
             }
           ]
         },
@@ -4912,7 +4903,7 @@
             {
               "key": "us-politics",
               "label": "정치",
-              "count": 1094,
+              "count": 1098,
               "series": [
                 {
                   "date": "2026-03-07",
@@ -5032,14 +5023,14 @@
                 },
                 {
                   "date": "2026-04-05",
-                  "count": 114
+                  "count": 118
                 }
               ]
             },
             {
               "key": "us-technology",
               "label": "기술",
-              "count": 807,
+              "count": 810,
               "series": [
                 {
                   "date": "2026-03-07",
@@ -5155,18 +5146,18 @@
                 },
                 {
                   "date": "2026-04-04",
-                  "count": 238
+                  "count": 239
                 },
                 {
                   "date": "2026-04-05",
-                  "count": 93
+                  "count": 95
                 }
               ]
             },
             {
-              "key": "kr-society",
-              "label": "사회",
-              "count": 521,
+              "key": "us-world",
+              "label": "세계",
+              "count": 525,
               "series": [
                 {
                   "date": "2026-03-07",
@@ -5194,99 +5185,99 @@
                 },
                 {
                   "date": "2026-03-13",
-                  "count": 0
+                  "count": 3
                 },
                 {
                   "date": "2026-03-14",
-                  "count": 0
+                  "count": 1
                 },
                 {
                   "date": "2026-03-15",
-                  "count": 0
+                  "count": 5
                 },
                 {
                   "date": "2026-03-16",
-                  "count": 0
+                  "count": 5
                 },
                 {
                   "date": "2026-03-17",
-                  "count": 0
+                  "count": 4
                 },
                 {
                   "date": "2026-03-18",
-                  "count": 0
+                  "count": 7
                 },
                 {
                   "date": "2026-03-19",
-                  "count": 0
+                  "count": 4
                 },
                 {
                   "date": "2026-03-20",
-                  "count": 0
+                  "count": 5
                 },
                 {
                   "date": "2026-03-21",
-                  "count": 0
+                  "count": 2
                 },
                 {
                   "date": "2026-03-22",
-                  "count": 0
+                  "count": 3
                 },
                 {
                   "date": "2026-03-23",
-                  "count": 0
+                  "count": 3
                 },
                 {
                   "date": "2026-03-24",
-                  "count": 0
+                  "count": 8
                 },
                 {
                   "date": "2026-03-25",
-                  "count": 0
+                  "count": 8
                 },
                 {
                   "date": "2026-03-26",
-                  "count": 0
+                  "count": 11
                 },
                 {
                   "date": "2026-03-27",
-                  "count": 0
+                  "count": 11
                 },
                 {
                   "date": "2026-03-28",
-                  "count": 0
+                  "count": 4
                 },
                 {
                   "date": "2026-03-29",
-                  "count": 0
+                  "count": 3
                 },
                 {
                   "date": "2026-03-30",
-                  "count": 0
+                  "count": 17
                 },
                 {
                   "date": "2026-03-31",
-                  "count": 0
+                  "count": 24
                 },
                 {
                   "date": "2026-04-01",
-                  "count": 0
+                  "count": 25
                 },
                 {
                   "date": "2026-04-02",
-                  "count": 14
+                  "count": 71
                 },
                 {
                   "date": "2026-04-03",
-                  "count": 152
+                  "count": 117
                 },
                 {
                   "date": "2026-04-04",
-                  "count": 132
+                  "count": 131
                 },
                 {
                   "date": "2026-04-05",
-                  "count": 223
+                  "count": 53
                 }
               ]
             }
@@ -5294,15 +5285,15 @@
           "summary_items": [
             {
               "label": "정치",
-              "value": 1094
+              "value": 1098
             },
             {
               "label": "기술",
-              "value": 807
+              "value": 810
             },
             {
-              "label": "사회",
-              "value": 521
+              "label": "세계",
+              "value": 525
             }
           ]
         }
@@ -5310,10 +5301,10 @@
     },
     "90d": {
       "label": "90d",
-      "article_count": 5278,
+      "article_count": 5295,
       "unknown_time_count": 0,
       "active_source_count": 101,
-      "repeated_title_count": 326,
+      "repeated_title_count": 328,
       "timeline": [
         {
           "date": "2026-01-07",
@@ -5585,21 +5576,21 @@
         },
         {
           "date": "2026-04-04",
-          "count": 1204
+          "count": 1206
         },
         {
           "date": "2026-04-05",
-          "count": 944
+          "count": 959
         }
       ],
       "top_keywords": [
         {
           "keyword": "trump",
-          "count": 536
+          "count": 538
         },
         {
           "keyword": "iran",
-          "count": 288
+          "count": 289
         },
         {
           "keyword": "war",
@@ -5615,7 +5606,7 @@
         },
         {
           "keyword": "ai",
-          "count": 121
+          "count": 122
         },
         {
           "keyword": "how",
@@ -5651,12 +5642,12 @@
         {
           "source_key": "guardian-us-rss",
           "name": "The Guardian US",
-          "count": 167
+          "count": 168
         },
         {
           "source_key": "yahoo-news-rss",
           "name": "Yahoo News RSS",
-          "count": 160
+          "count": 163
         },
         {
           "source_key": "nypost-feed",
@@ -5681,7 +5672,7 @@
         {
           "source_key": "mk-society-rss",
           "name": "Maeil Business Society",
-          "count": 120
+          "count": 122
         },
         {
           "source_key": "asiae-economy-rss",
@@ -5708,12 +5699,12 @@
         {
           "key": "us",
           "label": "미국",
-          "count": 3196
+          "count": 3210
         },
         {
           "key": "kr",
           "label": "대한민국",
-          "count": 1878
+          "count": 1881
         },
         {
           "key": "global",
@@ -5727,28 +5718,28 @@
           "label": "정치",
           "hub": "us",
           "hub_label": "미국",
-          "count": 1094
+          "count": 1098
         },
         {
           "key": "us-technology",
           "label": "기술",
           "hub": "us",
           "hub_label": "미국",
-          "count": 871
+          "count": 874
         },
         {
           "key": "us-world",
           "label": "세계",
           "hub": "us",
           "hub_label": "미국",
-          "count": 522
+          "count": 526
         },
         {
           "key": "kr-society",
           "label": "사회",
           "hub": "kr",
           "hub_label": "대한민국",
-          "count": 521
+          "count": 524
         },
         {
           "key": "kr-economy",
@@ -5762,7 +5753,7 @@
           "label": "경제",
           "hub": "us",
           "hub_label": "미국",
-          "count": 390
+          "count": 392
         },
         {
           "key": "kr-politics",
@@ -5776,7 +5767,7 @@
           "label": "시장",
           "hub": "us",
           "hub_label": "미국",
-          "count": 319
+          "count": 320
         },
         {
           "key": "kr-culture",
@@ -5810,11 +5801,11 @@
       "language_counts": [
         {
           "language": "en",
-          "count": 3340
+          "count": 3354
         },
         {
           "language": "ko",
-          "count": 1938
+          "count": 1941
         }
       ],
       "repeated_titles": [
@@ -6000,6 +5991,289 @@
         }
       ],
       "recent_samples": [
+        {
+          "stable_key": "c8803deb0b0598f848e3135ef3437279a50e2870ac8492f2c7b3ec4bc87ae3e2",
+          "source_key": "cbs-world-rss",
+          "source_name": "CBS News World",
+          "category": "us-world",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "세계",
+          "language": "en",
+          "title": "British Prime Minister criticizes London festival for booking Kanye West",
+          "canonical_url": "https://www.cbsnews.com/news/british-prime-minister-criticizes-london-festival-booking-ye-kanye-west-antisemitism",
+          "published_at": "2026-04-05T13:44:48+00:00",
+          "title_hash": "7ba4f11bb0ea1e789e69a3e12d4383d14655622854422aa1997044a0601a7edb",
+          "keywords": [
+            "british",
+            "prime",
+            "minister",
+            "criticizes",
+            "london",
+            "festival"
+          ]
+        },
+        {
+          "stable_key": "3d6cbc9aebfb8ba8a9c4696b23d7eed5ec53476bf62275c93c977c51f16c4fd4",
+          "source_key": "forbes-business-rss",
+          "source_name": "Forbes Business",
+          "category": "us-economy",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "경제",
+          "language": "en",
+          "title": "U.S. Rescues Missing ‘Seriously Wounded’ Officer From Fighter Jet Shot Down Over Iran (Live Updates)",
+          "canonical_url": "https://www.forbes.com/sites/conormurray/2026/04/05/us-rescues-missing-seriously-wounded-officer-from-fighter-jet-shot-down-over-iran-live-updates",
+          "published_at": "2026-04-05T13:44:19+00:00",
+          "title_hash": "f5ee28af52aff603c721cfdb84b0b6a273934e261825e4cd5daf7e8068d5819f",
+          "keywords": [
+            "rescues",
+            "missing",
+            "seriously",
+            "wounded",
+            "officer",
+            "fighter"
+          ]
+        },
+        {
+          "stable_key": "e026dd97a9f3b7dc0a0c5f18cb2317195af7946833e1ccb466e814d3239a81b7",
+          "source_key": "cbs-us-rss",
+          "source_name": "CBS News US",
+          "category": "us-politics",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "정치",
+          "language": "en",
+          "title": "Secret Service investigating overnight gunfire near White House",
+          "canonical_url": "https://www.cbsnews.com/news/secret-service-investigating-overnight-gunfire-near-white-house",
+          "published_at": "2026-04-05T13:40:22+00:00",
+          "title_hash": "4464c8b342c2973cc3dcfaadf8bd34aaa126ecc582396721fd57a44c7c07a4c0",
+          "keywords": [
+            "secret",
+            "service",
+            "investigating",
+            "overnight",
+            "gunfire",
+            "near"
+          ]
+        },
+        {
+          "stable_key": "4d913b41858ce7b8a1f1a275dc0857a0f6ae9c3d4d506f98e1d9489dcfe78ac8",
+          "source_key": "cbs-politics-rss",
+          "source_name": "CBS News Politics",
+          "category": "us-politics",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "정치",
+          "language": "en",
+          "title": "Secret Service investigating overnight gunfire near White House",
+          "canonical_url": "https://www.cbsnews.com/news/secret-service-investigating-overnight-gunfire-near-white-house",
+          "published_at": "2026-04-05T13:40:22+00:00",
+          "title_hash": "4464c8b342c2973cc3dcfaadf8bd34aaa126ecc582396721fd57a44c7c07a4c0",
+          "keywords": [
+            "secret",
+            "service",
+            "investigating",
+            "overnight",
+            "gunfire",
+            "near"
+          ]
+        },
+        {
+          "stable_key": "0fd9dc3c49460794b4fd8047f78fe13bebf22cb4c416e768e28466ca035ad688",
+          "source_key": "cbs-us-rss",
+          "source_name": "CBS News US",
+          "category": "us-politics",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "정치",
+          "language": "en",
+          "title": "The beauty of moss",
+          "canonical_url": "https://www.cbsnews.com/video/the-beauty-of-moss",
+          "published_at": "2026-04-05T13:39:16+00:00",
+          "title_hash": "c347fc65c13156ec92190a4e79aaaaef382fb18d85301305a75cfbdad08231a8",
+          "keywords": [
+            "beauty",
+            "moss",
+            "beauty moss"
+          ]
+        },
+        {
+          "stable_key": "46d81782dc1cb0fac6925787e15a962151bfde789690e807bc0e4c11c1fe71fe",
+          "source_key": "mk-society-rss",
+          "source_name": "Maeil Business Society",
+          "category": "kr-society",
+          "hub": "kr",
+          "hub_label": "대한민국",
+          "section_label": "사회",
+          "language": "ko",
+          "title": "기상청 “전남 화순 동북동쪽서 규모 2.4 지진 발생”",
+          "canonical_url": "https://www.mk.co.kr/news/society/12008543",
+          "published_at": "2026-04-05T13:34:04+00:00",
+          "title_hash": "6abe8c76e1ba73234f5ad599c445e33fcbb34b3f83551e5b332c33d16b2dbb08",
+          "keywords": [
+            "기상청",
+            "전남",
+            "화순",
+            "동북동쪽서",
+            "규모",
+            "지진"
+          ]
+        },
+        {
+          "stable_key": "52ac05c60816a4fbec6df3ba7dd73eade3e5047b9e5f9b2e8d7dd37d24c65ba1",
+          "source_key": "businessinsider-feed",
+          "source_name": "Business Insider Feed",
+          "category": "us-technology",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "기술",
+          "language": "en",
+          "title": "I compared Martha Stewart's and Ina Garten's BLT sandwiches, and I preferred the recipe with store-bought mayo",
+          "canonical_url": "https://www.businessinsider.com/ina-garten-martha-stewart-blt-sandwiches-compared-review-2022-4",
+          "published_at": "2026-04-05T13:32:01+00:00",
+          "title_hash": "e35a9f1d9e8f557702f7fbdc2844d3a0cc2d3e023f525b8da8fa2d45a9c1d2cf",
+          "keywords": [
+            "compared",
+            "martha",
+            "stewart",
+            "ina",
+            "garten",
+            "blt"
+          ]
+        },
+        {
+          "stable_key": "669c801ae0835adb4a3e3471a29f50e27b6e5262d3081ca525f2c28ee77dd4e5",
+          "source_key": "sbs-society-rss",
+          "source_name": "SBS Society",
+          "category": "kr-society",
+          "hub": "kr",
+          "hub_label": "대한민국",
+          "section_label": "사회",
+          "language": "ko",
+          "title": "서해안고속도로 일직분기점 부근 SUV서 불…3명 대피",
+          "canonical_url": "https://news.sbs.co.kr/news/endPage.do?cooper=RSSREADER&news_id=N1008506064&plink=RSSLINK",
+          "published_at": "2026-04-05T13:31:00+00:00",
+          "title_hash": "fdb370ee5321be8ec507547e39208a785e8bfe527a8c72dcd48f7434b6b6f041",
+          "keywords": [
+            "서해안고속도로",
+            "일직분기점",
+            "부근",
+            "suv서",
+            "3명",
+            "대피"
+          ]
+        },
+        {
+          "stable_key": "62f5ed90345acf8e4496beaa3bb0f09aa181a0a31595a1f533237e875bea8ea5",
+          "source_key": "salon-feed",
+          "source_name": "Salon Feed",
+          "category": "us-economy",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "경제",
+          "language": "en",
+          "title": "A year later, Trump doubles down on tariffs",
+          "canonical_url": "https://www.salon.com/2026/04/05/a-year-later-trump-doubles-down-on-tariffs",
+          "published_at": "2026-04-05T13:30:58+00:00",
+          "title_hash": "b7c33982ee126518043d013b9a32fff54c00462225c44fe9a3d2d5cc9503e639",
+          "keywords": [
+            "year",
+            "later",
+            "trump",
+            "doubles",
+            "down",
+            "tariffs"
+          ]
+        },
+        {
+          "stable_key": "df1cbad39b981abc049329753ee38c9de0229300639fe12d44e1047c4c6de5e1",
+          "source_key": "mk-society-rss",
+          "source_name": "Maeil Business Society",
+          "category": "kr-society",
+          "hub": "kr",
+          "hub_label": "대한민국",
+          "section_label": "사회",
+          "language": "ko",
+          "title": "“무기를 가진 자들은 그것을 내려놓아라”…교황 첫 부활절 미사서 이란·우크라 전쟁 언급",
+          "canonical_url": "https://www.mk.co.kr/news/society/12008542",
+          "published_at": "2026-04-05T13:24:42+00:00",
+          "title_hash": "00a242f670c934fa76bb5dd6b498ff0ca69309330915a2be55cd88a55c99e41b",
+          "keywords": [
+            "무기를",
+            "가진",
+            "자들은",
+            "그것을",
+            "내려놓아라",
+            "교황"
+          ]
+        },
+        {
+          "stable_key": "affd9c93748944fcc2c4553de0be8bbd3e7e230b0ed2c4bb0d4d12f85367ded0",
+          "source_key": "cbs-world-rss",
+          "source_name": "CBS News World",
+          "category": "us-world",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "세계",
+          "language": "en",
+          "title": "Divine art: Inside the Vatican's Mosaic Studio",
+          "canonical_url": "https://www.cbsnews.com/news/divine-art-inside-the-vaticans-mosaic-studio",
+          "published_at": "2026-04-05T13:24:22+00:00",
+          "title_hash": "8452418b05e48982fa3bf497c1cef362fda3fb28e60c575e39ee20fda7857f80",
+          "keywords": [
+            "divine",
+            "art",
+            "inside",
+            "vatican",
+            "mosaic",
+            "studio"
+          ]
+        },
+        {
+          "stable_key": "07896381d77025112365a1c532df5180a51159ea91fba5622f64a200e1699980",
+          "source_key": "cbs-world-rss",
+          "source_name": "CBS News World",
+          "category": "us-world",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "세계",
+          "language": "en",
+          "title": "Divine art: Inside the Vatican's Mosaic Studio",
+          "canonical_url": "https://www.cbsnews.com/video/inside-the-vaticans-mosaic-studio",
+          "published_at": "2026-04-05T13:23:09+00:00",
+          "title_hash": "8452418b05e48982fa3bf497c1cef362fda3fb28e60c575e39ee20fda7857f80",
+          "keywords": [
+            "divine",
+            "art",
+            "inside",
+            "vatican",
+            "mosaic",
+            "studio"
+          ]
+        },
+        {
+          "stable_key": "2f40232b85d2cd99d2b5b009b67640abeac7ffdcf318fb3057f5509f04af43b9",
+          "source_key": "bloomberg-tech-rss",
+          "source_name": "Bloomberg Technology",
+          "category": "us-technology",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "기술",
+          "language": "en",
+          "title": "IBM, Masters use AI to Bring the Fairway to Every Fan",
+          "canonical_url": "https://www.bloomberg.com/news/videos/2026-04-05/ibm-masters-use-ai-to-bring-the-fairway-to-every-fan-video",
+          "published_at": "2026-04-05T13:19:47+00:00",
+          "title_hash": "663dedf4e10e0f1877ad3d60eab2e1fc86444a9907ce2de9b1f7ff17300e87d8",
+          "keywords": [
+            "ibm",
+            "masters",
+            "use",
+            "ai",
+            "bring",
+            "fairway"
+          ]
+        },
         {
           "stable_key": "fb41aa25eec2012bc2bfc1126de06689260f80d4f9d4cc0424132787b92ae80b",
           "source_key": "msnbc-feed",
@@ -6370,299 +6644,13 @@
             "own",
             "good"
           ]
-        },
-        {
-          "stable_key": "dda84f75795057d476fe0da53680164d338a5728d5c2ea4256022aabc69486d2",
-          "source_key": "nypost-feed",
-          "source_name": "New York Post Feed",
-          "category": "us-technology",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "기술",
-          "language": "en",
-          "title": "Ted McGinley and Robert Carradine were ‘real adversaries’ on ‘Revenge of the Nerds’ set",
-          "canonical_url": "https://pagesix.com/2026/04/05/celebrity-news/ted-mcginley-and-robert-carradine-were-real-adversaries-on-revenge-of-the-nerds-set",
-          "published_at": "2026-04-05T13:00:00+00:00",
-          "title_hash": "de7ec432a1118e8d33c6bd775e65db5abc26c43ccfa161df743a312788517931",
-          "keywords": [
-            "ted",
-            "mcginley",
-            "robert",
-            "carradine",
-            "real",
-            "adversaries"
-          ]
-        },
-        {
-          "stable_key": "84fac11ed7253c87238ccef26689e109d514e9169abea8defe9dbe214d9e12f0",
-          "source_key": "forbes-business-rss",
-          "source_name": "Forbes Business",
-          "category": "us-economy",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "경제",
-          "language": "en",
-          "title": "Bon Jovi’s Signature Hit Reaches The Top 10 — For The Second Time",
-          "canonical_url": "https://www.forbes.com/sites/hughmcintyre/2026/04/05/bon-jovis-signature-hit-reaches-the-top-10---for-the-second-time",
-          "published_at": "2026-04-05T13:00:00+00:00",
-          "title_hash": "2d9fbd2ac7f1645f1293a03972fd7d5373a408a214fb19f4a928415050fe5693",
-          "keywords": [
-            "bon",
-            "jovi",
-            "signature",
-            "hit",
-            "reaches",
-            "top"
-          ]
-        },
-        {
-          "stable_key": "58c780e8da7b9715d0b8584c299b6cd7a8074777fe10d2dbd9dead4243f1e265",
-          "source_key": "mk-sports-rss",
-          "source_name": "Maeil Business Sports",
-          "category": "kr-sports",
-          "hub": "kr",
-          "hub_label": "대한민국",
-          "section_label": "스포츠",
-          "language": "ko",
-          "title": "V-리그 최고 공격수, 3년 만에 챔피언 등극…GS칼텍스 V4 이끈 실바, 챔프전 MVP 영예 [MK현장]",
-          "canonical_url": "https://www.mk.co.kr/news/sports/12008439",
-          "published_at": "2026-04-05T12:59:00+00:00",
-          "title_hash": "dc449a546bd38c0981797c6fea878da7f0f54d0ce1c5bdb200c3989e6b725327",
-          "keywords": [
-            "리그",
-            "최고",
-            "공격수",
-            "3년",
-            "만에",
-            "챔피언"
-          ]
-        },
-        {
-          "stable_key": "d320fefd0fe52455d791018eb14f347a727325add6fd010749a6eba398a8de03",
-          "source_key": "newsweek-feed",
-          "source_name": "Newsweek Feed",
-          "category": "us-technology",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "기술",
-          "language": "en",
-          "title": "Everyone Had the Same Complaint About Final Four Last Night",
-          "canonical_url": "https://www.newsweek.com/sports/ncaa/everyone-had-the-same-complaint-about-final-four-last-night-11784874",
-          "published_at": "2026-04-05T12:56:09+00:00",
-          "title_hash": "daad9e597217a9e71b5f0dcd896a0663e1c49a80744eca6fa17c94f7776df716",
-          "keywords": [
-            "everyone",
-            "had",
-            "same",
-            "complaint",
-            "about",
-            "final"
-          ]
-        },
-        {
-          "stable_key": "cbf2230f354488f4b4f72011053d03cc644f8a78324913745058c3423d1a1b4a",
-          "source_key": "guardian-us-rss",
-          "source_name": "The Guardian US",
-          "category": "us-technology",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "기술",
-          "language": "en",
-          "title": "‘We’re home’: Even in a draw, Inter Miami’s stadium opener was a win for David Beckham",
-          "canonical_url": "https://www.theguardian.com/football/2026/apr/05/inter-miami-lionel-messi-david-beckham-nu-stadium-opener",
-          "published_at": "2026-04-05T12:52:45+00:00",
-          "title_hash": "7152fd2c0ed742d6912d5511dda1c1a81034726121504b71968a1269a7e04d82",
-          "keywords": [
-            "we",
-            "re",
-            "home",
-            "even",
-            "draw",
-            "inter"
-          ]
-        },
-        {
-          "stable_key": "efca396b8d3084dd37309a90804d7625a6d0e906a7e585a0121698d2d869b5f3",
-          "source_key": "guardian-us-rss",
-          "source_name": "The Guardian US",
-          "category": "us-politics",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "정치",
-          "language": "en",
-          "title": "Secret Service investigates reports of gunfire near White House",
-          "canonical_url": "https://www.theguardian.com/us-news/2026/apr/05/secret-service-investigates-gunfire-near-white-house",
-          "published_at": "2026-04-05T12:51:39+00:00",
-          "title_hash": "37ddeac791eb2248196b824984864d2f3cf172e63fc502f4313f9735489b0982",
-          "keywords": [
-            "secret",
-            "service",
-            "investigates",
-            "reports",
-            "gunfire",
-            "near"
-          ]
-        },
-        {
-          "stable_key": "5de7f38aee9665fef41f3f96068930aa4f912c62a4719916aa7a7bb627941d26",
-          "source_key": "nypost-feed",
-          "source_name": "New York Post Feed",
-          "category": "us-world",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "세계",
-          "language": "en",
-          "title": "How US used SEAL Team 6, a CIA ruse and death from above to rescue missing F-15 airman in Iran: ‘They’ve been schwackin’ dudes chasing him’",
-          "canonical_url": "https://nypost.com/2026/04/05/world-news/us-rescued-f-15-airman-in-iran-with-seal-team-6-cia-ruse-and-death-from-above",
-          "published_at": "2026-04-05T12:50:51+00:00",
-          "title_hash": "02c5fdd5a94b648edebf251059937ad50beb575a24f603160e78dfb3fabe0e37",
-          "keywords": [
-            "how",
-            "us",
-            "used",
-            "seal",
-            "team",
-            "cia"
-          ]
-        },
-        {
-          "stable_key": "e9e651620be1b32984231a10fde966a14acdc698d4c3af06ecaf492b5b42ee4b",
-          "source_key": "bloomberg-markets-rss",
-          "source_name": "Bloomberg Markets",
-          "category": "us-markets",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "시장",
-          "language": "en",
-          "title": "US Successfully Rescues Second Airman from Iran",
-          "canonical_url": "https://www.bloomberg.com/news/videos/2026-04-05/us-successfully-rescues-second-airman-from-iran-video",
-          "published_at": "2026-04-05T12:44:57+00:00",
-          "title_hash": "450edd44571e4ece542b29402e898804ccd7df3ac8ade8ae51cb9348aa4dfade",
-          "keywords": [
-            "us",
-            "successfully",
-            "rescues",
-            "second",
-            "airman",
-            "iran"
-          ]
-        },
-        {
-          "stable_key": "8d3cc0fb89611c0a37e7a40407f3d49c5b65b618ce723e198d0407a7cea0674d",
-          "source_key": "cbs-world-rss",
-          "source_name": "CBS News World",
-          "category": "us-world",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "세계",
-          "language": "en",
-          "title": "British royals attend Easter service without Andrew",
-          "canonical_url": "https://www.cbsnews.com/news/british-royals-attend-easter-service-without-andrew",
-          "published_at": "2026-04-05T12:41:42+00:00",
-          "title_hash": "4f582a69ddcdec21665eca66152e9475a55f377686cb623540187d4f38161534",
-          "keywords": [
-            "british",
-            "royals",
-            "attend",
-            "easter",
-            "service",
-            "without"
-          ]
-        },
-        {
-          "stable_key": "72338218e126476054b90b4143a764ca556df89e35765b0f0d29e4cb2a56db66",
-          "source_key": "etoday-economy-rss",
-          "source_name": "eToday Economy",
-          "category": "kr-economy",
-          "hub": "kr",
-          "hub_label": "대한민국",
-          "section_label": "경제",
-          "language": "ko",
-          "title": "트럼프, 발전소·인프라 대대적 공격 압박…“호르무즈 열어라”",
-          "canonical_url": "https://www.etoday.co.kr/news/view/2572819",
-          "published_at": "2026-04-05T12:41:00+00:00",
-          "title_hash": "7087d215037b751794597d0cefd3002c5fe0d2bcff65e907e32d7206537b8caa",
-          "keywords": [
-            "트럼프",
-            "발전소",
-            "인프라",
-            "대대적",
-            "공격",
-            "압박"
-          ]
-        },
-        {
-          "stable_key": "05d27ee34aac0b4b264fd8ba2f2fa83deddc74ee556a6d4e0d5ee3657aafdddc",
-          "source_key": "mk-sports-rss",
-          "source_name": "Maeil Business Sports",
-          "category": "kr-sports",
-          "hub": "kr",
-          "hub_label": "대한민국",
-          "section_label": "스포츠",
-          "language": "ko",
-          "title": "“볼 배합 신경 썼다”…‘3이닝 7실점→6이닝 KKKKKKK 1실점’ 반등 계기 마련한 톨허스트, LG 선발진 이끌까",
-          "canonical_url": "https://www.mk.co.kr/news/sports/12008528",
-          "published_at": "2026-04-05T12:40:00+00:00",
-          "title_hash": "8f1d60109a5d76b701f8656eeaf4677036a428cccd4d4cfd45b5579e45933312",
-          "keywords": [
-            "배합",
-            "신경",
-            "썼다",
-            "3이닝",
-            "7실점",
-            "6이닝"
-          ]
-        },
-        {
-          "stable_key": "10ba08e3102377e867c330586b5c3143127812fd01a583ee935445050394362b",
-          "source_key": "donga-sports-rss",
-          "source_name": "DongA Sports",
-          "category": "kr-sports",
-          "hub": "kr",
-          "hub_label": "대한민국",
-          "section_label": "스포츠",
-          "language": "ko",
-          "title": "여자 U20 축구, 요르단 2-1 제압…2연승, 사실상 8강 확정",
-          "canonical_url": "https://www.donga.com/news/Sports/article/all/20260405/133679320/1",
-          "published_at": "2026-04-05T12:39:59+00:00",
-          "title_hash": "c5c581b8e9f84a2eb14b3381b3c32240e45dd6cbb05cd74969c358ecee7834a3",
-          "keywords": [
-            "여자",
-            "u20",
-            "축구",
-            "요르단",
-            "제압",
-            "2연승"
-          ]
-        },
-        {
-          "stable_key": "1089a57226969576046793a59d5f4306f8b92f52ed8b0f7b15c406db3e2ffac3",
-          "source_key": "telegram-dada-news2",
-          "source_name": "Telegram @dada_news2",
-          "category": "tech-it",
-          "hub": "global",
-          "hub_label": "글로벌 전문",
-          "section_label": "테크",
-          "language": "ko",
-          "title": "[뉴스핌] [AI상보] 톨허스트 호투·선발 전원안타 폭발…LG, 키움 꺾고 위닝시리즈 완성",
-          "canonical_url": "https://www.newspim.com/news/view/20260405000153",
-          "published_at": "2026-04-05T12:39:08+00:00",
-          "title_hash": "079e0c7f35f2a5463695dab7a9baead33f8e0e0088ec3c7bd0c7d3c5e6a50b8d",
-          "keywords": [
-            "뉴스핌",
-            "ai상보",
-            "톨허스트",
-            "호투",
-            "선발",
-            "전원안타"
-          ]
         }
       ],
       "kpi_series": [
         {
           "key": "articles",
           "label": "기사 수",
-          "value": 5278,
+          "value": 5295,
           "series": [
             22,
             53,
@@ -6676,8 +6664,8 @@
             247,
             615,
             1400,
-            1204,
-            944
+            1206,
+            959
           ]
         },
         {
@@ -6697,14 +6685,14 @@
             247,
             615,
             1400,
-            1204,
-            944
+            1206,
+            959
           ]
         },
         {
           "key": "repeats",
           "label": "반복 기사",
-          "value": 326,
+          "value": 328,
           "series": [
             22,
             53,
@@ -6718,8 +6706,8 @@
             247,
             615,
             1400,
-            1204,
-            944
+            1206,
+            959
           ]
         },
         {
@@ -6739,8 +6727,8 @@
             247,
             615,
             1400,
-            1204,
-            944
+            1206,
+            959
           ]
         }
       ],
@@ -6757,12 +6745,12 @@
             {
               "source_key": "guardian-us-rss",
               "name": "The Guardian US",
-              "count": 167
+              "count": 168
             },
             {
               "source_key": "yahoo-news-rss",
               "name": "Yahoo News RSS",
-              "count": 160
+              "count": 163
             },
             {
               "source_key": "nypost-feed",
@@ -6787,7 +6775,7 @@
             {
               "source_key": "mk-society-rss",
               "name": "Maeil Business Society",
-              "count": 120
+              "count": 122
             }
           ]
         },
@@ -6800,28 +6788,28 @@
               "label": "정치",
               "hub": "us",
               "hub_label": "미국",
-              "count": 1094
+              "count": 1098
             },
             {
               "key": "us-technology",
               "label": "기술",
               "hub": "us",
               "hub_label": "미국",
-              "count": 871
+              "count": 874
             },
             {
               "key": "us-world",
               "label": "세계",
               "hub": "us",
               "hub_label": "미국",
-              "count": 522
+              "count": 526
             },
             {
               "key": "kr-society",
               "label": "사회",
               "hub": "kr",
               "hub_label": "대한민국",
-              "count": 521
+              "count": 524
             },
             {
               "key": "kr-economy",
@@ -6835,7 +6823,7 @@
               "label": "경제",
               "hub": "us",
               "hub_label": "미국",
-              "count": 390
+              "count": 392
             },
             {
               "key": "kr-politics",
@@ -6849,7 +6837,7 @@
               "label": "시장",
               "hub": "us",
               "hub_label": "미국",
-              "count": 319
+              "count": 320
             }
           ],
           "chart": "donut"
@@ -6861,12 +6849,12 @@
             {
               "key": "trump",
               "label": "trump",
-              "count": 536
+              "count": 538
             },
             {
               "key": "iran",
               "label": "iran",
-              "count": 288
+              "count": 289
             },
             {
               "key": "war",
@@ -6886,7 +6874,7 @@
             {
               "key": "ai",
               "label": "ai",
-              "count": 121
+              "count": 122
             },
             {
               "key": "how",
@@ -7176,21 +7164,21 @@
             },
             {
               "date": "2026-04-04",
-              "count": 1204
+              "count": 1206
             },
             {
               "date": "2026-04-05",
-              "count": 944
+              "count": 959
             }
           ],
           "summary_items": [
             {
               "label": "최근 집계",
-              "value": 944
+              "value": 959
             },
             {
               "label": "일 평균",
-              "value": 76.5
+              "value": 76.7
             },
             {
               "label": "최대 일자",
@@ -7205,7 +7193,7 @@
             {
               "key": "us",
               "label": "미국",
-              "count": 3196,
+              "count": 3210,
               "series": [
                 {
                   "date": "2026-01-07",
@@ -7477,18 +7465,18 @@
                 },
                 {
                   "date": "2026-04-04",
-                  "count": 788
+                  "count": 790
                 },
                 {
                   "date": "2026-04-05",
-                  "count": 326
+                  "count": 338
                 }
               ]
             },
             {
               "key": "kr",
               "label": "대한민국",
-              "count": 1878,
+              "count": 1881,
               "series": [
                 {
                   "date": "2026-01-07",
@@ -7764,7 +7752,7 @@
                 },
                 {
                   "date": "2026-04-05",
-                  "count": 581
+                  "count": 584
                 }
               ]
             }
@@ -7772,11 +7760,11 @@
           "summary_items": [
             {
               "label": "미국",
-              "value": 3196
+              "value": 3210
             },
             {
               "label": "대한민국",
-              "value": 1878
+              "value": 1881
             }
           ]
         },
@@ -7787,7 +7775,7 @@
             {
               "key": "us-politics",
               "label": "정치",
-              "count": 1094,
+              "count": 1098,
               "series": [
                 {
                   "date": "2026-01-07",
@@ -8063,14 +8051,14 @@
                 },
                 {
                   "date": "2026-04-05",
-                  "count": 114
+                  "count": 118
                 }
               ]
             },
             {
               "key": "us-technology",
               "label": "기술",
-              "count": 871,
+              "count": 874,
               "series": [
                 {
                   "date": "2026-01-07",
@@ -8342,18 +8330,18 @@
                 },
                 {
                   "date": "2026-04-04",
-                  "count": 238
+                  "count": 239
                 },
                 {
                   "date": "2026-04-05",
-                  "count": 93
+                  "count": 95
                 }
               ]
             },
             {
               "key": "us-world",
               "label": "세계",
-              "count": 522,
+              "count": 526,
               "series": [
                 {
                   "date": "2026-01-07",
@@ -8629,7 +8617,7 @@
                 },
                 {
                   "date": "2026-04-05",
-                  "count": 49
+                  "count": 53
                 }
               ]
             }
@@ -8637,15 +8625,15 @@
           "summary_items": [
             {
               "label": "정치",
-              "value": 1094
+              "value": 1098
             },
             {
               "label": "기술",
-              "value": 871
+              "value": 874
             },
             {
               "label": "세계",
-              "value": 522
+              "value": 526
             }
           ]
         }
@@ -8653,10 +8641,10 @@
     },
     "all": {
       "label": "All",
-      "article_count": 6827,
-      "unknown_time_count": 1391,
+      "article_count": 6855,
+      "unknown_time_count": 1402,
       "active_source_count": 131,
-      "repeated_title_count": 505,
+      "repeated_title_count": 511,
       "timeline": [
         {
           "date": "2016-11-02",
@@ -9084,21 +9072,21 @@
         },
         {
           "date": "2026-04-04",
-          "count": 1212
+          "count": 1214
         },
         {
           "date": "2026-04-05",
-          "count": 958
+          "count": 973
         }
       ],
       "top_keywords": [
         {
           "keyword": "trump",
-          "count": 574
+          "count": 576
         },
         {
           "keyword": "iran",
-          "count": 305
+          "count": 306
         },
         {
           "keyword": "war",
@@ -9110,7 +9098,7 @@
         },
         {
           "keyword": "ai",
-          "count": 136
+          "count": 137
         },
         {
           "keyword": "new",
@@ -9145,7 +9133,7 @@
         {
           "source_key": "naver-kr-society",
           "name": "NAVER News Search",
-          "count": 665
+          "count": 673
         },
         {
           "source_key": "semafor-feed",
@@ -9155,12 +9143,12 @@
         {
           "source_key": "guardian-us-rss",
           "name": "The Guardian US",
-          "count": 171
+          "count": 172
         },
         {
           "source_key": "yahoo-news-rss",
           "name": "Yahoo News RSS",
-          "count": 160
+          "count": 163
         },
         {
           "source_key": "nypost-feed",
@@ -9185,7 +9173,7 @@
         {
           "source_key": "mk-society-rss",
           "name": "Maeil Business Society",
-          "count": 120
+          "count": 122
         },
         {
           "source_key": "asiae-economy-rss",
@@ -9207,12 +9195,12 @@
         {
           "key": "us",
           "label": "미국",
-          "count": 3651
+          "count": 3668
         },
         {
           "key": "kr",
           "label": "대한민국",
-          "count": 2942
+          "count": 2953
         },
         {
           "key": "global",
@@ -9226,21 +9214,21 @@
           "label": "사회",
           "hub": "kr",
           "hub_label": "대한민국",
-          "count": 1265
+          "count": 1276
         },
         {
           "key": "us-politics",
           "label": "정치",
           "hub": "us",
           "hub_label": "미국",
-          "count": 1210
+          "count": 1215
         },
         {
           "key": "us-technology",
           "label": "기술",
           "hub": "us",
           "hub_label": "미국",
-          "count": 1004
+          "count": 1008
         },
         {
           "key": "kr-economy",
@@ -9254,14 +9242,14 @@
           "label": "세계",
           "hub": "us",
           "hub_label": "미국",
-          "count": 575
+          "count": 579
         },
         {
           "key": "us-economy",
           "label": "경제",
           "hub": "us",
           "hub_label": "미국",
-          "count": 483
+          "count": 486
         },
         {
           "key": "kr-politics",
@@ -9275,7 +9263,7 @@
           "label": "시장",
           "hub": "us",
           "hub_label": "미국",
-          "count": 379
+          "count": 380
         },
         {
           "key": "kr-culture",
@@ -9309,11 +9297,11 @@
       "language_counts": [
         {
           "language": "en",
-          "count": 3825
+          "count": 3842
         },
         {
           "language": "ko",
-          "count": 3002
+          "count": 3013
         }
       ],
       "repeated_titles": [
@@ -9388,6 +9376,15 @@
           "latest_published_at": "2026-04-05T05:07:46+00:00",
           "canonical_url": "https://abcnews.com/Business/wireStory/housing-market-trends-favor-home-shoppers-iran-war-131731711",
           "sort_timestamp": 1775365666
+        },
+        {
+          "title_hash": "35f6978631da3bc794e8f20e3a32fbef23dac0cd29f8c9524713cc27837718e9",
+          "title": "Meloni hails arrest of top crime family suspect after raid at an Italian resort",
+          "article_count": 4,
+          "source_count": 4,
+          "latest_published_at": "2026-04-05T05:07:37+00:00",
+          "canonical_url": "https://abcnews.com/Business/wireStory/meloni-hails-arrest-top-crime-family-suspect-after-131732495",
+          "sort_timestamp": 1775365657
         },
         {
           "title_hash": "b11e70618c02f92d782b8b72683cdb78de31e8fbfc0a0509e702ca5ab001537a",
@@ -9487,18 +9484,292 @@
           "latest_published_at": null,
           "canonical_url": "https://www.nbcnews.com/politics/supreme-court",
           "sort_timestamp": 0
-        },
-        {
-          "title_hash": "4c28fb139bb86ddeb84e31751155dcb6de7b89e061dc575fcbe6d61f9e93152d",
-          "title": "민주, 오늘 전남광주시장 본경선 발표...국힘은 '공천 난맥'",
-          "article_count": 4,
-          "source_count": 1,
-          "latest_published_at": null,
-          "canonical_url": "https://www.ytn.co.kr/_ln/0101_202604051648466433_001",
-          "sort_timestamp": 0
         }
       ],
       "recent_samples": [
+        {
+          "stable_key": "c8803deb0b0598f848e3135ef3437279a50e2870ac8492f2c7b3ec4bc87ae3e2",
+          "source_key": "cbs-world-rss",
+          "source_name": "CBS News World",
+          "category": "us-world",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "세계",
+          "language": "en",
+          "title": "British Prime Minister criticizes London festival for booking Kanye West",
+          "canonical_url": "https://www.cbsnews.com/news/british-prime-minister-criticizes-london-festival-booking-ye-kanye-west-antisemitism",
+          "published_at": "2026-04-05T13:44:48+00:00",
+          "title_hash": "7ba4f11bb0ea1e789e69a3e12d4383d14655622854422aa1997044a0601a7edb",
+          "keywords": [
+            "british",
+            "prime",
+            "minister",
+            "criticizes",
+            "london",
+            "festival"
+          ]
+        },
+        {
+          "stable_key": "3d6cbc9aebfb8ba8a9c4696b23d7eed5ec53476bf62275c93c977c51f16c4fd4",
+          "source_key": "forbes-business-rss",
+          "source_name": "Forbes Business",
+          "category": "us-economy",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "경제",
+          "language": "en",
+          "title": "U.S. Rescues Missing ‘Seriously Wounded’ Officer From Fighter Jet Shot Down Over Iran (Live Updates)",
+          "canonical_url": "https://www.forbes.com/sites/conormurray/2026/04/05/us-rescues-missing-seriously-wounded-officer-from-fighter-jet-shot-down-over-iran-live-updates",
+          "published_at": "2026-04-05T13:44:19+00:00",
+          "title_hash": "f5ee28af52aff603c721cfdb84b0b6a273934e261825e4cd5daf7e8068d5819f",
+          "keywords": [
+            "rescues",
+            "missing",
+            "seriously",
+            "wounded",
+            "officer",
+            "fighter"
+          ]
+        },
+        {
+          "stable_key": "e026dd97a9f3b7dc0a0c5f18cb2317195af7946833e1ccb466e814d3239a81b7",
+          "source_key": "cbs-us-rss",
+          "source_name": "CBS News US",
+          "category": "us-politics",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "정치",
+          "language": "en",
+          "title": "Secret Service investigating overnight gunfire near White House",
+          "canonical_url": "https://www.cbsnews.com/news/secret-service-investigating-overnight-gunfire-near-white-house",
+          "published_at": "2026-04-05T13:40:22+00:00",
+          "title_hash": "4464c8b342c2973cc3dcfaadf8bd34aaa126ecc582396721fd57a44c7c07a4c0",
+          "keywords": [
+            "secret",
+            "service",
+            "investigating",
+            "overnight",
+            "gunfire",
+            "near"
+          ]
+        },
+        {
+          "stable_key": "4d913b41858ce7b8a1f1a275dc0857a0f6ae9c3d4d506f98e1d9489dcfe78ac8",
+          "source_key": "cbs-politics-rss",
+          "source_name": "CBS News Politics",
+          "category": "us-politics",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "정치",
+          "language": "en",
+          "title": "Secret Service investigating overnight gunfire near White House",
+          "canonical_url": "https://www.cbsnews.com/news/secret-service-investigating-overnight-gunfire-near-white-house",
+          "published_at": "2026-04-05T13:40:22+00:00",
+          "title_hash": "4464c8b342c2973cc3dcfaadf8bd34aaa126ecc582396721fd57a44c7c07a4c0",
+          "keywords": [
+            "secret",
+            "service",
+            "investigating",
+            "overnight",
+            "gunfire",
+            "near"
+          ]
+        },
+        {
+          "stable_key": "0fd9dc3c49460794b4fd8047f78fe13bebf22cb4c416e768e28466ca035ad688",
+          "source_key": "cbs-us-rss",
+          "source_name": "CBS News US",
+          "category": "us-politics",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "정치",
+          "language": "en",
+          "title": "The beauty of moss",
+          "canonical_url": "https://www.cbsnews.com/video/the-beauty-of-moss",
+          "published_at": "2026-04-05T13:39:16+00:00",
+          "title_hash": "c347fc65c13156ec92190a4e79aaaaef382fb18d85301305a75cfbdad08231a8",
+          "keywords": [
+            "beauty",
+            "moss",
+            "beauty moss"
+          ]
+        },
+        {
+          "stable_key": "46d81782dc1cb0fac6925787e15a962151bfde789690e807bc0e4c11c1fe71fe",
+          "source_key": "mk-society-rss",
+          "source_name": "Maeil Business Society",
+          "category": "kr-society",
+          "hub": "kr",
+          "hub_label": "대한민국",
+          "section_label": "사회",
+          "language": "ko",
+          "title": "기상청 “전남 화순 동북동쪽서 규모 2.4 지진 발생”",
+          "canonical_url": "https://www.mk.co.kr/news/society/12008543",
+          "published_at": "2026-04-05T13:34:04+00:00",
+          "title_hash": "6abe8c76e1ba73234f5ad599c445e33fcbb34b3f83551e5b332c33d16b2dbb08",
+          "keywords": [
+            "기상청",
+            "전남",
+            "화순",
+            "동북동쪽서",
+            "규모",
+            "지진"
+          ]
+        },
+        {
+          "stable_key": "52ac05c60816a4fbec6df3ba7dd73eade3e5047b9e5f9b2e8d7dd37d24c65ba1",
+          "source_key": "businessinsider-feed",
+          "source_name": "Business Insider Feed",
+          "category": "us-technology",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "기술",
+          "language": "en",
+          "title": "I compared Martha Stewart's and Ina Garten's BLT sandwiches, and I preferred the recipe with store-bought mayo",
+          "canonical_url": "https://www.businessinsider.com/ina-garten-martha-stewart-blt-sandwiches-compared-review-2022-4",
+          "published_at": "2026-04-05T13:32:01+00:00",
+          "title_hash": "e35a9f1d9e8f557702f7fbdc2844d3a0cc2d3e023f525b8da8fa2d45a9c1d2cf",
+          "keywords": [
+            "compared",
+            "martha",
+            "stewart",
+            "ina",
+            "garten",
+            "blt"
+          ]
+        },
+        {
+          "stable_key": "669c801ae0835adb4a3e3471a29f50e27b6e5262d3081ca525f2c28ee77dd4e5",
+          "source_key": "sbs-society-rss",
+          "source_name": "SBS Society",
+          "category": "kr-society",
+          "hub": "kr",
+          "hub_label": "대한민국",
+          "section_label": "사회",
+          "language": "ko",
+          "title": "서해안고속도로 일직분기점 부근 SUV서 불…3명 대피",
+          "canonical_url": "https://news.sbs.co.kr/news/endPage.do?cooper=RSSREADER&news_id=N1008506064&plink=RSSLINK",
+          "published_at": "2026-04-05T13:31:00+00:00",
+          "title_hash": "fdb370ee5321be8ec507547e39208a785e8bfe527a8c72dcd48f7434b6b6f041",
+          "keywords": [
+            "서해안고속도로",
+            "일직분기점",
+            "부근",
+            "suv서",
+            "3명",
+            "대피"
+          ]
+        },
+        {
+          "stable_key": "62f5ed90345acf8e4496beaa3bb0f09aa181a0a31595a1f533237e875bea8ea5",
+          "source_key": "salon-feed",
+          "source_name": "Salon Feed",
+          "category": "us-economy",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "경제",
+          "language": "en",
+          "title": "A year later, Trump doubles down on tariffs",
+          "canonical_url": "https://www.salon.com/2026/04/05/a-year-later-trump-doubles-down-on-tariffs",
+          "published_at": "2026-04-05T13:30:58+00:00",
+          "title_hash": "b7c33982ee126518043d013b9a32fff54c00462225c44fe9a3d2d5cc9503e639",
+          "keywords": [
+            "year",
+            "later",
+            "trump",
+            "doubles",
+            "down",
+            "tariffs"
+          ]
+        },
+        {
+          "stable_key": "df1cbad39b981abc049329753ee38c9de0229300639fe12d44e1047c4c6de5e1",
+          "source_key": "mk-society-rss",
+          "source_name": "Maeil Business Society",
+          "category": "kr-society",
+          "hub": "kr",
+          "hub_label": "대한민국",
+          "section_label": "사회",
+          "language": "ko",
+          "title": "“무기를 가진 자들은 그것을 내려놓아라”…교황 첫 부활절 미사서 이란·우크라 전쟁 언급",
+          "canonical_url": "https://www.mk.co.kr/news/society/12008542",
+          "published_at": "2026-04-05T13:24:42+00:00",
+          "title_hash": "00a242f670c934fa76bb5dd6b498ff0ca69309330915a2be55cd88a55c99e41b",
+          "keywords": [
+            "무기를",
+            "가진",
+            "자들은",
+            "그것을",
+            "내려놓아라",
+            "교황"
+          ]
+        },
+        {
+          "stable_key": "affd9c93748944fcc2c4553de0be8bbd3e7e230b0ed2c4bb0d4d12f85367ded0",
+          "source_key": "cbs-world-rss",
+          "source_name": "CBS News World",
+          "category": "us-world",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "세계",
+          "language": "en",
+          "title": "Divine art: Inside the Vatican's Mosaic Studio",
+          "canonical_url": "https://www.cbsnews.com/news/divine-art-inside-the-vaticans-mosaic-studio",
+          "published_at": "2026-04-05T13:24:22+00:00",
+          "title_hash": "8452418b05e48982fa3bf497c1cef362fda3fb28e60c575e39ee20fda7857f80",
+          "keywords": [
+            "divine",
+            "art",
+            "inside",
+            "vatican",
+            "mosaic",
+            "studio"
+          ]
+        },
+        {
+          "stable_key": "07896381d77025112365a1c532df5180a51159ea91fba5622f64a200e1699980",
+          "source_key": "cbs-world-rss",
+          "source_name": "CBS News World",
+          "category": "us-world",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "세계",
+          "language": "en",
+          "title": "Divine art: Inside the Vatican's Mosaic Studio",
+          "canonical_url": "https://www.cbsnews.com/video/inside-the-vaticans-mosaic-studio",
+          "published_at": "2026-04-05T13:23:09+00:00",
+          "title_hash": "8452418b05e48982fa3bf497c1cef362fda3fb28e60c575e39ee20fda7857f80",
+          "keywords": [
+            "divine",
+            "art",
+            "inside",
+            "vatican",
+            "mosaic",
+            "studio"
+          ]
+        },
+        {
+          "stable_key": "2f40232b85d2cd99d2b5b009b67640abeac7ffdcf318fb3057f5509f04af43b9",
+          "source_key": "bloomberg-tech-rss",
+          "source_name": "Bloomberg Technology",
+          "category": "us-technology",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "기술",
+          "language": "en",
+          "title": "IBM, Masters use AI to Bring the Fairway to Every Fan",
+          "canonical_url": "https://www.bloomberg.com/news/videos/2026-04-05/ibm-masters-use-ai-to-bring-the-fairway-to-every-fan-video",
+          "published_at": "2026-04-05T13:19:47+00:00",
+          "title_hash": "663dedf4e10e0f1877ad3d60eab2e1fc86444a9907ce2de9b1f7ff17300e87d8",
+          "keywords": [
+            "ibm",
+            "masters",
+            "use",
+            "ai",
+            "bring",
+            "fairway"
+          ]
+        },
         {
           "stable_key": "fb41aa25eec2012bc2bfc1126de06689260f80d4f9d4cc0424132787b92ae80b",
           "source_key": "msnbc-feed",
@@ -9869,299 +10140,13 @@
             "own",
             "good"
           ]
-        },
-        {
-          "stable_key": "dda84f75795057d476fe0da53680164d338a5728d5c2ea4256022aabc69486d2",
-          "source_key": "nypost-feed",
-          "source_name": "New York Post Feed",
-          "category": "us-technology",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "기술",
-          "language": "en",
-          "title": "Ted McGinley and Robert Carradine were ‘real adversaries’ on ‘Revenge of the Nerds’ set",
-          "canonical_url": "https://pagesix.com/2026/04/05/celebrity-news/ted-mcginley-and-robert-carradine-were-real-adversaries-on-revenge-of-the-nerds-set",
-          "published_at": "2026-04-05T13:00:00+00:00",
-          "title_hash": "de7ec432a1118e8d33c6bd775e65db5abc26c43ccfa161df743a312788517931",
-          "keywords": [
-            "ted",
-            "mcginley",
-            "robert",
-            "carradine",
-            "real",
-            "adversaries"
-          ]
-        },
-        {
-          "stable_key": "84fac11ed7253c87238ccef26689e109d514e9169abea8defe9dbe214d9e12f0",
-          "source_key": "forbes-business-rss",
-          "source_name": "Forbes Business",
-          "category": "us-economy",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "경제",
-          "language": "en",
-          "title": "Bon Jovi’s Signature Hit Reaches The Top 10 — For The Second Time",
-          "canonical_url": "https://www.forbes.com/sites/hughmcintyre/2026/04/05/bon-jovis-signature-hit-reaches-the-top-10---for-the-second-time",
-          "published_at": "2026-04-05T13:00:00+00:00",
-          "title_hash": "2d9fbd2ac7f1645f1293a03972fd7d5373a408a214fb19f4a928415050fe5693",
-          "keywords": [
-            "bon",
-            "jovi",
-            "signature",
-            "hit",
-            "reaches",
-            "top"
-          ]
-        },
-        {
-          "stable_key": "58c780e8da7b9715d0b8584c299b6cd7a8074777fe10d2dbd9dead4243f1e265",
-          "source_key": "mk-sports-rss",
-          "source_name": "Maeil Business Sports",
-          "category": "kr-sports",
-          "hub": "kr",
-          "hub_label": "대한민국",
-          "section_label": "스포츠",
-          "language": "ko",
-          "title": "V-리그 최고 공격수, 3년 만에 챔피언 등극…GS칼텍스 V4 이끈 실바, 챔프전 MVP 영예 [MK현장]",
-          "canonical_url": "https://www.mk.co.kr/news/sports/12008439",
-          "published_at": "2026-04-05T12:59:00+00:00",
-          "title_hash": "dc449a546bd38c0981797c6fea878da7f0f54d0ce1c5bdb200c3989e6b725327",
-          "keywords": [
-            "리그",
-            "최고",
-            "공격수",
-            "3년",
-            "만에",
-            "챔피언"
-          ]
-        },
-        {
-          "stable_key": "d320fefd0fe52455d791018eb14f347a727325add6fd010749a6eba398a8de03",
-          "source_key": "newsweek-feed",
-          "source_name": "Newsweek Feed",
-          "category": "us-technology",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "기술",
-          "language": "en",
-          "title": "Everyone Had the Same Complaint About Final Four Last Night",
-          "canonical_url": "https://www.newsweek.com/sports/ncaa/everyone-had-the-same-complaint-about-final-four-last-night-11784874",
-          "published_at": "2026-04-05T12:56:09+00:00",
-          "title_hash": "daad9e597217a9e71b5f0dcd896a0663e1c49a80744eca6fa17c94f7776df716",
-          "keywords": [
-            "everyone",
-            "had",
-            "same",
-            "complaint",
-            "about",
-            "final"
-          ]
-        },
-        {
-          "stable_key": "cbf2230f354488f4b4f72011053d03cc644f8a78324913745058c3423d1a1b4a",
-          "source_key": "guardian-us-rss",
-          "source_name": "The Guardian US",
-          "category": "us-technology",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "기술",
-          "language": "en",
-          "title": "‘We’re home’: Even in a draw, Inter Miami’s stadium opener was a win for David Beckham",
-          "canonical_url": "https://www.theguardian.com/football/2026/apr/05/inter-miami-lionel-messi-david-beckham-nu-stadium-opener",
-          "published_at": "2026-04-05T12:52:45+00:00",
-          "title_hash": "7152fd2c0ed742d6912d5511dda1c1a81034726121504b71968a1269a7e04d82",
-          "keywords": [
-            "we",
-            "re",
-            "home",
-            "even",
-            "draw",
-            "inter"
-          ]
-        },
-        {
-          "stable_key": "efca396b8d3084dd37309a90804d7625a6d0e906a7e585a0121698d2d869b5f3",
-          "source_key": "guardian-us-rss",
-          "source_name": "The Guardian US",
-          "category": "us-politics",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "정치",
-          "language": "en",
-          "title": "Secret Service investigates reports of gunfire near White House",
-          "canonical_url": "https://www.theguardian.com/us-news/2026/apr/05/secret-service-investigates-gunfire-near-white-house",
-          "published_at": "2026-04-05T12:51:39+00:00",
-          "title_hash": "37ddeac791eb2248196b824984864d2f3cf172e63fc502f4313f9735489b0982",
-          "keywords": [
-            "secret",
-            "service",
-            "investigates",
-            "reports",
-            "gunfire",
-            "near"
-          ]
-        },
-        {
-          "stable_key": "5de7f38aee9665fef41f3f96068930aa4f912c62a4719916aa7a7bb627941d26",
-          "source_key": "nypost-feed",
-          "source_name": "New York Post Feed",
-          "category": "us-world",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "세계",
-          "language": "en",
-          "title": "How US used SEAL Team 6, a CIA ruse and death from above to rescue missing F-15 airman in Iran: ‘They’ve been schwackin’ dudes chasing him’",
-          "canonical_url": "https://nypost.com/2026/04/05/world-news/us-rescued-f-15-airman-in-iran-with-seal-team-6-cia-ruse-and-death-from-above",
-          "published_at": "2026-04-05T12:50:51+00:00",
-          "title_hash": "02c5fdd5a94b648edebf251059937ad50beb575a24f603160e78dfb3fabe0e37",
-          "keywords": [
-            "how",
-            "us",
-            "used",
-            "seal",
-            "team",
-            "cia"
-          ]
-        },
-        {
-          "stable_key": "e9e651620be1b32984231a10fde966a14acdc698d4c3af06ecaf492b5b42ee4b",
-          "source_key": "bloomberg-markets-rss",
-          "source_name": "Bloomberg Markets",
-          "category": "us-markets",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "시장",
-          "language": "en",
-          "title": "US Successfully Rescues Second Airman from Iran",
-          "canonical_url": "https://www.bloomberg.com/news/videos/2026-04-05/us-successfully-rescues-second-airman-from-iran-video",
-          "published_at": "2026-04-05T12:44:57+00:00",
-          "title_hash": "450edd44571e4ece542b29402e898804ccd7df3ac8ade8ae51cb9348aa4dfade",
-          "keywords": [
-            "us",
-            "successfully",
-            "rescues",
-            "second",
-            "airman",
-            "iran"
-          ]
-        },
-        {
-          "stable_key": "8d3cc0fb89611c0a37e7a40407f3d49c5b65b618ce723e198d0407a7cea0674d",
-          "source_key": "cbs-world-rss",
-          "source_name": "CBS News World",
-          "category": "us-world",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "세계",
-          "language": "en",
-          "title": "British royals attend Easter service without Andrew",
-          "canonical_url": "https://www.cbsnews.com/news/british-royals-attend-easter-service-without-andrew",
-          "published_at": "2026-04-05T12:41:42+00:00",
-          "title_hash": "4f582a69ddcdec21665eca66152e9475a55f377686cb623540187d4f38161534",
-          "keywords": [
-            "british",
-            "royals",
-            "attend",
-            "easter",
-            "service",
-            "without"
-          ]
-        },
-        {
-          "stable_key": "72338218e126476054b90b4143a764ca556df89e35765b0f0d29e4cb2a56db66",
-          "source_key": "etoday-economy-rss",
-          "source_name": "eToday Economy",
-          "category": "kr-economy",
-          "hub": "kr",
-          "hub_label": "대한민국",
-          "section_label": "경제",
-          "language": "ko",
-          "title": "트럼프, 발전소·인프라 대대적 공격 압박…“호르무즈 열어라”",
-          "canonical_url": "https://www.etoday.co.kr/news/view/2572819",
-          "published_at": "2026-04-05T12:41:00+00:00",
-          "title_hash": "7087d215037b751794597d0cefd3002c5fe0d2bcff65e907e32d7206537b8caa",
-          "keywords": [
-            "트럼프",
-            "발전소",
-            "인프라",
-            "대대적",
-            "공격",
-            "압박"
-          ]
-        },
-        {
-          "stable_key": "05d27ee34aac0b4b264fd8ba2f2fa83deddc74ee556a6d4e0d5ee3657aafdddc",
-          "source_key": "mk-sports-rss",
-          "source_name": "Maeil Business Sports",
-          "category": "kr-sports",
-          "hub": "kr",
-          "hub_label": "대한민국",
-          "section_label": "스포츠",
-          "language": "ko",
-          "title": "“볼 배합 신경 썼다”…‘3이닝 7실점→6이닝 KKKKKKK 1실점’ 반등 계기 마련한 톨허스트, LG 선발진 이끌까",
-          "canonical_url": "https://www.mk.co.kr/news/sports/12008528",
-          "published_at": "2026-04-05T12:40:00+00:00",
-          "title_hash": "8f1d60109a5d76b701f8656eeaf4677036a428cccd4d4cfd45b5579e45933312",
-          "keywords": [
-            "배합",
-            "신경",
-            "썼다",
-            "3이닝",
-            "7실점",
-            "6이닝"
-          ]
-        },
-        {
-          "stable_key": "10ba08e3102377e867c330586b5c3143127812fd01a583ee935445050394362b",
-          "source_key": "donga-sports-rss",
-          "source_name": "DongA Sports",
-          "category": "kr-sports",
-          "hub": "kr",
-          "hub_label": "대한민국",
-          "section_label": "스포츠",
-          "language": "ko",
-          "title": "여자 U20 축구, 요르단 2-1 제압…2연승, 사실상 8강 확정",
-          "canonical_url": "https://www.donga.com/news/Sports/article/all/20260405/133679320/1",
-          "published_at": "2026-04-05T12:39:59+00:00",
-          "title_hash": "c5c581b8e9f84a2eb14b3381b3c32240e45dd6cbb05cd74969c358ecee7834a3",
-          "keywords": [
-            "여자",
-            "u20",
-            "축구",
-            "요르단",
-            "제압",
-            "2연승"
-          ]
-        },
-        {
-          "stable_key": "1089a57226969576046793a59d5f4306f8b92f52ed8b0f7b15c406db3e2ffac3",
-          "source_key": "telegram-dada-news2",
-          "source_name": "Telegram @dada_news2",
-          "category": "tech-it",
-          "hub": "global",
-          "hub_label": "글로벌 전문",
-          "section_label": "테크",
-          "language": "ko",
-          "title": "[뉴스핌] [AI상보] 톨허스트 호투·선발 전원안타 폭발…LG, 키움 꺾고 위닝시리즈 완성",
-          "canonical_url": "https://www.newspim.com/news/view/20260405000153",
-          "published_at": "2026-04-05T12:39:08+00:00",
-          "title_hash": "079e0c7f35f2a5463695dab7a9baead33f8e0e0088ec3c7bd0c7d3c5e6a50b8d",
-          "keywords": [
-            "뉴스핌",
-            "ai상보",
-            "톨허스트",
-            "호투",
-            "선발",
-            "전원안타"
-          ]
         }
       ],
       "kpi_series": [
         {
           "key": "articles",
           "label": "기사 수",
-          "value": 6827,
+          "value": 6855,
           "series": [
             23,
             55,
@@ -10175,8 +10160,8 @@
             248,
             621,
             1416,
-            1212,
-            958
+            1214,
+            973
           ]
         },
         {
@@ -10196,14 +10181,14 @@
             248,
             621,
             1416,
-            1212,
-            958
+            1214,
+            973
           ]
         },
         {
           "key": "repeats",
           "label": "반복 기사",
-          "value": 505,
+          "value": 511,
           "series": [
             23,
             55,
@@ -10217,14 +10202,14 @@
             248,
             621,
             1416,
-            1212,
-            958
+            1214,
+            973
           ]
         },
         {
           "key": "unknown",
           "label": "시간 미상",
-          "value": 1391,
+          "value": 1402,
           "series": [
             23,
             55,
@@ -10238,8 +10223,8 @@
             248,
             621,
             1416,
-            1212,
-            958
+            1214,
+            973
           ]
         }
       ],
@@ -10251,7 +10236,7 @@
             {
               "source_key": "naver-kr-society",
               "name": "NAVER News Search",
-              "count": 665
+              "count": 673
             },
             {
               "source_key": "semafor-feed",
@@ -10261,12 +10246,12 @@
             {
               "source_key": "guardian-us-rss",
               "name": "The Guardian US",
-              "count": 171
+              "count": 172
             },
             {
               "source_key": "yahoo-news-rss",
               "name": "Yahoo News RSS",
-              "count": 160
+              "count": 163
             },
             {
               "source_key": "nypost-feed",
@@ -10299,21 +10284,21 @@
               "label": "사회",
               "hub": "kr",
               "hub_label": "대한민국",
-              "count": 1265
+              "count": 1276
             },
             {
               "key": "us-politics",
               "label": "정치",
               "hub": "us",
               "hub_label": "미국",
-              "count": 1210
+              "count": 1215
             },
             {
               "key": "us-technology",
               "label": "기술",
               "hub": "us",
               "hub_label": "미국",
-              "count": 1004
+              "count": 1008
             },
             {
               "key": "kr-economy",
@@ -10327,14 +10312,14 @@
               "label": "세계",
               "hub": "us",
               "hub_label": "미국",
-              "count": 575
+              "count": 579
             },
             {
               "key": "us-economy",
               "label": "경제",
               "hub": "us",
               "hub_label": "미국",
-              "count": 483
+              "count": 486
             },
             {
               "key": "kr-politics",
@@ -10348,7 +10333,7 @@
               "label": "시장",
               "hub": "us",
               "hub_label": "미국",
-              "count": 379
+              "count": 380
             }
           ],
           "chart": "donut"
@@ -10360,12 +10345,12 @@
             {
               "key": "trump",
               "label": "trump",
-              "count": 574
+              "count": 576
             },
             {
               "key": "iran",
               "label": "iran",
-              "count": 305
+              "count": 306
             },
             {
               "key": "war",
@@ -10380,7 +10365,7 @@
             {
               "key": "ai",
               "label": "ai",
-              "count": 136
+              "count": 137
             },
             {
               "key": "new",
@@ -10831,21 +10816,21 @@
             },
             {
               "date": "2026-04-04",
-              "count": 1212
+              "count": 1214
             },
             {
               "date": "2026-04-05",
-              "count": 958
+              "count": 973
             }
           ],
           "summary_items": [
             {
               "label": "최근 집계",
-              "value": 958
+              "value": 973
             },
             {
               "label": "일 평균",
-              "value": 50.3
+              "value": 50.5
             },
             {
               "label": "최대 일자",
@@ -10860,7 +10845,7 @@
             {
               "key": "us",
               "label": "미국",
-              "count": 3651,
+              "count": 3668,
               "series": [
                 {
                   "date": "2016-11-02",
@@ -11288,18 +11273,18 @@
                 },
                 {
                   "date": "2026-04-04",
-                  "count": 788
+                  "count": 790
                 },
                 {
                   "date": "2026-04-05",
-                  "count": 326
+                  "count": 338
                 }
               ]
             },
             {
               "key": "kr",
               "label": "대한민국",
-              "count": 2942,
+              "count": 2953,
               "series": [
                 {
                   "date": "2016-11-02",
@@ -11731,7 +11716,7 @@
                 },
                 {
                   "date": "2026-04-05",
-                  "count": 581
+                  "count": 584
                 }
               ]
             }
@@ -11739,11 +11724,11 @@
           "summary_items": [
             {
               "label": "미국",
-              "value": 3651
+              "value": 3668
             },
             {
               "label": "대한민국",
-              "value": 2942
+              "value": 2953
             }
           ]
         },
@@ -11754,7 +11739,7 @@
             {
               "key": "kr-society",
               "label": "사회",
-              "count": 1265,
+              "count": 1276,
               "series": [
                 {
                   "date": "2016-11-02",
@@ -12186,14 +12171,14 @@
                 },
                 {
                   "date": "2026-04-05",
-                  "count": 223
+                  "count": 226
                 }
               ]
             },
             {
               "key": "us-politics",
               "label": "정치",
-              "count": 1210,
+              "count": 1215,
               "series": [
                 {
                   "date": "2016-11-02",
@@ -12625,14 +12610,14 @@
                 },
                 {
                   "date": "2026-04-05",
-                  "count": 114
+                  "count": 118
                 }
               ]
             },
             {
               "key": "us-technology",
               "label": "기술",
-              "count": 1004,
+              "count": 1008,
               "series": [
                 {
                   "date": "2016-11-02",
@@ -13060,11 +13045,11 @@
                 },
                 {
                   "date": "2026-04-04",
-                  "count": 238
+                  "count": 239
                 },
                 {
                   "date": "2026-04-05",
-                  "count": 93
+                  "count": 95
                 }
               ]
             }
@@ -13072,15 +13057,15 @@
           "summary_items": [
             {
               "label": "사회",
-              "value": 1265
+              "value": 1276
             },
             {
               "label": "정치",
-              "value": 1210
+              "value": 1215
             },
             {
               "label": "기술",
-              "value": 1004
+              "value": 1008
             }
           ]
         }
