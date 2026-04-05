@@ -1,0 +1,90 @@
+<!doctype html>
+<html lang="ko">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>newsbot crypto | 시그널</title>
+    <meta name="description" content="newsbot static crypto 시그널" />
+    <link rel="stylesheet" href="../../../assets/style.css" />
+  </head>
+  <body class="public-app market-crypto-page crypto-page-signals">
+    <nav class="surface-switcher" aria-label="View switcher">
+      
+      <a class="surface-link " href="../../../">
+        News
+      </a>
+      
+      <a class="surface-link " href="../../../analysis/">
+        Analysis
+      </a>
+      
+      <a class="surface-link " href="../../us/">
+        미국주식
+      </a>
+      
+      <a class="surface-link " href="../../korea/">
+        한국주식
+      </a>
+      
+      <a class="surface-link is-active" href="../">
+        코인
+      </a>
+      
+    </nav>
+
+    
+    <main class="markets-shell crypto-shell-page">
+      <section id="crypto-app" class="crypto-app-shell" aria-label="코인 분석 허브">
+        <header class="crypto-page-hero">
+          <div class="crypto-page-copy">
+            <p class="analysis-eyebrow">Crypto Analysis</p>
+            <h1>시그널</h1>
+            <p>패턴, 파생 지표, 추세, 모멘텀, 변동성을 한 묶음으로 보는 정적 분석 제품입니다. 스캔 버튼은 최신 배치 스냅샷을 다시 불러옵니다.</p>
+          </div>
+          <div class="crypto-hero-pills">
+            <span class="summary-pill">Binance USDT Perpetual</span>
+            <span class="summary-pill">상위 100개 스캔</span>
+            <span class="summary-pill">한국시간 표기</span>
+          </div>
+        </header>
+
+        <section class="crypto-toolbar-card">
+          <div class="crypto-toolbar-grid">
+            <label class="scanner-field">
+              <span>스캔 범위</span>
+              <select id="crypto-universe-select" class="scanner-select"></select>
+            </label>
+            <label class="scanner-field">
+              <span>타임프레임</span>
+              <select id="crypto-timeframe-select" class="scanner-select"></select>
+            </label>
+            <button id="crypto-refresh-button" class="scanner-action-button" type="button">최신 스캔 다시 불러오기</button>
+          </div>
+          <p id="crypto-cooldown-text" class="scanner-cooldown-text">잠시 후 다시 시도할 수 있습니다.</p>
+          <div id="crypto-status-line" class="scanner-status-line">스캐너 manifest를 불러오는 중입니다.</div>
+          <div class="scanner-progress-track" aria-hidden="true">
+            <span id="crypto-progress-bar" class="scanner-progress-bar"></span>
+          </div>
+        </section>
+
+        <nav id="crypto-page-tabs" class="crypto-page-tabs" aria-label="코인 분석 페이지"></nav>
+
+        <section class="crypto-summary-shell">
+          <div id="crypto-summary-meta" class="scanner-summary-meta"></div>
+          <div id="crypto-active-scan" class="scanner-active-scan"></div>
+        </section>
+
+        <section id="crypto-page-highlights" class="crypto-page-highlights"></section>
+        <section id="crypto-page-controls" class="crypto-page-controls"></section>
+        <section id="crypto-page-content" class="crypto-page-content"></section>
+      </section>
+
+      <noscript class="noscript-note">JavaScript가 있어야 코인 분석 허브를 렌더링할 수 있습니다.</noscript>
+    </main>
+    
+
+    
+    <script id="markets-bootstrap" type="application/json">{"initial_surface":"crypto","surface_links":[{"key":"us","label":"미국주식","href":"../../us/"},{"key":"korea","label":"한국주식","href":"../../korea/"},{"key":"crypto","label":"코인","href":"../"}],"crypto_page_key":"signals","crypto_page_label":"시그널","crypto_page_links":[{"key":"overview","label":"오버뷰","href":"../"},{"key":"signals","label":"시그널","href":"../signals/"},{"key":"patterns","label":"패턴","href":"../patterns/"},{"key":"opportunities","label":"우선순위","href":"../opportunities/"},{"key":"setups","label":"세트업 랩","href":"../setups/"},{"key":"technical_ratings","label":"테크니컬 레이팅","href":"../technical-ratings/"},{"key":"trend","label":"추세","href":"../trend/"},{"key":"momentum","label":"모멘텀","href":"../momentum/"},{"key":"volatility","label":"변동성","href":"../volatility/"},{"key":"multi_timeframe","label":"멀티 타임프레임","href":"../multi-timeframe/"}],"scanner_manifest_url":"../../../data/scanner/manifest.json","overview_url":"../../../data/markets-overview.json","stocks_url":"../../../data/markets-stocks.json","korea_url":"../../../data/markets-korea.json","crypto_url":"../../../data/markets-crypto.json","status_url":"../../../data/markets-status.json"}</script>
+    <script src="../../../assets/markets.js"></script>
+  </body>
+</html>

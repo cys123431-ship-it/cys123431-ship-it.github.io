@@ -42,7 +42,7 @@
       <div class="analysis-header-meta">
         <span class="summary-pill">미국주식</span>
         <span class="summary-pill">Squarified treemap</span>
-        <span class="summary-pill">업데이트 <time datetime="2026-04-05T14:05:38.506069+00:00">2026-04-05T14:05:38.506069+00:00</time></span>
+        <span class="summary-pill">업데이트 <time datetime="2026-04-05T14:30:39.465502+00:00">2026-04-05T14:30:39.465502+00:00</time></span>
       </div>
       <div id="markets-status-line" class="markets-status-line">시장 데이터를 불러오는 중입니다.</div>
     </header>
@@ -53,7 +53,7 @@
           <div class="market-map-copy">
             <p class="analysis-kicker">Market map</p>
             <h2>국가와 지수를 고르면 주요 종목 비중을 바로 비교할 수 있습니다.</h2>
-            <p>미국과 한국 주식은 기존 트리맵 구조를 유지하고, 코인은 별도 스캐너 대시보드로 분리했습니다.</p>
+            <p>미국과 한국 주식은 기존 트리맵 구조를 유지하고, 코인은 별도 정적 분석 섹션으로 분리했습니다.</p>
           </div>
           <div id="markets-main-tabs" class="market-main-tabs" aria-label="시장 메인 탭"></div>
           <div id="markets-subfilter-tabs" class="market-subfilter-tabs" aria-label="시장 하위 필터"></div>
@@ -76,7 +76,7 @@
     
     <script src="https://cdn.jsdelivr.net/npm/echarts@5.5.1/dist/echarts.min.js"></script>
     
-    <script id="markets-bootstrap" type="application/json">{"initial_surface":"us","surface_links":[{"key":"us","label":"미국주식","href":"./"},{"key":"korea","label":"한국주식","href":"../korea/"},{"key":"crypto","label":"코인","href":"../crypto/"}],"scanner_manifest_url":"../../data/scanner/manifest.json","overview_url":"../../data/markets-overview.json","stocks_url":"../../data/markets-stocks.json","korea_url":"../../data/markets-korea.json","crypto_url":"../../data/markets-crypto.json","status_url":"../../data/markets-status.json"}</script>
+    <script id="markets-bootstrap" type="application/json">{"initial_surface":"us","surface_links":[{"key":"us","label":"미국주식","href":"./"},{"key":"korea","label":"한국주식","href":"../korea/"},{"key":"crypto","label":"코인","href":"../crypto/"}],"crypto_page_key":null,"crypto_page_label":null,"crypto_page_links":[],"scanner_manifest_url":"../../data/scanner/manifest.json","overview_url":"../../data/markets-overview.json","stocks_url":"../../data/markets-stocks.json","korea_url":"../../data/markets-korea.json","crypto_url":"../../data/markets-crypto.json","status_url":"../../data/markets-status.json"}</script>
     <script src="../../assets/markets.js"></script>
   </body>
 </html>
