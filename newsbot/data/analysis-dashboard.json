@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-04-05T11:35:24.431268+00:00",
+  "generated_at": "2026-04-05T11:45:32.669480+00:00",
   "retention_days": 90,
   "default_window": "7d",
-  "lifetime_total_articles": 6592,
-  "lifetime_unknown_time_count": 1312,
+  "lifetime_total_articles": 6627,
+  "lifetime_unknown_time_count": 1322,
   "available_windows": [
     {
       "key": "24h",
@@ -29,18 +29,18 @@
   "windows": {
     "24h": {
       "label": "24h",
-      "article_count": 1453,
+      "article_count": 1469,
       "unknown_time_count": 0,
       "active_source_count": 83,
-      "repeated_title_count": 73,
+      "repeated_title_count": 72,
       "timeline": [
         {
           "date": "2026-04-04",
-          "count": 663
+          "count": 654
         },
         {
           "date": "2026-04-05",
-          "count": 790
+          "count": 815
         }
       ],
       "top_keywords": [
@@ -50,7 +50,7 @@
         },
         {
           "keyword": "iran",
-          "count": 68
+          "count": 69
         },
         {
           "keyword": "ai",
@@ -70,27 +70,27 @@
         },
         {
           "keyword": "us",
-          "count": 27
+          "count": 28
         },
         {
           "keyword": "missing",
           "count": 25
         },
         {
-          "keyword": "war",
-          "count": 23
+          "keyword": "how",
+          "count": 24
         },
         {
-          "keyword": "how",
-          "count": 22
+          "keyword": "war",
+          "count": 24
         },
         {
           "keyword": "대통령",
-          "count": 22
+          "count": 23
         },
         {
-          "keyword": "airman",
-          "count": 21
+          "keyword": "what",
+          "count": 22
         }
       ],
       "top_sources": [
@@ -102,17 +102,22 @@
         {
           "source_key": "etoday-economy-rss",
           "name": "eToday Economy",
-          "count": 116
+          "count": 113
         },
         {
           "source_key": "newsweek-feed",
           "name": "Newsweek Feed",
-          "count": 69
+          "count": 70
         },
         {
           "source_key": "mk-society-rss",
           "name": "Maeil Business Society",
           "count": 68
+        },
+        {
+          "source_key": "guardian-us-rss",
+          "name": "The Guardian US",
+          "count": 52
         },
         {
           "source_key": "asiae-society-rss",
@@ -125,23 +130,18 @@
           "count": 50
         },
         {
-          "source_key": "guardian-us-rss",
-          "name": "The Guardian US",
-          "count": 46
-        },
-        {
           "source_key": "donga-society-rss",
           "name": "DongA Society",
           "count": 42
         },
         {
-          "source_key": "forbes-business-rss",
-          "name": "Forbes Business",
-          "count": 38
-        },
-        {
           "source_key": "telegram-dada-news2",
           "name": "Telegram @dada_news2",
+          "count": 39
+        },
+        {
+          "source_key": "forbes-business-rss",
+          "name": "Forbes Business",
           "count": 38
         },
         {
@@ -150,56 +150,56 @@
           "count": 37
         },
         {
-          "source_key": "khan-society-rss",
-          "name": "Kyunghyang Society",
-          "count": 32
+          "source_key": "sbs-society-rss",
+          "name": "SBS Society",
+          "count": 35
         }
       ],
       "top_hubs": [
         {
           "key": "us",
           "label": "미국",
-          "count": 771
+          "count": 779
         },
         {
           "key": "kr",
           "label": "대한민국",
-          "count": 610
+          "count": 617
         },
         {
           "key": "global",
           "label": "글로벌 전문",
-          "count": 72
+          "count": 73
         }
       ],
       "top_sections": [
-        {
-          "key": "us-technology",
-          "label": "기술",
-          "hub": "us",
-          "hub_label": "미국",
-          "count": 247
-        },
         {
           "key": "us-politics",
           "label": "정치",
           "hub": "us",
           "hub_label": "미국",
-          "count": 242
+          "count": 248
+        },
+        {
+          "key": "us-technology",
+          "label": "기술",
+          "hub": "us",
+          "hub_label": "미국",
+          "count": 246
         },
         {
           "key": "kr-society",
           "label": "사회",
           "hub": "kr",
           "hub_label": "대한민국",
-          "count": 231
+          "count": 235
         },
         {
           "key": "kr-economy",
           "label": "경제",
           "hub": "kr",
           "hub_label": "대한민국",
-          "count": 216
+          "count": 213
         },
         {
           "key": "us-world",
@@ -213,14 +213,14 @@
           "label": "시장",
           "hub": "us",
           "hub_label": "미국",
-          "count": 97
+          "count": 100
         },
         {
           "key": "kr-politics",
           "label": "정치",
           "hub": "kr",
           "hub_label": "대한민국",
-          "count": 83
+          "count": 89
         },
         {
           "key": "us-economy",
@@ -230,17 +230,17 @@
           "count": 80
         },
         {
-          "key": "kr-sports",
-          "label": "스포츠",
-          "hub": "kr",
-          "hub_label": "대한민국",
-          "count": 43
-        },
-        {
           "key": "tech-it",
           "label": "테크",
           "hub": "global",
           "hub_label": "글로벌 전문",
+          "count": 44
+        },
+        {
+          "key": "kr-sports",
+          "label": "스포츠",
+          "hub": "kr",
+          "hub_label": "대한민국",
           "count": 43
         },
         {
@@ -261,11 +261,11 @@
       "language_counts": [
         {
           "language": "en",
-          "count": 792
+          "count": 800
         },
         {
           "language": "ko",
-          "count": 661
+          "count": 669
         }
       ],
       "repeated_titles": [
@@ -360,15 +360,6 @@
           "sort_timestamp": 1775310307
         },
         {
-          "title_hash": "baa93cefedde733ac1d2a7396338313d79a6c2e25456c48005f132f984edd88e",
-          "title": "Debris from aerial interception strikes Oracle building in Dubai, UAE says",
-          "article_count": 3,
-          "source_count": 3,
-          "latest_published_at": "2026-04-04T11:36:15+00:00",
-          "canonical_url": "https://www.cnbc.com/2026/04/04/debris-from-interception-strikes-oracle-building-in-dubai-uae-says.html",
-          "sort_timestamp": 1775302575
-        },
-        {
           "title_hash": "85c3a39e31c86ad48b31d68bd9c627fe250bb407f33c60a8feb8d64d77f91116",
           "title": "🚨 [HIGH] 호르무즈 해협 알림",
           "article_count": 3,
@@ -448,9 +439,326 @@
           "latest_published_at": "2026-04-05T09:00:19+00:00",
           "canonical_url": "https://www.cbsnews.com/news/whats-open-easter-2026",
           "sort_timestamp": 1775379619
+        },
+        {
+          "title_hash": "8b9d09d9a9b39c7b9205879f978601cde453290603b9fa34f77e52e7b414f7a9",
+          "title": "Questions to help you get 'financially naked' with your partner",
+          "article_count": 2,
+          "source_count": 2,
+          "latest_published_at": "2026-04-05T09:00:00+00:00",
+          "canonical_url": "https://www.npr.org/2026/04/05/nx-s1-5745032/questions-to-help-you-get-financially-naked-with-your-partner",
+          "sort_timestamp": 1775379600
         }
       ],
       "recent_samples": [
+        {
+          "stable_key": "8b6f933f6f6c4fc476dbb075fb7ee2fc8c869b35bf3f079b4a304f801461f2a5",
+          "source_key": "cbs-world-rss",
+          "source_name": "CBS News World",
+          "category": "us-world",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "세계",
+          "language": "en",
+          "title": "Pope Leo calls for hope amid global conflicts on his first Easter as pontiff",
+          "canonical_url": "https://www.cbsnews.com/news/pope-leo-calls-for-hope-amid-confilcts-first-easter",
+          "published_at": "2026-04-05T11:39:40+00:00",
+          "title_hash": "4e3fae722a7b1a151782d8696568bfc0b549e5b42c7045ed4ea7c412eb626dc5",
+          "keywords": [
+            "pope",
+            "leo",
+            "calls",
+            "hope",
+            "amid",
+            "global"
+          ]
+        },
+        {
+          "stable_key": "d6948da8f78634fa931eb3e4b23af46ca4e7cdc79fa958185b315c98f7b07ec8",
+          "source_key": "sbs-society-rss",
+          "source_name": "SBS Society",
+          "category": "kr-society",
+          "hub": "kr",
+          "hub_label": "대한민국",
+          "section_label": "사회",
+          "language": "ko",
+          "title": "더 짜릿하고 오싹하게…\"OTT는 못한다\" 힘준 극장들",
+          "canonical_url": "https://news.sbs.co.kr/news/endPage.do?cooper=RSSREADER&news_id=N1008505993&plink=RSSLINK",
+          "published_at": "2026-04-05T11:39:00+00:00",
+          "title_hash": "3ad12f044167eec7c45fcdfeeb35092242b096b8347c0374260ce2f279981a6a",
+          "keywords": [
+            "짜릿하고",
+            "오싹하게",
+            "ott는",
+            "못한다",
+            "힘준",
+            "극장들"
+          ]
+        },
+        {
+          "stable_key": "ca309810e813edb611d11ea6aae01cd417c1aee5f07a72b7976afe0081975957",
+          "source_key": "sbs-society-rss",
+          "source_name": "SBS Society",
+          "category": "kr-society",
+          "hub": "kr",
+          "hub_label": "대한민국",
+          "section_label": "사회",
+          "language": "ko",
+          "title": "고글 쓰자 빨간 점 '휙휙'…100만 괴롭힌 증상 고친다",
+          "canonical_url": "https://news.sbs.co.kr/news/endPage.do?cooper=RSSREADER&news_id=N1008505992&plink=RSSLINK",
+          "published_at": "2026-04-05T11:39:00+00:00",
+          "title_hash": "98ee7e1d99fb2f7ea3a5b7c3f848390c33e711833193ce70178dc2ccea55e7d4",
+          "keywords": [
+            "고글",
+            "쓰자",
+            "빨간",
+            "휙휙",
+            "100만",
+            "괴롭힌"
+          ]
+        },
+        {
+          "stable_key": "ff04762f2f25ac6403f6a4a51d6e9ff85271ed25f911a74c96305f68d443f494",
+          "source_key": "sbs-society-rss",
+          "source_name": "SBS Society",
+          "category": "kr-society",
+          "hub": "kr",
+          "hub_label": "대한민국",
+          "section_label": "사회",
+          "language": "ko",
+          "title": "껍질 까지고 하얗게 말라죽었다…지리산 떼죽음 '비상'",
+          "canonical_url": "https://news.sbs.co.kr/news/endPage.do?cooper=RSSREADER&news_id=N1008505991&plink=RSSLINK",
+          "published_at": "2026-04-05T11:38:00+00:00",
+          "title_hash": "adf32f94961d64f5b345011c1a67be77b96193559b747867b526e13eece80099",
+          "keywords": [
+            "껍질",
+            "까지고",
+            "하얗게",
+            "말라죽었다",
+            "지리산",
+            "떼죽음"
+          ]
+        },
+        {
+          "stable_key": "c2995d846f47fdaf0b666a34a83d0c4ad2f61e9d13efe9781cd80f03cb628524",
+          "source_key": "khan-politics-rss",
+          "source_name": "Kyunghyang Politics",
+          "category": "kr-politics",
+          "hub": "kr",
+          "hub_label": "대한민국",
+          "section_label": "정치",
+          "language": "ko",
+          "title": "“교회·성도들, 국가 위기 때마다 등불 역할… 국민 하나로 모으는 길 계속 앞장서주길”",
+          "canonical_url": "https://www.khan.co.kr/article/202604052038005",
+          "published_at": "2026-04-05T11:38:00+00:00",
+          "title_hash": "a4157b9d4e5bdc0aa79a62eb69e2798bdb6228c86e83f80b626f7cffa61c18ea",
+          "keywords": [
+            "교회",
+            "성도들",
+            "국가",
+            "위기",
+            "때마다",
+            "등불"
+          ]
+        },
+        {
+          "stable_key": "19644ae2d280dc45fffae16a4881903497e4c9cc68700ffe798714b7ff841174",
+          "source_key": "khan-politics-rss",
+          "source_name": "Kyunghyang Politics",
+          "category": "kr-politics",
+          "hub": "kr",
+          "hub_label": "대한민국",
+          "section_label": "정치",
+          "language": "ko",
+          "title": "정청래 “5·18 헌법 수록 반대는 전두환 찬양…국힘, 입장 밝혀라”",
+          "canonical_url": "https://www.khan.co.kr/article/202604052037015",
+          "published_at": "2026-04-05T11:37:01+00:00",
+          "title_hash": "f270f863f33c2cfa3fa9ee3fba3630241cabbed780571abe79e5e12317b974cb",
+          "keywords": [
+            "정청래",
+            "헌법",
+            "수록",
+            "반대는",
+            "전두환",
+            "찬양"
+          ]
+        },
+        {
+          "stable_key": "08e28dc25cb3d61962d6805bb6fb618f533487e062ed46489e83794a6eae104b",
+          "source_key": "sbs-society-rss",
+          "source_name": "SBS Society",
+          "category": "kr-society",
+          "hub": "kr",
+          "hub_label": "대한민국",
+          "section_label": "사회",
+          "language": "ko",
+          "title": "비 오면 퍼지는 '녹조 주범'…\"잘 덮기만 해도 막는다\"",
+          "canonical_url": "https://news.sbs.co.kr/news/endPage.do?cooper=RSSREADER&news_id=N1008505990&plink=RSSLINK",
+          "published_at": "2026-04-05T11:37:00+00:00",
+          "title_hash": "446259bc2f7da0987916a20b48319f45b3c4bdc62290679966cbe2b95a3f9292",
+          "keywords": [
+            "오면",
+            "퍼지는",
+            "녹조",
+            "주범",
+            "덮기만",
+            "해도"
+          ]
+        },
+        {
+          "stable_key": "69af81d7c517c813a5805fe5d1c9c264280ea63513e76d9314cb6e37ef8c8a93",
+          "source_key": "khan-politics-rss",
+          "source_name": "Kyunghyang Politics",
+          "category": "kr-politics",
+          "hub": "kr",
+          "hub_label": "대한민국",
+          "section_label": "정치",
+          "language": "ko",
+          "title": "김부겸 “뻥 치는 공약하지 않겠다…시장되면 대통령과 지역소멸 토론할 것”",
+          "canonical_url": "https://www.khan.co.kr/article/202604052037001",
+          "published_at": "2026-04-05T11:37:00+00:00",
+          "title_hash": "7229a9828c27b76f90ad57291f93a8ee4799693eba1cb24b1194f080e8ed8b20",
+          "keywords": [
+            "김부겸",
+            "치는",
+            "공약하지",
+            "않겠다",
+            "시장되면",
+            "대통령과"
+          ]
+        },
+        {
+          "stable_key": "2462862e726e9dff980ef25073c8678ac4d7c6d4e54d789fc6255f8b4f6ab9f4",
+          "source_key": "khan-politics-rss",
+          "source_name": "Kyunghyang Politics",
+          "category": "kr-politics",
+          "hub": "kr",
+          "hub_label": "대한민국",
+          "section_label": "정치",
+          "language": "ko",
+          "title": "“결의문서 사과”…국힘, 이번에도 ‘절윤’은 없었다",
+          "canonical_url": "https://www.khan.co.kr/article/202604052037005",
+          "published_at": "2026-04-05T11:37:00+00:00",
+          "title_hash": "e880120ab477bf595f56927c6e233a51347cefe6c94e646e52c0a4f2fa96e732",
+          "keywords": [
+            "결의문서",
+            "사과",
+            "국힘",
+            "이번에도",
+            "절윤",
+            "없었다"
+          ]
+        },
+        {
+          "stable_key": "f80b2cae067238c2c35aba49a5f78fd7418e8f980907574e25f13c807cd9fa4a",
+          "source_key": "telegram-dada-news2",
+          "source_name": "Telegram @dada_news2",
+          "category": "tech-it",
+          "hub": "global",
+          "hub_label": "글로벌 전문",
+          "section_label": "테크",
+          "language": "ko",
+          "title": "[머니투데이방송] 25조 운영 전남광주특별시장, 김영록·민형배 결선서 만나다",
+          "canonical_url": "https://news.mtn.co.kr/news-detail/2026040518480617840",
+          "published_at": "2026-04-05T11:36:25+00:00",
+          "title_hash": "082027fd704b322af23415d36f29a50c88a4a342cf8ac3ab718d93707a7dad7a",
+          "keywords": [
+            "머니투데이방송",
+            "25조",
+            "운영",
+            "전남광주특별시장",
+            "김영록",
+            "민형배"
+          ]
+        },
+        {
+          "stable_key": "20750956734fc085dac93f768ea023e15cdee9ee43bd881a9ba0d59baf534130",
+          "source_key": "sbs-politics-rss",
+          "source_name": "SBS Politics",
+          "category": "kr-politics",
+          "hub": "kr",
+          "hub_label": "대한민국",
+          "section_label": "정치",
+          "language": "ko",
+          "title": "'전 정무수석' 과 '현직 도지사'…강원 마음 어디로?",
+          "canonical_url": "https://news.sbs.co.kr/news/endPage.do?cooper=RSSREADER&news_id=N1008505989&plink=RSSLINK",
+          "published_at": "2026-04-05T11:36:00+00:00",
+          "title_hash": "a084eafa28960093049f79bd2c22d9a18400a0e0c4d5f213f0af071b8c088994",
+          "keywords": [
+            "정무수석",
+            "현직",
+            "도지사",
+            "강원",
+            "마음",
+            "어디로"
+          ]
+        },
+        {
+          "stable_key": "8400a39432e24f3f5f93e2bfd7023feefdb6612ed6a23e68f0fcfe1e7bfd4e4a",
+          "source_key": "sbs-politics-rss",
+          "source_name": "SBS Politics",
+          "category": "kr-politics",
+          "hub": "kr",
+          "hub_label": "대한민국",
+          "section_label": "정치",
+          "language": "ko",
+          "title": "민주, 광주 '2인' 압축…'대구 공천' 수습 나선 장동혁",
+          "canonical_url": "https://news.sbs.co.kr/news/endPage.do?cooper=RSSREADER&news_id=N1008505988&plink=RSSLINK",
+          "published_at": "2026-04-05T11:35:00+00:00",
+          "title_hash": "07006689e3d44b96b9f0d3b63019093a983b228a72c22262d4af5f96371d10d8",
+          "keywords": [
+            "민주",
+            "광주",
+            "2인",
+            "압축",
+            "대구",
+            "공천"
+          ]
+        },
+        {
+          "stable_key": "a87637b950c1d677aad3e523c9396c138a476a10b82e9858f456ca85d03f370c",
+          "source_key": "khan-politics-rss",
+          "source_name": "Kyunghyang Politics",
+          "category": "kr-politics",
+          "hub": "kr",
+          "hub_label": "대한민국",
+          "section_label": "정치",
+          "language": "ko",
+          "title": "국정농단과 불법계엄…대통령 책무 저버린 “국민 배반 행위”",
+          "canonical_url": "https://www.khan.co.kr/article/202604052035005",
+          "published_at": "2026-04-05T11:35:00+00:00",
+          "title_hash": "26634f88b81a85702aaca06ce1dcf284e34f61bf9135e461151ffdf481e8dbe1",
+          "keywords": [
+            "국정농단과",
+            "불법계엄",
+            "대통령",
+            "책무",
+            "저버린",
+            "국민"
+          ]
+        },
+        {
+          "stable_key": "238cdc805090635e2a5d5f1d60e854ec7245188418641286168e0803114395ec",
+          "source_key": "newsweek-feed",
+          "source_name": "Newsweek Feed",
+          "category": "us-world",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "세계",
+          "language": "en",
+          "title": "Pope Leo’s Easter Message 2026: Pontiff Urges World Leaders To End War",
+          "canonical_url": "https://www.newsweek.com/pope-leos-easter-message-2026-pontiff-urges-world-leaders-end-war-11778018",
+          "published_at": "2026-04-05T11:34:42+00:00",
+          "title_hash": "92ad227234f36d0b0c3cbe5f31cf5ab486c1879c410bc067b4bed2ab43538ff6",
+          "keywords": [
+            "pope",
+            "leo",
+            "easter",
+            "message",
+            "pontiff",
+            "urges"
+          ]
+        },
         {
           "stable_key": "fc53cb73f5c9be3a0af6ca47b41f6ef45f2522ee51b3c58259ac075102ae0cc6",
           "source_key": "sbs-society-rss",
@@ -515,6 +823,28 @@
             "using",
             "trivia",
             "games"
+          ]
+        },
+        {
+          "stable_key": "33e6642f7df200cc03d205993df43e5f18b467a519a8e6239493babc7c46c4f6",
+          "source_key": "cbs-politics-rss",
+          "source_name": "CBS News Politics",
+          "category": "us-politics",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "정치",
+          "language": "en",
+          "title": "Transcript: Maryland Gov. Wes Moore on \"Face the Nation with Margaret Brennan,\" April 5, 2026",
+          "canonical_url": "https://www.cbsnews.com/news/maryland-gov-wes-moore-face-the-nation-transcript-04-05-2026",
+          "published_at": "2026-04-05T11:30:05+00:00",
+          "title_hash": "ee9a9ccc98af2c5ced247f05b509ad85884e3ce4ff66ef227b6132da3eed572b",
+          "keywords": [
+            "transcript",
+            "maryland",
+            "gov",
+            "wes",
+            "moore",
+            "face"
           ]
         },
         {
@@ -780,346 +1110,16 @@
             "식량",
             "원자재도"
           ]
-        },
-        {
-          "stable_key": "e3ab3798f944fc13526030772e0daaad866047ce007b37a246b8b239e0cc4e5a",
-          "source_key": "khan-society-rss",
-          "source_name": "Kyunghyang Society",
-          "category": "kr-society",
-          "hub": "kr",
-          "hub_label": "대한민국",
-          "section_label": "사회",
-          "language": "ko",
-          "title": "[윤석열 탄핵 1년]“바뀌지 않은 세상, 그래서 다시 광장”… 시민들이 말하는 그 후의 삶",
-          "canonical_url": "https://www.khan.co.kr/article/202604052018005",
-          "published_at": "2026-04-05T11:18:00+00:00",
-          "title_hash": "125bf65489a3be08c08e2ddfcbf1bc1513ae17a92df67efb5b4d015e9c731e33",
-          "keywords": [
-            "윤석열",
-            "탄핵",
-            "1년",
-            "바뀌지",
-            "않은",
-            "세상"
-          ]
-        },
-        {
-          "stable_key": "8bce666724287a8964487f342192674d5d018e768107a2bd195c4fae0eb8405d",
-          "source_key": "donga-politics-rss",
-          "source_name": "DongA Politics",
-          "category": "kr-politics",
-          "hub": "kr",
-          "hub_label": "대한민국",
-          "section_label": "정치",
-          "language": "ko",
-          "title": "與 전남광주 김영록-민형배 결선행…이번주 지선 윤곽 나온다",
-          "canonical_url": "https://www.donga.com/news/Politics/article/all/20260405/133676588/1",
-          "published_at": "2026-04-05T11:15:00+00:00",
-          "title_hash": "a13a96af337a6436e51cd9003360583284460272c9b17f136d9b2ab4ffd0b6d4",
-          "keywords": [
-            "전남광주",
-            "김영록",
-            "민형배",
-            "결선행",
-            "이번주",
-            "지선"
-          ]
-        },
-        {
-          "stable_key": "9733191060bba2dfc070a08256cad1d99331696ac18972c68c87006570529b08",
-          "source_key": "telegram-dada-news2",
-          "source_name": "Telegram @dada_news2",
-          "category": "tech-it",
-          "hub": "global",
-          "hub_label": "글로벌 전문",
-          "section_label": "테크",
-          "language": "ko",
-          "title": "[이데일리] SSG,단독 선두 도약...롯데, 피치클록 악재 속 6연패",
-          "canonical_url": "https://www.edaily.co.kr/news/read?newsId=01954886645413168",
-          "published_at": "2026-04-05T11:14:17+00:00",
-          "title_hash": "b0139df6860a079aa49fa9b666864b14c020d49f84ffa313672c38de9dcdda94",
-          "keywords": [
-            "이데일리",
-            "ssg",
-            "선두",
-            "도약",
-            "롯데",
-            "피치클록"
-          ]
-        },
-        {
-          "stable_key": "08fe43d626dab144aef2eddedbfac4a8f43b367c404e0ced48f46bd2bb7d250c",
-          "source_key": "khan-sports-rss",
-          "source_name": "Kyunghyang Sports",
-          "category": "kr-sports",
-          "hub": "kr",
-          "hub_label": "대한민국",
-          "section_label": "스포츠",
-          "language": "ko",
-          "title": "고지원 “육지 첫 우승, 언니랑 합쳐 6승”",
-          "canonical_url": "https://www.khan.co.kr/article/202604052014005",
-          "published_at": "2026-04-05T11:14:00+00:00",
-          "title_hash": "1dc38bb2a78c9fc103a9f04cec2fddbcf25a8c5c6ab2722c030e7b61ed4b95d6",
-          "keywords": [
-            "고지원",
-            "육지",
-            "우승",
-            "언니랑",
-            "합쳐",
-            "6승"
-          ]
-        },
-        {
-          "stable_key": "a13e3cc66e814f941d6eaaa3dca74fad3c3cf792c956de4a8072ebdd8a164d5f",
-          "source_key": "mk-society-rss",
-          "source_name": "Maeil Business Society",
-          "category": "kr-society",
-          "hub": "kr",
-          "hub_label": "대한민국",
-          "section_label": "사회",
-          "language": "ko",
-          "title": "“나 못 내렸다”…청량리역서 승객 선로 무단 진입, 1호선 한때 운행 지연",
-          "canonical_url": "https://www.mk.co.kr/news/society/12008523",
-          "published_at": "2026-04-05T11:13:48+00:00",
-          "title_hash": "6b158e7d241e8ccd2a61890ba0186f2597cb0f1bafd147768551875cd8c92bfe",
-          "keywords": [
-            "내렸다",
-            "청량리역서",
-            "승객",
-            "선로",
-            "무단",
-            "진입"
-          ]
-        },
-        {
-          "stable_key": "5185ab8559059549b618174f72313a46f4f6cf18ee007269d99e279bb383060c",
-          "source_key": "khan-sports-rss",
-          "source_name": "Kyunghyang Sports",
-          "category": "kr-sports",
-          "hub": "kr",
-          "hub_label": "대한민국",
-          "section_label": "스포츠",
-          "language": "ko",
-          "title": "박준순 “아! 사이클링 히트”…두산, 연패 끊었다",
-          "canonical_url": "https://www.khan.co.kr/article/202604052012005",
-          "published_at": "2026-04-05T11:12:00+00:00",
-          "title_hash": "06ead904afe23e34cba8418270da4248ed9f2af40e3338934c3dc39ffa5429c5",
-          "keywords": [
-            "박준순",
-            "사이클링",
-            "히트",
-            "두산",
-            "연패",
-            "끊었다"
-          ]
-        },
-        {
-          "stable_key": "91876adf145995d2647d9b05cc931ad6f4d8c067b1b842fc30c74cfd709dd1f3",
-          "source_key": "donga-society-rss",
-          "source_name": "DongA Society",
-          "category": "kr-society",
-          "hub": "kr",
-          "hub_label": "대한민국",
-          "section_label": "사회",
-          "language": "ko",
-          "title": "‘참전 용사’ 국밥 대접 식당주 “건물주가 월세 5만 원 깎아줘…눈물”",
-          "canonical_url": "https://www.donga.com/news/Society/article/all/20260405/133678836/1",
-          "published_at": "2026-04-05T11:11:22+00:00",
-          "title_hash": "f66372a46d068af7d4d9bd75f0d5456120c9645928e8b9838b64cc35af63ed41",
-          "keywords": [
-            "참전",
-            "용사",
-            "국밥",
-            "대접",
-            "식당주",
-            "건물주가"
-          ]
-        },
-        {
-          "stable_key": "583e15b534c16748aa0919c21fd5234495ed57c069f44415796ac7f8afca0353",
-          "source_key": "khan-sports-rss",
-          "source_name": "Kyunghyang Sports",
-          "category": "kr-sports",
-          "hub": "kr",
-          "hub_label": "대한민국",
-          "section_label": "스포츠",
-          "language": "ko",
-          "title": "손흥민, 생애 첫 한 경기 4어시스트 ‘MLS 도움 선두’",
-          "canonical_url": "https://www.khan.co.kr/article/202604052011015",
-          "published_at": "2026-04-05T11:11:01+00:00",
-          "title_hash": "92468aa8eab38bc5ca29c2769ca10d5242347a9a3bca899caf59a00efccd10e1",
-          "keywords": [
-            "손흥민",
-            "생애",
-            "경기",
-            "4어시스트",
-            "mls",
-            "도움"
-          ]
-        },
-        {
-          "stable_key": "4c9b753c411bd5518520cb153a27c1daf77d975ce8b742cf9a5eac8df75a4ef2",
-          "source_key": "khan-sports-rss",
-          "source_name": "Kyunghyang Sports",
-          "category": "kr-sports",
-          "hub": "kr",
-          "hub_label": "대한민국",
-          "section_label": "스포츠",
-          "language": "ko",
-          "title": "봄 배구 6전 6승 GS칼텍스 ‘3위 팀의 기적’ 우승 축배",
-          "canonical_url": "https://www.khan.co.kr/article/202604052011005",
-          "published_at": "2026-04-05T11:11:00+00:00",
-          "title_hash": "72002a38883afe443f59668dcddb034f8c40928f8e0150308c200fb9b5ae0e02",
-          "keywords": [
-            "배구",
-            "6전",
-            "6승",
-            "gs칼텍스",
-            "3위",
-            "팀의"
-          ]
-        },
-        {
-          "stable_key": "5c695e54d03638d544970a59cf4ad5797580e26a299c9c5eb551613a72f9bcb3",
-          "source_key": "khan-local-rss",
-          "source_name": "Kyunghyang Local",
-          "category": "kr-local",
-          "hub": "kr",
-          "hub_label": "대한민국",
-          "section_label": "지역",
-          "language": "ko",
-          "title": "부산 내성·수영지하차도 지반침하로 차량 통제",
-          "canonical_url": "https://www.khan.co.kr/article/202604052011001",
-          "published_at": "2026-04-05T11:11:00+00:00",
-          "title_hash": "59f880af4ba3e414d0ab8eef04dca7d389b781b6141e34d51c73cc52abf079a9",
-          "keywords": [
-            "부산",
-            "내성",
-            "수영지하차도",
-            "지반침하로",
-            "차량",
-            "통제"
-          ]
-        },
-        {
-          "stable_key": "919713045df27a0be8e3ac2bf086089e91bdd293de5276cac32ab342c244b478",
-          "source_key": "etoday-economy-rss",
-          "source_name": "eToday Economy",
-          "category": "kr-economy",
-          "hub": "kr",
-          "hub_label": "대한민국",
-          "section_label": "경제",
-          "language": "ko",
-          "title": "물류센터에 태양광발전소 설치…LX판토스, SK이노 E&S와 맞손",
-          "canonical_url": "https://www.etoday.co.kr/news/view/2572815",
-          "published_at": "2026-04-05T11:06:00+00:00",
-          "title_hash": "9040308c45e22b515afe364490fc843343cc91174d0a8a291a208ab4487a2da5",
-          "keywords": [
-            "물류센터에",
-            "태양광발전소",
-            "설치",
-            "lx판토스",
-            "sk이노",
-            "s와"
-          ]
-        },
-        {
-          "stable_key": "689954d39754cf08794abd9cc7f5e9f20c1f95658806f5b4aa5706f19d3f3f4b",
-          "source_key": "newsweek-feed",
-          "source_name": "Newsweek Feed",
-          "category": "us-technology",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "기술",
-          "language": "en",
-          "title": "United Airlines Announces New Premium Ticket Options",
-          "canonical_url": "https://www.newsweek.com/united-airlines-new-premium-ticket-options-11784784",
-          "published_at": "2026-04-05T11:04:04+00:00",
-          "title_hash": "2cb0717813aaef59ad80efb84c41e4a1d88a5362d5575adcc6072a6e153903e4",
-          "keywords": [
-            "united",
-            "airlines",
-            "announces",
-            "new",
-            "premium",
-            "ticket"
-          ]
-        },
-        {
-          "stable_key": "6df06c903f335f31ef24de79a9064e24aa1334c55d78946ace558f84ad91936d",
-          "source_key": "wired-rss",
-          "source_name": "Wired RSS",
-          "category": "us-technology",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "기술",
-          "language": "en",
-          "title": "Heatbit Maxi Pro Review: a Space Heater That Also Mines Bitcoin",
-          "canonical_url": "https://www.wired.com/review/heatbit-maxi-pro-bitcoin-miner-heater",
-          "published_at": "2026-04-05T11:04:00+00:00",
-          "title_hash": "fdd6650de5a14cf2b7f63320df1cdd709bb9076f31e4aa00e8896ac5da772280",
-          "keywords": [
-            "heatbit",
-            "maxi",
-            "pro",
-            "review",
-            "space",
-            "heater"
-          ]
-        },
-        {
-          "stable_key": "c0b056749477d408e64a34aa422b4ce550cc44b7e92bb51da57acab8f69ffcf3",
-          "source_key": "fox-world-rss",
-          "source_name": "Fox News World",
-          "category": "us-world",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "세계",
-          "language": "en",
-          "title": "Pope Leo XIV invokes Pope Francis' final words in Easter plea against growing 'indifference' to war",
-          "canonical_url": "https://www.foxnews.com/world/pope-leo-xiv-invokes-pope-francis-final-words-easter-plea-against-growing-indifference-war",
-          "published_at": "2026-04-05T11:03:29+00:00",
-          "title_hash": "ceaf6baed46224d7baace03ba0400e4029ae8680f88ad48af1276826baf51f49",
-          "keywords": [
-            "pope",
-            "leo",
-            "xiv",
-            "invokes",
-            "francis",
-            "final"
-          ]
-        },
-        {
-          "stable_key": "3c1e80f2c5740ad66137e0ad6ee0ca9c1e7ed229cb386efa8bd6b56bff3ace02",
-          "source_key": "telegram-news-kor",
-          "source_name": "Telegram @news_kor",
-          "category": "kr-society",
-          "hub": "kr",
-          "hub_label": "대한민국",
-          "section_label": "사회",
-          "language": "ko",
-          "title": "🔍[단독]서울시, 공무원 ‘자기돌봄 특별휴가’ 연 1일 추진···“번아웃...",
-          "canonical_url": "https://www.khan.co.kr/article/202604052000001",
-          "published_at": "2026-04-05T11:02:31+00:00",
-          "title_hash": "1c2a9b3afb75349f57cb787b18511e390533a36dcc5b22182a6a94efbc1f72b3",
-          "keywords": [
-            "서울시",
-            "공무원",
-            "자기돌봄",
-            "특별휴가",
-            "1일",
-            "추진"
-          ]
         }
       ],
       "kpi_series": [
         {
           "key": "articles",
           "label": "기사 수",
-          "value": 1453,
+          "value": 1469,
           "series": [
-            663,
-            790
+            654,
+            815
           ]
         },
         {
@@ -1127,17 +1127,17 @@
           "label": "활성 소스",
           "value": 83,
           "series": [
-            663,
-            790
+            654,
+            815
           ]
         },
         {
           "key": "repeats",
           "label": "반복 기사",
-          "value": 73,
+          "value": 72,
           "series": [
-            663,
-            790
+            654,
+            815
           ]
         },
         {
@@ -1145,8 +1145,8 @@
           "label": "시간 미상",
           "value": 0,
           "series": [
-            663,
-            790
+            654,
+            815
           ]
         }
       ],
@@ -1163,17 +1163,22 @@
             {
               "source_key": "etoday-economy-rss",
               "name": "eToday Economy",
-              "count": 116
+              "count": 113
             },
             {
               "source_key": "newsweek-feed",
               "name": "Newsweek Feed",
-              "count": 69
+              "count": 70
             },
             {
               "source_key": "mk-society-rss",
               "name": "Maeil Business Society",
               "count": 68
+            },
+            {
+              "source_key": "guardian-us-rss",
+              "name": "The Guardian US",
+              "count": 52
             },
             {
               "source_key": "asiae-society-rss",
@@ -1184,11 +1189,6 @@
               "source_key": "forbes-innovation-rss",
               "name": "Forbes Innovation",
               "count": 50
-            },
-            {
-              "source_key": "guardian-us-rss",
-              "name": "The Guardian US",
-              "count": 46
             },
             {
               "source_key": "donga-society-rss",
@@ -1202,32 +1202,32 @@
           "label": "섹션 비중",
           "items": [
             {
-              "key": "us-technology",
-              "label": "기술",
-              "hub": "us",
-              "hub_label": "미국",
-              "count": 247
-            },
-            {
               "key": "us-politics",
               "label": "정치",
               "hub": "us",
               "hub_label": "미국",
-              "count": 242
+              "count": 248
+            },
+            {
+              "key": "us-technology",
+              "label": "기술",
+              "hub": "us",
+              "hub_label": "미국",
+              "count": 246
             },
             {
               "key": "kr-society",
               "label": "사회",
               "hub": "kr",
               "hub_label": "대한민국",
-              "count": 231
+              "count": 235
             },
             {
               "key": "kr-economy",
               "label": "경제",
               "hub": "kr",
               "hub_label": "대한민국",
-              "count": 216
+              "count": 213
             },
             {
               "key": "us-world",
@@ -1241,14 +1241,14 @@
               "label": "시장",
               "hub": "us",
               "hub_label": "미국",
-              "count": 97
+              "count": 100
             },
             {
               "key": "kr-politics",
               "label": "정치",
               "hub": "kr",
               "hub_label": "대한민국",
-              "count": 83
+              "count": 89
             },
             {
               "key": "us-economy",
@@ -1272,7 +1272,7 @@
             {
               "key": "iran",
               "label": "iran",
-              "count": 68
+              "count": 69
             },
             {
               "key": "ai",
@@ -1297,7 +1297,7 @@
             {
               "key": "us",
               "label": "us",
-              "count": 27
+              "count": 28
             },
             {
               "key": "missing",
@@ -1314,25 +1314,25 @@
           "series": [
             {
               "date": "2026-04-04",
-              "count": 663
+              "count": 654
             },
             {
               "date": "2026-04-05",
-              "count": 790
+              "count": 815
             }
           ],
           "summary_items": [
             {
               "label": "최근 집계",
-              "value": 790
+              "value": 815
             },
             {
               "label": "일 평균",
-              "value": 726.5
+              "value": 734.5
             },
             {
               "label": "최대 일자",
-              "value": "2026-04-05 / 790"
+              "value": "2026-04-05 / 815"
             }
           ]
         },
@@ -1343,30 +1343,30 @@
             {
               "key": "us",
               "label": "미국",
-              "count": 771,
+              "count": 779,
               "series": [
                 {
                   "date": "2026-04-04",
-                  "count": 533
+                  "count": 528
                 },
                 {
                   "date": "2026-04-05",
-                  "count": 238
+                  "count": 251
                 }
               ]
             },
             {
               "key": "kr",
               "label": "대한민국",
-              "count": 610,
+              "count": 617,
               "series": [
                 {
                   "date": "2026-04-04",
-                  "count": 83
+                  "count": 79
                 },
                 {
                   "date": "2026-04-05",
-                  "count": 527
+                  "count": 538
                 }
               ]
             }
@@ -1374,11 +1374,11 @@
           "summary_items": [
             {
               "label": "미국",
-              "value": 771
+              "value": 779
             },
             {
               "label": "대한민국",
-              "value": 610
+              "value": 617
             }
           ]
         },
@@ -1387,39 +1387,39 @@
           "label": "주요 섹션 추이",
           "series_groups": [
             {
-              "key": "us-technology",
-              "label": "기술",
-              "count": 247,
+              "key": "us-politics",
+              "label": "정치",
+              "count": 248,
               "series": [
                 {
                   "date": "2026-04-04",
-                  "count": 178
+                  "count": 161
                 },
                 {
                   "date": "2026-04-05",
-                  "count": 69
+                  "count": 87
                 }
               ]
             },
             {
-              "key": "us-politics",
-              "label": "정치",
-              "count": 242,
+              "key": "us-technology",
+              "label": "기술",
+              "count": 246,
               "series": [
                 {
                   "date": "2026-04-04",
-                  "count": 162
+                  "count": 176
                 },
                 {
                   "date": "2026-04-05",
-                  "count": 80
+                  "count": 70
                 }
               ]
             },
             {
               "key": "kr-society",
               "label": "사회",
-              "count": 231,
+              "count": 235,
               "series": [
                 {
                   "date": "2026-04-04",
@@ -1427,23 +1427,23 @@
                 },
                 {
                   "date": "2026-04-05",
-                  "count": 202
+                  "count": 206
                 }
               ]
             }
           ],
           "summary_items": [
             {
-              "label": "기술",
-              "value": 247
+              "label": "정치",
+              "value": 248
             },
             {
-              "label": "정치",
-              "value": 242
+              "label": "기술",
+              "value": 246
             },
             {
               "label": "사회",
-              "value": 231
+              "value": 235
             }
           ]
         }
@@ -1451,7 +1451,7 @@
     },
     "7d": {
       "label": "7d",
-      "article_count": 4518,
+      "article_count": 4543,
       "unknown_time_count": 0,
       "active_source_count": 100,
       "repeated_title_count": 254,
@@ -1486,28 +1486,28 @@
         },
         {
           "date": "2026-04-05",
-          "count": 790
+          "count": 815
         }
       ],
       "top_keywords": [
         {
           "keyword": "trump",
-          "count": 464
+          "count": 465
         },
         {
           "keyword": "iran",
-          "count": 231
+          "count": 232
         },
         {
           "keyword": "war",
-          "count": 113
-        },
-        {
-          "keyword": "new",
-          "count": 97
+          "count": 114
         },
         {
           "keyword": "us",
+          "count": 98
+        },
+        {
+          "keyword": "new",
           "count": 97
         },
         {
@@ -1524,11 +1524,11 @@
         },
         {
           "keyword": "what",
-          "count": 73
+          "count": 74
         },
         {
           "keyword": "how",
-          "count": 70
+          "count": 72
         },
         {
           "keyword": "about",
@@ -1543,17 +1543,17 @@
         {
           "source_key": "guardian-us-rss",
           "name": "The Guardian US",
-          "count": 149
+          "count": 156
+        },
+        {
+          "source_key": "yahoo-news-rss",
+          "name": "Yahoo News RSS",
+          "count": 150
         },
         {
           "source_key": "asiae-society-rss",
           "name": "Asiae Society",
           "count": 148
-        },
-        {
-          "source_key": "yahoo-news-rss",
-          "name": "Yahoo News RSS",
-          "count": 147
         },
         {
           "source_key": "nypost-feed",
@@ -1605,17 +1605,17 @@
         {
           "key": "us",
           "label": "미국",
-          "count": 2571
+          "count": 2584
         },
         {
           "key": "kr",
           "label": "대한민국",
-          "count": 1761
+          "count": 1772
         },
         {
           "key": "global",
           "label": "글로벌 전문",
-          "count": 186
+          "count": 187
         }
       ],
       "top_sections": [
@@ -1624,14 +1624,21 @@
           "label": "정치",
           "hub": "us",
           "hub_label": "미국",
-          "count": 941
+          "count": 948
         },
         {
           "key": "us-technology",
           "label": "기술",
           "hub": "us",
           "hub_label": "미국",
-          "count": 673
+          "count": 674
+        },
+        {
+          "key": "kr-society",
+          "label": "사회",
+          "hub": "kr",
+          "hub_label": "대한민국",
+          "count": 504
         },
         {
           "key": "kr-economy",
@@ -1641,25 +1648,18 @@
           "count": 503
         },
         {
-          "key": "kr-society",
-          "label": "사회",
-          "hub": "kr",
-          "hub_label": "대한민국",
-          "count": 500
-        },
-        {
           "key": "us-world",
           "label": "세계",
           "hub": "us",
           "hub_label": "미국",
-          "count": 419
+          "count": 421
         },
         {
           "key": "kr-politics",
           "label": "정치",
           "hub": "kr",
           "hub_label": "대한민국",
-          "count": 289
+          "count": 296
         },
         {
           "key": "us-economy",
@@ -1680,7 +1680,7 @@
           "label": "시장",
           "hub": "us",
           "hub_label": "미국",
-          "count": 252
+          "count": 255
         },
         {
           "key": "kr-sports",
@@ -1694,7 +1694,7 @@
           "label": "테크",
           "hub": "global",
           "hub_label": "글로벌 전문",
-          "count": 85
+          "count": 86
         },
         {
           "key": "crypto",
@@ -1707,11 +1707,11 @@
       "language_counts": [
         {
           "language": "en",
-          "count": 2703
+          "count": 2716
         },
         {
           "language": "ko",
-          "count": 1815
+          "count": 1827
         }
       ],
       "repeated_titles": [
@@ -1898,6 +1898,314 @@
       ],
       "recent_samples": [
         {
+          "stable_key": "8b6f933f6f6c4fc476dbb075fb7ee2fc8c869b35bf3f079b4a304f801461f2a5",
+          "source_key": "cbs-world-rss",
+          "source_name": "CBS News World",
+          "category": "us-world",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "세계",
+          "language": "en",
+          "title": "Pope Leo calls for hope amid global conflicts on his first Easter as pontiff",
+          "canonical_url": "https://www.cbsnews.com/news/pope-leo-calls-for-hope-amid-confilcts-first-easter",
+          "published_at": "2026-04-05T11:39:40+00:00",
+          "title_hash": "4e3fae722a7b1a151782d8696568bfc0b549e5b42c7045ed4ea7c412eb626dc5",
+          "keywords": [
+            "pope",
+            "leo",
+            "calls",
+            "hope",
+            "amid",
+            "global"
+          ]
+        },
+        {
+          "stable_key": "d6948da8f78634fa931eb3e4b23af46ca4e7cdc79fa958185b315c98f7b07ec8",
+          "source_key": "sbs-society-rss",
+          "source_name": "SBS Society",
+          "category": "kr-society",
+          "hub": "kr",
+          "hub_label": "대한민국",
+          "section_label": "사회",
+          "language": "ko",
+          "title": "더 짜릿하고 오싹하게…\"OTT는 못한다\" 힘준 극장들",
+          "canonical_url": "https://news.sbs.co.kr/news/endPage.do?cooper=RSSREADER&news_id=N1008505993&plink=RSSLINK",
+          "published_at": "2026-04-05T11:39:00+00:00",
+          "title_hash": "3ad12f044167eec7c45fcdfeeb35092242b096b8347c0374260ce2f279981a6a",
+          "keywords": [
+            "짜릿하고",
+            "오싹하게",
+            "ott는",
+            "못한다",
+            "힘준",
+            "극장들"
+          ]
+        },
+        {
+          "stable_key": "ca309810e813edb611d11ea6aae01cd417c1aee5f07a72b7976afe0081975957",
+          "source_key": "sbs-society-rss",
+          "source_name": "SBS Society",
+          "category": "kr-society",
+          "hub": "kr",
+          "hub_label": "대한민국",
+          "section_label": "사회",
+          "language": "ko",
+          "title": "고글 쓰자 빨간 점 '휙휙'…100만 괴롭힌 증상 고친다",
+          "canonical_url": "https://news.sbs.co.kr/news/endPage.do?cooper=RSSREADER&news_id=N1008505992&plink=RSSLINK",
+          "published_at": "2026-04-05T11:39:00+00:00",
+          "title_hash": "98ee7e1d99fb2f7ea3a5b7c3f848390c33e711833193ce70178dc2ccea55e7d4",
+          "keywords": [
+            "고글",
+            "쓰자",
+            "빨간",
+            "휙휙",
+            "100만",
+            "괴롭힌"
+          ]
+        },
+        {
+          "stable_key": "ff04762f2f25ac6403f6a4a51d6e9ff85271ed25f911a74c96305f68d443f494",
+          "source_key": "sbs-society-rss",
+          "source_name": "SBS Society",
+          "category": "kr-society",
+          "hub": "kr",
+          "hub_label": "대한민국",
+          "section_label": "사회",
+          "language": "ko",
+          "title": "껍질 까지고 하얗게 말라죽었다…지리산 떼죽음 '비상'",
+          "canonical_url": "https://news.sbs.co.kr/news/endPage.do?cooper=RSSREADER&news_id=N1008505991&plink=RSSLINK",
+          "published_at": "2026-04-05T11:38:00+00:00",
+          "title_hash": "adf32f94961d64f5b345011c1a67be77b96193559b747867b526e13eece80099",
+          "keywords": [
+            "껍질",
+            "까지고",
+            "하얗게",
+            "말라죽었다",
+            "지리산",
+            "떼죽음"
+          ]
+        },
+        {
+          "stable_key": "c2995d846f47fdaf0b666a34a83d0c4ad2f61e9d13efe9781cd80f03cb628524",
+          "source_key": "khan-politics-rss",
+          "source_name": "Kyunghyang Politics",
+          "category": "kr-politics",
+          "hub": "kr",
+          "hub_label": "대한민국",
+          "section_label": "정치",
+          "language": "ko",
+          "title": "“교회·성도들, 국가 위기 때마다 등불 역할… 국민 하나로 모으는 길 계속 앞장서주길”",
+          "canonical_url": "https://www.khan.co.kr/article/202604052038005",
+          "published_at": "2026-04-05T11:38:00+00:00",
+          "title_hash": "a4157b9d4e5bdc0aa79a62eb69e2798bdb6228c86e83f80b626f7cffa61c18ea",
+          "keywords": [
+            "교회",
+            "성도들",
+            "국가",
+            "위기",
+            "때마다",
+            "등불"
+          ]
+        },
+        {
+          "stable_key": "19644ae2d280dc45fffae16a4881903497e4c9cc68700ffe798714b7ff841174",
+          "source_key": "khan-politics-rss",
+          "source_name": "Kyunghyang Politics",
+          "category": "kr-politics",
+          "hub": "kr",
+          "hub_label": "대한민국",
+          "section_label": "정치",
+          "language": "ko",
+          "title": "정청래 “5·18 헌법 수록 반대는 전두환 찬양…국힘, 입장 밝혀라”",
+          "canonical_url": "https://www.khan.co.kr/article/202604052037015",
+          "published_at": "2026-04-05T11:37:01+00:00",
+          "title_hash": "f270f863f33c2cfa3fa9ee3fba3630241cabbed780571abe79e5e12317b974cb",
+          "keywords": [
+            "정청래",
+            "헌법",
+            "수록",
+            "반대는",
+            "전두환",
+            "찬양"
+          ]
+        },
+        {
+          "stable_key": "08e28dc25cb3d61962d6805bb6fb618f533487e062ed46489e83794a6eae104b",
+          "source_key": "sbs-society-rss",
+          "source_name": "SBS Society",
+          "category": "kr-society",
+          "hub": "kr",
+          "hub_label": "대한민국",
+          "section_label": "사회",
+          "language": "ko",
+          "title": "비 오면 퍼지는 '녹조 주범'…\"잘 덮기만 해도 막는다\"",
+          "canonical_url": "https://news.sbs.co.kr/news/endPage.do?cooper=RSSREADER&news_id=N1008505990&plink=RSSLINK",
+          "published_at": "2026-04-05T11:37:00+00:00",
+          "title_hash": "446259bc2f7da0987916a20b48319f45b3c4bdc62290679966cbe2b95a3f9292",
+          "keywords": [
+            "오면",
+            "퍼지는",
+            "녹조",
+            "주범",
+            "덮기만",
+            "해도"
+          ]
+        },
+        {
+          "stable_key": "69af81d7c517c813a5805fe5d1c9c264280ea63513e76d9314cb6e37ef8c8a93",
+          "source_key": "khan-politics-rss",
+          "source_name": "Kyunghyang Politics",
+          "category": "kr-politics",
+          "hub": "kr",
+          "hub_label": "대한민국",
+          "section_label": "정치",
+          "language": "ko",
+          "title": "김부겸 “뻥 치는 공약하지 않겠다…시장되면 대통령과 지역소멸 토론할 것”",
+          "canonical_url": "https://www.khan.co.kr/article/202604052037001",
+          "published_at": "2026-04-05T11:37:00+00:00",
+          "title_hash": "7229a9828c27b76f90ad57291f93a8ee4799693eba1cb24b1194f080e8ed8b20",
+          "keywords": [
+            "김부겸",
+            "치는",
+            "공약하지",
+            "않겠다",
+            "시장되면",
+            "대통령과"
+          ]
+        },
+        {
+          "stable_key": "2462862e726e9dff980ef25073c8678ac4d7c6d4e54d789fc6255f8b4f6ab9f4",
+          "source_key": "khan-politics-rss",
+          "source_name": "Kyunghyang Politics",
+          "category": "kr-politics",
+          "hub": "kr",
+          "hub_label": "대한민국",
+          "section_label": "정치",
+          "language": "ko",
+          "title": "“결의문서 사과”…국힘, 이번에도 ‘절윤’은 없었다",
+          "canonical_url": "https://www.khan.co.kr/article/202604052037005",
+          "published_at": "2026-04-05T11:37:00+00:00",
+          "title_hash": "e880120ab477bf595f56927c6e233a51347cefe6c94e646e52c0a4f2fa96e732",
+          "keywords": [
+            "결의문서",
+            "사과",
+            "국힘",
+            "이번에도",
+            "절윤",
+            "없었다"
+          ]
+        },
+        {
+          "stable_key": "f80b2cae067238c2c35aba49a5f78fd7418e8f980907574e25f13c807cd9fa4a",
+          "source_key": "telegram-dada-news2",
+          "source_name": "Telegram @dada_news2",
+          "category": "tech-it",
+          "hub": "global",
+          "hub_label": "글로벌 전문",
+          "section_label": "테크",
+          "language": "ko",
+          "title": "[머니투데이방송] 25조 운영 전남광주특별시장, 김영록·민형배 결선서 만나다",
+          "canonical_url": "https://news.mtn.co.kr/news-detail/2026040518480617840",
+          "published_at": "2026-04-05T11:36:25+00:00",
+          "title_hash": "082027fd704b322af23415d36f29a50c88a4a342cf8ac3ab718d93707a7dad7a",
+          "keywords": [
+            "머니투데이방송",
+            "25조",
+            "운영",
+            "전남광주특별시장",
+            "김영록",
+            "민형배"
+          ]
+        },
+        {
+          "stable_key": "20750956734fc085dac93f768ea023e15cdee9ee43bd881a9ba0d59baf534130",
+          "source_key": "sbs-politics-rss",
+          "source_name": "SBS Politics",
+          "category": "kr-politics",
+          "hub": "kr",
+          "hub_label": "대한민국",
+          "section_label": "정치",
+          "language": "ko",
+          "title": "'전 정무수석' 과 '현직 도지사'…강원 마음 어디로?",
+          "canonical_url": "https://news.sbs.co.kr/news/endPage.do?cooper=RSSREADER&news_id=N1008505989&plink=RSSLINK",
+          "published_at": "2026-04-05T11:36:00+00:00",
+          "title_hash": "a084eafa28960093049f79bd2c22d9a18400a0e0c4d5f213f0af071b8c088994",
+          "keywords": [
+            "정무수석",
+            "현직",
+            "도지사",
+            "강원",
+            "마음",
+            "어디로"
+          ]
+        },
+        {
+          "stable_key": "8400a39432e24f3f5f93e2bfd7023feefdb6612ed6a23e68f0fcfe1e7bfd4e4a",
+          "source_key": "sbs-politics-rss",
+          "source_name": "SBS Politics",
+          "category": "kr-politics",
+          "hub": "kr",
+          "hub_label": "대한민국",
+          "section_label": "정치",
+          "language": "ko",
+          "title": "민주, 광주 '2인' 압축…'대구 공천' 수습 나선 장동혁",
+          "canonical_url": "https://news.sbs.co.kr/news/endPage.do?cooper=RSSREADER&news_id=N1008505988&plink=RSSLINK",
+          "published_at": "2026-04-05T11:35:00+00:00",
+          "title_hash": "07006689e3d44b96b9f0d3b63019093a983b228a72c22262d4af5f96371d10d8",
+          "keywords": [
+            "민주",
+            "광주",
+            "2인",
+            "압축",
+            "대구",
+            "공천"
+          ]
+        },
+        {
+          "stable_key": "a87637b950c1d677aad3e523c9396c138a476a10b82e9858f456ca85d03f370c",
+          "source_key": "khan-politics-rss",
+          "source_name": "Kyunghyang Politics",
+          "category": "kr-politics",
+          "hub": "kr",
+          "hub_label": "대한민국",
+          "section_label": "정치",
+          "language": "ko",
+          "title": "국정농단과 불법계엄…대통령 책무 저버린 “국민 배반 행위”",
+          "canonical_url": "https://www.khan.co.kr/article/202604052035005",
+          "published_at": "2026-04-05T11:35:00+00:00",
+          "title_hash": "26634f88b81a85702aaca06ce1dcf284e34f61bf9135e461151ffdf481e8dbe1",
+          "keywords": [
+            "국정농단과",
+            "불법계엄",
+            "대통령",
+            "책무",
+            "저버린",
+            "국민"
+          ]
+        },
+        {
+          "stable_key": "238cdc805090635e2a5d5f1d60e854ec7245188418641286168e0803114395ec",
+          "source_key": "newsweek-feed",
+          "source_name": "Newsweek Feed",
+          "category": "us-world",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "세계",
+          "language": "en",
+          "title": "Pope Leo’s Easter Message 2026: Pontiff Urges World Leaders To End War",
+          "canonical_url": "https://www.newsweek.com/pope-leos-easter-message-2026-pontiff-urges-world-leaders-end-war-11778018",
+          "published_at": "2026-04-05T11:34:42+00:00",
+          "title_hash": "92ad227234f36d0b0c3cbe5f31cf5ab486c1879c410bc067b4bed2ab43538ff6",
+          "keywords": [
+            "pope",
+            "leo",
+            "easter",
+            "message",
+            "pontiff",
+            "urges"
+          ]
+        },
+        {
           "stable_key": "fc53cb73f5c9be3a0af6ca47b41f6ef45f2522ee51b3c58259ac075102ae0cc6",
           "source_key": "sbs-society-rss",
           "source_name": "SBS Society",
@@ -1961,6 +2269,28 @@
             "using",
             "trivia",
             "games"
+          ]
+        },
+        {
+          "stable_key": "33e6642f7df200cc03d205993df43e5f18b467a519a8e6239493babc7c46c4f6",
+          "source_key": "cbs-politics-rss",
+          "source_name": "CBS News Politics",
+          "category": "us-politics",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "정치",
+          "language": "en",
+          "title": "Transcript: Maryland Gov. Wes Moore on \"Face the Nation with Margaret Brennan,\" April 5, 2026",
+          "canonical_url": "https://www.cbsnews.com/news/maryland-gov-wes-moore-face-the-nation-transcript-04-05-2026",
+          "published_at": "2026-04-05T11:30:05+00:00",
+          "title_hash": "ee9a9ccc98af2c5ced247f05b509ad85884e3ce4ff66ef227b6132da3eed572b",
+          "keywords": [
+            "transcript",
+            "maryland",
+            "gov",
+            "wes",
+            "moore",
+            "face"
           ]
         },
         {
@@ -2226,343 +2556,13 @@
             "식량",
             "원자재도"
           ]
-        },
-        {
-          "stable_key": "e3ab3798f944fc13526030772e0daaad866047ce007b37a246b8b239e0cc4e5a",
-          "source_key": "khan-society-rss",
-          "source_name": "Kyunghyang Society",
-          "category": "kr-society",
-          "hub": "kr",
-          "hub_label": "대한민국",
-          "section_label": "사회",
-          "language": "ko",
-          "title": "[윤석열 탄핵 1년]“바뀌지 않은 세상, 그래서 다시 광장”… 시민들이 말하는 그 후의 삶",
-          "canonical_url": "https://www.khan.co.kr/article/202604052018005",
-          "published_at": "2026-04-05T11:18:00+00:00",
-          "title_hash": "125bf65489a3be08c08e2ddfcbf1bc1513ae17a92df67efb5b4d015e9c731e33",
-          "keywords": [
-            "윤석열",
-            "탄핵",
-            "1년",
-            "바뀌지",
-            "않은",
-            "세상"
-          ]
-        },
-        {
-          "stable_key": "8bce666724287a8964487f342192674d5d018e768107a2bd195c4fae0eb8405d",
-          "source_key": "donga-politics-rss",
-          "source_name": "DongA Politics",
-          "category": "kr-politics",
-          "hub": "kr",
-          "hub_label": "대한민국",
-          "section_label": "정치",
-          "language": "ko",
-          "title": "與 전남광주 김영록-민형배 결선행…이번주 지선 윤곽 나온다",
-          "canonical_url": "https://www.donga.com/news/Politics/article/all/20260405/133676588/1",
-          "published_at": "2026-04-05T11:15:00+00:00",
-          "title_hash": "a13a96af337a6436e51cd9003360583284460272c9b17f136d9b2ab4ffd0b6d4",
-          "keywords": [
-            "전남광주",
-            "김영록",
-            "민형배",
-            "결선행",
-            "이번주",
-            "지선"
-          ]
-        },
-        {
-          "stable_key": "9733191060bba2dfc070a08256cad1d99331696ac18972c68c87006570529b08",
-          "source_key": "telegram-dada-news2",
-          "source_name": "Telegram @dada_news2",
-          "category": "tech-it",
-          "hub": "global",
-          "hub_label": "글로벌 전문",
-          "section_label": "테크",
-          "language": "ko",
-          "title": "[이데일리] SSG,단독 선두 도약...롯데, 피치클록 악재 속 6연패",
-          "canonical_url": "https://www.edaily.co.kr/news/read?newsId=01954886645413168",
-          "published_at": "2026-04-05T11:14:17+00:00",
-          "title_hash": "b0139df6860a079aa49fa9b666864b14c020d49f84ffa313672c38de9dcdda94",
-          "keywords": [
-            "이데일리",
-            "ssg",
-            "선두",
-            "도약",
-            "롯데",
-            "피치클록"
-          ]
-        },
-        {
-          "stable_key": "08fe43d626dab144aef2eddedbfac4a8f43b367c404e0ced48f46bd2bb7d250c",
-          "source_key": "khan-sports-rss",
-          "source_name": "Kyunghyang Sports",
-          "category": "kr-sports",
-          "hub": "kr",
-          "hub_label": "대한민국",
-          "section_label": "스포츠",
-          "language": "ko",
-          "title": "고지원 “육지 첫 우승, 언니랑 합쳐 6승”",
-          "canonical_url": "https://www.khan.co.kr/article/202604052014005",
-          "published_at": "2026-04-05T11:14:00+00:00",
-          "title_hash": "1dc38bb2a78c9fc103a9f04cec2fddbcf25a8c5c6ab2722c030e7b61ed4b95d6",
-          "keywords": [
-            "고지원",
-            "육지",
-            "우승",
-            "언니랑",
-            "합쳐",
-            "6승"
-          ]
-        },
-        {
-          "stable_key": "a13e3cc66e814f941d6eaaa3dca74fad3c3cf792c956de4a8072ebdd8a164d5f",
-          "source_key": "mk-society-rss",
-          "source_name": "Maeil Business Society",
-          "category": "kr-society",
-          "hub": "kr",
-          "hub_label": "대한민국",
-          "section_label": "사회",
-          "language": "ko",
-          "title": "“나 못 내렸다”…청량리역서 승객 선로 무단 진입, 1호선 한때 운행 지연",
-          "canonical_url": "https://www.mk.co.kr/news/society/12008523",
-          "published_at": "2026-04-05T11:13:48+00:00",
-          "title_hash": "6b158e7d241e8ccd2a61890ba0186f2597cb0f1bafd147768551875cd8c92bfe",
-          "keywords": [
-            "내렸다",
-            "청량리역서",
-            "승객",
-            "선로",
-            "무단",
-            "진입"
-          ]
-        },
-        {
-          "stable_key": "5185ab8559059549b618174f72313a46f4f6cf18ee007269d99e279bb383060c",
-          "source_key": "khan-sports-rss",
-          "source_name": "Kyunghyang Sports",
-          "category": "kr-sports",
-          "hub": "kr",
-          "hub_label": "대한민국",
-          "section_label": "스포츠",
-          "language": "ko",
-          "title": "박준순 “아! 사이클링 히트”…두산, 연패 끊었다",
-          "canonical_url": "https://www.khan.co.kr/article/202604052012005",
-          "published_at": "2026-04-05T11:12:00+00:00",
-          "title_hash": "06ead904afe23e34cba8418270da4248ed9f2af40e3338934c3dc39ffa5429c5",
-          "keywords": [
-            "박준순",
-            "사이클링",
-            "히트",
-            "두산",
-            "연패",
-            "끊었다"
-          ]
-        },
-        {
-          "stable_key": "91876adf145995d2647d9b05cc931ad6f4d8c067b1b842fc30c74cfd709dd1f3",
-          "source_key": "donga-society-rss",
-          "source_name": "DongA Society",
-          "category": "kr-society",
-          "hub": "kr",
-          "hub_label": "대한민국",
-          "section_label": "사회",
-          "language": "ko",
-          "title": "‘참전 용사’ 국밥 대접 식당주 “건물주가 월세 5만 원 깎아줘…눈물”",
-          "canonical_url": "https://www.donga.com/news/Society/article/all/20260405/133678836/1",
-          "published_at": "2026-04-05T11:11:22+00:00",
-          "title_hash": "f66372a46d068af7d4d9bd75f0d5456120c9645928e8b9838b64cc35af63ed41",
-          "keywords": [
-            "참전",
-            "용사",
-            "국밥",
-            "대접",
-            "식당주",
-            "건물주가"
-          ]
-        },
-        {
-          "stable_key": "583e15b534c16748aa0919c21fd5234495ed57c069f44415796ac7f8afca0353",
-          "source_key": "khan-sports-rss",
-          "source_name": "Kyunghyang Sports",
-          "category": "kr-sports",
-          "hub": "kr",
-          "hub_label": "대한민국",
-          "section_label": "스포츠",
-          "language": "ko",
-          "title": "손흥민, 생애 첫 한 경기 4어시스트 ‘MLS 도움 선두’",
-          "canonical_url": "https://www.khan.co.kr/article/202604052011015",
-          "published_at": "2026-04-05T11:11:01+00:00",
-          "title_hash": "92468aa8eab38bc5ca29c2769ca10d5242347a9a3bca899caf59a00efccd10e1",
-          "keywords": [
-            "손흥민",
-            "생애",
-            "경기",
-            "4어시스트",
-            "mls",
-            "도움"
-          ]
-        },
-        {
-          "stable_key": "4c9b753c411bd5518520cb153a27c1daf77d975ce8b742cf9a5eac8df75a4ef2",
-          "source_key": "khan-sports-rss",
-          "source_name": "Kyunghyang Sports",
-          "category": "kr-sports",
-          "hub": "kr",
-          "hub_label": "대한민국",
-          "section_label": "스포츠",
-          "language": "ko",
-          "title": "봄 배구 6전 6승 GS칼텍스 ‘3위 팀의 기적’ 우승 축배",
-          "canonical_url": "https://www.khan.co.kr/article/202604052011005",
-          "published_at": "2026-04-05T11:11:00+00:00",
-          "title_hash": "72002a38883afe443f59668dcddb034f8c40928f8e0150308c200fb9b5ae0e02",
-          "keywords": [
-            "배구",
-            "6전",
-            "6승",
-            "gs칼텍스",
-            "3위",
-            "팀의"
-          ]
-        },
-        {
-          "stable_key": "5c695e54d03638d544970a59cf4ad5797580e26a299c9c5eb551613a72f9bcb3",
-          "source_key": "khan-local-rss",
-          "source_name": "Kyunghyang Local",
-          "category": "kr-local",
-          "hub": "kr",
-          "hub_label": "대한민국",
-          "section_label": "지역",
-          "language": "ko",
-          "title": "부산 내성·수영지하차도 지반침하로 차량 통제",
-          "canonical_url": "https://www.khan.co.kr/article/202604052011001",
-          "published_at": "2026-04-05T11:11:00+00:00",
-          "title_hash": "59f880af4ba3e414d0ab8eef04dca7d389b781b6141e34d51c73cc52abf079a9",
-          "keywords": [
-            "부산",
-            "내성",
-            "수영지하차도",
-            "지반침하로",
-            "차량",
-            "통제"
-          ]
-        },
-        {
-          "stable_key": "919713045df27a0be8e3ac2bf086089e91bdd293de5276cac32ab342c244b478",
-          "source_key": "etoday-economy-rss",
-          "source_name": "eToday Economy",
-          "category": "kr-economy",
-          "hub": "kr",
-          "hub_label": "대한민국",
-          "section_label": "경제",
-          "language": "ko",
-          "title": "물류센터에 태양광발전소 설치…LX판토스, SK이노 E&S와 맞손",
-          "canonical_url": "https://www.etoday.co.kr/news/view/2572815",
-          "published_at": "2026-04-05T11:06:00+00:00",
-          "title_hash": "9040308c45e22b515afe364490fc843343cc91174d0a8a291a208ab4487a2da5",
-          "keywords": [
-            "물류센터에",
-            "태양광발전소",
-            "설치",
-            "lx판토스",
-            "sk이노",
-            "s와"
-          ]
-        },
-        {
-          "stable_key": "689954d39754cf08794abd9cc7f5e9f20c1f95658806f5b4aa5706f19d3f3f4b",
-          "source_key": "newsweek-feed",
-          "source_name": "Newsweek Feed",
-          "category": "us-technology",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "기술",
-          "language": "en",
-          "title": "United Airlines Announces New Premium Ticket Options",
-          "canonical_url": "https://www.newsweek.com/united-airlines-new-premium-ticket-options-11784784",
-          "published_at": "2026-04-05T11:04:04+00:00",
-          "title_hash": "2cb0717813aaef59ad80efb84c41e4a1d88a5362d5575adcc6072a6e153903e4",
-          "keywords": [
-            "united",
-            "airlines",
-            "announces",
-            "new",
-            "premium",
-            "ticket"
-          ]
-        },
-        {
-          "stable_key": "6df06c903f335f31ef24de79a9064e24aa1334c55d78946ace558f84ad91936d",
-          "source_key": "wired-rss",
-          "source_name": "Wired RSS",
-          "category": "us-technology",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "기술",
-          "language": "en",
-          "title": "Heatbit Maxi Pro Review: a Space Heater That Also Mines Bitcoin",
-          "canonical_url": "https://www.wired.com/review/heatbit-maxi-pro-bitcoin-miner-heater",
-          "published_at": "2026-04-05T11:04:00+00:00",
-          "title_hash": "fdd6650de5a14cf2b7f63320df1cdd709bb9076f31e4aa00e8896ac5da772280",
-          "keywords": [
-            "heatbit",
-            "maxi",
-            "pro",
-            "review",
-            "space",
-            "heater"
-          ]
-        },
-        {
-          "stable_key": "c0b056749477d408e64a34aa422b4ce550cc44b7e92bb51da57acab8f69ffcf3",
-          "source_key": "fox-world-rss",
-          "source_name": "Fox News World",
-          "category": "us-world",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "세계",
-          "language": "en",
-          "title": "Pope Leo XIV invokes Pope Francis' final words in Easter plea against growing 'indifference' to war",
-          "canonical_url": "https://www.foxnews.com/world/pope-leo-xiv-invokes-pope-francis-final-words-easter-plea-against-growing-indifference-war",
-          "published_at": "2026-04-05T11:03:29+00:00",
-          "title_hash": "ceaf6baed46224d7baace03ba0400e4029ae8680f88ad48af1276826baf51f49",
-          "keywords": [
-            "pope",
-            "leo",
-            "xiv",
-            "invokes",
-            "francis",
-            "final"
-          ]
-        },
-        {
-          "stable_key": "3c1e80f2c5740ad66137e0ad6ee0ca9c1e7ed229cb386efa8bd6b56bff3ace02",
-          "source_key": "telegram-news-kor",
-          "source_name": "Telegram @news_kor",
-          "category": "kr-society",
-          "hub": "kr",
-          "hub_label": "대한민국",
-          "section_label": "사회",
-          "language": "ko",
-          "title": "🔍[단독]서울시, 공무원 ‘자기돌봄 특별휴가’ 연 1일 추진···“번아웃...",
-          "canonical_url": "https://www.khan.co.kr/article/202604052000001",
-          "published_at": "2026-04-05T11:02:31+00:00",
-          "title_hash": "1c2a9b3afb75349f57cb787b18511e390533a36dcc5b22182a6a94efbc1f72b3",
-          "keywords": [
-            "서울시",
-            "공무원",
-            "자기돌봄",
-            "특별휴가",
-            "1일",
-            "추진"
-          ]
         }
       ],
       "kpi_series": [
         {
           "key": "articles",
           "label": "기사 수",
-          "value": 4518,
+          "value": 4543,
           "series": [
             17,
             91,
@@ -2571,7 +2571,7 @@
             615,
             1398,
             1204,
-            790
+            815
           ]
         },
         {
@@ -2586,7 +2586,7 @@
             615,
             1398,
             1204,
-            790
+            815
           ]
         },
         {
@@ -2601,7 +2601,7 @@
             615,
             1398,
             1204,
-            790
+            815
           ]
         },
         {
@@ -2616,7 +2616,7 @@
             615,
             1398,
             1204,
-            790
+            815
           ]
         }
       ],
@@ -2628,17 +2628,17 @@
             {
               "source_key": "guardian-us-rss",
               "name": "The Guardian US",
-              "count": 149
+              "count": 156
+            },
+            {
+              "source_key": "yahoo-news-rss",
+              "name": "Yahoo News RSS",
+              "count": 150
             },
             {
               "source_key": "asiae-society-rss",
               "name": "Asiae Society",
               "count": 148
-            },
-            {
-              "source_key": "yahoo-news-rss",
-              "name": "Yahoo News RSS",
-              "count": 147
             },
             {
               "source_key": "nypost-feed",
@@ -2676,14 +2676,21 @@
               "label": "정치",
               "hub": "us",
               "hub_label": "미국",
-              "count": 941
+              "count": 948
             },
             {
               "key": "us-technology",
               "label": "기술",
               "hub": "us",
               "hub_label": "미국",
-              "count": 673
+              "count": 674
+            },
+            {
+              "key": "kr-society",
+              "label": "사회",
+              "hub": "kr",
+              "hub_label": "대한민국",
+              "count": 504
             },
             {
               "key": "kr-economy",
@@ -2693,25 +2700,18 @@
               "count": 503
             },
             {
-              "key": "kr-society",
-              "label": "사회",
-              "hub": "kr",
-              "hub_label": "대한민국",
-              "count": 500
-            },
-            {
               "key": "us-world",
               "label": "세계",
               "hub": "us",
               "hub_label": "미국",
-              "count": 419
+              "count": 421
             },
             {
               "key": "kr-politics",
               "label": "정치",
               "hub": "kr",
               "hub_label": "대한민국",
-              "count": 289
+              "count": 296
             },
             {
               "key": "us-economy",
@@ -2737,26 +2737,26 @@
             {
               "key": "trump",
               "label": "trump",
-              "count": 464
+              "count": 465
             },
             {
               "key": "iran",
               "label": "iran",
-              "count": 231
+              "count": 232
             },
             {
               "key": "war",
               "label": "war",
-              "count": 113
-            },
-            {
-              "key": "new",
-              "label": "new",
-              "count": 97
+              "count": 114
             },
             {
               "key": "us",
               "label": "us",
+              "count": 98
+            },
+            {
+              "key": "new",
+              "label": "new",
               "count": 97
             },
             {
@@ -2812,17 +2812,17 @@
             },
             {
               "date": "2026-04-05",
-              "count": 790
+              "count": 815
             }
           ],
           "summary_items": [
             {
               "label": "최근 집계",
-              "value": 790
+              "value": 815
             },
             {
               "label": "일 평균",
-              "value": 564.8
+              "value": 567.9
             },
             {
               "label": "최대 일자",
@@ -2837,7 +2837,7 @@
             {
               "key": "us",
               "label": "미국",
-              "count": 2571,
+              "count": 2584,
               "series": [
                 {
                   "date": "2026-03-29",
@@ -2869,14 +2869,14 @@
                 },
                 {
                   "date": "2026-04-05",
-                  "count": 238
+                  "count": 251
                 }
               ]
             },
             {
               "key": "kr",
               "label": "대한민국",
-              "count": 1761,
+              "count": 1772,
               "series": [
                 {
                   "date": "2026-03-29",
@@ -2908,7 +2908,7 @@
                 },
                 {
                   "date": "2026-04-05",
-                  "count": 527
+                  "count": 538
                 }
               ]
             }
@@ -2916,11 +2916,11 @@
           "summary_items": [
             {
               "label": "미국",
-              "value": 2571
+              "value": 2584
             },
             {
               "label": "대한민국",
-              "value": 1761
+              "value": 1772
             }
           ]
         },
@@ -2931,7 +2931,7 @@
             {
               "key": "us-politics",
               "label": "정치",
-              "count": 941,
+              "count": 948,
               "series": [
                 {
                   "date": "2026-03-29",
@@ -2963,14 +2963,14 @@
                 },
                 {
                   "date": "2026-04-05",
-                  "count": 80
+                  "count": 87
                 }
               ]
             },
             {
               "key": "us-technology",
               "label": "기술",
-              "count": 673,
+              "count": 674,
               "series": [
                 {
                   "date": "2026-03-29",
@@ -3002,14 +3002,14 @@
                 },
                 {
                   "date": "2026-04-05",
-                  "count": 69
+                  "count": 70
                 }
               ]
             },
             {
-              "key": "kr-economy",
-              "label": "경제",
-              "count": 503,
+              "key": "kr-society",
+              "label": "사회",
+              "count": 504,
               "series": [
                 {
                   "date": "2026-03-29",
@@ -3029,19 +3029,19 @@
                 },
                 {
                   "date": "2026-04-02",
-                  "count": 79
+                  "count": 14
                 },
                 {
                   "date": "2026-04-03",
-                  "count": 154
+                  "count": 152
                 },
                 {
                   "date": "2026-04-04",
-                  "count": 81
+                  "count": 132
                 },
                 {
                   "date": "2026-04-05",
-                  "count": 189
+                  "count": 206
                 }
               ]
             }
@@ -3049,15 +3049,15 @@
           "summary_items": [
             {
               "label": "정치",
-              "value": 941
+              "value": 948
             },
             {
               "label": "기술",
-              "value": 673
+              "value": 674
             },
             {
-              "label": "경제",
-              "value": 503
+              "label": "사회",
+              "value": 504
             }
           ]
         }
@@ -3065,7 +3065,7 @@
     },
     "30d": {
       "label": "30d",
-      "article_count": 5029,
+      "article_count": 5054,
       "unknown_time_count": 0,
       "active_source_count": 101,
       "repeated_title_count": 317,
@@ -3188,28 +3188,28 @@
         },
         {
           "date": "2026-04-05",
-          "count": 790
+          "count": 815
         }
       ],
       "top_keywords": [
         {
           "keyword": "trump",
-          "count": 515
+          "count": 516
         },
         {
           "keyword": "iran",
-          "count": 276
+          "count": 277
         },
         {
           "keyword": "war",
-          "count": 146
-        },
-        {
-          "keyword": "new",
-          "count": 113
+          "count": 147
         },
         {
           "keyword": "us",
+          "count": 114
+        },
+        {
+          "keyword": "new",
           "count": 113
         },
         {
@@ -3221,16 +3221,16 @@
           "count": 98
         },
         {
+          "keyword": "how",
+          "count": 96
+        },
+        {
           "keyword": "says",
           "count": 95
         },
         {
-          "keyword": "how",
-          "count": 94
-        },
-        {
           "keyword": "what",
-          "count": 81
+          "count": 82
         },
         {
           "keyword": "over",
@@ -3250,16 +3250,16 @@
         {
           "source_key": "guardian-us-rss",
           "name": "The Guardian US",
-          "count": 150
-        },
-        {
-          "source_key": "asiae-society-rss",
-          "name": "Asiae Society",
-          "count": 148
+          "count": 157
         },
         {
           "source_key": "yahoo-news-rss",
           "name": "Yahoo News RSS",
+          "count": 151
+        },
+        {
+          "source_key": "asiae-society-rss",
+          "name": "Asiae Society",
           "count": 148
         },
         {
@@ -3307,17 +3307,17 @@
         {
           "key": "us",
           "label": "미국",
-          "count": 3017
+          "count": 3030
         },
         {
           "key": "kr",
           "label": "대한민국",
-          "count": 1822
+          "count": 1833
         },
         {
           "key": "global",
           "label": "글로벌 전문",
-          "count": 190
+          "count": 191
         }
       ],
       "top_sections": [
@@ -3326,21 +3326,28 @@
           "label": "정치",
           "hub": "us",
           "hub_label": "미국",
-          "count": 1060
+          "count": 1067
         },
         {
           "key": "us-technology",
           "label": "기술",
           "hub": "us",
           "hub_label": "미국",
-          "count": 782
+          "count": 783
         },
         {
           "key": "us-world",
           "label": "세계",
           "hub": "us",
           "hub_label": "미국",
-          "count": 505
+          "count": 507
+        },
+        {
+          "key": "kr-society",
+          "label": "사회",
+          "hub": "kr",
+          "hub_label": "대한민국",
+          "count": 504
         },
         {
           "key": "kr-economy",
@@ -3348,13 +3355,6 @@
           "hub": "kr",
           "hub_label": "대한민국",
           "count": 503
-        },
-        {
-          "key": "kr-society",
-          "label": "사회",
-          "hub": "kr",
-          "hub_label": "대한민국",
-          "count": 500
         },
         {
           "key": "us-economy",
@@ -3368,14 +3368,14 @@
           "label": "정치",
           "hub": "kr",
           "hub_label": "대한민국",
-          "count": 324
+          "count": 331
         },
         {
           "key": "us-markets",
           "label": "시장",
           "hub": "us",
           "hub_label": "미국",
-          "count": 285
+          "count": 288
         },
         {
           "key": "kr-culture",
@@ -3396,7 +3396,7 @@
           "label": "테크",
           "hub": "global",
           "hub_label": "글로벌 전문",
-          "count": 85
+          "count": 86
         },
         {
           "key": "crypto",
@@ -3409,11 +3409,11 @@
       "language_counts": [
         {
           "language": "en",
-          "count": 3153
+          "count": 3166
         },
         {
           "language": "ko",
-          "count": 1876
+          "count": 1888
         }
       ],
       "repeated_titles": [
@@ -3600,6 +3600,314 @@
       ],
       "recent_samples": [
         {
+          "stable_key": "8b6f933f6f6c4fc476dbb075fb7ee2fc8c869b35bf3f079b4a304f801461f2a5",
+          "source_key": "cbs-world-rss",
+          "source_name": "CBS News World",
+          "category": "us-world",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "세계",
+          "language": "en",
+          "title": "Pope Leo calls for hope amid global conflicts on his first Easter as pontiff",
+          "canonical_url": "https://www.cbsnews.com/news/pope-leo-calls-for-hope-amid-confilcts-first-easter",
+          "published_at": "2026-04-05T11:39:40+00:00",
+          "title_hash": "4e3fae722a7b1a151782d8696568bfc0b549e5b42c7045ed4ea7c412eb626dc5",
+          "keywords": [
+            "pope",
+            "leo",
+            "calls",
+            "hope",
+            "amid",
+            "global"
+          ]
+        },
+        {
+          "stable_key": "d6948da8f78634fa931eb3e4b23af46ca4e7cdc79fa958185b315c98f7b07ec8",
+          "source_key": "sbs-society-rss",
+          "source_name": "SBS Society",
+          "category": "kr-society",
+          "hub": "kr",
+          "hub_label": "대한민국",
+          "section_label": "사회",
+          "language": "ko",
+          "title": "더 짜릿하고 오싹하게…\"OTT는 못한다\" 힘준 극장들",
+          "canonical_url": "https://news.sbs.co.kr/news/endPage.do?cooper=RSSREADER&news_id=N1008505993&plink=RSSLINK",
+          "published_at": "2026-04-05T11:39:00+00:00",
+          "title_hash": "3ad12f044167eec7c45fcdfeeb35092242b096b8347c0374260ce2f279981a6a",
+          "keywords": [
+            "짜릿하고",
+            "오싹하게",
+            "ott는",
+            "못한다",
+            "힘준",
+            "극장들"
+          ]
+        },
+        {
+          "stable_key": "ca309810e813edb611d11ea6aae01cd417c1aee5f07a72b7976afe0081975957",
+          "source_key": "sbs-society-rss",
+          "source_name": "SBS Society",
+          "category": "kr-society",
+          "hub": "kr",
+          "hub_label": "대한민국",
+          "section_label": "사회",
+          "language": "ko",
+          "title": "고글 쓰자 빨간 점 '휙휙'…100만 괴롭힌 증상 고친다",
+          "canonical_url": "https://news.sbs.co.kr/news/endPage.do?cooper=RSSREADER&news_id=N1008505992&plink=RSSLINK",
+          "published_at": "2026-04-05T11:39:00+00:00",
+          "title_hash": "98ee7e1d99fb2f7ea3a5b7c3f848390c33e711833193ce70178dc2ccea55e7d4",
+          "keywords": [
+            "고글",
+            "쓰자",
+            "빨간",
+            "휙휙",
+            "100만",
+            "괴롭힌"
+          ]
+        },
+        {
+          "stable_key": "ff04762f2f25ac6403f6a4a51d6e9ff85271ed25f911a74c96305f68d443f494",
+          "source_key": "sbs-society-rss",
+          "source_name": "SBS Society",
+          "category": "kr-society",
+          "hub": "kr",
+          "hub_label": "대한민국",
+          "section_label": "사회",
+          "language": "ko",
+          "title": "껍질 까지고 하얗게 말라죽었다…지리산 떼죽음 '비상'",
+          "canonical_url": "https://news.sbs.co.kr/news/endPage.do?cooper=RSSREADER&news_id=N1008505991&plink=RSSLINK",
+          "published_at": "2026-04-05T11:38:00+00:00",
+          "title_hash": "adf32f94961d64f5b345011c1a67be77b96193559b747867b526e13eece80099",
+          "keywords": [
+            "껍질",
+            "까지고",
+            "하얗게",
+            "말라죽었다",
+            "지리산",
+            "떼죽음"
+          ]
+        },
+        {
+          "stable_key": "c2995d846f47fdaf0b666a34a83d0c4ad2f61e9d13efe9781cd80f03cb628524",
+          "source_key": "khan-politics-rss",
+          "source_name": "Kyunghyang Politics",
+          "category": "kr-politics",
+          "hub": "kr",
+          "hub_label": "대한민국",
+          "section_label": "정치",
+          "language": "ko",
+          "title": "“교회·성도들, 국가 위기 때마다 등불 역할… 국민 하나로 모으는 길 계속 앞장서주길”",
+          "canonical_url": "https://www.khan.co.kr/article/202604052038005",
+          "published_at": "2026-04-05T11:38:00+00:00",
+          "title_hash": "a4157b9d4e5bdc0aa79a62eb69e2798bdb6228c86e83f80b626f7cffa61c18ea",
+          "keywords": [
+            "교회",
+            "성도들",
+            "국가",
+            "위기",
+            "때마다",
+            "등불"
+          ]
+        },
+        {
+          "stable_key": "19644ae2d280dc45fffae16a4881903497e4c9cc68700ffe798714b7ff841174",
+          "source_key": "khan-politics-rss",
+          "source_name": "Kyunghyang Politics",
+          "category": "kr-politics",
+          "hub": "kr",
+          "hub_label": "대한민국",
+          "section_label": "정치",
+          "language": "ko",
+          "title": "정청래 “5·18 헌법 수록 반대는 전두환 찬양…국힘, 입장 밝혀라”",
+          "canonical_url": "https://www.khan.co.kr/article/202604052037015",
+          "published_at": "2026-04-05T11:37:01+00:00",
+          "title_hash": "f270f863f33c2cfa3fa9ee3fba3630241cabbed780571abe79e5e12317b974cb",
+          "keywords": [
+            "정청래",
+            "헌법",
+            "수록",
+            "반대는",
+            "전두환",
+            "찬양"
+          ]
+        },
+        {
+          "stable_key": "08e28dc25cb3d61962d6805bb6fb618f533487e062ed46489e83794a6eae104b",
+          "source_key": "sbs-society-rss",
+          "source_name": "SBS Society",
+          "category": "kr-society",
+          "hub": "kr",
+          "hub_label": "대한민국",
+          "section_label": "사회",
+          "language": "ko",
+          "title": "비 오면 퍼지는 '녹조 주범'…\"잘 덮기만 해도 막는다\"",
+          "canonical_url": "https://news.sbs.co.kr/news/endPage.do?cooper=RSSREADER&news_id=N1008505990&plink=RSSLINK",
+          "published_at": "2026-04-05T11:37:00+00:00",
+          "title_hash": "446259bc2f7da0987916a20b48319f45b3c4bdc62290679966cbe2b95a3f9292",
+          "keywords": [
+            "오면",
+            "퍼지는",
+            "녹조",
+            "주범",
+            "덮기만",
+            "해도"
+          ]
+        },
+        {
+          "stable_key": "69af81d7c517c813a5805fe5d1c9c264280ea63513e76d9314cb6e37ef8c8a93",
+          "source_key": "khan-politics-rss",
+          "source_name": "Kyunghyang Politics",
+          "category": "kr-politics",
+          "hub": "kr",
+          "hub_label": "대한민국",
+          "section_label": "정치",
+          "language": "ko",
+          "title": "김부겸 “뻥 치는 공약하지 않겠다…시장되면 대통령과 지역소멸 토론할 것”",
+          "canonical_url": "https://www.khan.co.kr/article/202604052037001",
+          "published_at": "2026-04-05T11:37:00+00:00",
+          "title_hash": "7229a9828c27b76f90ad57291f93a8ee4799693eba1cb24b1194f080e8ed8b20",
+          "keywords": [
+            "김부겸",
+            "치는",
+            "공약하지",
+            "않겠다",
+            "시장되면",
+            "대통령과"
+          ]
+        },
+        {
+          "stable_key": "2462862e726e9dff980ef25073c8678ac4d7c6d4e54d789fc6255f8b4f6ab9f4",
+          "source_key": "khan-politics-rss",
+          "source_name": "Kyunghyang Politics",
+          "category": "kr-politics",
+          "hub": "kr",
+          "hub_label": "대한민국",
+          "section_label": "정치",
+          "language": "ko",
+          "title": "“결의문서 사과”…국힘, 이번에도 ‘절윤’은 없었다",
+          "canonical_url": "https://www.khan.co.kr/article/202604052037005",
+          "published_at": "2026-04-05T11:37:00+00:00",
+          "title_hash": "e880120ab477bf595f56927c6e233a51347cefe6c94e646e52c0a4f2fa96e732",
+          "keywords": [
+            "결의문서",
+            "사과",
+            "국힘",
+            "이번에도",
+            "절윤",
+            "없었다"
+          ]
+        },
+        {
+          "stable_key": "f80b2cae067238c2c35aba49a5f78fd7418e8f980907574e25f13c807cd9fa4a",
+          "source_key": "telegram-dada-news2",
+          "source_name": "Telegram @dada_news2",
+          "category": "tech-it",
+          "hub": "global",
+          "hub_label": "글로벌 전문",
+          "section_label": "테크",
+          "language": "ko",
+          "title": "[머니투데이방송] 25조 운영 전남광주특별시장, 김영록·민형배 결선서 만나다",
+          "canonical_url": "https://news.mtn.co.kr/news-detail/2026040518480617840",
+          "published_at": "2026-04-05T11:36:25+00:00",
+          "title_hash": "082027fd704b322af23415d36f29a50c88a4a342cf8ac3ab718d93707a7dad7a",
+          "keywords": [
+            "머니투데이방송",
+            "25조",
+            "운영",
+            "전남광주특별시장",
+            "김영록",
+            "민형배"
+          ]
+        },
+        {
+          "stable_key": "20750956734fc085dac93f768ea023e15cdee9ee43bd881a9ba0d59baf534130",
+          "source_key": "sbs-politics-rss",
+          "source_name": "SBS Politics",
+          "category": "kr-politics",
+          "hub": "kr",
+          "hub_label": "대한민국",
+          "section_label": "정치",
+          "language": "ko",
+          "title": "'전 정무수석' 과 '현직 도지사'…강원 마음 어디로?",
+          "canonical_url": "https://news.sbs.co.kr/news/endPage.do?cooper=RSSREADER&news_id=N1008505989&plink=RSSLINK",
+          "published_at": "2026-04-05T11:36:00+00:00",
+          "title_hash": "a084eafa28960093049f79bd2c22d9a18400a0e0c4d5f213f0af071b8c088994",
+          "keywords": [
+            "정무수석",
+            "현직",
+            "도지사",
+            "강원",
+            "마음",
+            "어디로"
+          ]
+        },
+        {
+          "stable_key": "8400a39432e24f3f5f93e2bfd7023feefdb6612ed6a23e68f0fcfe1e7bfd4e4a",
+          "source_key": "sbs-politics-rss",
+          "source_name": "SBS Politics",
+          "category": "kr-politics",
+          "hub": "kr",
+          "hub_label": "대한민국",
+          "section_label": "정치",
+          "language": "ko",
+          "title": "민주, 광주 '2인' 압축…'대구 공천' 수습 나선 장동혁",
+          "canonical_url": "https://news.sbs.co.kr/news/endPage.do?cooper=RSSREADER&news_id=N1008505988&plink=RSSLINK",
+          "published_at": "2026-04-05T11:35:00+00:00",
+          "title_hash": "07006689e3d44b96b9f0d3b63019093a983b228a72c22262d4af5f96371d10d8",
+          "keywords": [
+            "민주",
+            "광주",
+            "2인",
+            "압축",
+            "대구",
+            "공천"
+          ]
+        },
+        {
+          "stable_key": "a87637b950c1d677aad3e523c9396c138a476a10b82e9858f456ca85d03f370c",
+          "source_key": "khan-politics-rss",
+          "source_name": "Kyunghyang Politics",
+          "category": "kr-politics",
+          "hub": "kr",
+          "hub_label": "대한민국",
+          "section_label": "정치",
+          "language": "ko",
+          "title": "국정농단과 불법계엄…대통령 책무 저버린 “국민 배반 행위”",
+          "canonical_url": "https://www.khan.co.kr/article/202604052035005",
+          "published_at": "2026-04-05T11:35:00+00:00",
+          "title_hash": "26634f88b81a85702aaca06ce1dcf284e34f61bf9135e461151ffdf481e8dbe1",
+          "keywords": [
+            "국정농단과",
+            "불법계엄",
+            "대통령",
+            "책무",
+            "저버린",
+            "국민"
+          ]
+        },
+        {
+          "stable_key": "238cdc805090635e2a5d5f1d60e854ec7245188418641286168e0803114395ec",
+          "source_key": "newsweek-feed",
+          "source_name": "Newsweek Feed",
+          "category": "us-world",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "세계",
+          "language": "en",
+          "title": "Pope Leo’s Easter Message 2026: Pontiff Urges World Leaders To End War",
+          "canonical_url": "https://www.newsweek.com/pope-leos-easter-message-2026-pontiff-urges-world-leaders-end-war-11778018",
+          "published_at": "2026-04-05T11:34:42+00:00",
+          "title_hash": "92ad227234f36d0b0c3cbe5f31cf5ab486c1879c410bc067b4bed2ab43538ff6",
+          "keywords": [
+            "pope",
+            "leo",
+            "easter",
+            "message",
+            "pontiff",
+            "urges"
+          ]
+        },
+        {
           "stable_key": "fc53cb73f5c9be3a0af6ca47b41f6ef45f2522ee51b3c58259ac075102ae0cc6",
           "source_key": "sbs-society-rss",
           "source_name": "SBS Society",
@@ -3663,6 +3971,28 @@
             "using",
             "trivia",
             "games"
+          ]
+        },
+        {
+          "stable_key": "33e6642f7df200cc03d205993df43e5f18b467a519a8e6239493babc7c46c4f6",
+          "source_key": "cbs-politics-rss",
+          "source_name": "CBS News Politics",
+          "category": "us-politics",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "정치",
+          "language": "en",
+          "title": "Transcript: Maryland Gov. Wes Moore on \"Face the Nation with Margaret Brennan,\" April 5, 2026",
+          "canonical_url": "https://www.cbsnews.com/news/maryland-gov-wes-moore-face-the-nation-transcript-04-05-2026",
+          "published_at": "2026-04-05T11:30:05+00:00",
+          "title_hash": "ee9a9ccc98af2c5ced247f05b509ad85884e3ce4ff66ef227b6132da3eed572b",
+          "keywords": [
+            "transcript",
+            "maryland",
+            "gov",
+            "wes",
+            "moore",
+            "face"
           ]
         },
         {
@@ -3928,343 +4258,13 @@
             "식량",
             "원자재도"
           ]
-        },
-        {
-          "stable_key": "e3ab3798f944fc13526030772e0daaad866047ce007b37a246b8b239e0cc4e5a",
-          "source_key": "khan-society-rss",
-          "source_name": "Kyunghyang Society",
-          "category": "kr-society",
-          "hub": "kr",
-          "hub_label": "대한민국",
-          "section_label": "사회",
-          "language": "ko",
-          "title": "[윤석열 탄핵 1년]“바뀌지 않은 세상, 그래서 다시 광장”… 시민들이 말하는 그 후의 삶",
-          "canonical_url": "https://www.khan.co.kr/article/202604052018005",
-          "published_at": "2026-04-05T11:18:00+00:00",
-          "title_hash": "125bf65489a3be08c08e2ddfcbf1bc1513ae17a92df67efb5b4d015e9c731e33",
-          "keywords": [
-            "윤석열",
-            "탄핵",
-            "1년",
-            "바뀌지",
-            "않은",
-            "세상"
-          ]
-        },
-        {
-          "stable_key": "8bce666724287a8964487f342192674d5d018e768107a2bd195c4fae0eb8405d",
-          "source_key": "donga-politics-rss",
-          "source_name": "DongA Politics",
-          "category": "kr-politics",
-          "hub": "kr",
-          "hub_label": "대한민국",
-          "section_label": "정치",
-          "language": "ko",
-          "title": "與 전남광주 김영록-민형배 결선행…이번주 지선 윤곽 나온다",
-          "canonical_url": "https://www.donga.com/news/Politics/article/all/20260405/133676588/1",
-          "published_at": "2026-04-05T11:15:00+00:00",
-          "title_hash": "a13a96af337a6436e51cd9003360583284460272c9b17f136d9b2ab4ffd0b6d4",
-          "keywords": [
-            "전남광주",
-            "김영록",
-            "민형배",
-            "결선행",
-            "이번주",
-            "지선"
-          ]
-        },
-        {
-          "stable_key": "9733191060bba2dfc070a08256cad1d99331696ac18972c68c87006570529b08",
-          "source_key": "telegram-dada-news2",
-          "source_name": "Telegram @dada_news2",
-          "category": "tech-it",
-          "hub": "global",
-          "hub_label": "글로벌 전문",
-          "section_label": "테크",
-          "language": "ko",
-          "title": "[이데일리] SSG,단독 선두 도약...롯데, 피치클록 악재 속 6연패",
-          "canonical_url": "https://www.edaily.co.kr/news/read?newsId=01954886645413168",
-          "published_at": "2026-04-05T11:14:17+00:00",
-          "title_hash": "b0139df6860a079aa49fa9b666864b14c020d49f84ffa313672c38de9dcdda94",
-          "keywords": [
-            "이데일리",
-            "ssg",
-            "선두",
-            "도약",
-            "롯데",
-            "피치클록"
-          ]
-        },
-        {
-          "stable_key": "08fe43d626dab144aef2eddedbfac4a8f43b367c404e0ced48f46bd2bb7d250c",
-          "source_key": "khan-sports-rss",
-          "source_name": "Kyunghyang Sports",
-          "category": "kr-sports",
-          "hub": "kr",
-          "hub_label": "대한민국",
-          "section_label": "스포츠",
-          "language": "ko",
-          "title": "고지원 “육지 첫 우승, 언니랑 합쳐 6승”",
-          "canonical_url": "https://www.khan.co.kr/article/202604052014005",
-          "published_at": "2026-04-05T11:14:00+00:00",
-          "title_hash": "1dc38bb2a78c9fc103a9f04cec2fddbcf25a8c5c6ab2722c030e7b61ed4b95d6",
-          "keywords": [
-            "고지원",
-            "육지",
-            "우승",
-            "언니랑",
-            "합쳐",
-            "6승"
-          ]
-        },
-        {
-          "stable_key": "a13e3cc66e814f941d6eaaa3dca74fad3c3cf792c956de4a8072ebdd8a164d5f",
-          "source_key": "mk-society-rss",
-          "source_name": "Maeil Business Society",
-          "category": "kr-society",
-          "hub": "kr",
-          "hub_label": "대한민국",
-          "section_label": "사회",
-          "language": "ko",
-          "title": "“나 못 내렸다”…청량리역서 승객 선로 무단 진입, 1호선 한때 운행 지연",
-          "canonical_url": "https://www.mk.co.kr/news/society/12008523",
-          "published_at": "2026-04-05T11:13:48+00:00",
-          "title_hash": "6b158e7d241e8ccd2a61890ba0186f2597cb0f1bafd147768551875cd8c92bfe",
-          "keywords": [
-            "내렸다",
-            "청량리역서",
-            "승객",
-            "선로",
-            "무단",
-            "진입"
-          ]
-        },
-        {
-          "stable_key": "5185ab8559059549b618174f72313a46f4f6cf18ee007269d99e279bb383060c",
-          "source_key": "khan-sports-rss",
-          "source_name": "Kyunghyang Sports",
-          "category": "kr-sports",
-          "hub": "kr",
-          "hub_label": "대한민국",
-          "section_label": "스포츠",
-          "language": "ko",
-          "title": "박준순 “아! 사이클링 히트”…두산, 연패 끊었다",
-          "canonical_url": "https://www.khan.co.kr/article/202604052012005",
-          "published_at": "2026-04-05T11:12:00+00:00",
-          "title_hash": "06ead904afe23e34cba8418270da4248ed9f2af40e3338934c3dc39ffa5429c5",
-          "keywords": [
-            "박준순",
-            "사이클링",
-            "히트",
-            "두산",
-            "연패",
-            "끊었다"
-          ]
-        },
-        {
-          "stable_key": "91876adf145995d2647d9b05cc931ad6f4d8c067b1b842fc30c74cfd709dd1f3",
-          "source_key": "donga-society-rss",
-          "source_name": "DongA Society",
-          "category": "kr-society",
-          "hub": "kr",
-          "hub_label": "대한민국",
-          "section_label": "사회",
-          "language": "ko",
-          "title": "‘참전 용사’ 국밥 대접 식당주 “건물주가 월세 5만 원 깎아줘…눈물”",
-          "canonical_url": "https://www.donga.com/news/Society/article/all/20260405/133678836/1",
-          "published_at": "2026-04-05T11:11:22+00:00",
-          "title_hash": "f66372a46d068af7d4d9bd75f0d5456120c9645928e8b9838b64cc35af63ed41",
-          "keywords": [
-            "참전",
-            "용사",
-            "국밥",
-            "대접",
-            "식당주",
-            "건물주가"
-          ]
-        },
-        {
-          "stable_key": "583e15b534c16748aa0919c21fd5234495ed57c069f44415796ac7f8afca0353",
-          "source_key": "khan-sports-rss",
-          "source_name": "Kyunghyang Sports",
-          "category": "kr-sports",
-          "hub": "kr",
-          "hub_label": "대한민국",
-          "section_label": "스포츠",
-          "language": "ko",
-          "title": "손흥민, 생애 첫 한 경기 4어시스트 ‘MLS 도움 선두’",
-          "canonical_url": "https://www.khan.co.kr/article/202604052011015",
-          "published_at": "2026-04-05T11:11:01+00:00",
-          "title_hash": "92468aa8eab38bc5ca29c2769ca10d5242347a9a3bca899caf59a00efccd10e1",
-          "keywords": [
-            "손흥민",
-            "생애",
-            "경기",
-            "4어시스트",
-            "mls",
-            "도움"
-          ]
-        },
-        {
-          "stable_key": "4c9b753c411bd5518520cb153a27c1daf77d975ce8b742cf9a5eac8df75a4ef2",
-          "source_key": "khan-sports-rss",
-          "source_name": "Kyunghyang Sports",
-          "category": "kr-sports",
-          "hub": "kr",
-          "hub_label": "대한민국",
-          "section_label": "스포츠",
-          "language": "ko",
-          "title": "봄 배구 6전 6승 GS칼텍스 ‘3위 팀의 기적’ 우승 축배",
-          "canonical_url": "https://www.khan.co.kr/article/202604052011005",
-          "published_at": "2026-04-05T11:11:00+00:00",
-          "title_hash": "72002a38883afe443f59668dcddb034f8c40928f8e0150308c200fb9b5ae0e02",
-          "keywords": [
-            "배구",
-            "6전",
-            "6승",
-            "gs칼텍스",
-            "3위",
-            "팀의"
-          ]
-        },
-        {
-          "stable_key": "5c695e54d03638d544970a59cf4ad5797580e26a299c9c5eb551613a72f9bcb3",
-          "source_key": "khan-local-rss",
-          "source_name": "Kyunghyang Local",
-          "category": "kr-local",
-          "hub": "kr",
-          "hub_label": "대한민국",
-          "section_label": "지역",
-          "language": "ko",
-          "title": "부산 내성·수영지하차도 지반침하로 차량 통제",
-          "canonical_url": "https://www.khan.co.kr/article/202604052011001",
-          "published_at": "2026-04-05T11:11:00+00:00",
-          "title_hash": "59f880af4ba3e414d0ab8eef04dca7d389b781b6141e34d51c73cc52abf079a9",
-          "keywords": [
-            "부산",
-            "내성",
-            "수영지하차도",
-            "지반침하로",
-            "차량",
-            "통제"
-          ]
-        },
-        {
-          "stable_key": "919713045df27a0be8e3ac2bf086089e91bdd293de5276cac32ab342c244b478",
-          "source_key": "etoday-economy-rss",
-          "source_name": "eToday Economy",
-          "category": "kr-economy",
-          "hub": "kr",
-          "hub_label": "대한민국",
-          "section_label": "경제",
-          "language": "ko",
-          "title": "물류센터에 태양광발전소 설치…LX판토스, SK이노 E&S와 맞손",
-          "canonical_url": "https://www.etoday.co.kr/news/view/2572815",
-          "published_at": "2026-04-05T11:06:00+00:00",
-          "title_hash": "9040308c45e22b515afe364490fc843343cc91174d0a8a291a208ab4487a2da5",
-          "keywords": [
-            "물류센터에",
-            "태양광발전소",
-            "설치",
-            "lx판토스",
-            "sk이노",
-            "s와"
-          ]
-        },
-        {
-          "stable_key": "689954d39754cf08794abd9cc7f5e9f20c1f95658806f5b4aa5706f19d3f3f4b",
-          "source_key": "newsweek-feed",
-          "source_name": "Newsweek Feed",
-          "category": "us-technology",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "기술",
-          "language": "en",
-          "title": "United Airlines Announces New Premium Ticket Options",
-          "canonical_url": "https://www.newsweek.com/united-airlines-new-premium-ticket-options-11784784",
-          "published_at": "2026-04-05T11:04:04+00:00",
-          "title_hash": "2cb0717813aaef59ad80efb84c41e4a1d88a5362d5575adcc6072a6e153903e4",
-          "keywords": [
-            "united",
-            "airlines",
-            "announces",
-            "new",
-            "premium",
-            "ticket"
-          ]
-        },
-        {
-          "stable_key": "6df06c903f335f31ef24de79a9064e24aa1334c55d78946ace558f84ad91936d",
-          "source_key": "wired-rss",
-          "source_name": "Wired RSS",
-          "category": "us-technology",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "기술",
-          "language": "en",
-          "title": "Heatbit Maxi Pro Review: a Space Heater That Also Mines Bitcoin",
-          "canonical_url": "https://www.wired.com/review/heatbit-maxi-pro-bitcoin-miner-heater",
-          "published_at": "2026-04-05T11:04:00+00:00",
-          "title_hash": "fdd6650de5a14cf2b7f63320df1cdd709bb9076f31e4aa00e8896ac5da772280",
-          "keywords": [
-            "heatbit",
-            "maxi",
-            "pro",
-            "review",
-            "space",
-            "heater"
-          ]
-        },
-        {
-          "stable_key": "c0b056749477d408e64a34aa422b4ce550cc44b7e92bb51da57acab8f69ffcf3",
-          "source_key": "fox-world-rss",
-          "source_name": "Fox News World",
-          "category": "us-world",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "세계",
-          "language": "en",
-          "title": "Pope Leo XIV invokes Pope Francis' final words in Easter plea against growing 'indifference' to war",
-          "canonical_url": "https://www.foxnews.com/world/pope-leo-xiv-invokes-pope-francis-final-words-easter-plea-against-growing-indifference-war",
-          "published_at": "2026-04-05T11:03:29+00:00",
-          "title_hash": "ceaf6baed46224d7baace03ba0400e4029ae8680f88ad48af1276826baf51f49",
-          "keywords": [
-            "pope",
-            "leo",
-            "xiv",
-            "invokes",
-            "francis",
-            "final"
-          ]
-        },
-        {
-          "stable_key": "3c1e80f2c5740ad66137e0ad6ee0ca9c1e7ed229cb386efa8bd6b56bff3ace02",
-          "source_key": "telegram-news-kor",
-          "source_name": "Telegram @news_kor",
-          "category": "kr-society",
-          "hub": "kr",
-          "hub_label": "대한민국",
-          "section_label": "사회",
-          "language": "ko",
-          "title": "🔍[단독]서울시, 공무원 ‘자기돌봄 특별휴가’ 연 1일 추진···“번아웃...",
-          "canonical_url": "https://www.khan.co.kr/article/202604052000001",
-          "published_at": "2026-04-05T11:02:31+00:00",
-          "title_hash": "1c2a9b3afb75349f57cb787b18511e390533a36dcc5b22182a6a94efbc1f72b3",
-          "keywords": [
-            "서울시",
-            "공무원",
-            "자기돌봄",
-            "특별휴가",
-            "1일",
-            "추진"
-          ]
         }
       ],
       "kpi_series": [
         {
           "key": "articles",
           "label": "기사 수",
-          "value": 5029,
+          "value": 5054,
           "series": [
             22,
             53,
@@ -4279,7 +4279,7 @@
             615,
             1398,
             1204,
-            790
+            815
           ]
         },
         {
@@ -4300,7 +4300,7 @@
             615,
             1398,
             1204,
-            790
+            815
           ]
         },
         {
@@ -4321,7 +4321,7 @@
             615,
             1398,
             1204,
-            790
+            815
           ]
         },
         {
@@ -4342,7 +4342,7 @@
             615,
             1398,
             1204,
-            790
+            815
           ]
         }
       ],
@@ -4359,16 +4359,16 @@
             {
               "source_key": "guardian-us-rss",
               "name": "The Guardian US",
-              "count": 150
-            },
-            {
-              "source_key": "asiae-society-rss",
-              "name": "Asiae Society",
-              "count": 148
+              "count": 157
             },
             {
               "source_key": "yahoo-news-rss",
               "name": "Yahoo News RSS",
+              "count": 151
+            },
+            {
+              "source_key": "asiae-society-rss",
+              "name": "Asiae Society",
               "count": 148
             },
             {
@@ -4402,21 +4402,28 @@
               "label": "정치",
               "hub": "us",
               "hub_label": "미국",
-              "count": 1060
+              "count": 1067
             },
             {
               "key": "us-technology",
               "label": "기술",
               "hub": "us",
               "hub_label": "미국",
-              "count": 782
+              "count": 783
             },
             {
               "key": "us-world",
               "label": "세계",
               "hub": "us",
               "hub_label": "미국",
-              "count": 505
+              "count": 507
+            },
+            {
+              "key": "kr-society",
+              "label": "사회",
+              "hub": "kr",
+              "hub_label": "대한민국",
+              "count": 504
             },
             {
               "key": "kr-economy",
@@ -4424,13 +4431,6 @@
               "hub": "kr",
               "hub_label": "대한민국",
               "count": 503
-            },
-            {
-              "key": "kr-society",
-              "label": "사회",
-              "hub": "kr",
-              "hub_label": "대한민국",
-              "count": 500
             },
             {
               "key": "us-economy",
@@ -4444,14 +4444,14 @@
               "label": "정치",
               "hub": "kr",
               "hub_label": "대한민국",
-              "count": 324
+              "count": 331
             },
             {
               "key": "us-markets",
               "label": "시장",
               "hub": "us",
               "hub_label": "미국",
-              "count": 285
+              "count": 288
             }
           ],
           "chart": "donut"
@@ -4463,26 +4463,26 @@
             {
               "key": "trump",
               "label": "trump",
-              "count": 515
+              "count": 516
             },
             {
               "key": "iran",
               "label": "iran",
-              "count": 276
+              "count": 277
             },
             {
               "key": "war",
               "label": "war",
-              "count": 146
-            },
-            {
-              "key": "new",
-              "label": "new",
-              "count": 113
+              "count": 147
             },
             {
               "key": "us",
               "label": "us",
+              "count": 114
+            },
+            {
+              "key": "new",
+              "label": "new",
               "count": 113
             },
             {
@@ -4496,9 +4496,9 @@
               "count": 98
             },
             {
-              "key": "says",
-              "label": "says",
-              "count": 95
+              "key": "how",
+              "label": "how",
+              "count": 96
             }
           ]
         }
@@ -4626,17 +4626,17 @@
             },
             {
               "date": "2026-04-05",
-              "count": 790
+              "count": 815
             }
           ],
           "summary_items": [
             {
               "label": "최근 집계",
-              "value": 790
+              "value": 815
             },
             {
               "label": "일 평균",
-              "value": 167.6
+              "value": 168.5
             },
             {
               "label": "최대 일자",
@@ -4651,7 +4651,7 @@
             {
               "key": "us",
               "label": "미국",
-              "count": 3017,
+              "count": 3030,
               "series": [
                 {
                   "date": "2026-03-07",
@@ -4771,14 +4771,14 @@
                 },
                 {
                   "date": "2026-04-05",
-                  "count": 238
+                  "count": 251
                 }
               ]
             },
             {
               "key": "kr",
               "label": "대한민국",
-              "count": 1822,
+              "count": 1833,
               "series": [
                 {
                   "date": "2026-03-07",
@@ -4898,7 +4898,7 @@
                 },
                 {
                   "date": "2026-04-05",
-                  "count": 527
+                  "count": 538
                 }
               ]
             }
@@ -4906,11 +4906,11 @@
           "summary_items": [
             {
               "label": "미국",
-              "value": 3017
+              "value": 3030
             },
             {
               "label": "대한민국",
-              "value": 1822
+              "value": 1833
             }
           ]
         },
@@ -4921,7 +4921,7 @@
             {
               "key": "us-politics",
               "label": "정치",
-              "count": 1060,
+              "count": 1067,
               "series": [
                 {
                   "date": "2026-03-07",
@@ -5041,14 +5041,14 @@
                 },
                 {
                   "date": "2026-04-05",
-                  "count": 80
+                  "count": 87
                 }
               ]
             },
             {
               "key": "us-technology",
               "label": "기술",
-              "count": 782,
+              "count": 783,
               "series": [
                 {
                   "date": "2026-03-07",
@@ -5168,14 +5168,14 @@
                 },
                 {
                   "date": "2026-04-05",
-                  "count": 69
+                  "count": 70
                 }
               ]
             },
             {
               "key": "us-world",
               "label": "세계",
-              "count": 505,
+              "count": 507,
               "series": [
                 {
                   "date": "2026-03-07",
@@ -5295,7 +5295,7 @@
                 },
                 {
                   "date": "2026-04-05",
-                  "count": 33
+                  "count": 35
                 }
               ]
             }
@@ -5303,15 +5303,15 @@
           "summary_items": [
             {
               "label": "정치",
-              "value": 1060
+              "value": 1067
             },
             {
               "label": "기술",
-              "value": 782
+              "value": 783
             },
             {
               "label": "세계",
-              "value": 505
+              "value": 507
             }
           ]
         }
@@ -5319,7 +5319,7 @@
     },
     "90d": {
       "label": "90d",
-      "article_count": 5122,
+      "article_count": 5147,
       "unknown_time_count": 0,
       "active_source_count": 101,
       "repeated_title_count": 319,
@@ -5598,21 +5598,21 @@
         },
         {
           "date": "2026-04-05",
-          "count": 790
+          "count": 815
         }
       ],
       "top_keywords": [
         {
           "keyword": "trump",
-          "count": 517
+          "count": 518
         },
         {
           "keyword": "iran",
-          "count": 276
+          "count": 277
         },
         {
           "keyword": "war",
-          "count": 146
+          "count": 147
         },
         {
           "keyword": "ai",
@@ -5624,7 +5624,7 @@
         },
         {
           "keyword": "us",
-          "count": 114
+          "count": 115
         },
         {
           "keyword": "after",
@@ -5632,7 +5632,7 @@
         },
         {
           "keyword": "how",
-          "count": 97
+          "count": 99
         },
         {
           "keyword": "says",
@@ -5640,7 +5640,7 @@
         },
         {
           "keyword": "what",
-          "count": 82
+          "count": 83
         },
         {
           "keyword": "california",
@@ -5660,16 +5660,16 @@
         {
           "source_key": "guardian-us-rss",
           "name": "The Guardian US",
+          "count": 158
+        },
+        {
+          "source_key": "yahoo-news-rss",
+          "name": "Yahoo News RSS",
           "count": 151
         },
         {
           "source_key": "asiae-society-rss",
           "name": "Asiae Society",
-          "count": 148
-        },
-        {
-          "source_key": "yahoo-news-rss",
-          "name": "Yahoo News RSS",
           "count": 148
         },
         {
@@ -5717,17 +5717,17 @@
         {
           "key": "us",
           "label": "미국",
-          "count": 3106
+          "count": 3119
         },
         {
           "key": "kr",
           "label": "대한민국",
-          "count": 1824
+          "count": 1835
         },
         {
           "key": "global",
           "label": "글로벌 전문",
-          "count": 192
+          "count": 193
         }
       ],
       "top_sections": [
@@ -5736,21 +5736,28 @@
           "label": "정치",
           "hub": "us",
           "hub_label": "미국",
-          "count": 1060
+          "count": 1067
         },
         {
           "key": "us-technology",
           "label": "기술",
           "hub": "us",
           "hub_label": "미국",
-          "count": 846
+          "count": 847
         },
         {
           "key": "us-world",
           "label": "세계",
           "hub": "us",
           "hub_label": "미국",
-          "count": 506
+          "count": 508
+        },
+        {
+          "key": "kr-society",
+          "label": "사회",
+          "hub": "kr",
+          "hub_label": "대한민국",
+          "count": 504
         },
         {
           "key": "kr-economy",
@@ -5758,13 +5765,6 @@
           "hub": "kr",
           "hub_label": "대한민국",
           "count": 503
-        },
-        {
-          "key": "kr-society",
-          "label": "사회",
-          "hub": "kr",
-          "hub_label": "대한민국",
-          "count": 500
         },
         {
           "key": "us-economy",
@@ -5778,14 +5778,14 @@
           "label": "정치",
           "hub": "kr",
           "hub_label": "대한민국",
-          "count": 326
+          "count": 333
         },
         {
           "key": "us-markets",
           "label": "시장",
           "hub": "us",
           "hub_label": "미국",
-          "count": 309
+          "count": 312
         },
         {
           "key": "kr-culture",
@@ -5806,7 +5806,7 @@
           "label": "테크",
           "hub": "global",
           "hub_label": "글로벌 전문",
-          "count": 85
+          "count": 86
         },
         {
           "key": "crypto",
@@ -5819,11 +5819,11 @@
       "language_counts": [
         {
           "language": "en",
-          "count": 3244
+          "count": 3257
         },
         {
           "language": "ko",
-          "count": 1878
+          "count": 1890
         }
       ],
       "repeated_titles": [
@@ -6010,6 +6010,314 @@
       ],
       "recent_samples": [
         {
+          "stable_key": "8b6f933f6f6c4fc476dbb075fb7ee2fc8c869b35bf3f079b4a304f801461f2a5",
+          "source_key": "cbs-world-rss",
+          "source_name": "CBS News World",
+          "category": "us-world",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "세계",
+          "language": "en",
+          "title": "Pope Leo calls for hope amid global conflicts on his first Easter as pontiff",
+          "canonical_url": "https://www.cbsnews.com/news/pope-leo-calls-for-hope-amid-confilcts-first-easter",
+          "published_at": "2026-04-05T11:39:40+00:00",
+          "title_hash": "4e3fae722a7b1a151782d8696568bfc0b549e5b42c7045ed4ea7c412eb626dc5",
+          "keywords": [
+            "pope",
+            "leo",
+            "calls",
+            "hope",
+            "amid",
+            "global"
+          ]
+        },
+        {
+          "stable_key": "d6948da8f78634fa931eb3e4b23af46ca4e7cdc79fa958185b315c98f7b07ec8",
+          "source_key": "sbs-society-rss",
+          "source_name": "SBS Society",
+          "category": "kr-society",
+          "hub": "kr",
+          "hub_label": "대한민국",
+          "section_label": "사회",
+          "language": "ko",
+          "title": "더 짜릿하고 오싹하게…\"OTT는 못한다\" 힘준 극장들",
+          "canonical_url": "https://news.sbs.co.kr/news/endPage.do?cooper=RSSREADER&news_id=N1008505993&plink=RSSLINK",
+          "published_at": "2026-04-05T11:39:00+00:00",
+          "title_hash": "3ad12f044167eec7c45fcdfeeb35092242b096b8347c0374260ce2f279981a6a",
+          "keywords": [
+            "짜릿하고",
+            "오싹하게",
+            "ott는",
+            "못한다",
+            "힘준",
+            "극장들"
+          ]
+        },
+        {
+          "stable_key": "ca309810e813edb611d11ea6aae01cd417c1aee5f07a72b7976afe0081975957",
+          "source_key": "sbs-society-rss",
+          "source_name": "SBS Society",
+          "category": "kr-society",
+          "hub": "kr",
+          "hub_label": "대한민국",
+          "section_label": "사회",
+          "language": "ko",
+          "title": "고글 쓰자 빨간 점 '휙휙'…100만 괴롭힌 증상 고친다",
+          "canonical_url": "https://news.sbs.co.kr/news/endPage.do?cooper=RSSREADER&news_id=N1008505992&plink=RSSLINK",
+          "published_at": "2026-04-05T11:39:00+00:00",
+          "title_hash": "98ee7e1d99fb2f7ea3a5b7c3f848390c33e711833193ce70178dc2ccea55e7d4",
+          "keywords": [
+            "고글",
+            "쓰자",
+            "빨간",
+            "휙휙",
+            "100만",
+            "괴롭힌"
+          ]
+        },
+        {
+          "stable_key": "ff04762f2f25ac6403f6a4a51d6e9ff85271ed25f911a74c96305f68d443f494",
+          "source_key": "sbs-society-rss",
+          "source_name": "SBS Society",
+          "category": "kr-society",
+          "hub": "kr",
+          "hub_label": "대한민국",
+          "section_label": "사회",
+          "language": "ko",
+          "title": "껍질 까지고 하얗게 말라죽었다…지리산 떼죽음 '비상'",
+          "canonical_url": "https://news.sbs.co.kr/news/endPage.do?cooper=RSSREADER&news_id=N1008505991&plink=RSSLINK",
+          "published_at": "2026-04-05T11:38:00+00:00",
+          "title_hash": "adf32f94961d64f5b345011c1a67be77b96193559b747867b526e13eece80099",
+          "keywords": [
+            "껍질",
+            "까지고",
+            "하얗게",
+            "말라죽었다",
+            "지리산",
+            "떼죽음"
+          ]
+        },
+        {
+          "stable_key": "c2995d846f47fdaf0b666a34a83d0c4ad2f61e9d13efe9781cd80f03cb628524",
+          "source_key": "khan-politics-rss",
+          "source_name": "Kyunghyang Politics",
+          "category": "kr-politics",
+          "hub": "kr",
+          "hub_label": "대한민국",
+          "section_label": "정치",
+          "language": "ko",
+          "title": "“교회·성도들, 국가 위기 때마다 등불 역할… 국민 하나로 모으는 길 계속 앞장서주길”",
+          "canonical_url": "https://www.khan.co.kr/article/202604052038005",
+          "published_at": "2026-04-05T11:38:00+00:00",
+          "title_hash": "a4157b9d4e5bdc0aa79a62eb69e2798bdb6228c86e83f80b626f7cffa61c18ea",
+          "keywords": [
+            "교회",
+            "성도들",
+            "국가",
+            "위기",
+            "때마다",
+            "등불"
+          ]
+        },
+        {
+          "stable_key": "19644ae2d280dc45fffae16a4881903497e4c9cc68700ffe798714b7ff841174",
+          "source_key": "khan-politics-rss",
+          "source_name": "Kyunghyang Politics",
+          "category": "kr-politics",
+          "hub": "kr",
+          "hub_label": "대한민국",
+          "section_label": "정치",
+          "language": "ko",
+          "title": "정청래 “5·18 헌법 수록 반대는 전두환 찬양…국힘, 입장 밝혀라”",
+          "canonical_url": "https://www.khan.co.kr/article/202604052037015",
+          "published_at": "2026-04-05T11:37:01+00:00",
+          "title_hash": "f270f863f33c2cfa3fa9ee3fba3630241cabbed780571abe79e5e12317b974cb",
+          "keywords": [
+            "정청래",
+            "헌법",
+            "수록",
+            "반대는",
+            "전두환",
+            "찬양"
+          ]
+        },
+        {
+          "stable_key": "08e28dc25cb3d61962d6805bb6fb618f533487e062ed46489e83794a6eae104b",
+          "source_key": "sbs-society-rss",
+          "source_name": "SBS Society",
+          "category": "kr-society",
+          "hub": "kr",
+          "hub_label": "대한민국",
+          "section_label": "사회",
+          "language": "ko",
+          "title": "비 오면 퍼지는 '녹조 주범'…\"잘 덮기만 해도 막는다\"",
+          "canonical_url": "https://news.sbs.co.kr/news/endPage.do?cooper=RSSREADER&news_id=N1008505990&plink=RSSLINK",
+          "published_at": "2026-04-05T11:37:00+00:00",
+          "title_hash": "446259bc2f7da0987916a20b48319f45b3c4bdc62290679966cbe2b95a3f9292",
+          "keywords": [
+            "오면",
+            "퍼지는",
+            "녹조",
+            "주범",
+            "덮기만",
+            "해도"
+          ]
+        },
+        {
+          "stable_key": "69af81d7c517c813a5805fe5d1c9c264280ea63513e76d9314cb6e37ef8c8a93",
+          "source_key": "khan-politics-rss",
+          "source_name": "Kyunghyang Politics",
+          "category": "kr-politics",
+          "hub": "kr",
+          "hub_label": "대한민국",
+          "section_label": "정치",
+          "language": "ko",
+          "title": "김부겸 “뻥 치는 공약하지 않겠다…시장되면 대통령과 지역소멸 토론할 것”",
+          "canonical_url": "https://www.khan.co.kr/article/202604052037001",
+          "published_at": "2026-04-05T11:37:00+00:00",
+          "title_hash": "7229a9828c27b76f90ad57291f93a8ee4799693eba1cb24b1194f080e8ed8b20",
+          "keywords": [
+            "김부겸",
+            "치는",
+            "공약하지",
+            "않겠다",
+            "시장되면",
+            "대통령과"
+          ]
+        },
+        {
+          "stable_key": "2462862e726e9dff980ef25073c8678ac4d7c6d4e54d789fc6255f8b4f6ab9f4",
+          "source_key": "khan-politics-rss",
+          "source_name": "Kyunghyang Politics",
+          "category": "kr-politics",
+          "hub": "kr",
+          "hub_label": "대한민국",
+          "section_label": "정치",
+          "language": "ko",
+          "title": "“결의문서 사과”…국힘, 이번에도 ‘절윤’은 없었다",
+          "canonical_url": "https://www.khan.co.kr/article/202604052037005",
+          "published_at": "2026-04-05T11:37:00+00:00",
+          "title_hash": "e880120ab477bf595f56927c6e233a51347cefe6c94e646e52c0a4f2fa96e732",
+          "keywords": [
+            "결의문서",
+            "사과",
+            "국힘",
+            "이번에도",
+            "절윤",
+            "없었다"
+          ]
+        },
+        {
+          "stable_key": "f80b2cae067238c2c35aba49a5f78fd7418e8f980907574e25f13c807cd9fa4a",
+          "source_key": "telegram-dada-news2",
+          "source_name": "Telegram @dada_news2",
+          "category": "tech-it",
+          "hub": "global",
+          "hub_label": "글로벌 전문",
+          "section_label": "테크",
+          "language": "ko",
+          "title": "[머니투데이방송] 25조 운영 전남광주특별시장, 김영록·민형배 결선서 만나다",
+          "canonical_url": "https://news.mtn.co.kr/news-detail/2026040518480617840",
+          "published_at": "2026-04-05T11:36:25+00:00",
+          "title_hash": "082027fd704b322af23415d36f29a50c88a4a342cf8ac3ab718d93707a7dad7a",
+          "keywords": [
+            "머니투데이방송",
+            "25조",
+            "운영",
+            "전남광주특별시장",
+            "김영록",
+            "민형배"
+          ]
+        },
+        {
+          "stable_key": "20750956734fc085dac93f768ea023e15cdee9ee43bd881a9ba0d59baf534130",
+          "source_key": "sbs-politics-rss",
+          "source_name": "SBS Politics",
+          "category": "kr-politics",
+          "hub": "kr",
+          "hub_label": "대한민국",
+          "section_label": "정치",
+          "language": "ko",
+          "title": "'전 정무수석' 과 '현직 도지사'…강원 마음 어디로?",
+          "canonical_url": "https://news.sbs.co.kr/news/endPage.do?cooper=RSSREADER&news_id=N1008505989&plink=RSSLINK",
+          "published_at": "2026-04-05T11:36:00+00:00",
+          "title_hash": "a084eafa28960093049f79bd2c22d9a18400a0e0c4d5f213f0af071b8c088994",
+          "keywords": [
+            "정무수석",
+            "현직",
+            "도지사",
+            "강원",
+            "마음",
+            "어디로"
+          ]
+        },
+        {
+          "stable_key": "8400a39432e24f3f5f93e2bfd7023feefdb6612ed6a23e68f0fcfe1e7bfd4e4a",
+          "source_key": "sbs-politics-rss",
+          "source_name": "SBS Politics",
+          "category": "kr-politics",
+          "hub": "kr",
+          "hub_label": "대한민국",
+          "section_label": "정치",
+          "language": "ko",
+          "title": "민주, 광주 '2인' 압축…'대구 공천' 수습 나선 장동혁",
+          "canonical_url": "https://news.sbs.co.kr/news/endPage.do?cooper=RSSREADER&news_id=N1008505988&plink=RSSLINK",
+          "published_at": "2026-04-05T11:35:00+00:00",
+          "title_hash": "07006689e3d44b96b9f0d3b63019093a983b228a72c22262d4af5f96371d10d8",
+          "keywords": [
+            "민주",
+            "광주",
+            "2인",
+            "압축",
+            "대구",
+            "공천"
+          ]
+        },
+        {
+          "stable_key": "a87637b950c1d677aad3e523c9396c138a476a10b82e9858f456ca85d03f370c",
+          "source_key": "khan-politics-rss",
+          "source_name": "Kyunghyang Politics",
+          "category": "kr-politics",
+          "hub": "kr",
+          "hub_label": "대한민국",
+          "section_label": "정치",
+          "language": "ko",
+          "title": "국정농단과 불법계엄…대통령 책무 저버린 “국민 배반 행위”",
+          "canonical_url": "https://www.khan.co.kr/article/202604052035005",
+          "published_at": "2026-04-05T11:35:00+00:00",
+          "title_hash": "26634f88b81a85702aaca06ce1dcf284e34f61bf9135e461151ffdf481e8dbe1",
+          "keywords": [
+            "국정농단과",
+            "불법계엄",
+            "대통령",
+            "책무",
+            "저버린",
+            "국민"
+          ]
+        },
+        {
+          "stable_key": "238cdc805090635e2a5d5f1d60e854ec7245188418641286168e0803114395ec",
+          "source_key": "newsweek-feed",
+          "source_name": "Newsweek Feed",
+          "category": "us-world",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "세계",
+          "language": "en",
+          "title": "Pope Leo’s Easter Message 2026: Pontiff Urges World Leaders To End War",
+          "canonical_url": "https://www.newsweek.com/pope-leos-easter-message-2026-pontiff-urges-world-leaders-end-war-11778018",
+          "published_at": "2026-04-05T11:34:42+00:00",
+          "title_hash": "92ad227234f36d0b0c3cbe5f31cf5ab486c1879c410bc067b4bed2ab43538ff6",
+          "keywords": [
+            "pope",
+            "leo",
+            "easter",
+            "message",
+            "pontiff",
+            "urges"
+          ]
+        },
+        {
           "stable_key": "fc53cb73f5c9be3a0af6ca47b41f6ef45f2522ee51b3c58259ac075102ae0cc6",
           "source_key": "sbs-society-rss",
           "source_name": "SBS Society",
@@ -6073,6 +6381,28 @@
             "using",
             "trivia",
             "games"
+          ]
+        },
+        {
+          "stable_key": "33e6642f7df200cc03d205993df43e5f18b467a519a8e6239493babc7c46c4f6",
+          "source_key": "cbs-politics-rss",
+          "source_name": "CBS News Politics",
+          "category": "us-politics",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "정치",
+          "language": "en",
+          "title": "Transcript: Maryland Gov. Wes Moore on \"Face the Nation with Margaret Brennan,\" April 5, 2026",
+          "canonical_url": "https://www.cbsnews.com/news/maryland-gov-wes-moore-face-the-nation-transcript-04-05-2026",
+          "published_at": "2026-04-05T11:30:05+00:00",
+          "title_hash": "ee9a9ccc98af2c5ced247f05b509ad85884e3ce4ff66ef227b6132da3eed572b",
+          "keywords": [
+            "transcript",
+            "maryland",
+            "gov",
+            "wes",
+            "moore",
+            "face"
           ]
         },
         {
@@ -6338,343 +6668,13 @@
             "식량",
             "원자재도"
           ]
-        },
-        {
-          "stable_key": "e3ab3798f944fc13526030772e0daaad866047ce007b37a246b8b239e0cc4e5a",
-          "source_key": "khan-society-rss",
-          "source_name": "Kyunghyang Society",
-          "category": "kr-society",
-          "hub": "kr",
-          "hub_label": "대한민국",
-          "section_label": "사회",
-          "language": "ko",
-          "title": "[윤석열 탄핵 1년]“바뀌지 않은 세상, 그래서 다시 광장”… 시민들이 말하는 그 후의 삶",
-          "canonical_url": "https://www.khan.co.kr/article/202604052018005",
-          "published_at": "2026-04-05T11:18:00+00:00",
-          "title_hash": "125bf65489a3be08c08e2ddfcbf1bc1513ae17a92df67efb5b4d015e9c731e33",
-          "keywords": [
-            "윤석열",
-            "탄핵",
-            "1년",
-            "바뀌지",
-            "않은",
-            "세상"
-          ]
-        },
-        {
-          "stable_key": "8bce666724287a8964487f342192674d5d018e768107a2bd195c4fae0eb8405d",
-          "source_key": "donga-politics-rss",
-          "source_name": "DongA Politics",
-          "category": "kr-politics",
-          "hub": "kr",
-          "hub_label": "대한민국",
-          "section_label": "정치",
-          "language": "ko",
-          "title": "與 전남광주 김영록-민형배 결선행…이번주 지선 윤곽 나온다",
-          "canonical_url": "https://www.donga.com/news/Politics/article/all/20260405/133676588/1",
-          "published_at": "2026-04-05T11:15:00+00:00",
-          "title_hash": "a13a96af337a6436e51cd9003360583284460272c9b17f136d9b2ab4ffd0b6d4",
-          "keywords": [
-            "전남광주",
-            "김영록",
-            "민형배",
-            "결선행",
-            "이번주",
-            "지선"
-          ]
-        },
-        {
-          "stable_key": "9733191060bba2dfc070a08256cad1d99331696ac18972c68c87006570529b08",
-          "source_key": "telegram-dada-news2",
-          "source_name": "Telegram @dada_news2",
-          "category": "tech-it",
-          "hub": "global",
-          "hub_label": "글로벌 전문",
-          "section_label": "테크",
-          "language": "ko",
-          "title": "[이데일리] SSG,단독 선두 도약...롯데, 피치클록 악재 속 6연패",
-          "canonical_url": "https://www.edaily.co.kr/news/read?newsId=01954886645413168",
-          "published_at": "2026-04-05T11:14:17+00:00",
-          "title_hash": "b0139df6860a079aa49fa9b666864b14c020d49f84ffa313672c38de9dcdda94",
-          "keywords": [
-            "이데일리",
-            "ssg",
-            "선두",
-            "도약",
-            "롯데",
-            "피치클록"
-          ]
-        },
-        {
-          "stable_key": "08fe43d626dab144aef2eddedbfac4a8f43b367c404e0ced48f46bd2bb7d250c",
-          "source_key": "khan-sports-rss",
-          "source_name": "Kyunghyang Sports",
-          "category": "kr-sports",
-          "hub": "kr",
-          "hub_label": "대한민국",
-          "section_label": "스포츠",
-          "language": "ko",
-          "title": "고지원 “육지 첫 우승, 언니랑 합쳐 6승”",
-          "canonical_url": "https://www.khan.co.kr/article/202604052014005",
-          "published_at": "2026-04-05T11:14:00+00:00",
-          "title_hash": "1dc38bb2a78c9fc103a9f04cec2fddbcf25a8c5c6ab2722c030e7b61ed4b95d6",
-          "keywords": [
-            "고지원",
-            "육지",
-            "우승",
-            "언니랑",
-            "합쳐",
-            "6승"
-          ]
-        },
-        {
-          "stable_key": "a13e3cc66e814f941d6eaaa3dca74fad3c3cf792c956de4a8072ebdd8a164d5f",
-          "source_key": "mk-society-rss",
-          "source_name": "Maeil Business Society",
-          "category": "kr-society",
-          "hub": "kr",
-          "hub_label": "대한민국",
-          "section_label": "사회",
-          "language": "ko",
-          "title": "“나 못 내렸다”…청량리역서 승객 선로 무단 진입, 1호선 한때 운행 지연",
-          "canonical_url": "https://www.mk.co.kr/news/society/12008523",
-          "published_at": "2026-04-05T11:13:48+00:00",
-          "title_hash": "6b158e7d241e8ccd2a61890ba0186f2597cb0f1bafd147768551875cd8c92bfe",
-          "keywords": [
-            "내렸다",
-            "청량리역서",
-            "승객",
-            "선로",
-            "무단",
-            "진입"
-          ]
-        },
-        {
-          "stable_key": "5185ab8559059549b618174f72313a46f4f6cf18ee007269d99e279bb383060c",
-          "source_key": "khan-sports-rss",
-          "source_name": "Kyunghyang Sports",
-          "category": "kr-sports",
-          "hub": "kr",
-          "hub_label": "대한민국",
-          "section_label": "스포츠",
-          "language": "ko",
-          "title": "박준순 “아! 사이클링 히트”…두산, 연패 끊었다",
-          "canonical_url": "https://www.khan.co.kr/article/202604052012005",
-          "published_at": "2026-04-05T11:12:00+00:00",
-          "title_hash": "06ead904afe23e34cba8418270da4248ed9f2af40e3338934c3dc39ffa5429c5",
-          "keywords": [
-            "박준순",
-            "사이클링",
-            "히트",
-            "두산",
-            "연패",
-            "끊었다"
-          ]
-        },
-        {
-          "stable_key": "91876adf145995d2647d9b05cc931ad6f4d8c067b1b842fc30c74cfd709dd1f3",
-          "source_key": "donga-society-rss",
-          "source_name": "DongA Society",
-          "category": "kr-society",
-          "hub": "kr",
-          "hub_label": "대한민국",
-          "section_label": "사회",
-          "language": "ko",
-          "title": "‘참전 용사’ 국밥 대접 식당주 “건물주가 월세 5만 원 깎아줘…눈물”",
-          "canonical_url": "https://www.donga.com/news/Society/article/all/20260405/133678836/1",
-          "published_at": "2026-04-05T11:11:22+00:00",
-          "title_hash": "f66372a46d068af7d4d9bd75f0d5456120c9645928e8b9838b64cc35af63ed41",
-          "keywords": [
-            "참전",
-            "용사",
-            "국밥",
-            "대접",
-            "식당주",
-            "건물주가"
-          ]
-        },
-        {
-          "stable_key": "583e15b534c16748aa0919c21fd5234495ed57c069f44415796ac7f8afca0353",
-          "source_key": "khan-sports-rss",
-          "source_name": "Kyunghyang Sports",
-          "category": "kr-sports",
-          "hub": "kr",
-          "hub_label": "대한민국",
-          "section_label": "스포츠",
-          "language": "ko",
-          "title": "손흥민, 생애 첫 한 경기 4어시스트 ‘MLS 도움 선두’",
-          "canonical_url": "https://www.khan.co.kr/article/202604052011015",
-          "published_at": "2026-04-05T11:11:01+00:00",
-          "title_hash": "92468aa8eab38bc5ca29c2769ca10d5242347a9a3bca899caf59a00efccd10e1",
-          "keywords": [
-            "손흥민",
-            "생애",
-            "경기",
-            "4어시스트",
-            "mls",
-            "도움"
-          ]
-        },
-        {
-          "stable_key": "4c9b753c411bd5518520cb153a27c1daf77d975ce8b742cf9a5eac8df75a4ef2",
-          "source_key": "khan-sports-rss",
-          "source_name": "Kyunghyang Sports",
-          "category": "kr-sports",
-          "hub": "kr",
-          "hub_label": "대한민국",
-          "section_label": "스포츠",
-          "language": "ko",
-          "title": "봄 배구 6전 6승 GS칼텍스 ‘3위 팀의 기적’ 우승 축배",
-          "canonical_url": "https://www.khan.co.kr/article/202604052011005",
-          "published_at": "2026-04-05T11:11:00+00:00",
-          "title_hash": "72002a38883afe443f59668dcddb034f8c40928f8e0150308c200fb9b5ae0e02",
-          "keywords": [
-            "배구",
-            "6전",
-            "6승",
-            "gs칼텍스",
-            "3위",
-            "팀의"
-          ]
-        },
-        {
-          "stable_key": "5c695e54d03638d544970a59cf4ad5797580e26a299c9c5eb551613a72f9bcb3",
-          "source_key": "khan-local-rss",
-          "source_name": "Kyunghyang Local",
-          "category": "kr-local",
-          "hub": "kr",
-          "hub_label": "대한민국",
-          "section_label": "지역",
-          "language": "ko",
-          "title": "부산 내성·수영지하차도 지반침하로 차량 통제",
-          "canonical_url": "https://www.khan.co.kr/article/202604052011001",
-          "published_at": "2026-04-05T11:11:00+00:00",
-          "title_hash": "59f880af4ba3e414d0ab8eef04dca7d389b781b6141e34d51c73cc52abf079a9",
-          "keywords": [
-            "부산",
-            "내성",
-            "수영지하차도",
-            "지반침하로",
-            "차량",
-            "통제"
-          ]
-        },
-        {
-          "stable_key": "919713045df27a0be8e3ac2bf086089e91bdd293de5276cac32ab342c244b478",
-          "source_key": "etoday-economy-rss",
-          "source_name": "eToday Economy",
-          "category": "kr-economy",
-          "hub": "kr",
-          "hub_label": "대한민국",
-          "section_label": "경제",
-          "language": "ko",
-          "title": "물류센터에 태양광발전소 설치…LX판토스, SK이노 E&S와 맞손",
-          "canonical_url": "https://www.etoday.co.kr/news/view/2572815",
-          "published_at": "2026-04-05T11:06:00+00:00",
-          "title_hash": "9040308c45e22b515afe364490fc843343cc91174d0a8a291a208ab4487a2da5",
-          "keywords": [
-            "물류센터에",
-            "태양광발전소",
-            "설치",
-            "lx판토스",
-            "sk이노",
-            "s와"
-          ]
-        },
-        {
-          "stable_key": "689954d39754cf08794abd9cc7f5e9f20c1f95658806f5b4aa5706f19d3f3f4b",
-          "source_key": "newsweek-feed",
-          "source_name": "Newsweek Feed",
-          "category": "us-technology",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "기술",
-          "language": "en",
-          "title": "United Airlines Announces New Premium Ticket Options",
-          "canonical_url": "https://www.newsweek.com/united-airlines-new-premium-ticket-options-11784784",
-          "published_at": "2026-04-05T11:04:04+00:00",
-          "title_hash": "2cb0717813aaef59ad80efb84c41e4a1d88a5362d5575adcc6072a6e153903e4",
-          "keywords": [
-            "united",
-            "airlines",
-            "announces",
-            "new",
-            "premium",
-            "ticket"
-          ]
-        },
-        {
-          "stable_key": "6df06c903f335f31ef24de79a9064e24aa1334c55d78946ace558f84ad91936d",
-          "source_key": "wired-rss",
-          "source_name": "Wired RSS",
-          "category": "us-technology",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "기술",
-          "language": "en",
-          "title": "Heatbit Maxi Pro Review: a Space Heater That Also Mines Bitcoin",
-          "canonical_url": "https://www.wired.com/review/heatbit-maxi-pro-bitcoin-miner-heater",
-          "published_at": "2026-04-05T11:04:00+00:00",
-          "title_hash": "fdd6650de5a14cf2b7f63320df1cdd709bb9076f31e4aa00e8896ac5da772280",
-          "keywords": [
-            "heatbit",
-            "maxi",
-            "pro",
-            "review",
-            "space",
-            "heater"
-          ]
-        },
-        {
-          "stable_key": "c0b056749477d408e64a34aa422b4ce550cc44b7e92bb51da57acab8f69ffcf3",
-          "source_key": "fox-world-rss",
-          "source_name": "Fox News World",
-          "category": "us-world",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "세계",
-          "language": "en",
-          "title": "Pope Leo XIV invokes Pope Francis' final words in Easter plea against growing 'indifference' to war",
-          "canonical_url": "https://www.foxnews.com/world/pope-leo-xiv-invokes-pope-francis-final-words-easter-plea-against-growing-indifference-war",
-          "published_at": "2026-04-05T11:03:29+00:00",
-          "title_hash": "ceaf6baed46224d7baace03ba0400e4029ae8680f88ad48af1276826baf51f49",
-          "keywords": [
-            "pope",
-            "leo",
-            "xiv",
-            "invokes",
-            "francis",
-            "final"
-          ]
-        },
-        {
-          "stable_key": "3c1e80f2c5740ad66137e0ad6ee0ca9c1e7ed229cb386efa8bd6b56bff3ace02",
-          "source_key": "telegram-news-kor",
-          "source_name": "Telegram @news_kor",
-          "category": "kr-society",
-          "hub": "kr",
-          "hub_label": "대한민국",
-          "section_label": "사회",
-          "language": "ko",
-          "title": "🔍[단독]서울시, 공무원 ‘자기돌봄 특별휴가’ 연 1일 추진···“번아웃...",
-          "canonical_url": "https://www.khan.co.kr/article/202604052000001",
-          "published_at": "2026-04-05T11:02:31+00:00",
-          "title_hash": "1c2a9b3afb75349f57cb787b18511e390533a36dcc5b22182a6a94efbc1f72b3",
-          "keywords": [
-            "서울시",
-            "공무원",
-            "자기돌봄",
-            "특별휴가",
-            "1일",
-            "추진"
-          ]
         }
       ],
       "kpi_series": [
         {
           "key": "articles",
           "label": "기사 수",
-          "value": 5122,
+          "value": 5147,
           "series": [
             22,
             53,
@@ -6689,7 +6689,7 @@
             615,
             1398,
             1204,
-            790
+            815
           ]
         },
         {
@@ -6710,7 +6710,7 @@
             615,
             1398,
             1204,
-            790
+            815
           ]
         },
         {
@@ -6731,7 +6731,7 @@
             615,
             1398,
             1204,
-            790
+            815
           ]
         },
         {
@@ -6752,7 +6752,7 @@
             615,
             1398,
             1204,
-            790
+            815
           ]
         }
       ],
@@ -6769,16 +6769,16 @@
             {
               "source_key": "guardian-us-rss",
               "name": "The Guardian US",
+              "count": 158
+            },
+            {
+              "source_key": "yahoo-news-rss",
+              "name": "Yahoo News RSS",
               "count": 151
             },
             {
               "source_key": "asiae-society-rss",
               "name": "Asiae Society",
-              "count": 148
-            },
-            {
-              "source_key": "yahoo-news-rss",
-              "name": "Yahoo News RSS",
               "count": 148
             },
             {
@@ -6812,21 +6812,28 @@
               "label": "정치",
               "hub": "us",
               "hub_label": "미국",
-              "count": 1060
+              "count": 1067
             },
             {
               "key": "us-technology",
               "label": "기술",
               "hub": "us",
               "hub_label": "미국",
-              "count": 846
+              "count": 847
             },
             {
               "key": "us-world",
               "label": "세계",
               "hub": "us",
               "hub_label": "미국",
-              "count": 506
+              "count": 508
+            },
+            {
+              "key": "kr-society",
+              "label": "사회",
+              "hub": "kr",
+              "hub_label": "대한민국",
+              "count": 504
             },
             {
               "key": "kr-economy",
@@ -6834,13 +6841,6 @@
               "hub": "kr",
               "hub_label": "대한민국",
               "count": 503
-            },
-            {
-              "key": "kr-society",
-              "label": "사회",
-              "hub": "kr",
-              "hub_label": "대한민국",
-              "count": 500
             },
             {
               "key": "us-economy",
@@ -6854,14 +6854,14 @@
               "label": "정치",
               "hub": "kr",
               "hub_label": "대한민국",
-              "count": 326
+              "count": 333
             },
             {
               "key": "us-markets",
               "label": "시장",
               "hub": "us",
               "hub_label": "미국",
-              "count": 309
+              "count": 312
             }
           ],
           "chart": "donut"
@@ -6873,17 +6873,17 @@
             {
               "key": "trump",
               "label": "trump",
-              "count": 517
+              "count": 518
             },
             {
               "key": "iran",
               "label": "iran",
-              "count": 276
+              "count": 277
             },
             {
               "key": "war",
               "label": "war",
-              "count": 146
+              "count": 147
             },
             {
               "key": "ai",
@@ -6898,7 +6898,7 @@
             {
               "key": "us",
               "label": "us",
-              "count": 114
+              "count": 115
             },
             {
               "key": "after",
@@ -6908,7 +6908,7 @@
             {
               "key": "how",
               "label": "how",
-              "count": 97
+              "count": 99
             }
           ]
         }
@@ -7192,17 +7192,17 @@
             },
             {
               "date": "2026-04-05",
-              "count": 790
+              "count": 815
             }
           ],
           "summary_items": [
             {
               "label": "최근 집계",
-              "value": 790
+              "value": 815
             },
             {
               "label": "일 평균",
-              "value": 74.2
+              "value": 74.6
             },
             {
               "label": "최대 일자",
@@ -7217,7 +7217,7 @@
             {
               "key": "us",
               "label": "미국",
-              "count": 3106,
+              "count": 3119,
               "series": [
                 {
                   "date": "2026-01-07",
@@ -7493,14 +7493,14 @@
                 },
                 {
                   "date": "2026-04-05",
-                  "count": 238
+                  "count": 251
                 }
               ]
             },
             {
               "key": "kr",
               "label": "대한민국",
-              "count": 1824,
+              "count": 1835,
               "series": [
                 {
                   "date": "2026-01-07",
@@ -7776,7 +7776,7 @@
                 },
                 {
                   "date": "2026-04-05",
-                  "count": 527
+                  "count": 538
                 }
               ]
             }
@@ -7784,11 +7784,11 @@
           "summary_items": [
             {
               "label": "미국",
-              "value": 3106
+              "value": 3119
             },
             {
               "label": "대한민국",
-              "value": 1824
+              "value": 1835
             }
           ]
         },
@@ -7799,7 +7799,7 @@
             {
               "key": "us-politics",
               "label": "정치",
-              "count": 1060,
+              "count": 1067,
               "series": [
                 {
                   "date": "2026-01-07",
@@ -8075,14 +8075,14 @@
                 },
                 {
                   "date": "2026-04-05",
-                  "count": 80
+                  "count": 87
                 }
               ]
             },
             {
               "key": "us-technology",
               "label": "기술",
-              "count": 846,
+              "count": 847,
               "series": [
                 {
                   "date": "2026-01-07",
@@ -8358,14 +8358,14 @@
                 },
                 {
                   "date": "2026-04-05",
-                  "count": 69
+                  "count": 70
                 }
               ]
             },
             {
               "key": "us-world",
               "label": "세계",
-              "count": 506,
+              "count": 508,
               "series": [
                 {
                   "date": "2026-01-07",
@@ -8641,7 +8641,7 @@
                 },
                 {
                   "date": "2026-04-05",
-                  "count": 33
+                  "count": 35
                 }
               ]
             }
@@ -8649,15 +8649,15 @@
           "summary_items": [
             {
               "label": "정치",
-              "value": 1060
+              "value": 1067
             },
             {
               "label": "기술",
-              "value": 846
+              "value": 847
             },
             {
               "label": "세계",
-              "value": 506
+              "value": 508
             }
           ]
         }
@@ -8665,10 +8665,10 @@
     },
     "all": {
       "label": "All",
-      "article_count": 6592,
-      "unknown_time_count": 1312,
+      "article_count": 6627,
+      "unknown_time_count": 1322,
       "active_source_count": 131,
-      "repeated_title_count": 478,
+      "repeated_title_count": 479,
       "timeline": [
         {
           "date": "2016-11-02",
@@ -9100,25 +9100,25 @@
         },
         {
           "date": "2026-04-05",
-          "count": 804
+          "count": 829
         }
       ],
       "top_keywords": [
         {
           "keyword": "trump",
-          "count": 555
+          "count": 556
         },
         {
           "keyword": "iran",
-          "count": 293
+          "count": 294
         },
         {
           "keyword": "war",
-          "count": 157
+          "count": 158
         },
         {
           "keyword": "us",
-          "count": 135
+          "count": 136
         },
         {
           "keyword": "ai",
@@ -9134,7 +9134,7 @@
         },
         {
           "keyword": "how",
-          "count": 109
+          "count": 111
         },
         {
           "keyword": "says",
@@ -9142,14 +9142,14 @@
         },
         {
           "keyword": "what",
-          "count": 90
+          "count": 91
+        },
+        {
+          "keyword": "대통령",
+          "count": 78
         },
         {
           "keyword": "california",
-          "count": 77
-        },
-        {
-          "keyword": "over",
           "count": 77
         }
       ],
@@ -9157,7 +9157,7 @@
         {
           "source_key": "naver-kr-society",
           "name": "NAVER News Search",
-          "count": 606
+          "count": 616
         },
         {
           "source_key": "semafor-feed",
@@ -9167,16 +9167,16 @@
         {
           "source_key": "guardian-us-rss",
           "name": "The Guardian US",
-          "count": 155
-        },
-        {
-          "source_key": "asiae-society-rss",
-          "name": "Asiae Society",
-          "count": 148
+          "count": 162
         },
         {
           "source_key": "yahoo-news-rss",
           "name": "Yahoo News RSS",
+          "count": 151
+        },
+        {
+          "source_key": "asiae-society-rss",
+          "name": "Asiae Society",
           "count": 148
         },
         {
@@ -9219,17 +9219,17 @@
         {
           "key": "us",
           "label": "미국",
-          "count": 3552
+          "count": 3565
         },
         {
           "key": "kr",
           "label": "대한민국",
-          "count": 2818
+          "count": 2839
         },
         {
           "key": "global",
           "label": "글로벌 전문",
-          "count": 222
+          "count": 223
         }
       ],
       "top_sections": [
@@ -9238,21 +9238,21 @@
           "label": "사회",
           "hub": "kr",
           "hub_label": "대한민국",
-          "count": 1184
+          "count": 1198
         },
         {
           "key": "us-politics",
           "label": "정치",
           "hub": "us",
           "hub_label": "미국",
-          "count": 1173
+          "count": 1180
         },
         {
           "key": "us-technology",
           "label": "기술",
           "hub": "us",
           "hub_label": "미국",
-          "count": 976
+          "count": 977
         },
         {
           "key": "kr-economy",
@@ -9266,7 +9266,7 @@
           "label": "세계",
           "hub": "us",
           "hub_label": "미국",
-          "count": 559
+          "count": 561
         },
         {
           "key": "us-economy",
@@ -9280,14 +9280,14 @@
           "label": "정치",
           "hub": "kr",
           "hub_label": "대한민국",
-          "count": 424
+          "count": 431
         },
         {
           "key": "us-markets",
           "label": "시장",
           "hub": "us",
           "hub_label": "미국",
-          "count": 368
+          "count": 371
         },
         {
           "key": "kr-culture",
@@ -9308,7 +9308,7 @@
           "label": "테크",
           "hub": "global",
           "hub_label": "글로벌 전문",
-          "count": 85
+          "count": 86
         },
         {
           "key": "kr-local",
@@ -9321,11 +9321,11 @@
       "language_counts": [
         {
           "language": "en",
-          "count": 3720
+          "count": 3733
         },
         {
           "language": "ko",
-          "count": 2872
+          "count": 2894
         }
       ],
       "repeated_titles": [
@@ -9512,6 +9512,314 @@
       ],
       "recent_samples": [
         {
+          "stable_key": "8b6f933f6f6c4fc476dbb075fb7ee2fc8c869b35bf3f079b4a304f801461f2a5",
+          "source_key": "cbs-world-rss",
+          "source_name": "CBS News World",
+          "category": "us-world",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "세계",
+          "language": "en",
+          "title": "Pope Leo calls for hope amid global conflicts on his first Easter as pontiff",
+          "canonical_url": "https://www.cbsnews.com/news/pope-leo-calls-for-hope-amid-confilcts-first-easter",
+          "published_at": "2026-04-05T11:39:40+00:00",
+          "title_hash": "4e3fae722a7b1a151782d8696568bfc0b549e5b42c7045ed4ea7c412eb626dc5",
+          "keywords": [
+            "pope",
+            "leo",
+            "calls",
+            "hope",
+            "amid",
+            "global"
+          ]
+        },
+        {
+          "stable_key": "d6948da8f78634fa931eb3e4b23af46ca4e7cdc79fa958185b315c98f7b07ec8",
+          "source_key": "sbs-society-rss",
+          "source_name": "SBS Society",
+          "category": "kr-society",
+          "hub": "kr",
+          "hub_label": "대한민국",
+          "section_label": "사회",
+          "language": "ko",
+          "title": "더 짜릿하고 오싹하게…\"OTT는 못한다\" 힘준 극장들",
+          "canonical_url": "https://news.sbs.co.kr/news/endPage.do?cooper=RSSREADER&news_id=N1008505993&plink=RSSLINK",
+          "published_at": "2026-04-05T11:39:00+00:00",
+          "title_hash": "3ad12f044167eec7c45fcdfeeb35092242b096b8347c0374260ce2f279981a6a",
+          "keywords": [
+            "짜릿하고",
+            "오싹하게",
+            "ott는",
+            "못한다",
+            "힘준",
+            "극장들"
+          ]
+        },
+        {
+          "stable_key": "ca309810e813edb611d11ea6aae01cd417c1aee5f07a72b7976afe0081975957",
+          "source_key": "sbs-society-rss",
+          "source_name": "SBS Society",
+          "category": "kr-society",
+          "hub": "kr",
+          "hub_label": "대한민국",
+          "section_label": "사회",
+          "language": "ko",
+          "title": "고글 쓰자 빨간 점 '휙휙'…100만 괴롭힌 증상 고친다",
+          "canonical_url": "https://news.sbs.co.kr/news/endPage.do?cooper=RSSREADER&news_id=N1008505992&plink=RSSLINK",
+          "published_at": "2026-04-05T11:39:00+00:00",
+          "title_hash": "98ee7e1d99fb2f7ea3a5b7c3f848390c33e711833193ce70178dc2ccea55e7d4",
+          "keywords": [
+            "고글",
+            "쓰자",
+            "빨간",
+            "휙휙",
+            "100만",
+            "괴롭힌"
+          ]
+        },
+        {
+          "stable_key": "ff04762f2f25ac6403f6a4a51d6e9ff85271ed25f911a74c96305f68d443f494",
+          "source_key": "sbs-society-rss",
+          "source_name": "SBS Society",
+          "category": "kr-society",
+          "hub": "kr",
+          "hub_label": "대한민국",
+          "section_label": "사회",
+          "language": "ko",
+          "title": "껍질 까지고 하얗게 말라죽었다…지리산 떼죽음 '비상'",
+          "canonical_url": "https://news.sbs.co.kr/news/endPage.do?cooper=RSSREADER&news_id=N1008505991&plink=RSSLINK",
+          "published_at": "2026-04-05T11:38:00+00:00",
+          "title_hash": "adf32f94961d64f5b345011c1a67be77b96193559b747867b526e13eece80099",
+          "keywords": [
+            "껍질",
+            "까지고",
+            "하얗게",
+            "말라죽었다",
+            "지리산",
+            "떼죽음"
+          ]
+        },
+        {
+          "stable_key": "c2995d846f47fdaf0b666a34a83d0c4ad2f61e9d13efe9781cd80f03cb628524",
+          "source_key": "khan-politics-rss",
+          "source_name": "Kyunghyang Politics",
+          "category": "kr-politics",
+          "hub": "kr",
+          "hub_label": "대한민국",
+          "section_label": "정치",
+          "language": "ko",
+          "title": "“교회·성도들, 국가 위기 때마다 등불 역할… 국민 하나로 모으는 길 계속 앞장서주길”",
+          "canonical_url": "https://www.khan.co.kr/article/202604052038005",
+          "published_at": "2026-04-05T11:38:00+00:00",
+          "title_hash": "a4157b9d4e5bdc0aa79a62eb69e2798bdb6228c86e83f80b626f7cffa61c18ea",
+          "keywords": [
+            "교회",
+            "성도들",
+            "국가",
+            "위기",
+            "때마다",
+            "등불"
+          ]
+        },
+        {
+          "stable_key": "19644ae2d280dc45fffae16a4881903497e4c9cc68700ffe798714b7ff841174",
+          "source_key": "khan-politics-rss",
+          "source_name": "Kyunghyang Politics",
+          "category": "kr-politics",
+          "hub": "kr",
+          "hub_label": "대한민국",
+          "section_label": "정치",
+          "language": "ko",
+          "title": "정청래 “5·18 헌법 수록 반대는 전두환 찬양…국힘, 입장 밝혀라”",
+          "canonical_url": "https://www.khan.co.kr/article/202604052037015",
+          "published_at": "2026-04-05T11:37:01+00:00",
+          "title_hash": "f270f863f33c2cfa3fa9ee3fba3630241cabbed780571abe79e5e12317b974cb",
+          "keywords": [
+            "정청래",
+            "헌법",
+            "수록",
+            "반대는",
+            "전두환",
+            "찬양"
+          ]
+        },
+        {
+          "stable_key": "08e28dc25cb3d61962d6805bb6fb618f533487e062ed46489e83794a6eae104b",
+          "source_key": "sbs-society-rss",
+          "source_name": "SBS Society",
+          "category": "kr-society",
+          "hub": "kr",
+          "hub_label": "대한민국",
+          "section_label": "사회",
+          "language": "ko",
+          "title": "비 오면 퍼지는 '녹조 주범'…\"잘 덮기만 해도 막는다\"",
+          "canonical_url": "https://news.sbs.co.kr/news/endPage.do?cooper=RSSREADER&news_id=N1008505990&plink=RSSLINK",
+          "published_at": "2026-04-05T11:37:00+00:00",
+          "title_hash": "446259bc2f7da0987916a20b48319f45b3c4bdc62290679966cbe2b95a3f9292",
+          "keywords": [
+            "오면",
+            "퍼지는",
+            "녹조",
+            "주범",
+            "덮기만",
+            "해도"
+          ]
+        },
+        {
+          "stable_key": "69af81d7c517c813a5805fe5d1c9c264280ea63513e76d9314cb6e37ef8c8a93",
+          "source_key": "khan-politics-rss",
+          "source_name": "Kyunghyang Politics",
+          "category": "kr-politics",
+          "hub": "kr",
+          "hub_label": "대한민국",
+          "section_label": "정치",
+          "language": "ko",
+          "title": "김부겸 “뻥 치는 공약하지 않겠다…시장되면 대통령과 지역소멸 토론할 것”",
+          "canonical_url": "https://www.khan.co.kr/article/202604052037001",
+          "published_at": "2026-04-05T11:37:00+00:00",
+          "title_hash": "7229a9828c27b76f90ad57291f93a8ee4799693eba1cb24b1194f080e8ed8b20",
+          "keywords": [
+            "김부겸",
+            "치는",
+            "공약하지",
+            "않겠다",
+            "시장되면",
+            "대통령과"
+          ]
+        },
+        {
+          "stable_key": "2462862e726e9dff980ef25073c8678ac4d7c6d4e54d789fc6255f8b4f6ab9f4",
+          "source_key": "khan-politics-rss",
+          "source_name": "Kyunghyang Politics",
+          "category": "kr-politics",
+          "hub": "kr",
+          "hub_label": "대한민국",
+          "section_label": "정치",
+          "language": "ko",
+          "title": "“결의문서 사과”…국힘, 이번에도 ‘절윤’은 없었다",
+          "canonical_url": "https://www.khan.co.kr/article/202604052037005",
+          "published_at": "2026-04-05T11:37:00+00:00",
+          "title_hash": "e880120ab477bf595f56927c6e233a51347cefe6c94e646e52c0a4f2fa96e732",
+          "keywords": [
+            "결의문서",
+            "사과",
+            "국힘",
+            "이번에도",
+            "절윤",
+            "없었다"
+          ]
+        },
+        {
+          "stable_key": "f80b2cae067238c2c35aba49a5f78fd7418e8f980907574e25f13c807cd9fa4a",
+          "source_key": "telegram-dada-news2",
+          "source_name": "Telegram @dada_news2",
+          "category": "tech-it",
+          "hub": "global",
+          "hub_label": "글로벌 전문",
+          "section_label": "테크",
+          "language": "ko",
+          "title": "[머니투데이방송] 25조 운영 전남광주특별시장, 김영록·민형배 결선서 만나다",
+          "canonical_url": "https://news.mtn.co.kr/news-detail/2026040518480617840",
+          "published_at": "2026-04-05T11:36:25+00:00",
+          "title_hash": "082027fd704b322af23415d36f29a50c88a4a342cf8ac3ab718d93707a7dad7a",
+          "keywords": [
+            "머니투데이방송",
+            "25조",
+            "운영",
+            "전남광주특별시장",
+            "김영록",
+            "민형배"
+          ]
+        },
+        {
+          "stable_key": "20750956734fc085dac93f768ea023e15cdee9ee43bd881a9ba0d59baf534130",
+          "source_key": "sbs-politics-rss",
+          "source_name": "SBS Politics",
+          "category": "kr-politics",
+          "hub": "kr",
+          "hub_label": "대한민국",
+          "section_label": "정치",
+          "language": "ko",
+          "title": "'전 정무수석' 과 '현직 도지사'…강원 마음 어디로?",
+          "canonical_url": "https://news.sbs.co.kr/news/endPage.do?cooper=RSSREADER&news_id=N1008505989&plink=RSSLINK",
+          "published_at": "2026-04-05T11:36:00+00:00",
+          "title_hash": "a084eafa28960093049f79bd2c22d9a18400a0e0c4d5f213f0af071b8c088994",
+          "keywords": [
+            "정무수석",
+            "현직",
+            "도지사",
+            "강원",
+            "마음",
+            "어디로"
+          ]
+        },
+        {
+          "stable_key": "8400a39432e24f3f5f93e2bfd7023feefdb6612ed6a23e68f0fcfe1e7bfd4e4a",
+          "source_key": "sbs-politics-rss",
+          "source_name": "SBS Politics",
+          "category": "kr-politics",
+          "hub": "kr",
+          "hub_label": "대한민국",
+          "section_label": "정치",
+          "language": "ko",
+          "title": "민주, 광주 '2인' 압축…'대구 공천' 수습 나선 장동혁",
+          "canonical_url": "https://news.sbs.co.kr/news/endPage.do?cooper=RSSREADER&news_id=N1008505988&plink=RSSLINK",
+          "published_at": "2026-04-05T11:35:00+00:00",
+          "title_hash": "07006689e3d44b96b9f0d3b63019093a983b228a72c22262d4af5f96371d10d8",
+          "keywords": [
+            "민주",
+            "광주",
+            "2인",
+            "압축",
+            "대구",
+            "공천"
+          ]
+        },
+        {
+          "stable_key": "a87637b950c1d677aad3e523c9396c138a476a10b82e9858f456ca85d03f370c",
+          "source_key": "khan-politics-rss",
+          "source_name": "Kyunghyang Politics",
+          "category": "kr-politics",
+          "hub": "kr",
+          "hub_label": "대한민국",
+          "section_label": "정치",
+          "language": "ko",
+          "title": "국정농단과 불법계엄…대통령 책무 저버린 “국민 배반 행위”",
+          "canonical_url": "https://www.khan.co.kr/article/202604052035005",
+          "published_at": "2026-04-05T11:35:00+00:00",
+          "title_hash": "26634f88b81a85702aaca06ce1dcf284e34f61bf9135e461151ffdf481e8dbe1",
+          "keywords": [
+            "국정농단과",
+            "불법계엄",
+            "대통령",
+            "책무",
+            "저버린",
+            "국민"
+          ]
+        },
+        {
+          "stable_key": "238cdc805090635e2a5d5f1d60e854ec7245188418641286168e0803114395ec",
+          "source_key": "newsweek-feed",
+          "source_name": "Newsweek Feed",
+          "category": "us-world",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "세계",
+          "language": "en",
+          "title": "Pope Leo’s Easter Message 2026: Pontiff Urges World Leaders To End War",
+          "canonical_url": "https://www.newsweek.com/pope-leos-easter-message-2026-pontiff-urges-world-leaders-end-war-11778018",
+          "published_at": "2026-04-05T11:34:42+00:00",
+          "title_hash": "92ad227234f36d0b0c3cbe5f31cf5ab486c1879c410bc067b4bed2ab43538ff6",
+          "keywords": [
+            "pope",
+            "leo",
+            "easter",
+            "message",
+            "pontiff",
+            "urges"
+          ]
+        },
+        {
           "stable_key": "fc53cb73f5c9be3a0af6ca47b41f6ef45f2522ee51b3c58259ac075102ae0cc6",
           "source_key": "sbs-society-rss",
           "source_name": "SBS Society",
@@ -9575,6 +9883,28 @@
             "using",
             "trivia",
             "games"
+          ]
+        },
+        {
+          "stable_key": "33e6642f7df200cc03d205993df43e5f18b467a519a8e6239493babc7c46c4f6",
+          "source_key": "cbs-politics-rss",
+          "source_name": "CBS News Politics",
+          "category": "us-politics",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "정치",
+          "language": "en",
+          "title": "Transcript: Maryland Gov. Wes Moore on \"Face the Nation with Margaret Brennan,\" April 5, 2026",
+          "canonical_url": "https://www.cbsnews.com/news/maryland-gov-wes-moore-face-the-nation-transcript-04-05-2026",
+          "published_at": "2026-04-05T11:30:05+00:00",
+          "title_hash": "ee9a9ccc98af2c5ced247f05b509ad85884e3ce4ff66ef227b6132da3eed572b",
+          "keywords": [
+            "transcript",
+            "maryland",
+            "gov",
+            "wes",
+            "moore",
+            "face"
           ]
         },
         {
@@ -9840,343 +10170,13 @@
             "식량",
             "원자재도"
           ]
-        },
-        {
-          "stable_key": "e3ab3798f944fc13526030772e0daaad866047ce007b37a246b8b239e0cc4e5a",
-          "source_key": "khan-society-rss",
-          "source_name": "Kyunghyang Society",
-          "category": "kr-society",
-          "hub": "kr",
-          "hub_label": "대한민국",
-          "section_label": "사회",
-          "language": "ko",
-          "title": "[윤석열 탄핵 1년]“바뀌지 않은 세상, 그래서 다시 광장”… 시민들이 말하는 그 후의 삶",
-          "canonical_url": "https://www.khan.co.kr/article/202604052018005",
-          "published_at": "2026-04-05T11:18:00+00:00",
-          "title_hash": "125bf65489a3be08c08e2ddfcbf1bc1513ae17a92df67efb5b4d015e9c731e33",
-          "keywords": [
-            "윤석열",
-            "탄핵",
-            "1년",
-            "바뀌지",
-            "않은",
-            "세상"
-          ]
-        },
-        {
-          "stable_key": "8bce666724287a8964487f342192674d5d018e768107a2bd195c4fae0eb8405d",
-          "source_key": "donga-politics-rss",
-          "source_name": "DongA Politics",
-          "category": "kr-politics",
-          "hub": "kr",
-          "hub_label": "대한민국",
-          "section_label": "정치",
-          "language": "ko",
-          "title": "與 전남광주 김영록-민형배 결선행…이번주 지선 윤곽 나온다",
-          "canonical_url": "https://www.donga.com/news/Politics/article/all/20260405/133676588/1",
-          "published_at": "2026-04-05T11:15:00+00:00",
-          "title_hash": "a13a96af337a6436e51cd9003360583284460272c9b17f136d9b2ab4ffd0b6d4",
-          "keywords": [
-            "전남광주",
-            "김영록",
-            "민형배",
-            "결선행",
-            "이번주",
-            "지선"
-          ]
-        },
-        {
-          "stable_key": "9733191060bba2dfc070a08256cad1d99331696ac18972c68c87006570529b08",
-          "source_key": "telegram-dada-news2",
-          "source_name": "Telegram @dada_news2",
-          "category": "tech-it",
-          "hub": "global",
-          "hub_label": "글로벌 전문",
-          "section_label": "테크",
-          "language": "ko",
-          "title": "[이데일리] SSG,단독 선두 도약...롯데, 피치클록 악재 속 6연패",
-          "canonical_url": "https://www.edaily.co.kr/news/read?newsId=01954886645413168",
-          "published_at": "2026-04-05T11:14:17+00:00",
-          "title_hash": "b0139df6860a079aa49fa9b666864b14c020d49f84ffa313672c38de9dcdda94",
-          "keywords": [
-            "이데일리",
-            "ssg",
-            "선두",
-            "도약",
-            "롯데",
-            "피치클록"
-          ]
-        },
-        {
-          "stable_key": "08fe43d626dab144aef2eddedbfac4a8f43b367c404e0ced48f46bd2bb7d250c",
-          "source_key": "khan-sports-rss",
-          "source_name": "Kyunghyang Sports",
-          "category": "kr-sports",
-          "hub": "kr",
-          "hub_label": "대한민국",
-          "section_label": "스포츠",
-          "language": "ko",
-          "title": "고지원 “육지 첫 우승, 언니랑 합쳐 6승”",
-          "canonical_url": "https://www.khan.co.kr/article/202604052014005",
-          "published_at": "2026-04-05T11:14:00+00:00",
-          "title_hash": "1dc38bb2a78c9fc103a9f04cec2fddbcf25a8c5c6ab2722c030e7b61ed4b95d6",
-          "keywords": [
-            "고지원",
-            "육지",
-            "우승",
-            "언니랑",
-            "합쳐",
-            "6승"
-          ]
-        },
-        {
-          "stable_key": "a13e3cc66e814f941d6eaaa3dca74fad3c3cf792c956de4a8072ebdd8a164d5f",
-          "source_key": "mk-society-rss",
-          "source_name": "Maeil Business Society",
-          "category": "kr-society",
-          "hub": "kr",
-          "hub_label": "대한민국",
-          "section_label": "사회",
-          "language": "ko",
-          "title": "“나 못 내렸다”…청량리역서 승객 선로 무단 진입, 1호선 한때 운행 지연",
-          "canonical_url": "https://www.mk.co.kr/news/society/12008523",
-          "published_at": "2026-04-05T11:13:48+00:00",
-          "title_hash": "6b158e7d241e8ccd2a61890ba0186f2597cb0f1bafd147768551875cd8c92bfe",
-          "keywords": [
-            "내렸다",
-            "청량리역서",
-            "승객",
-            "선로",
-            "무단",
-            "진입"
-          ]
-        },
-        {
-          "stable_key": "5185ab8559059549b618174f72313a46f4f6cf18ee007269d99e279bb383060c",
-          "source_key": "khan-sports-rss",
-          "source_name": "Kyunghyang Sports",
-          "category": "kr-sports",
-          "hub": "kr",
-          "hub_label": "대한민국",
-          "section_label": "스포츠",
-          "language": "ko",
-          "title": "박준순 “아! 사이클링 히트”…두산, 연패 끊었다",
-          "canonical_url": "https://www.khan.co.kr/article/202604052012005",
-          "published_at": "2026-04-05T11:12:00+00:00",
-          "title_hash": "06ead904afe23e34cba8418270da4248ed9f2af40e3338934c3dc39ffa5429c5",
-          "keywords": [
-            "박준순",
-            "사이클링",
-            "히트",
-            "두산",
-            "연패",
-            "끊었다"
-          ]
-        },
-        {
-          "stable_key": "91876adf145995d2647d9b05cc931ad6f4d8c067b1b842fc30c74cfd709dd1f3",
-          "source_key": "donga-society-rss",
-          "source_name": "DongA Society",
-          "category": "kr-society",
-          "hub": "kr",
-          "hub_label": "대한민국",
-          "section_label": "사회",
-          "language": "ko",
-          "title": "‘참전 용사’ 국밥 대접 식당주 “건물주가 월세 5만 원 깎아줘…눈물”",
-          "canonical_url": "https://www.donga.com/news/Society/article/all/20260405/133678836/1",
-          "published_at": "2026-04-05T11:11:22+00:00",
-          "title_hash": "f66372a46d068af7d4d9bd75f0d5456120c9645928e8b9838b64cc35af63ed41",
-          "keywords": [
-            "참전",
-            "용사",
-            "국밥",
-            "대접",
-            "식당주",
-            "건물주가"
-          ]
-        },
-        {
-          "stable_key": "583e15b534c16748aa0919c21fd5234495ed57c069f44415796ac7f8afca0353",
-          "source_key": "khan-sports-rss",
-          "source_name": "Kyunghyang Sports",
-          "category": "kr-sports",
-          "hub": "kr",
-          "hub_label": "대한민국",
-          "section_label": "스포츠",
-          "language": "ko",
-          "title": "손흥민, 생애 첫 한 경기 4어시스트 ‘MLS 도움 선두’",
-          "canonical_url": "https://www.khan.co.kr/article/202604052011015",
-          "published_at": "2026-04-05T11:11:01+00:00",
-          "title_hash": "92468aa8eab38bc5ca29c2769ca10d5242347a9a3bca899caf59a00efccd10e1",
-          "keywords": [
-            "손흥민",
-            "생애",
-            "경기",
-            "4어시스트",
-            "mls",
-            "도움"
-          ]
-        },
-        {
-          "stable_key": "4c9b753c411bd5518520cb153a27c1daf77d975ce8b742cf9a5eac8df75a4ef2",
-          "source_key": "khan-sports-rss",
-          "source_name": "Kyunghyang Sports",
-          "category": "kr-sports",
-          "hub": "kr",
-          "hub_label": "대한민국",
-          "section_label": "스포츠",
-          "language": "ko",
-          "title": "봄 배구 6전 6승 GS칼텍스 ‘3위 팀의 기적’ 우승 축배",
-          "canonical_url": "https://www.khan.co.kr/article/202604052011005",
-          "published_at": "2026-04-05T11:11:00+00:00",
-          "title_hash": "72002a38883afe443f59668dcddb034f8c40928f8e0150308c200fb9b5ae0e02",
-          "keywords": [
-            "배구",
-            "6전",
-            "6승",
-            "gs칼텍스",
-            "3위",
-            "팀의"
-          ]
-        },
-        {
-          "stable_key": "5c695e54d03638d544970a59cf4ad5797580e26a299c9c5eb551613a72f9bcb3",
-          "source_key": "khan-local-rss",
-          "source_name": "Kyunghyang Local",
-          "category": "kr-local",
-          "hub": "kr",
-          "hub_label": "대한민국",
-          "section_label": "지역",
-          "language": "ko",
-          "title": "부산 내성·수영지하차도 지반침하로 차량 통제",
-          "canonical_url": "https://www.khan.co.kr/article/202604052011001",
-          "published_at": "2026-04-05T11:11:00+00:00",
-          "title_hash": "59f880af4ba3e414d0ab8eef04dca7d389b781b6141e34d51c73cc52abf079a9",
-          "keywords": [
-            "부산",
-            "내성",
-            "수영지하차도",
-            "지반침하로",
-            "차량",
-            "통제"
-          ]
-        },
-        {
-          "stable_key": "919713045df27a0be8e3ac2bf086089e91bdd293de5276cac32ab342c244b478",
-          "source_key": "etoday-economy-rss",
-          "source_name": "eToday Economy",
-          "category": "kr-economy",
-          "hub": "kr",
-          "hub_label": "대한민국",
-          "section_label": "경제",
-          "language": "ko",
-          "title": "물류센터에 태양광발전소 설치…LX판토스, SK이노 E&S와 맞손",
-          "canonical_url": "https://www.etoday.co.kr/news/view/2572815",
-          "published_at": "2026-04-05T11:06:00+00:00",
-          "title_hash": "9040308c45e22b515afe364490fc843343cc91174d0a8a291a208ab4487a2da5",
-          "keywords": [
-            "물류센터에",
-            "태양광발전소",
-            "설치",
-            "lx판토스",
-            "sk이노",
-            "s와"
-          ]
-        },
-        {
-          "stable_key": "689954d39754cf08794abd9cc7f5e9f20c1f95658806f5b4aa5706f19d3f3f4b",
-          "source_key": "newsweek-feed",
-          "source_name": "Newsweek Feed",
-          "category": "us-technology",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "기술",
-          "language": "en",
-          "title": "United Airlines Announces New Premium Ticket Options",
-          "canonical_url": "https://www.newsweek.com/united-airlines-new-premium-ticket-options-11784784",
-          "published_at": "2026-04-05T11:04:04+00:00",
-          "title_hash": "2cb0717813aaef59ad80efb84c41e4a1d88a5362d5575adcc6072a6e153903e4",
-          "keywords": [
-            "united",
-            "airlines",
-            "announces",
-            "new",
-            "premium",
-            "ticket"
-          ]
-        },
-        {
-          "stable_key": "6df06c903f335f31ef24de79a9064e24aa1334c55d78946ace558f84ad91936d",
-          "source_key": "wired-rss",
-          "source_name": "Wired RSS",
-          "category": "us-technology",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "기술",
-          "language": "en",
-          "title": "Heatbit Maxi Pro Review: a Space Heater That Also Mines Bitcoin",
-          "canonical_url": "https://www.wired.com/review/heatbit-maxi-pro-bitcoin-miner-heater",
-          "published_at": "2026-04-05T11:04:00+00:00",
-          "title_hash": "fdd6650de5a14cf2b7f63320df1cdd709bb9076f31e4aa00e8896ac5da772280",
-          "keywords": [
-            "heatbit",
-            "maxi",
-            "pro",
-            "review",
-            "space",
-            "heater"
-          ]
-        },
-        {
-          "stable_key": "c0b056749477d408e64a34aa422b4ce550cc44b7e92bb51da57acab8f69ffcf3",
-          "source_key": "fox-world-rss",
-          "source_name": "Fox News World",
-          "category": "us-world",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "세계",
-          "language": "en",
-          "title": "Pope Leo XIV invokes Pope Francis' final words in Easter plea against growing 'indifference' to war",
-          "canonical_url": "https://www.foxnews.com/world/pope-leo-xiv-invokes-pope-francis-final-words-easter-plea-against-growing-indifference-war",
-          "published_at": "2026-04-05T11:03:29+00:00",
-          "title_hash": "ceaf6baed46224d7baace03ba0400e4029ae8680f88ad48af1276826baf51f49",
-          "keywords": [
-            "pope",
-            "leo",
-            "xiv",
-            "invokes",
-            "francis",
-            "final"
-          ]
-        },
-        {
-          "stable_key": "3c1e80f2c5740ad66137e0ad6ee0ca9c1e7ed229cb386efa8bd6b56bff3ace02",
-          "source_key": "telegram-news-kor",
-          "source_name": "Telegram @news_kor",
-          "category": "kr-society",
-          "hub": "kr",
-          "hub_label": "대한민국",
-          "section_label": "사회",
-          "language": "ko",
-          "title": "🔍[단독]서울시, 공무원 ‘자기돌봄 특별휴가’ 연 1일 추진···“번아웃...",
-          "canonical_url": "https://www.khan.co.kr/article/202604052000001",
-          "published_at": "2026-04-05T11:02:31+00:00",
-          "title_hash": "1c2a9b3afb75349f57cb787b18511e390533a36dcc5b22182a6a94efbc1f72b3",
-          "keywords": [
-            "서울시",
-            "공무원",
-            "자기돌봄",
-            "특별휴가",
-            "1일",
-            "추진"
-          ]
         }
       ],
       "kpi_series": [
         {
           "key": "articles",
           "label": "기사 수",
-          "value": 6592,
+          "value": 6627,
           "series": [
             23,
             55,
@@ -10191,7 +10191,7 @@
             621,
             1414,
             1212,
-            804
+            829
           ]
         },
         {
@@ -10212,13 +10212,13 @@
             621,
             1414,
             1212,
-            804
+            829
           ]
         },
         {
           "key": "repeats",
           "label": "반복 기사",
-          "value": 478,
+          "value": 479,
           "series": [
             23,
             55,
@@ -10233,13 +10233,13 @@
             621,
             1414,
             1212,
-            804
+            829
           ]
         },
         {
           "key": "unknown",
           "label": "시간 미상",
-          "value": 1312,
+          "value": 1322,
           "series": [
             23,
             55,
@@ -10254,7 +10254,7 @@
             621,
             1414,
             1212,
-            804
+            829
           ]
         }
       ],
@@ -10266,7 +10266,7 @@
             {
               "source_key": "naver-kr-society",
               "name": "NAVER News Search",
-              "count": 606
+              "count": 616
             },
             {
               "source_key": "semafor-feed",
@@ -10276,16 +10276,16 @@
             {
               "source_key": "guardian-us-rss",
               "name": "The Guardian US",
-              "count": 155
-            },
-            {
-              "source_key": "asiae-society-rss",
-              "name": "Asiae Society",
-              "count": 148
+              "count": 162
             },
             {
               "source_key": "yahoo-news-rss",
               "name": "Yahoo News RSS",
+              "count": 151
+            },
+            {
+              "source_key": "asiae-society-rss",
+              "name": "Asiae Society",
               "count": 148
             },
             {
@@ -10314,21 +10314,21 @@
               "label": "사회",
               "hub": "kr",
               "hub_label": "대한민국",
-              "count": 1184
+              "count": 1198
             },
             {
               "key": "us-politics",
               "label": "정치",
               "hub": "us",
               "hub_label": "미국",
-              "count": 1173
+              "count": 1180
             },
             {
               "key": "us-technology",
               "label": "기술",
               "hub": "us",
               "hub_label": "미국",
-              "count": 976
+              "count": 977
             },
             {
               "key": "kr-economy",
@@ -10342,7 +10342,7 @@
               "label": "세계",
               "hub": "us",
               "hub_label": "미국",
-              "count": 559
+              "count": 561
             },
             {
               "key": "us-economy",
@@ -10356,14 +10356,14 @@
               "label": "정치",
               "hub": "kr",
               "hub_label": "대한민국",
-              "count": 424
+              "count": 431
             },
             {
               "key": "us-markets",
               "label": "시장",
               "hub": "us",
               "hub_label": "미국",
-              "count": 368
+              "count": 371
             }
           ],
           "chart": "donut"
@@ -10375,22 +10375,22 @@
             {
               "key": "trump",
               "label": "trump",
-              "count": 555
+              "count": 556
             },
             {
               "key": "iran",
               "label": "iran",
-              "count": 293
+              "count": 294
             },
             {
               "key": "war",
               "label": "war",
-              "count": 157
+              "count": 158
             },
             {
               "key": "us",
               "label": "us",
-              "count": 135
+              "count": 136
             },
             {
               "key": "ai",
@@ -10410,7 +10410,7 @@
             {
               "key": "how",
               "label": "how",
-              "count": 109
+              "count": 111
             }
           ]
         }
@@ -10850,17 +10850,17 @@
             },
             {
               "date": "2026-04-05",
-              "count": 804
+              "count": 829
             }
           ],
           "summary_items": [
             {
               "label": "최근 집계",
-              "value": 804
+              "value": 829
             },
             {
               "label": "일 평균",
-              "value": 48.9
+              "value": 49.1
             },
             {
               "label": "최대 일자",
@@ -10875,7 +10875,7 @@
             {
               "key": "us",
               "label": "미국",
-              "count": 3552,
+              "count": 3565,
               "series": [
                 {
                   "date": "2016-11-02",
@@ -11307,14 +11307,14 @@
                 },
                 {
                   "date": "2026-04-05",
-                  "count": 238
+                  "count": 251
                 }
               ]
             },
             {
               "key": "kr",
               "label": "대한민국",
-              "count": 2818,
+              "count": 2839,
               "series": [
                 {
                   "date": "2016-11-02",
@@ -11746,7 +11746,7 @@
                 },
                 {
                   "date": "2026-04-05",
-                  "count": 527
+                  "count": 538
                 }
               ]
             }
@@ -11754,11 +11754,11 @@
           "summary_items": [
             {
               "label": "미국",
-              "value": 3552
+              "value": 3565
             },
             {
               "label": "대한민국",
-              "value": 2818
+              "value": 2839
             }
           ]
         },
@@ -11769,7 +11769,7 @@
             {
               "key": "kr-society",
               "label": "사회",
-              "count": 1184,
+              "count": 1198,
               "series": [
                 {
                   "date": "2016-11-02",
@@ -12201,14 +12201,14 @@
                 },
                 {
                   "date": "2026-04-05",
-                  "count": 202
+                  "count": 206
                 }
               ]
             },
             {
               "key": "us-politics",
               "label": "정치",
-              "count": 1173,
+              "count": 1180,
               "series": [
                 {
                   "date": "2016-11-02",
@@ -12640,14 +12640,14 @@
                 },
                 {
                   "date": "2026-04-05",
-                  "count": 80
+                  "count": 87
                 }
               ]
             },
             {
               "key": "us-technology",
               "label": "기술",
-              "count": 976,
+              "count": 977,
               "series": [
                 {
                   "date": "2016-11-02",
@@ -13079,7 +13079,7 @@
                 },
                 {
                   "date": "2026-04-05",
-                  "count": 69
+                  "count": 70
                 }
               ]
             }
@@ -13087,15 +13087,15 @@
           "summary_items": [
             {
               "label": "사회",
-              "value": 1184
+              "value": 1198
             },
             {
               "label": "정치",
-              "value": 1173
+              "value": 1180
             },
             {
               "label": "기술",
-              "value": 976
+              "value": 977
             }
           ]
         }
