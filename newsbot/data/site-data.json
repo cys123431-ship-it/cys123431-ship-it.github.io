@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-04-05T13:09:58.063111+00:00",
+  "generated_at": "2026-04-05T13:18:54.729200+00:00",
   "article_count": 2000,
-  "removed_article_count": 940,
+  "removed_article_count": 901,
   "removed_articles_log_path": "data/removed-articles.txt",
   "page_size": 25,
   "feed_page_size": 12,
-  "healthy_source_count": 130,
+  "healthy_source_count": 131,
   "warning_source_count": 0,
-  "failed_source_count": 2,
+  "failed_source_count": 1,
   "hubs": [
     {
       "key": "kr",
@@ -32,7 +32,7 @@
           "hub_label": "대한민국",
           "description": "",
           "order": 20,
-          "count": 281
+          "count": 280
         },
         {
           "key": "kr-society",
@@ -41,7 +41,7 @@
           "hub_label": "대한민국",
           "description": "",
           "order": 30,
-          "count": 300
+          "count": 301
         },
         {
           "key": "kr-culture",
@@ -86,7 +86,7 @@
           "hub_label": "미국",
           "description": "",
           "order": 10,
-          "count": 364
+          "count": 363
         },
         {
           "key": "us-economy",
@@ -95,7 +95,7 @@
           "hub_label": "미국",
           "description": "",
           "order": 20,
-          "count": 123
+          "count": 122
         },
         {
           "key": "us-markets",
@@ -113,7 +113,7 @@
           "hub_label": "미국",
           "description": "",
           "order": 40,
-          "count": 150
+          "count": 151
         },
         {
           "key": "us-technology",
@@ -122,7 +122,7 @@
           "hub_label": "미국",
           "description": "",
           "order": 50,
-          "count": 296
+          "count": 297
         }
       ]
     },
@@ -207,7 +207,7 @@
       "hub_label": "대한민국",
       "description": "",
       "order": 20,
-      "count": 281
+      "count": 280
     },
     {
       "key": "kr-society",
@@ -216,7 +216,7 @@
       "hub_label": "대한민국",
       "description": "",
       "order": 30,
-      "count": 300
+      "count": 301
     },
     {
       "key": "kr-culture",
@@ -252,7 +252,7 @@
       "hub_label": "미국",
       "description": "",
       "order": 10,
-      "count": 364
+      "count": 363
     },
     {
       "key": "us-economy",
@@ -261,7 +261,7 @@
       "hub_label": "미국",
       "description": "",
       "order": 20,
-      "count": 123
+      "count": 122
     },
     {
       "key": "us-markets",
@@ -279,7 +279,7 @@
       "hub_label": "미국",
       "description": "",
       "order": 40,
-      "count": 150
+      "count": 151
     },
     {
       "key": "us-technology",
@@ -288,7 +288,7 @@
       "hub_label": "미국",
       "description": "",
       "order": 50,
-      "count": 296
+      "count": 297
     }
   ],
   "sources": [
@@ -296,7 +296,7 @@
       "source_key": "nypost-feed",
       "name": "New York Post Feed",
       "category": null,
-      "count": 148,
+      "count": 149,
       "hub": "global",
       "section": null,
       "section_label": "자동 분류",
@@ -326,7 +326,7 @@
       "source_key": "mk-society-rss",
       "name": "Maeil Business Society",
       "category": "kr-society",
-      "count": 80,
+      "count": 81,
       "hub": "kr",
       "section": "kr-society",
       "section_label": "사회",
@@ -453,6 +453,16 @@
       "publisher_group": "social"
     },
     {
+      "source_key": "cbs-us-rss",
+      "name": "CBS News US",
+      "category": "us-politics",
+      "count": 42,
+      "hub": "us",
+      "section": "us-politics",
+      "section_label": "정치",
+      "publisher_group": "broadcast"
+    },
+    {
       "source_key": "donga-economy-rss",
       "name": "DongA Economy",
       "category": "kr-economy",
@@ -461,16 +471,6 @@
       "section": "kr-economy",
       "section_label": "경제",
       "publisher_group": "newspaper"
-    },
-    {
-      "source_key": "cbs-us-rss",
-      "name": "CBS News US",
-      "category": "us-politics",
-      "count": 41,
-      "hub": "us",
-      "section": "us-politics",
-      "section_label": "정치",
-      "publisher_group": "broadcast"
     },
     {
       "source_key": "khan-society-rss",
@@ -603,16 +603,6 @@
       "publisher_group": "business"
     },
     {
-      "source_key": "sbs-economy-rss",
-      "name": "SBS Economy",
-      "category": "kr-economy",
-      "count": 24,
-      "hub": "kr",
-      "section": "kr-economy",
-      "section_label": "경제",
-      "publisher_group": "broadcast"
-    },
-    {
       "source_key": "mk-economy-rss",
       "name": "Maeil Business Economy",
       "category": "kr-economy",
@@ -623,14 +613,14 @@
       "publisher_group": "newspaper"
     },
     {
-      "source_key": "nyt-us-rss",
-      "name": "New York Times US",
-      "category": "us-politics",
-      "count": 21,
-      "hub": "us",
-      "section": "us-politics",
-      "section_label": "정치",
-      "publisher_group": "newspaper"
+      "source_key": "sbs-economy-rss",
+      "name": "SBS Economy",
+      "category": "kr-economy",
+      "count": 23,
+      "hub": "kr",
+      "section": "kr-economy",
+      "section_label": "경제",
+      "publisher_group": "broadcast"
     },
     {
       "source_key": "bloomberg-markets-rss",
@@ -641,6 +631,16 @@
       "section": "us-markets",
       "section_label": "시장",
       "publisher_group": "business"
+    },
+    {
+      "source_key": "nyt-us-rss",
+      "name": "New York Times US",
+      "category": "us-politics",
+      "count": 20,
+      "hub": "us",
+      "section": "us-politics",
+      "section_label": "정치",
+      "publisher_group": "newspaper"
     },
     {
       "source_key": "mk-culture-rss",
@@ -656,7 +656,7 @@
       "source_key": "nyt-business-rss",
       "name": "New York Times Business",
       "category": "us-economy",
-      "count": 18,
+      "count": 17,
       "hub": "us",
       "section": "us-economy",
       "section_label": "경제",
@@ -686,10 +686,20 @@
       "source_key": "fox-us-rss",
       "name": "Fox News US",
       "category": "us-politics",
-      "count": 17,
+      "count": 16,
       "hub": "us",
       "section": "us-politics",
       "section_label": "정치",
+      "publisher_group": "broadcast"
+    },
+    {
+      "source_key": "cbs-world-rss",
+      "name": "CBS News World",
+      "category": "us-world",
+      "count": 14,
+      "hub": "us",
+      "section": "us-world",
+      "section_label": "세계",
       "publisher_group": "broadcast"
     },
     {
@@ -700,16 +710,6 @@
       "hub": "global",
       "section": null,
       "section_label": "자동 분류",
-      "publisher_group": "broadcast"
-    },
-    {
-      "source_key": "cbs-world-rss",
-      "name": "CBS News World",
-      "category": "us-world",
-      "count": 13,
-      "hub": "us",
-      "section": "us-world",
-      "section_label": "세계",
       "publisher_group": "broadcast"
     },
     {
@@ -733,6 +733,16 @@
       "publisher_group": "internet"
     },
     {
+      "source_key": "msnbc-feed",
+      "name": "MSNBC Feed",
+      "category": null,
+      "count": 12,
+      "hub": "global",
+      "section": null,
+      "section_label": "자동 분류",
+      "publisher_group": "broadcast"
+    },
+    {
       "source_key": "npr-top-rss",
       "name": "NPR Top Stories",
       "category": null,
@@ -751,16 +761,6 @@
       "section": "us-technology",
       "section_label": "기술",
       "publisher_group": "internet"
-    },
-    {
-      "source_key": "msnbc-feed",
-      "name": "MSNBC Feed",
-      "category": null,
-      "count": 11,
-      "hub": "global",
-      "section": null,
-      "section_label": "자동 분류",
-      "publisher_group": "broadcast"
     },
     {
       "source_key": "abc-us-rss",
@@ -1033,16 +1033,6 @@
       "publisher_group": "magazine"
     },
     {
-      "source_key": "wapo-national-rss",
-      "name": "Washington Post National",
-      "category": "us-politics",
-      "count": 2,
-      "hub": "us",
-      "section": "us-politics",
-      "section_label": "정치",
-      "publisher_group": "newspaper"
-    },
-    {
       "source_key": "npr-business-rss",
       "name": "NPR Business",
       "category": "us-economy",
@@ -1110,6 +1100,16 @@
       "hub": "us",
       "section": "us-technology",
       "section_label": "기술",
+      "publisher_group": "newspaper"
+    },
+    {
+      "source_key": "wapo-national-rss",
+      "name": "Washington Post National",
+      "category": "us-politics",
+      "count": 1,
+      "hub": "us",
+      "section": "us-politics",
+      "section_label": "정치",
       "publisher_group": "newspaper"
     },
     {
@@ -1292,7 +1292,7 @@
       "status": "ok",
       "fetched_count": 20,
       "accepted_count": 18,
-      "published_count": 21,
+      "published_count": 20,
       "message": null,
       "error": null
     },
@@ -1304,7 +1304,7 @@
       "status": "ok",
       "fetched_count": 49,
       "accepted_count": 18,
-      "published_count": 18,
+      "published_count": 17,
       "message": null,
       "error": null
     },
@@ -1376,7 +1376,7 @@
       "status": "ok",
       "fetched_count": 1,
       "accepted_count": 1,
-      "published_count": 2,
+      "published_count": 1,
       "message": null,
       "error": null
     },
@@ -1397,12 +1397,12 @@
       "source_name": "Washington Post Business",
       "category": "us-economy",
       "trust_level": 92,
-      "status": "failed",
-      "fetched_count": 0,
-      "accepted_count": 0,
+      "status": "ok",
+      "fetched_count": 4,
+      "accepted_count": 4,
       "published_count": 3,
-      "message": "",
-      "error": ""
+      "message": null,
+      "error": null
     },
     {
       "source_key": "cnn-us-rss",
@@ -1460,7 +1460,7 @@
       "status": "ok",
       "fetched_count": 25,
       "accepted_count": 18,
-      "published_count": 17,
+      "published_count": 16,
       "message": null,
       "error": null
     },
@@ -1556,7 +1556,7 @@
       "status": "ok",
       "fetched_count": 30,
       "accepted_count": 18,
-      "published_count": 41,
+      "published_count": 42,
       "message": null,
       "error": null
     },
@@ -1568,7 +1568,7 @@
       "status": "ok",
       "fetched_count": 30,
       "accepted_count": 18,
-      "published_count": 13,
+      "published_count": 14,
       "message": null,
       "error": null
     },
@@ -1616,7 +1616,7 @@
       "status": "ok",
       "fetched_count": 10,
       "accepted_count": 10,
-      "published_count": 11,
+      "published_count": 12,
       "message": null,
       "error": null
     },
@@ -1700,7 +1700,7 @@
       "status": "ok",
       "fetched_count": 21,
       "accepted_count": 9,
-      "published_count": 148,
+      "published_count": 149,
       "message": null,
       "error": null
     },
@@ -2300,7 +2300,7 @@
       "status": "ok",
       "fetched_count": 29,
       "accepted_count": 18,
-      "published_count": 24,
+      "published_count": 23,
       "message": null,
       "error": null
     },
@@ -2480,7 +2480,7 @@
       "status": "ok",
       "fetched_count": 50,
       "accepted_count": 18,
-      "published_count": 80,
+      "published_count": 81,
       "message": null,
       "error": null
     },
@@ -2562,7 +2562,7 @@
       "category": "kr-economy",
       "trust_level": 79,
       "status": "ok",
-      "fetched_count": 38,
+      "fetched_count": 35,
       "accepted_count": 18,
       "published_count": 122,
       "message": null,
@@ -2575,7 +2575,7 @@
       "trust_level": 82,
       "status": "ok",
       "fetched_count": 13,
-      "accepted_count": 12,
+      "accepted_count": 13,
       "published_count": 0,
       "message": null,
       "error": null
@@ -2586,8 +2586,8 @@
       "category": "kr-economy",
       "trust_level": 82,
       "status": "ok",
-      "fetched_count": 12,
-      "accepted_count": 12,
+      "fetched_count": 11,
+      "accepted_count": 11,
       "published_count": 0,
       "message": null,
       "error": null
@@ -2598,8 +2598,8 @@
       "category": "kr-society",
       "trust_level": 82,
       "status": "ok",
-      "fetched_count": 10,
-      "accepted_count": 10,
+      "fetched_count": 11,
+      "accepted_count": 11,
       "published_count": 0,
       "message": null,
       "error": null
@@ -2719,7 +2719,7 @@
       "trust_level": 55,
       "status": "ok",
       "fetched_count": 20,
-      "accepted_count": 5,
+      "accepted_count": 3,
       "published_count": 44,
       "message": null,
       "error": null
@@ -2731,7 +2731,7 @@
       "trust_level": 55,
       "status": "ok",
       "fetched_count": 20,
-      "accepted_count": 5,
+      "accepted_count": 4,
       "published_count": 6,
       "message": null,
       "error": null
@@ -2751,6 +2751,106 @@
   ],
   "articles": [
     {
+      "title": "Trump’s f-bomb Easter message to Iran: Open the strait or ‘you’ll be living in Hell’",
+      "canonical_url": "https://www.ms.now/news/trump-f-bomb-easter-iran-airman",
+      "link_label": "www.ms.now/news/trump-f-bomb-easter-iran-airman",
+      "source_key": "msnbc-feed",
+      "source_name": "MSNBC Feed",
+      "thumbnail_url": null,
+      "source_names": [
+        "MSNBC Feed"
+      ],
+      "primary_category": "us-politics",
+      "hub": "us",
+      "hub_label": "미국",
+      "section_key": "us-politics",
+      "section_label": "정치",
+      "published_at": "2026-04-05T13:15:43+00:00",
+      "trust_level": 82,
+      "language": "en",
+      "sort_timestamp": 1775394943
+    },
+    {
+      "title": "Hawaii’s most active volcano Kilauea brewing as experts forecast 44th eruption in coming days",
+      "canonical_url": "https://nypost.com/2026/04/05/us-news/hawaiis-kilauea-volcano-brewing-as-experts-forecast-44th-eruption",
+      "link_label": "nypost.com/2026/04/05/us-news/hawaiis-kilauea-vol...",
+      "source_key": "nypost-feed",
+      "source_name": "New York Post Feed",
+      "thumbnail_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F04%2Flive-view-halema-uma-u-125055909.jpg?w%3D1024",
+      "source_names": [
+        "New York Post Feed"
+      ],
+      "primary_category": "us-technology",
+      "hub": "us",
+      "hub_label": "미국",
+      "section_key": "us-technology",
+      "section_label": "기술",
+      "published_at": "2026-04-05T13:15:03+00:00",
+      "trust_level": 70,
+      "language": "en",
+      "sort_timestamp": 1775394903
+    },
+    {
+      "title": "Almanac: April 5",
+      "canonical_url": "https://www.cbsnews.com/video/almanac-april-5-2026",
+      "link_label": "www.cbsnews.com/video/almanac-april-5-2026",
+      "source_key": "cbs-us-rss",
+      "source_name": "CBS News US",
+      "thumbnail_url": null,
+      "source_names": [
+        "CBS News US"
+      ],
+      "primary_category": "us-politics",
+      "hub": "us",
+      "hub_label": "미국",
+      "section_key": "us-politics",
+      "section_label": "정치",
+      "published_at": "2026-04-05T13:14:08+00:00",
+      "trust_level": 87,
+      "language": "en",
+      "sort_timestamp": 1775394848
+    },
+    {
+      "title": "Despite toilet trouble, Artemis II crew reflects on wonder of deep space experience",
+      "canonical_url": "https://www.cbsnews.com/news/artemis-ii-crew-moon-flight-smooth-flight-toilet-issue",
+      "link_label": "www.cbsnews.com/news/artemis-ii-crew-moon-flight-smoot...",
+      "source_key": "cbs-us-rss",
+      "source_name": "CBS News US",
+      "thumbnail_url": null,
+      "source_names": [
+        "CBS News US"
+      ],
+      "primary_category": "us-politics",
+      "hub": "us",
+      "hub_label": "미국",
+      "section_key": "us-politics",
+      "section_label": "정치",
+      "published_at": "2026-04-05T13:13:53+00:00",
+      "trust_level": 87,
+      "language": "en",
+      "sort_timestamp": 1775394833
+    },
+    {
+      "title": "U.S. drawn deeper into war, as Trump calls for Iran to accept a deal",
+      "canonical_url": "https://www.cbsnews.com/news/iran-war-nuclear-program-trump-threats",
+      "link_label": "www.cbsnews.com/news/iran-war-nuclear-program-trump-th...",
+      "source_key": "cbs-world-rss",
+      "source_name": "CBS News World",
+      "thumbnail_url": null,
+      "source_names": [
+        "CBS News World"
+      ],
+      "primary_category": "us-world",
+      "hub": "us",
+      "hub_label": "미국",
+      "section_key": "us-world",
+      "section_label": "세계",
+      "published_at": "2026-04-05T13:13:13+00:00",
+      "trust_level": 87,
+      "language": "en",
+      "sort_timestamp": 1775394793
+    },
+    {
       "title": "Trump says rescued U.S. airman 'seriously wounded,' threatens to strike Iran power plants and bridges",
       "canonical_url": "https://www.cnbc.com/2026/04/05/us-trump-confirms-missing-us-pilot-rescued.html",
       "link_label": "www.cnbc.com/2026/04/05/us-trump-confirms-missing-u...",
@@ -2766,10 +2866,70 @@
       "hub_label": "미국",
       "section_key": "us-politics",
       "section_label": "정치",
-      "published_at": "2026-04-05T13:07:55+00:00",
+      "published_at": "2026-04-05T13:11:46+00:00",
       "trust_level": 84,
       "language": "en",
-      "sort_timestamp": 1775394475
+      "sort_timestamp": 1775394706
+    },
+    {
+      "title": "“몸부림이라도 쳐보겠다”…국힘 이정현, 전남광주 통합시장 출마 선언",
+      "canonical_url": "https://www.mk.co.kr/news/politics/12008540",
+      "link_label": "www.mk.co.kr/news/politics/12008540",
+      "source_key": "mk-society-rss",
+      "source_name": "Maeil Business Society",
+      "thumbnail_url": "https://pimg.mk.co.kr/news/cms/202604/05/news-p.v1.20260405.12b63296795a46b19985211d204b48ed_R.jpeg",
+      "source_names": [
+        "Maeil Business Society"
+      ],
+      "primary_category": "kr-society",
+      "hub": "kr",
+      "hub_label": "대한민국",
+      "section_key": "kr-society",
+      "section_label": "사회",
+      "published_at": "2026-04-05T13:11:28+00:00",
+      "trust_level": 89,
+      "language": "ko",
+      "sort_timestamp": 1775394688
+    },
+    {
+      "title": "Stephen Miller Is Still Pursuing His Immigration Agenda, but More Quietly",
+      "canonical_url": "https://www.nytimes.com/2026/04/05/us/politics/stephen-miller-immigration-agenda.html",
+      "link_label": "www.nytimes.com/2026/04/05/us/politics/stephen-miller-...",
+      "source_key": "nyt-us-rss",
+      "source_name": "New York Times US",
+      "thumbnail_url": "https://static01.nyt.com/images/2026/03/12/multimedia/00dc-miller-01-mhwp/00dc-miller-01-mhwp-mediumSquareAt3X.jpg",
+      "source_names": [
+        "New York Times US"
+      ],
+      "primary_category": "us-politics",
+      "hub": "us",
+      "hub_label": "미국",
+      "section_key": "us-politics",
+      "section_label": "정치",
+      "published_at": "2026-04-05T13:10:05+00:00",
+      "trust_level": 95,
+      "language": "en",
+      "sort_timestamp": 1775394605
+    },
+    {
+      "title": "Iran War Live Updates: U.S. Rescues Officer From Downed Fighter Jet in Iran, Trump Says",
+      "canonical_url": "https://www.nytimes.com/live/2026/04/05/world/iran-war-trump-news",
+      "link_label": "www.nytimes.com/live/2026/04/05/world/iran-war-trump-news",
+      "source_key": "nyt-world-rss",
+      "source_name": "New York Times World",
+      "thumbnail_url": "https://static01.nyt.com/images/2026/04/05/multimedia/05mideast-blog-promo-745am-ET/05mideast-blog-header-pjtv-mediumSquareAt3X.jpg",
+      "source_names": [
+        "New York Times World"
+      ],
+      "primary_category": "us-world",
+      "hub": "us",
+      "hub_label": "미국",
+      "section_key": "us-world",
+      "section_label": "세계",
+      "published_at": "2026-04-05T13:09:06+00:00",
+      "trust_level": 95,
+      "language": "en",
+      "sort_timestamp": 1775394546
     },
     {
       "title": "패기의 상무 피닉스, SK호크스와 무승부로 7연패 탈출",
@@ -2810,6 +2970,166 @@
       "trust_level": 78,
       "language": "en",
       "sort_timestamp": 1775394383
+    },
+    {
+      "title": "비 오면 퍼지는 '녹조 주범'…\"잘 덮기만 해도 막는다\"",
+      "canonical_url": "https://news.sbs.co.kr/news/endPage.do?cooper=RSSREADER&news_id=N1008505990&plink=RSSLINK",
+      "link_label": "news.sbs.co.kr/news/endPage.do?cooper=RSSREADER&news_id=N1008505990&plink=RSSLINK",
+      "source_key": "sbs-society-rss",
+      "source_name": "SBS Society",
+      "thumbnail_url": "https://img.sbs.co.kr/newimg/news/20260405/202171909.jpg",
+      "source_names": [
+        "SBS Society"
+      ],
+      "primary_category": "kr-society",
+      "hub": "kr",
+      "hub_label": "대한민국",
+      "section_key": "kr-society",
+      "section_label": "사회",
+      "published_at": "2026-04-05T13:06:00+00:00",
+      "trust_level": 82,
+      "language": "ko",
+      "sort_timestamp": 1775394360
+    },
+    {
+      "title": "민주, 광주 '2인' 압축…'대구 공천' 수습 나선 장동혁",
+      "canonical_url": "https://news.sbs.co.kr/news/endPage.do?cooper=RSSREADER&news_id=N1008505988&plink=RSSLINK",
+      "link_label": "news.sbs.co.kr/news/endPage.do?cooper=RSSREADER&news_id=N1008505988&plink=RSSLINK",
+      "source_key": "sbs-politics-rss",
+      "source_name": "SBS Politics",
+      "thumbnail_url": "https://img.sbs.co.kr/newimg/news/20260405/202171935.jpg",
+      "source_names": [
+        "SBS Politics"
+      ],
+      "primary_category": "kr-politics",
+      "hub": "kr",
+      "hub_label": "대한민국",
+      "section_key": "kr-politics",
+      "section_label": "정치",
+      "published_at": "2026-04-05T13:06:00+00:00",
+      "trust_level": 82,
+      "language": "ko",
+      "sort_timestamp": 1775394360
+    },
+    {
+      "title": "더 짜릿하고 오싹하게…\"OTT는 못한다\" 힘준 극장들",
+      "canonical_url": "https://news.sbs.co.kr/news/endPage.do?cooper=RSSREADER&news_id=N1008505993&plink=RSSLINK",
+      "link_label": "news.sbs.co.kr/news/endPage.do?cooper=RSSREADER&news_id=N1008505993&plink=RSSLINK",
+      "source_key": "sbs-society-rss",
+      "source_name": "SBS Society",
+      "thumbnail_url": "https://img.sbs.co.kr/newimg/news/20260405/202171928.jpg",
+      "source_names": [
+        "SBS Society"
+      ],
+      "primary_category": "kr-society",
+      "hub": "kr",
+      "hub_label": "대한민국",
+      "section_key": "kr-society",
+      "section_label": "사회",
+      "published_at": "2026-04-05T13:06:00+00:00",
+      "trust_level": 82,
+      "language": "ko",
+      "sort_timestamp": 1775394360
+    },
+    {
+      "title": "껍질 까지고 하얗게 말라죽었다…지리산 떼죽음 '비상'",
+      "canonical_url": "https://news.sbs.co.kr/news/endPage.do?cooper=RSSREADER&news_id=N1008505991&plink=RSSLINK",
+      "link_label": "news.sbs.co.kr/news/endPage.do?cooper=RSSREADER&news_id=N1008505991&plink=RSSLINK",
+      "source_key": "sbs-society-rss",
+      "source_name": "SBS Society",
+      "thumbnail_url": "https://img.sbs.co.kr/newimg/news/20260405/202171915.jpg",
+      "source_names": [
+        "SBS Society"
+      ],
+      "primary_category": "kr-society",
+      "hub": "kr",
+      "hub_label": "대한민국",
+      "section_key": "kr-society",
+      "section_label": "사회",
+      "published_at": "2026-04-05T13:06:00+00:00",
+      "trust_level": 82,
+      "language": "ko",
+      "sort_timestamp": 1775394360
+    },
+    {
+      "title": "고글 쓰자 빨간 점 '휙휙'…100만 괴롭힌 증상 고친다",
+      "canonical_url": "https://news.sbs.co.kr/news/endPage.do?cooper=RSSREADER&news_id=N1008505992&plink=RSSLINK",
+      "link_label": "news.sbs.co.kr/news/endPage.do?cooper=RSSREADER&news_id=N1008505992&plink=RSSLINK",
+      "source_key": "sbs-society-rss",
+      "source_name": "SBS Society",
+      "thumbnail_url": "https://img.sbs.co.kr/newimg/news/20260405/202171917.jpg",
+      "source_names": [
+        "SBS Society"
+      ],
+      "primary_category": "kr-society",
+      "hub": "kr",
+      "hub_label": "대한민국",
+      "section_key": "kr-society",
+      "section_label": "사회",
+      "published_at": "2026-04-05T13:06:00+00:00",
+      "trust_level": 82,
+      "language": "ko",
+      "sort_timestamp": 1775394360
+    },
+    {
+      "title": "'홍해 봉쇄' 직접 시사…식량·원자재도 타격 오나",
+      "canonical_url": "https://news.sbs.co.kr/news/endPage.do?cooper=RSSREADER&news_id=N1008505984&plink=RSSLINK",
+      "link_label": "news.sbs.co.kr/news/endPage.do?cooper=RSSREADER&news_id=N1008505984&plink=RSSLINK",
+      "source_key": "sbs-economy-rss",
+      "source_name": "SBS Economy",
+      "thumbnail_url": "https://img.sbs.co.kr/newimg/news/20260405/202171892.jpg",
+      "source_names": [
+        "SBS Economy"
+      ],
+      "primary_category": "kr-economy",
+      "hub": "kr",
+      "hub_label": "대한민국",
+      "section_key": "kr-economy",
+      "section_label": "경제",
+      "published_at": "2026-04-05T13:06:00+00:00",
+      "trust_level": 82,
+      "language": "ko",
+      "sort_timestamp": 1775394360
+    },
+    {
+      "title": "'전 정무수석' 과 '현직 도지사'…강원 마음 어디로?",
+      "canonical_url": "https://news.sbs.co.kr/news/endPage.do?cooper=RSSREADER&news_id=N1008505989&plink=RSSLINK",
+      "link_label": "news.sbs.co.kr/news/endPage.do?cooper=RSSREADER&news_id=N1008505989&plink=RSSLINK",
+      "source_key": "sbs-politics-rss",
+      "source_name": "SBS Politics",
+      "thumbnail_url": "https://img.sbs.co.kr/newimg/news/20260405/202171907.jpg",
+      "source_names": [
+        "SBS Politics"
+      ],
+      "primary_category": "kr-politics",
+      "hub": "kr",
+      "hub_label": "대한민국",
+      "section_key": "kr-politics",
+      "section_label": "정치",
+      "published_at": "2026-04-05T13:06:00+00:00",
+      "trust_level": 82,
+      "language": "ko",
+      "sort_timestamp": 1775394360
+    },
+    {
+      "title": "'비보호 좌회전' 승용차, 승합차와 충돌…5명 사상",
+      "canonical_url": "https://news.sbs.co.kr/news/endPage.do?cooper=RSSREADER&news_id=N1008505987&plink=RSSLINK",
+      "link_label": "news.sbs.co.kr/news/endPage.do?cooper=RSSREADER&news_id=N1008505987&plink=RSSLINK",
+      "source_key": "sbs-society-rss",
+      "source_name": "SBS Society",
+      "thumbnail_url": "https://img.sbs.co.kr/newimg/news/20260405/202171901.jpg",
+      "source_names": [
+        "SBS Society"
+      ],
+      "primary_category": "kr-society",
+      "hub": "kr",
+      "hub_label": "대한민국",
+      "section_key": "kr-society",
+      "section_label": "사회",
+      "published_at": "2026-04-05T13:06:00+00:00",
+      "trust_level": 82,
+      "language": "ko",
+      "sort_timestamp": 1775394360
     },
     {
       "title": "4월이면 매년 300만명 온다…2월부터 일본 기상청까지 참고하는 벚꽃축제 운영 비하인드 [제철축제]",
@@ -3432,26 +3752,6 @@
       "sort_timestamp": 1775392507
     },
     {
-      "title": "Iran War Live Updates: U.S. Rescues Officer From Downed Fighter Jet in Iran, Trump Says",
-      "canonical_url": "https://www.nytimes.com/live/2026/04/05/world/iran-war-trump-news",
-      "link_label": "www.nytimes.com/live/2026/04/05/world/iran-war-trump-news",
-      "source_key": "nyt-world-rss",
-      "source_name": "New York Times World",
-      "thumbnail_url": "https://static01.nyt.com/images/2026/04/05/multimedia/05mideast-blog-promo-745am-ET/05mideast-blog-header-pjtv-mediumSquareAt3X.jpg",
-      "source_names": [
-        "New York Times World"
-      ],
-      "primary_category": "us-world",
-      "hub": "us",
-      "hub_label": "미국",
-      "section_key": "us-world",
-      "section_label": "세계",
-      "published_at": "2026-04-05T12:33:44+00:00",
-      "trust_level": 95,
-      "language": "en",
-      "sort_timestamp": 1775392424
-    },
-    {
       "title": "Iran Downing of Plane and Daring U.S. Rescue Leave Both Sides Emboldened",
       "canonical_url": "https://www.nytimes.com/2026/04/05/world/middleeast/iran-us-rescue.html",
       "link_label": "www.nytimes.com/2026/04/05/world/middleeast/iran-us-re...",
@@ -3612,7 +3912,7 @@
       "sort_timestamp": 1775392105
     },
     {
-      "title": "Trump tells Iran ‘open the F—in’ Strait, you crazy b——ds,’ — as he warns of new strikes and says ‘praise Allah’",
+      "title": "Trump tells Iran ‘open the F—in’ Strait, you crazy b——ds,’ — as he warns of new strikes and says ‘praise be to Allah’",
       "canonical_url": "https://nypost.com/2026/04/05/us-news/trump-makes-new-foul-mouthed-threat-to-iran-open-the-f-in-strait",
       "link_label": "nypost.com/2026/04/05/us-news/trump-makes-new-fou...",
       "source_key": "nypost-feed",
@@ -4776,26 +5076,6 @@
       "sort_timestamp": 1775390220
     },
     {
-      "title": "민주, 광주 '2인' 압축…'대구 공천' 수습 나선 장동혁",
-      "canonical_url": "https://news.sbs.co.kr/news/endPage.do?cooper=RSSREADER&news_id=N1008505988&plink=RSSLINK",
-      "link_label": "news.sbs.co.kr/news/endPage.do?cooper=RSSREADER&news_id=N1008505988&plink=RSSLINK",
-      "source_key": "sbs-politics-rss",
-      "source_name": "SBS Politics",
-      "thumbnail_url": "https://img.sbs.co.kr/newimg/news/20260405/202171935.jpg",
-      "source_names": [
-        "SBS Politics"
-      ],
-      "primary_category": "kr-politics",
-      "hub": "kr",
-      "hub_label": "대한민국",
-      "section_key": "kr-politics",
-      "section_label": "정치",
-      "published_at": "2026-04-05T11:56:00+00:00",
-      "trust_level": 82,
-      "language": "ko",
-      "sort_timestamp": 1775390160
-    },
-    {
       "title": "Bitcoin holds steady as sentiment hits worst levels since Iran war began",
       "canonical_url": "https://www.coindesk.com/markets/2026/04/05/bitcoin-enters-april-at-its-most-hated-level-since-the-war-began",
       "link_label": "www.coindesk.com/markets/2026/04/05/bitcoin-enters-apri...",
@@ -5003,7 +5283,8 @@
       "source_name": "Kyunghyang Society",
       "thumbnail_url": null,
       "source_names": [
-        "Kyunghyang Society"
+        "Kyunghyang Society",
+        "NAVER News Search"
       ],
       "primary_category": "kr-society",
       "hub": "kr",
@@ -5216,46 +5497,6 @@
       "sort_timestamp": 1775389180
     },
     {
-      "title": "더 짜릿하고 오싹하게…\"OTT는 못한다\" 힘준 극장들",
-      "canonical_url": "https://news.sbs.co.kr/news/endPage.do?cooper=RSSREADER&news_id=N1008505993&plink=RSSLINK",
-      "link_label": "news.sbs.co.kr/news/endPage.do?cooper=RSSREADER&news_id=N1008505993&plink=RSSLINK",
-      "source_key": "sbs-society-rss",
-      "source_name": "SBS Society",
-      "thumbnail_url": "https://img.sbs.co.kr/newimg/news/20260405/202171928.jpg",
-      "source_names": [
-        "SBS Society"
-      ],
-      "primary_category": "kr-society",
-      "hub": "kr",
-      "hub_label": "대한민국",
-      "section_key": "kr-society",
-      "section_label": "사회",
-      "published_at": "2026-04-05T11:39:00+00:00",
-      "trust_level": 82,
-      "language": "ko",
-      "sort_timestamp": 1775389140
-    },
-    {
-      "title": "고글 쓰자 빨간 점 '휙휙'…100만 괴롭힌 증상 고친다",
-      "canonical_url": "https://news.sbs.co.kr/news/endPage.do?cooper=RSSREADER&news_id=N1008505992&plink=RSSLINK",
-      "link_label": "news.sbs.co.kr/news/endPage.do?cooper=RSSREADER&news_id=N1008505992&plink=RSSLINK",
-      "source_key": "sbs-society-rss",
-      "source_name": "SBS Society",
-      "thumbnail_url": "https://img.sbs.co.kr/newimg/news/20260405/202171917.jpg",
-      "source_names": [
-        "SBS Society"
-      ],
-      "primary_category": "kr-society",
-      "hub": "kr",
-      "hub_label": "대한민국",
-      "section_key": "kr-society",
-      "section_label": "사회",
-      "published_at": "2026-04-05T11:39:00+00:00",
-      "trust_level": 82,
-      "language": "ko",
-      "sort_timestamp": 1775389140
-    },
-    {
       "title": "“교회·성도들, 국가 위기 때마다 등불 역할… 국민 하나로 모으는 길 계속 앞장서주길”",
       "canonical_url": "https://www.khan.co.kr/article/202604052038005",
       "link_label": "www.khan.co.kr/article/202604052038005",
@@ -5272,26 +5513,6 @@
       "section_label": "정치",
       "published_at": "2026-04-05T11:38:00+00:00",
       "trust_level": 86,
-      "language": "ko",
-      "sort_timestamp": 1775389080
-    },
-    {
-      "title": "껍질 까지고 하얗게 말라죽었다…지리산 떼죽음 '비상'",
-      "canonical_url": "https://news.sbs.co.kr/news/endPage.do?cooper=RSSREADER&news_id=N1008505991&plink=RSSLINK",
-      "link_label": "news.sbs.co.kr/news/endPage.do?cooper=RSSREADER&news_id=N1008505991&plink=RSSLINK",
-      "source_key": "sbs-society-rss",
-      "source_name": "SBS Society",
-      "thumbnail_url": "https://img.sbs.co.kr/newimg/news/20260405/202171915.jpg",
-      "source_names": [
-        "SBS Society"
-      ],
-      "primary_category": "kr-society",
-      "hub": "kr",
-      "hub_label": "대한민국",
-      "section_key": "kr-society",
-      "section_label": "사회",
-      "published_at": "2026-04-05T11:38:00+00:00",
-      "trust_level": 82,
       "language": "ko",
       "sort_timestamp": 1775389080
     },
@@ -5376,26 +5597,6 @@
       "sort_timestamp": 1775389020
     },
     {
-      "title": "비 오면 퍼지는 '녹조 주범'…\"잘 덮기만 해도 막는다\"",
-      "canonical_url": "https://news.sbs.co.kr/news/endPage.do?cooper=RSSREADER&news_id=N1008505990&plink=RSSLINK",
-      "link_label": "news.sbs.co.kr/news/endPage.do?cooper=RSSREADER&news_id=N1008505990&plink=RSSLINK",
-      "source_key": "sbs-society-rss",
-      "source_name": "SBS Society",
-      "thumbnail_url": "https://img.sbs.co.kr/newimg/news/20260405/202171909.jpg",
-      "source_names": [
-        "SBS Society"
-      ],
-      "primary_category": "kr-society",
-      "hub": "kr",
-      "hub_label": "대한민국",
-      "section_key": "kr-society",
-      "section_label": "사회",
-      "published_at": "2026-04-05T11:37:00+00:00",
-      "trust_level": 82,
-      "language": "ko",
-      "sort_timestamp": 1775389020
-    },
-    {
       "title": "[머니투데이방송] 25조 운영 전남광주특별시장, 김영록·민형배 결선서 만나다",
       "canonical_url": "https://news.mtn.co.kr/news-detail/2026040518480617840",
       "link_label": "news.mtn.co.kr/news-detail/2026040518480617840",
@@ -5414,26 +5615,6 @@
       "trust_level": 55,
       "language": "ko",
       "sort_timestamp": 1775388985
-    },
-    {
-      "title": "'전 정무수석' 과 '현직 도지사'…강원 마음 어디로?",
-      "canonical_url": "https://news.sbs.co.kr/news/endPage.do?cooper=RSSREADER&news_id=N1008505989&plink=RSSLINK",
-      "link_label": "news.sbs.co.kr/news/endPage.do?cooper=RSSREADER&news_id=N1008505989&plink=RSSLINK",
-      "source_key": "sbs-politics-rss",
-      "source_name": "SBS Politics",
-      "thumbnail_url": "https://img.sbs.co.kr/newimg/news/20260405/202171907.jpg",
-      "source_names": [
-        "SBS Politics"
-      ],
-      "primary_category": "kr-politics",
-      "hub": "kr",
-      "hub_label": "대한민국",
-      "section_key": "kr-politics",
-      "section_label": "정치",
-      "published_at": "2026-04-05T11:36:00+00:00",
-      "trust_level": 82,
-      "language": "ko",
-      "sort_timestamp": 1775388960
     },
     {
       "title": "국정농단과 불법계엄…대통령 책무 저버린 “국민 배반 행위”",
@@ -5474,26 +5655,6 @@
       "trust_level": 78,
       "language": "en",
       "sort_timestamp": 1775388882
-    },
-    {
-      "title": "'비보호 좌회전' 승용차, 승합차와 충돌…5명 사상",
-      "canonical_url": "https://news.sbs.co.kr/news/endPage.do?cooper=RSSREADER&news_id=N1008505987&plink=RSSLINK",
-      "link_label": "news.sbs.co.kr/news/endPage.do?cooper=RSSREADER&news_id=N1008505987&plink=RSSLINK",
-      "source_key": "sbs-society-rss",
-      "source_name": "SBS Society",
-      "thumbnail_url": "https://img.sbs.co.kr/newimg/news/20260405/202171901.jpg",
-      "source_names": [
-        "SBS Society"
-      ],
-      "primary_category": "kr-society",
-      "hub": "kr",
-      "hub_label": "대한민국",
-      "section_key": "kr-society",
-      "section_label": "사회",
-      "published_at": "2026-04-05T11:34:00+00:00",
-      "trust_level": 82,
-      "language": "ko",
-      "sort_timestamp": 1775388840
     },
     {
       "title": "내란 진상 여전히 베일 속…재판·수사 ‘진행중’",
@@ -5836,26 +5997,6 @@
       "trust_level": 81,
       "language": "en",
       "sort_timestamp": 1775388240
-    },
-    {
-      "title": "'홍해 봉쇄' 직접 시사…식량·원자재도 타격 오나",
-      "canonical_url": "https://news.sbs.co.kr/news/endPage.do?cooper=RSSREADER&news_id=N1008505984&plink=RSSLINK",
-      "link_label": "news.sbs.co.kr/news/endPage.do?cooper=RSSREADER&news_id=N1008505984&plink=RSSLINK",
-      "source_key": "sbs-economy-rss",
-      "source_name": "SBS Economy",
-      "thumbnail_url": "https://img.sbs.co.kr/newimg/news/20260405/202171892.jpg",
-      "source_names": [
-        "SBS Economy"
-      ],
-      "primary_category": "kr-economy",
-      "hub": "kr",
-      "hub_label": "대한민국",
-      "section_key": "kr-economy",
-      "section_label": "경제",
-      "published_at": "2026-04-05T11:23:00+00:00",
-      "trust_level": 82,
-      "language": "ko",
-      "sort_timestamp": 1775388180
     },
     {
       "title": "[윤석열 탄핵 1년]“바뀌지 않은 세상, 그래서 다시 광장”… 시민들이 말하는 그 후의 삶",
@@ -8831,26 +8972,6 @@
       "trust_level": 95,
       "language": "en",
       "sort_timestamp": 1775379630
-    },
-    {
-      "title": "Stephen Miller Is Still Pursuing His Immigration Agenda, but More Quietly",
-      "canonical_url": "https://www.nytimes.com/2026/04/05/us/politics/stephen-miller-immigration-agenda.html",
-      "link_label": "www.nytimes.com/2026/04/05/us/politics/stephen-miller-...",
-      "source_key": "nyt-us-rss",
-      "source_name": "New York Times US",
-      "thumbnail_url": "https://static01.nyt.com/images/2026/03/12/multimedia/00dc-miller-01-mhwp/00dc-miller-01-mhwp-mediumSquareAt3X.jpg",
-      "source_names": [
-        "New York Times US"
-      ],
-      "primary_category": "us-politics",
-      "hub": "us",
-      "hub_label": "미국",
-      "section_key": "us-politics",
-      "section_label": "정치",
-      "published_at": "2026-04-05T09:00:22+00:00",
-      "trust_level": 95,
-      "language": "en",
-      "sort_timestamp": 1775379622
     },
     {
       "title": "Kamala Harris' travels and comments clearly point to 2028",
@@ -15433,6 +15554,7 @@
       "source_name": "SBS Society",
       "thumbnail_url": null,
       "source_names": [
+        "NAVER News Search",
         "SBS Society"
       ],
       "primary_category": "kr-society",
@@ -19556,26 +19678,6 @@
       "trust_level": 88,
       "language": "ko",
       "sort_timestamp": 1775349514
-    },
-    {
-      "title": "Despite toilet trouble, Artemis II crew reflects on wonder of deep space experience",
-      "canonical_url": "https://www.cbsnews.com/news/artemis-ii-crew-moon-flight-smooth-flight-toilet-issue",
-      "link_label": "www.cbsnews.com/news/artemis-ii-crew-moon-flight-smoot...",
-      "source_key": "cbs-us-rss",
-      "source_name": "CBS News US",
-      "thumbnail_url": null,
-      "source_names": [
-        "CBS News US"
-      ],
-      "primary_category": "us-politics",
-      "hub": "us",
-      "hub_label": "미국",
-      "section_key": "us-politics",
-      "section_label": "정치",
-      "published_at": "2026-04-05T00:38:00+00:00",
-      "trust_level": 87,
-      "language": "en",
-      "sort_timestamp": 1775349480
     },
     {
       "title": "Bessent makes stunning claim about Iran and its oil",
@@ -38142,7 +38244,8 @@
       "source_name": "Maeil Business Society",
       "thumbnail_url": null,
       "source_names": [
-        "Maeil Business Society"
+        "Maeil Business Society",
+        "NAVER News Search"
       ],
       "primary_category": "kr-society",
       "hub": "kr",
@@ -42811,106 +42914,6 @@
       "trust_level": 81,
       "language": "en",
       "sort_timestamp": 1775253548
-    },
-    {
-      "title": "'레미콘 대란' 조짐에…건설 현장 비상대응 가동",
-      "canonical_url": "https://news.sbs.co.kr/news/endPage.do?cooper=RSSREADER&news_id=N1008504993&plink=RSSLINK",
-      "link_label": "news.sbs.co.kr/news/endPage.do?cooper=RSSREADER&news_id=N1008504993&plink=RSSLINK",
-      "source_key": "sbs-economy-rss",
-      "source_name": "SBS Economy",
-      "thumbnail_url": null,
-      "source_names": [
-        "SBS Economy"
-      ],
-      "primary_category": "kr-economy",
-      "hub": "kr",
-      "hub_label": "대한민국",
-      "section_key": "kr-economy",
-      "section_label": "경제",
-      "published_at": "2026-04-03T21:59:00+00:00",
-      "trust_level": 82,
-      "language": "ko",
-      "sort_timestamp": 1775253540
-    },
-    {
-      "title": "Their tiny church is on the cover of JD Vance’s new book. They don’t know him.",
-      "canonical_url": "https://www.washingtonpost.com/nation/2026/04/03/vance-book-cover-church-photograph",
-      "link_label": "www.washingtonpost.com/nation/2026/04/03/vance-book-cover-chu...",
-      "source_key": "wapo-national-rss",
-      "source_name": "Washington Post National",
-      "thumbnail_url": null,
-      "source_names": [
-        "Washington Post National"
-      ],
-      "primary_category": "us-politics",
-      "hub": "us",
-      "hub_label": "미국",
-      "section_key": "us-politics",
-      "section_label": "정치",
-      "published_at": "2026-04-03T21:58:53+00:00",
-      "trust_level": 92,
-      "language": "en",
-      "sort_timestamp": 1775253533
-    },
-    {
-      "title": "Hershey’s Promises to Use Only Real Chocolate After Backlash",
-      "canonical_url": "https://www.nytimes.com/2026/04/02/business/hershey-reeses-recipe-real-chocolate.html",
-      "link_label": "www.nytimes.com/2026/04/02/business/hershey-reeses-rec...",
-      "source_key": "nyt-business-rss",
-      "source_name": "New York Times Business",
-      "thumbnail_url": null,
-      "source_names": [
-        "New York Times Business"
-      ],
-      "primary_category": "us-economy",
-      "hub": "us",
-      "hub_label": "미국",
-      "section_key": "us-economy",
-      "section_label": "경제",
-      "published_at": "2026-04-03T21:58:10+00:00",
-      "trust_level": 95,
-      "language": "en",
-      "sort_timestamp": 1775253490
-    },
-    {
-      "title": "Florida man charged with murder after allegedly stabbing woman to death in random attack in quiet neighborhood",
-      "canonical_url": "https://www.foxnews.com/us/florida-man-charged-murder-allegedly-stabbing-woman-death-random-attack-quiet-neighborhood",
-      "link_label": "www.foxnews.com/us/florida-man-charged-murder-allegedl...",
-      "source_key": "fox-us-rss",
-      "source_name": "Fox News US",
-      "thumbnail_url": null,
-      "source_names": [
-        "Fox News US"
-      ],
-      "primary_category": "us-politics",
-      "hub": "us",
-      "hub_label": "미국",
-      "section_key": "us-politics",
-      "section_label": "정치",
-      "published_at": "2026-04-03T21:58:04+00:00",
-      "trust_level": 84,
-      "language": "en",
-      "sort_timestamp": 1775253484
-    },
-    {
-      "title": "One Rescued From U.S. Jet Shot Down in Iran, U.S. Officials Say",
-      "canonical_url": "https://www.nytimes.com/2026/04/03/us/politics/us-fighter-jet-iran.html",
-      "link_label": "www.nytimes.com/2026/04/03/us/politics/us-fighter-jet-...",
-      "source_key": "nyt-us-rss",
-      "source_name": "New York Times US",
-      "thumbnail_url": null,
-      "source_names": [
-        "New York Times US"
-      ],
-      "primary_category": "us-politics",
-      "hub": "us",
-      "hub_label": "미국",
-      "section_key": "us-politics",
-      "section_label": "정치",
-      "published_at": "2026-04-03T21:56:08+00:00",
-      "trust_level": 95,
-      "language": "en",
-      "sort_timestamp": 1775253368
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-04-05T13:09:58.063111+00:00",
+  "generated_at": "2026-04-05T13:18:54.729200+00:00",
   "retention_days": 90,
   "default_window": "7d",
-  "lifetime_total_articles": 6791,
-  "lifetime_unknown_time_count": 1367,
+  "lifetime_total_articles": 6811,
+  "lifetime_unknown_time_count": 1381,
   "available_windows": [
     {
       "key": "24h",
@@ -29,28 +29,28 @@
   "windows": {
     "24h": {
       "label": "24h",
-      "article_count": 1466,
+      "article_count": 1470,
       "unknown_time_count": 0,
       "active_source_count": 83,
-      "repeated_title_count": 67,
+      "repeated_title_count": 68,
       "timeline": [
         {
           "date": "2026-04-04",
-          "count": 533
+          "count": 531
         },
         {
           "date": "2026-04-05",
-          "count": 933
+          "count": 939
         }
       ],
       "top_keywords": [
         {
           "keyword": "trump",
-          "count": 114
+          "count": 116
         },
         {
           "keyword": "iran",
-          "count": 70
+          "count": 72
         },
         {
           "keyword": "ai",
@@ -107,7 +107,7 @@
         {
           "source_key": "mk-society-rss",
           "name": "Maeil Business Society",
-          "count": 70
+          "count": 71
         },
         {
           "source_key": "newsweek-feed",
@@ -159,12 +159,12 @@
         {
           "key": "us",
           "label": "미국",
-          "count": 754
+          "count": 757
         },
         {
           "key": "kr",
           "label": "대한민국",
-          "count": 639
+          "count": 640
         },
         {
           "key": "global",
@@ -178,21 +178,21 @@
           "label": "정치",
           "hub": "us",
           "hub_label": "미국",
-          "count": 249
+          "count": 250
         },
         {
           "key": "kr-society",
           "label": "사회",
           "hub": "kr",
           "hub_label": "대한민국",
-          "count": 243
+          "count": 244
         },
         {
           "key": "us-technology",
           "label": "기술",
           "hub": "us",
           "hub_label": "미국",
-          "count": 235
+          "count": 236
         },
         {
           "key": "kr-economy",
@@ -206,7 +206,7 @@
           "label": "세계",
           "hub": "us",
           "hub_label": "미국",
-          "count": 104
+          "count": 106
         },
         {
           "key": "us-markets",
@@ -227,7 +227,7 @@
           "label": "경제",
           "hub": "us",
           "hub_label": "미국",
-          "count": 74
+          "count": 73
         },
         {
           "key": "kr-sports",
@@ -261,11 +261,11 @@
       "language_counts": [
         {
           "language": "en",
-          "count": 777
+          "count": 780
         },
         {
           "language": "ko",
-          "count": 689
+          "count": 690
         }
       ],
       "repeated_titles": [
@@ -452,6 +452,135 @@
       ],
       "recent_samples": [
         {
+          "stable_key": "fb41aa25eec2012bc2bfc1126de06689260f80d4f9d4cc0424132787b92ae80b",
+          "source_key": "msnbc-feed",
+          "source_name": "MSNBC Feed",
+          "category": "us-politics",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "정치",
+          "language": "en",
+          "title": "Trump’s f-bomb Easter message to Iran: Open the strait or ‘you’ll be living in Hell’",
+          "canonical_url": "https://www.ms.now/news/trump-f-bomb-easter-iran-airman",
+          "published_at": "2026-04-05T13:15:43+00:00",
+          "title_hash": "91efd1d310894c9e8376330d68b18d76ac9ca9e7aa2890d3237f493c7c78f253",
+          "keywords": [
+            "trump",
+            "bomb",
+            "easter",
+            "message",
+            "iran",
+            "open"
+          ]
+        },
+        {
+          "stable_key": "d2f112ea61fb776bbc1ec4194d36461884e49a31983306a891cc09658cc41792",
+          "source_key": "nypost-feed",
+          "source_name": "New York Post Feed",
+          "category": "us-technology",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "기술",
+          "language": "en",
+          "title": "Hawaii’s most active volcano Kilauea brewing as experts forecast 44th eruption in coming days",
+          "canonical_url": "https://nypost.com/2026/04/05/us-news/hawaiis-kilauea-volcano-brewing-as-experts-forecast-44th-eruption",
+          "published_at": "2026-04-05T13:15:03+00:00",
+          "title_hash": "3cc3ae68bd32e3731fe3684a0474f8f7a7f3f49ff13484e58b46273a5a8e8cc6",
+          "keywords": [
+            "hawaii",
+            "most",
+            "active",
+            "volcano",
+            "kilauea",
+            "brewing"
+          ]
+        },
+        {
+          "stable_key": "06b2e03c5986f092e4ae988f7ef786c9457341cba9f4e017478dc472a824516d",
+          "source_key": "cbs-us-rss",
+          "source_name": "CBS News US",
+          "category": "us-politics",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "정치",
+          "language": "en",
+          "title": "Almanac: April 5",
+          "canonical_url": "https://www.cbsnews.com/video/almanac-april-5-2026",
+          "published_at": "2026-04-05T13:14:08+00:00",
+          "title_hash": "91b349493fcdfb88a7595224a68c47c6ff9364bad3978c5f5ac15560c475aafb",
+          "keywords": [
+            "almanac",
+            "april",
+            "almanac april"
+          ]
+        },
+        {
+          "stable_key": "b78d14f17b17ce70033c1622195f38feb2df647d20e2fbc3aee20a0cf9fb3adf",
+          "source_key": "cbs-world-rss",
+          "source_name": "CBS News World",
+          "category": "us-world",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "세계",
+          "language": "en",
+          "title": "U.S. drawn deeper into war, as Trump calls for Iran to accept a deal",
+          "canonical_url": "https://www.cbsnews.com/news/iran-war-nuclear-program-trump-threats",
+          "published_at": "2026-04-05T13:13:13+00:00",
+          "title_hash": "55a71bab69d57c724e7ad40f5d08d429ed7bba43b4ba32d21959ebcd4b085ff7",
+          "keywords": [
+            "drawn",
+            "deeper",
+            "war",
+            "trump",
+            "calls",
+            "iran"
+          ]
+        },
+        {
+          "stable_key": "dd2f01e60fa2c9e7c9155e7ef900980b2bd17d0859e476e4a584efc31399cf29",
+          "source_key": "cbs-world-rss",
+          "source_name": "CBS News World",
+          "category": "us-world",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "세계",
+          "language": "en",
+          "title": "U.S. drawn deeper into war, as Trump calls for Iran to accept a deal",
+          "canonical_url": "https://www.cbsnews.com/video/u-s-drawn-deeper-into-war-as-trump-calls-for-iran-to-accept-a-deal",
+          "published_at": "2026-04-05T13:12:17+00:00",
+          "title_hash": "55a71bab69d57c724e7ad40f5d08d429ed7bba43b4ba32d21959ebcd4b085ff7",
+          "keywords": [
+            "drawn",
+            "deeper",
+            "war",
+            "trump",
+            "calls",
+            "iran"
+          ]
+        },
+        {
+          "stable_key": "673ec1d91b973c3629e177ae139725cb94f827d54e077915b13051445cfa1c75",
+          "source_key": "mk-society-rss",
+          "source_name": "Maeil Business Society",
+          "category": "kr-society",
+          "hub": "kr",
+          "hub_label": "대한민국",
+          "section_label": "사회",
+          "language": "ko",
+          "title": "“몸부림이라도 쳐보겠다”…국힘 이정현, 전남광주 통합시장 출마 선언",
+          "canonical_url": "https://www.mk.co.kr/news/politics/12008540",
+          "published_at": "2026-04-05T13:11:28+00:00",
+          "title_hash": "c05dd188a9b7c3d87f0ecf9cb26ac5696ab99e46870ab20cb456cf31f3f3cb51",
+          "keywords": [
+            "몸부림이라도",
+            "쳐보겠다",
+            "국힘",
+            "이정현",
+            "전남광주",
+            "통합시장"
+          ]
+        },
+        {
           "stable_key": "b64b14ac13cadc777dff64d25950d48cf93e9fce8a398bb0e3cfc30882899659",
           "source_key": "mk-sports-rss",
           "source_name": "Maeil Business Sports",
@@ -978,148 +1107,16 @@
             "무실점",
             "kia"
           ]
-        },
-        {
-          "stable_key": "5f03b8ec9372b8fa95aeddc38e10fe15fc25f5e4faa6a0fa4a70a62d4c474b24",
-          "source_key": "cnbc-world-rss",
-          "source_name": "CNBC World",
-          "category": "us-world",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "세계",
-          "language": "en",
-          "title": "'Silent killers': How AI start-ups are trying to solve one of the retail industry's biggest problems",
-          "canonical_url": "https://www.cnbc.com/2026/04/05/ai-retail-start-ups-virtual-try-on-tech-margins.html",
-          "published_at": "2026-04-05T12:37:57+00:00",
-          "title_hash": "86dd5b548d0ed8c152d335b57bb30077eea0b07198599f122ed6230a4cf4ab6c",
-          "keywords": [
-            "silent",
-            "killers",
-            "how",
-            "ai",
-            "start",
-            "ups"
-          ]
-        },
-        {
-          "stable_key": "4382dcc73d752fe325de3dc02209e42f99487099a1ea67fabf31db2c8c51f1c5",
-          "source_key": "forbes-innovation-rss",
-          "source_name": "Forbes Innovation",
-          "category": "us-technology",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "기술",
-          "language": "en",
-          "title": "Samsung’s Android Update—Bad News For Galaxy S26 Owners",
-          "canonical_url": "https://www.forbes.com/sites/zakdoffman/2026/04/05/samsungs-android-update-bad-news-for-galaxy-s26-owners",
-          "published_at": "2026-04-05T12:37:18+00:00",
-          "title_hash": "f265b1d28dd208d50c319b0ffbf64ddbaddc9e368d7e9e142c7ba48bb11f6f2a",
-          "keywords": [
-            "samsung",
-            "android",
-            "bad",
-            "galaxy",
-            "s26",
-            "owners"
-          ]
-        },
-        {
-          "stable_key": "afc725804e9bd7b9972407dc5467e918a4fd0a1789a76ab02a80c05190fd9762",
-          "source_key": "telegram-dada-news2",
-          "source_name": "Telegram @dada_news2",
-          "category": "tech-it",
-          "hub": "global",
-          "hub_label": "글로벌 전문",
-          "section_label": "테크",
-          "language": "ko",
-          "title": "[뉴스핌] [AI상보] 9회 집중력 빛난 SSG, 롯데 6연패 몰고 단독 선두 등극",
-          "canonical_url": "https://www.newspim.com/news/view/20260405000160",
-          "published_at": "2026-04-05T12:37:12+00:00",
-          "title_hash": "b860bad98de0b2fd9bda71b661af55face239b5db0f6c35652acc0405abbbafd",
-          "keywords": [
-            "뉴스핌",
-            "ai상보",
-            "9회",
-            "집중력",
-            "빛난",
-            "ssg"
-          ]
-        },
-        {
-          "stable_key": "cc7b8dfcc41673a2d6dc6424f1f39b39183e8641dfd69d3d4f32fc9ded1128ca",
-          "source_key": "telegram-dada-news2",
-          "source_name": "Telegram @dada_news2",
-          "category": "tech-it",
-          "hub": "global",
-          "hub_label": "글로벌 전문",
-          "section_label": "테크",
-          "language": "ko",
-          "title": "[뉴스핌] [AI상보] KT, 삼성 2-0으로 꺾고 2연패 탈출...'좌타자 9명 상대' 보쉴리 6이닝 무실점",
-          "canonical_url": "https://www.newspim.com/news/view/20260405000146",
-          "published_at": "2026-04-05T12:35:16+00:00",
-          "title_hash": "74b10c52459589294446544d01459f2fbe49ac9c8c510812c36d4be177413b44",
-          "keywords": [
-            "뉴스핌",
-            "ai상보",
-            "kt",
-            "삼성",
-            "0으로",
-            "꺾고"
-          ]
-        },
-        {
-          "stable_key": "53d17e8032eaca08407910805205bed95cf5b5eeb8d591357dc64e054cf6a48b",
-          "source_key": "washingtonexaminer-feed",
-          "source_name": "Washington Examiner Feed",
-          "category": "us-politics",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "정치",
-          "language": "en",
-          "title": "Trump hails ‘Easter miracle’ after second F-15 pilot rescued from Iran",
-          "canonical_url": "https://www.washingtonexaminer.com/news/white-house/4516509/trump-easter-miracle-f15-pilot-rescued-iran",
-          "published_at": "2026-04-05T12:35:07+00:00",
-          "title_hash": "8ee1a39e28f7aaff2d455409e9d564de66d755e081b665b81bd223512a4ddac3",
-          "keywords": [
-            "trump",
-            "hails",
-            "easter",
-            "miracle",
-            "after",
-            "second"
-          ]
-        },
-        {
-          "stable_key": "8aa9d5b47f954cd508c92a89365f0d1320545383b788f052564620eb04bd94e9",
-          "source_key": "nyt-world-rss",
-          "source_name": "New York Times World",
-          "category": "us-world",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "세계",
-          "language": "en",
-          "title": "Iran Downing of Plane and Daring U.S. Rescue Leave Both Sides Emboldened",
-          "canonical_url": "https://www.nytimes.com/2026/04/05/world/middleeast/iran-us-rescue.html",
-          "published_at": "2026-04-05T12:33:42+00:00",
-          "title_hash": "91a00fa13e512a6d747b2e15e181167128ccded5c1668303035b5abada05073d",
-          "keywords": [
-            "iran",
-            "downing",
-            "plane",
-            "daring",
-            "rescue",
-            "leave"
-          ]
         }
       ],
       "kpi_series": [
         {
           "key": "articles",
           "label": "기사 수",
-          "value": 1466,
+          "value": 1470,
           "series": [
-            533,
-            933
+            531,
+            939
           ]
         },
         {
@@ -1127,17 +1124,17 @@
           "label": "활성 소스",
           "value": 83,
           "series": [
-            533,
-            933
+            531,
+            939
           ]
         },
         {
           "key": "repeats",
           "label": "반복 기사",
-          "value": 67,
+          "value": 68,
           "series": [
-            533,
-            933
+            531,
+            939
           ]
         },
         {
@@ -1145,8 +1142,8 @@
           "label": "시간 미상",
           "value": 0,
           "series": [
-            533,
-            933
+            531,
+            939
           ]
         }
       ],
@@ -1168,7 +1165,7 @@
             {
               "source_key": "mk-society-rss",
               "name": "Maeil Business Society",
-              "count": 70
+              "count": 71
             },
             {
               "source_key": "newsweek-feed",
@@ -1206,21 +1203,21 @@
               "label": "정치",
               "hub": "us",
               "hub_label": "미국",
-              "count": 249
+              "count": 250
             },
             {
               "key": "kr-society",
               "label": "사회",
               "hub": "kr",
               "hub_label": "대한민국",
-              "count": 243
+              "count": 244
             },
             {
               "key": "us-technology",
               "label": "기술",
               "hub": "us",
               "hub_label": "미국",
-              "count": 235
+              "count": 236
             },
             {
               "key": "kr-economy",
@@ -1234,7 +1231,7 @@
               "label": "세계",
               "hub": "us",
               "hub_label": "미국",
-              "count": 104
+              "count": 106
             },
             {
               "key": "us-markets",
@@ -1255,7 +1252,7 @@
               "label": "경제",
               "hub": "us",
               "hub_label": "미국",
-              "count": 74
+              "count": 73
             }
           ],
           "chart": "donut"
@@ -1267,12 +1264,12 @@
             {
               "key": "trump",
               "label": "trump",
-              "count": 114
+              "count": 116
             },
             {
               "key": "iran",
               "label": "iran",
-              "count": 70
+              "count": 72
             },
             {
               "key": "ai",
@@ -1314,25 +1311,25 @@
           "series": [
             {
               "date": "2026-04-04",
-              "count": 533
+              "count": 531
             },
             {
               "date": "2026-04-05",
-              "count": 933
+              "count": 939
             }
           ],
           "summary_items": [
             {
               "label": "최근 집계",
-              "value": 933
+              "value": 939
             },
             {
               "label": "일 평균",
-              "value": 733.0
+              "value": 735.0
             },
             {
               "label": "최대 일자",
-              "value": "2026-04-05 / 933"
+              "value": "2026-04-05 / 939"
             }
           ]
         },
@@ -1343,22 +1340,22 @@
             {
               "key": "us",
               "label": "미국",
-              "count": 754,
+              "count": 757,
               "series": [
                 {
                   "date": "2026-04-04",
-                  "count": 438
+                  "count": 436
                 },
                 {
                   "date": "2026-04-05",
-                  "count": 316
+                  "count": 321
                 }
               ]
             },
             {
               "key": "kr",
               "label": "대한민국",
-              "count": 639,
+              "count": 640,
               "series": [
                 {
                   "date": "2026-04-04",
@@ -1366,7 +1363,7 @@
                 },
                 {
                   "date": "2026-04-05",
-                  "count": 580
+                  "count": 581
                 }
               ]
             }
@@ -1374,11 +1371,11 @@
           "summary_items": [
             {
               "label": "미국",
-              "value": 754
+              "value": 757
             },
             {
               "label": "대한민국",
-              "value": 639
+              "value": 640
             }
           ]
         },
@@ -1389,22 +1386,22 @@
             {
               "key": "us-politics",
               "label": "정치",
-              "count": 249,
+              "count": 250,
               "series": [
                 {
                   "date": "2026-04-04",
-                  "count": 139
+                  "count": 138
                 },
                 {
                   "date": "2026-04-05",
-                  "count": 110
+                  "count": 112
                 }
               ]
             },
             {
               "key": "kr-society",
               "label": "사회",
-              "count": 243,
+              "count": 244,
               "series": [
                 {
                   "date": "2026-04-04",
@@ -1412,14 +1409,14 @@
                 },
                 {
                   "date": "2026-04-05",
-                  "count": 222
+                  "count": 223
                 }
               ]
             },
             {
               "key": "us-technology",
               "label": "기술",
-              "count": 235,
+              "count": 236,
               "series": [
                 {
                   "date": "2026-04-04",
@@ -1427,7 +1424,7 @@
                 },
                 {
                   "date": "2026-04-05",
-                  "count": 90
+                  "count": 91
                 }
               ]
             }
@@ -1435,15 +1432,15 @@
           "summary_items": [
             {
               "label": "정치",
-              "value": 249
+              "value": 250
             },
             {
               "label": "사회",
-              "value": 243
+              "value": 244
             },
             {
               "label": "기술",
-              "value": 235
+              "value": 236
             }
           ]
         }
@@ -1451,10 +1448,10 @@
     },
     "7d": {
       "label": "7d",
-      "article_count": 4661,
+      "article_count": 4667,
       "unknown_time_count": 0,
       "active_source_count": 100,
-      "repeated_title_count": 259,
+      "repeated_title_count": 260,
       "timeline": [
         {
           "date": "2026-03-29",
@@ -1486,21 +1483,21 @@
         },
         {
           "date": "2026-04-05",
-          "count": 933
+          "count": 939
         }
       ],
       "top_keywords": [
         {
           "keyword": "trump",
-          "count": 480
+          "count": 483
         },
         {
           "keyword": "iran",
-          "count": 240
+          "count": 243
         },
         {
           "keyword": "war",
-          "count": 114
+          "count": 116
         },
         {
           "keyword": "us",
@@ -1553,7 +1550,7 @@
         {
           "source_key": "nypost-feed",
           "name": "New York Post Feed",
-          "count": 151
+          "count": 152
         },
         {
           "source_key": "asiae-society-rss",
@@ -1578,7 +1575,7 @@
         {
           "source_key": "mk-society-rss",
           "name": "Maeil Business Society",
-          "count": 119
+          "count": 120
         },
         {
           "source_key": "asiae-economy-rss",
@@ -1605,12 +1602,12 @@
         {
           "key": "us",
           "label": "미국",
-          "count": 2649
+          "count": 2654
         },
         {
           "key": "kr",
           "label": "대한민국",
-          "count": 1814
+          "count": 1815
         },
         {
           "key": "global",
@@ -1624,21 +1621,21 @@
           "label": "정치",
           "hub": "us",
           "hub_label": "미국",
-          "count": 971
+          "count": 973
         },
         {
           "key": "us-technology",
           "label": "기술",
           "hub": "us",
           "hub_label": "미국",
-          "count": 694
+          "count": 695
         },
         {
           "key": "kr-society",
           "label": "사회",
           "hub": "kr",
           "hub_label": "대한민국",
-          "count": 520
+          "count": 521
         },
         {
           "key": "kr-economy",
@@ -1652,7 +1649,7 @@
           "label": "세계",
           "hub": "us",
           "hub_label": "미국",
-          "count": 433
+          "count": 435
         },
         {
           "key": "kr-politics",
@@ -1707,11 +1704,11 @@
       "language_counts": [
         {
           "language": "en",
-          "count": 2787
+          "count": 2792
         },
         {
           "language": "ko",
-          "count": 1874
+          "count": 1875
         }
       ],
       "repeated_titles": [
@@ -1898,6 +1895,135 @@
       ],
       "recent_samples": [
         {
+          "stable_key": "fb41aa25eec2012bc2bfc1126de06689260f80d4f9d4cc0424132787b92ae80b",
+          "source_key": "msnbc-feed",
+          "source_name": "MSNBC Feed",
+          "category": "us-politics",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "정치",
+          "language": "en",
+          "title": "Trump’s f-bomb Easter message to Iran: Open the strait or ‘you’ll be living in Hell’",
+          "canonical_url": "https://www.ms.now/news/trump-f-bomb-easter-iran-airman",
+          "published_at": "2026-04-05T13:15:43+00:00",
+          "title_hash": "91efd1d310894c9e8376330d68b18d76ac9ca9e7aa2890d3237f493c7c78f253",
+          "keywords": [
+            "trump",
+            "bomb",
+            "easter",
+            "message",
+            "iran",
+            "open"
+          ]
+        },
+        {
+          "stable_key": "d2f112ea61fb776bbc1ec4194d36461884e49a31983306a891cc09658cc41792",
+          "source_key": "nypost-feed",
+          "source_name": "New York Post Feed",
+          "category": "us-technology",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "기술",
+          "language": "en",
+          "title": "Hawaii’s most active volcano Kilauea brewing as experts forecast 44th eruption in coming days",
+          "canonical_url": "https://nypost.com/2026/04/05/us-news/hawaiis-kilauea-volcano-brewing-as-experts-forecast-44th-eruption",
+          "published_at": "2026-04-05T13:15:03+00:00",
+          "title_hash": "3cc3ae68bd32e3731fe3684a0474f8f7a7f3f49ff13484e58b46273a5a8e8cc6",
+          "keywords": [
+            "hawaii",
+            "most",
+            "active",
+            "volcano",
+            "kilauea",
+            "brewing"
+          ]
+        },
+        {
+          "stable_key": "06b2e03c5986f092e4ae988f7ef786c9457341cba9f4e017478dc472a824516d",
+          "source_key": "cbs-us-rss",
+          "source_name": "CBS News US",
+          "category": "us-politics",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "정치",
+          "language": "en",
+          "title": "Almanac: April 5",
+          "canonical_url": "https://www.cbsnews.com/video/almanac-april-5-2026",
+          "published_at": "2026-04-05T13:14:08+00:00",
+          "title_hash": "91b349493fcdfb88a7595224a68c47c6ff9364bad3978c5f5ac15560c475aafb",
+          "keywords": [
+            "almanac",
+            "april",
+            "almanac april"
+          ]
+        },
+        {
+          "stable_key": "b78d14f17b17ce70033c1622195f38feb2df647d20e2fbc3aee20a0cf9fb3adf",
+          "source_key": "cbs-world-rss",
+          "source_name": "CBS News World",
+          "category": "us-world",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "세계",
+          "language": "en",
+          "title": "U.S. drawn deeper into war, as Trump calls for Iran to accept a deal",
+          "canonical_url": "https://www.cbsnews.com/news/iran-war-nuclear-program-trump-threats",
+          "published_at": "2026-04-05T13:13:13+00:00",
+          "title_hash": "55a71bab69d57c724e7ad40f5d08d429ed7bba43b4ba32d21959ebcd4b085ff7",
+          "keywords": [
+            "drawn",
+            "deeper",
+            "war",
+            "trump",
+            "calls",
+            "iran"
+          ]
+        },
+        {
+          "stable_key": "dd2f01e60fa2c9e7c9155e7ef900980b2bd17d0859e476e4a584efc31399cf29",
+          "source_key": "cbs-world-rss",
+          "source_name": "CBS News World",
+          "category": "us-world",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "세계",
+          "language": "en",
+          "title": "U.S. drawn deeper into war, as Trump calls for Iran to accept a deal",
+          "canonical_url": "https://www.cbsnews.com/video/u-s-drawn-deeper-into-war-as-trump-calls-for-iran-to-accept-a-deal",
+          "published_at": "2026-04-05T13:12:17+00:00",
+          "title_hash": "55a71bab69d57c724e7ad40f5d08d429ed7bba43b4ba32d21959ebcd4b085ff7",
+          "keywords": [
+            "drawn",
+            "deeper",
+            "war",
+            "trump",
+            "calls",
+            "iran"
+          ]
+        },
+        {
+          "stable_key": "673ec1d91b973c3629e177ae139725cb94f827d54e077915b13051445cfa1c75",
+          "source_key": "mk-society-rss",
+          "source_name": "Maeil Business Society",
+          "category": "kr-society",
+          "hub": "kr",
+          "hub_label": "대한민국",
+          "section_label": "사회",
+          "language": "ko",
+          "title": "“몸부림이라도 쳐보겠다”…국힘 이정현, 전남광주 통합시장 출마 선언",
+          "canonical_url": "https://www.mk.co.kr/news/politics/12008540",
+          "published_at": "2026-04-05T13:11:28+00:00",
+          "title_hash": "c05dd188a9b7c3d87f0ecf9cb26ac5696ab99e46870ab20cb456cf31f3f3cb51",
+          "keywords": [
+            "몸부림이라도",
+            "쳐보겠다",
+            "국힘",
+            "이정현",
+            "전남광주",
+            "통합시장"
+          ]
+        },
+        {
           "stable_key": "b64b14ac13cadc777dff64d25950d48cf93e9fce8a398bb0e3cfc30882899659",
           "source_key": "mk-sports-rss",
           "source_name": "Maeil Business Sports",
@@ -2424,145 +2550,13 @@
             "무실점",
             "kia"
           ]
-        },
-        {
-          "stable_key": "5f03b8ec9372b8fa95aeddc38e10fe15fc25f5e4faa6a0fa4a70a62d4c474b24",
-          "source_key": "cnbc-world-rss",
-          "source_name": "CNBC World",
-          "category": "us-world",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "세계",
-          "language": "en",
-          "title": "'Silent killers': How AI start-ups are trying to solve one of the retail industry's biggest problems",
-          "canonical_url": "https://www.cnbc.com/2026/04/05/ai-retail-start-ups-virtual-try-on-tech-margins.html",
-          "published_at": "2026-04-05T12:37:57+00:00",
-          "title_hash": "86dd5b548d0ed8c152d335b57bb30077eea0b07198599f122ed6230a4cf4ab6c",
-          "keywords": [
-            "silent",
-            "killers",
-            "how",
-            "ai",
-            "start",
-            "ups"
-          ]
-        },
-        {
-          "stable_key": "4382dcc73d752fe325de3dc02209e42f99487099a1ea67fabf31db2c8c51f1c5",
-          "source_key": "forbes-innovation-rss",
-          "source_name": "Forbes Innovation",
-          "category": "us-technology",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "기술",
-          "language": "en",
-          "title": "Samsung’s Android Update—Bad News For Galaxy S26 Owners",
-          "canonical_url": "https://www.forbes.com/sites/zakdoffman/2026/04/05/samsungs-android-update-bad-news-for-galaxy-s26-owners",
-          "published_at": "2026-04-05T12:37:18+00:00",
-          "title_hash": "f265b1d28dd208d50c319b0ffbf64ddbaddc9e368d7e9e142c7ba48bb11f6f2a",
-          "keywords": [
-            "samsung",
-            "android",
-            "bad",
-            "galaxy",
-            "s26",
-            "owners"
-          ]
-        },
-        {
-          "stable_key": "afc725804e9bd7b9972407dc5467e918a4fd0a1789a76ab02a80c05190fd9762",
-          "source_key": "telegram-dada-news2",
-          "source_name": "Telegram @dada_news2",
-          "category": "tech-it",
-          "hub": "global",
-          "hub_label": "글로벌 전문",
-          "section_label": "테크",
-          "language": "ko",
-          "title": "[뉴스핌] [AI상보] 9회 집중력 빛난 SSG, 롯데 6연패 몰고 단독 선두 등극",
-          "canonical_url": "https://www.newspim.com/news/view/20260405000160",
-          "published_at": "2026-04-05T12:37:12+00:00",
-          "title_hash": "b860bad98de0b2fd9bda71b661af55face239b5db0f6c35652acc0405abbbafd",
-          "keywords": [
-            "뉴스핌",
-            "ai상보",
-            "9회",
-            "집중력",
-            "빛난",
-            "ssg"
-          ]
-        },
-        {
-          "stable_key": "cc7b8dfcc41673a2d6dc6424f1f39b39183e8641dfd69d3d4f32fc9ded1128ca",
-          "source_key": "telegram-dada-news2",
-          "source_name": "Telegram @dada_news2",
-          "category": "tech-it",
-          "hub": "global",
-          "hub_label": "글로벌 전문",
-          "section_label": "테크",
-          "language": "ko",
-          "title": "[뉴스핌] [AI상보] KT, 삼성 2-0으로 꺾고 2연패 탈출...'좌타자 9명 상대' 보쉴리 6이닝 무실점",
-          "canonical_url": "https://www.newspim.com/news/view/20260405000146",
-          "published_at": "2026-04-05T12:35:16+00:00",
-          "title_hash": "74b10c52459589294446544d01459f2fbe49ac9c8c510812c36d4be177413b44",
-          "keywords": [
-            "뉴스핌",
-            "ai상보",
-            "kt",
-            "삼성",
-            "0으로",
-            "꺾고"
-          ]
-        },
-        {
-          "stable_key": "53d17e8032eaca08407910805205bed95cf5b5eeb8d591357dc64e054cf6a48b",
-          "source_key": "washingtonexaminer-feed",
-          "source_name": "Washington Examiner Feed",
-          "category": "us-politics",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "정치",
-          "language": "en",
-          "title": "Trump hails ‘Easter miracle’ after second F-15 pilot rescued from Iran",
-          "canonical_url": "https://www.washingtonexaminer.com/news/white-house/4516509/trump-easter-miracle-f15-pilot-rescued-iran",
-          "published_at": "2026-04-05T12:35:07+00:00",
-          "title_hash": "8ee1a39e28f7aaff2d455409e9d564de66d755e081b665b81bd223512a4ddac3",
-          "keywords": [
-            "trump",
-            "hails",
-            "easter",
-            "miracle",
-            "after",
-            "second"
-          ]
-        },
-        {
-          "stable_key": "8aa9d5b47f954cd508c92a89365f0d1320545383b788f052564620eb04bd94e9",
-          "source_key": "nyt-world-rss",
-          "source_name": "New York Times World",
-          "category": "us-world",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "세계",
-          "language": "en",
-          "title": "Iran Downing of Plane and Daring U.S. Rescue Leave Both Sides Emboldened",
-          "canonical_url": "https://www.nytimes.com/2026/04/05/world/middleeast/iran-us-rescue.html",
-          "published_at": "2026-04-05T12:33:42+00:00",
-          "title_hash": "91a00fa13e512a6d747b2e15e181167128ccded5c1668303035b5abada05073d",
-          "keywords": [
-            "iran",
-            "downing",
-            "plane",
-            "daring",
-            "rescue",
-            "leave"
-          ]
         }
       ],
       "kpi_series": [
         {
           "key": "articles",
           "label": "기사 수",
-          "value": 4661,
+          "value": 4667,
           "series": [
             16,
             91,
@@ -2571,7 +2565,7 @@
             615,
             1399,
             1204,
-            933
+            939
           ]
         },
         {
@@ -2586,13 +2580,13 @@
             615,
             1399,
             1204,
-            933
+            939
           ]
         },
         {
           "key": "repeats",
           "label": "반복 기사",
-          "value": 259,
+          "value": 260,
           "series": [
             16,
             91,
@@ -2601,7 +2595,7 @@
             615,
             1399,
             1204,
-            933
+            939
           ]
         },
         {
@@ -2616,7 +2610,7 @@
             615,
             1399,
             1204,
-            933
+            939
           ]
         }
       ],
@@ -2638,7 +2632,7 @@
             {
               "source_key": "nypost-feed",
               "name": "New York Post Feed",
-              "count": 151
+              "count": 152
             },
             {
               "source_key": "asiae-society-rss",
@@ -2663,7 +2657,7 @@
             {
               "source_key": "mk-society-rss",
               "name": "Maeil Business Society",
-              "count": 119
+              "count": 120
             }
           ]
         },
@@ -2676,21 +2670,21 @@
               "label": "정치",
               "hub": "us",
               "hub_label": "미국",
-              "count": 971
+              "count": 973
             },
             {
               "key": "us-technology",
               "label": "기술",
               "hub": "us",
               "hub_label": "미국",
-              "count": 694
+              "count": 695
             },
             {
               "key": "kr-society",
               "label": "사회",
               "hub": "kr",
               "hub_label": "대한민국",
-              "count": 520
+              "count": 521
             },
             {
               "key": "kr-economy",
@@ -2704,7 +2698,7 @@
               "label": "세계",
               "hub": "us",
               "hub_label": "미국",
-              "count": 433
+              "count": 435
             },
             {
               "key": "kr-politics",
@@ -2737,17 +2731,17 @@
             {
               "key": "trump",
               "label": "trump",
-              "count": 480
+              "count": 483
             },
             {
               "key": "iran",
               "label": "iran",
-              "count": 240
+              "count": 243
             },
             {
               "key": "war",
               "label": "war",
-              "count": 114
+              "count": 116
             },
             {
               "key": "us",
@@ -2812,17 +2806,17 @@
             },
             {
               "date": "2026-04-05",
-              "count": 933
+              "count": 939
             }
           ],
           "summary_items": [
             {
               "label": "최근 집계",
-              "value": 933
+              "value": 939
             },
             {
               "label": "일 평균",
-              "value": 582.6
+              "value": 583.4
             },
             {
               "label": "최대 일자",
@@ -2837,7 +2831,7 @@
             {
               "key": "us",
               "label": "미국",
-              "count": 2649,
+              "count": 2654,
               "series": [
                 {
                   "date": "2026-03-29",
@@ -2869,14 +2863,14 @@
                 },
                 {
                   "date": "2026-04-05",
-                  "count": 316
+                  "count": 321
                 }
               ]
             },
             {
               "key": "kr",
               "label": "대한민국",
-              "count": 1814,
+              "count": 1815,
               "series": [
                 {
                   "date": "2026-03-29",
@@ -2908,7 +2902,7 @@
                 },
                 {
                   "date": "2026-04-05",
-                  "count": 580
+                  "count": 581
                 }
               ]
             }
@@ -2916,11 +2910,11 @@
           "summary_items": [
             {
               "label": "미국",
-              "value": 2649
+              "value": 2654
             },
             {
               "label": "대한민국",
-              "value": 1814
+              "value": 1815
             }
           ]
         },
@@ -2931,7 +2925,7 @@
             {
               "key": "us-politics",
               "label": "정치",
-              "count": 971,
+              "count": 973,
               "series": [
                 {
                   "date": "2026-03-29",
@@ -2963,14 +2957,14 @@
                 },
                 {
                   "date": "2026-04-05",
-                  "count": 110
+                  "count": 112
                 }
               ]
             },
             {
               "key": "us-technology",
               "label": "기술",
-              "count": 694,
+              "count": 695,
               "series": [
                 {
                   "date": "2026-03-29",
@@ -3002,14 +2996,14 @@
                 },
                 {
                   "date": "2026-04-05",
-                  "count": 90
+                  "count": 91
                 }
               ]
             },
             {
               "key": "kr-society",
               "label": "사회",
-              "count": 520,
+              "count": 521,
               "series": [
                 {
                   "date": "2026-03-29",
@@ -3041,7 +3035,7 @@
                 },
                 {
                   "date": "2026-04-05",
-                  "count": 222
+                  "count": 223
                 }
               ]
             }
@@ -3049,15 +3043,15 @@
           "summary_items": [
             {
               "label": "정치",
-              "value": 971
+              "value": 973
             },
             {
               "label": "기술",
-              "value": 694
+              "value": 695
             },
             {
               "label": "사회",
-              "value": 520
+              "value": 521
             }
           ]
         }
@@ -3065,10 +3059,10 @@
     },
     "30d": {
       "label": "30d",
-      "article_count": 5173,
+      "article_count": 5179,
       "unknown_time_count": 0,
       "active_source_count": 101,
-      "repeated_title_count": 322,
+      "repeated_title_count": 323,
       "timeline": [
         {
           "date": "2026-03-07",
@@ -3188,21 +3182,21 @@
         },
         {
           "date": "2026-04-05",
-          "count": 933
+          "count": 939
         }
       ],
       "top_keywords": [
         {
           "keyword": "trump",
-          "count": 531
+          "count": 534
         },
         {
           "keyword": "iran",
-          "count": 285
+          "count": 288
         },
         {
           "keyword": "war",
-          "count": 147
+          "count": 149
         },
         {
           "keyword": "us",
@@ -3260,7 +3254,7 @@
         {
           "source_key": "nypost-feed",
           "name": "New York Post Feed",
-          "count": 151
+          "count": 152
         },
         {
           "source_key": "asiae-society-rss",
@@ -3280,7 +3274,7 @@
         {
           "source_key": "mk-society-rss",
           "name": "Maeil Business Society",
-          "count": 119
+          "count": 120
         },
         {
           "source_key": "asiae-economy-rss",
@@ -3307,12 +3301,12 @@
         {
           "key": "us",
           "label": "미국",
-          "count": 3096
+          "count": 3101
         },
         {
           "key": "kr",
           "label": "대한민국",
-          "count": 1875
+          "count": 1876
         },
         {
           "key": "global",
@@ -3326,28 +3320,28 @@
           "label": "정치",
           "hub": "us",
           "hub_label": "미국",
-          "count": 1090
+          "count": 1092
         },
         {
           "key": "us-technology",
           "label": "기술",
           "hub": "us",
           "hub_label": "미국",
-          "count": 804
+          "count": 805
         },
         {
           "key": "kr-society",
           "label": "사회",
           "hub": "kr",
           "hub_label": "대한민국",
-          "count": 520
+          "count": 521
         },
         {
           "key": "us-world",
           "label": "세계",
           "hub": "us",
           "hub_label": "미국",
-          "count": 519
+          "count": 521
         },
         {
           "key": "kr-economy",
@@ -3409,11 +3403,11 @@
       "language_counts": [
         {
           "language": "en",
-          "count": 3238
+          "count": 3243
         },
         {
           "language": "ko",
-          "count": 1935
+          "count": 1936
         }
       ],
       "repeated_titles": [
@@ -3600,6 +3594,135 @@
       ],
       "recent_samples": [
         {
+          "stable_key": "fb41aa25eec2012bc2bfc1126de06689260f80d4f9d4cc0424132787b92ae80b",
+          "source_key": "msnbc-feed",
+          "source_name": "MSNBC Feed",
+          "category": "us-politics",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "정치",
+          "language": "en",
+          "title": "Trump’s f-bomb Easter message to Iran: Open the strait or ‘you’ll be living in Hell’",
+          "canonical_url": "https://www.ms.now/news/trump-f-bomb-easter-iran-airman",
+          "published_at": "2026-04-05T13:15:43+00:00",
+          "title_hash": "91efd1d310894c9e8376330d68b18d76ac9ca9e7aa2890d3237f493c7c78f253",
+          "keywords": [
+            "trump",
+            "bomb",
+            "easter",
+            "message",
+            "iran",
+            "open"
+          ]
+        },
+        {
+          "stable_key": "d2f112ea61fb776bbc1ec4194d36461884e49a31983306a891cc09658cc41792",
+          "source_key": "nypost-feed",
+          "source_name": "New York Post Feed",
+          "category": "us-technology",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "기술",
+          "language": "en",
+          "title": "Hawaii’s most active volcano Kilauea brewing as experts forecast 44th eruption in coming days",
+          "canonical_url": "https://nypost.com/2026/04/05/us-news/hawaiis-kilauea-volcano-brewing-as-experts-forecast-44th-eruption",
+          "published_at": "2026-04-05T13:15:03+00:00",
+          "title_hash": "3cc3ae68bd32e3731fe3684a0474f8f7a7f3f49ff13484e58b46273a5a8e8cc6",
+          "keywords": [
+            "hawaii",
+            "most",
+            "active",
+            "volcano",
+            "kilauea",
+            "brewing"
+          ]
+        },
+        {
+          "stable_key": "06b2e03c5986f092e4ae988f7ef786c9457341cba9f4e017478dc472a824516d",
+          "source_key": "cbs-us-rss",
+          "source_name": "CBS News US",
+          "category": "us-politics",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "정치",
+          "language": "en",
+          "title": "Almanac: April 5",
+          "canonical_url": "https://www.cbsnews.com/video/almanac-april-5-2026",
+          "published_at": "2026-04-05T13:14:08+00:00",
+          "title_hash": "91b349493fcdfb88a7595224a68c47c6ff9364bad3978c5f5ac15560c475aafb",
+          "keywords": [
+            "almanac",
+            "april",
+            "almanac april"
+          ]
+        },
+        {
+          "stable_key": "b78d14f17b17ce70033c1622195f38feb2df647d20e2fbc3aee20a0cf9fb3adf",
+          "source_key": "cbs-world-rss",
+          "source_name": "CBS News World",
+          "category": "us-world",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "세계",
+          "language": "en",
+          "title": "U.S. drawn deeper into war, as Trump calls for Iran to accept a deal",
+          "canonical_url": "https://www.cbsnews.com/news/iran-war-nuclear-program-trump-threats",
+          "published_at": "2026-04-05T13:13:13+00:00",
+          "title_hash": "55a71bab69d57c724e7ad40f5d08d429ed7bba43b4ba32d21959ebcd4b085ff7",
+          "keywords": [
+            "drawn",
+            "deeper",
+            "war",
+            "trump",
+            "calls",
+            "iran"
+          ]
+        },
+        {
+          "stable_key": "dd2f01e60fa2c9e7c9155e7ef900980b2bd17d0859e476e4a584efc31399cf29",
+          "source_key": "cbs-world-rss",
+          "source_name": "CBS News World",
+          "category": "us-world",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "세계",
+          "language": "en",
+          "title": "U.S. drawn deeper into war, as Trump calls for Iran to accept a deal",
+          "canonical_url": "https://www.cbsnews.com/video/u-s-drawn-deeper-into-war-as-trump-calls-for-iran-to-accept-a-deal",
+          "published_at": "2026-04-05T13:12:17+00:00",
+          "title_hash": "55a71bab69d57c724e7ad40f5d08d429ed7bba43b4ba32d21959ebcd4b085ff7",
+          "keywords": [
+            "drawn",
+            "deeper",
+            "war",
+            "trump",
+            "calls",
+            "iran"
+          ]
+        },
+        {
+          "stable_key": "673ec1d91b973c3629e177ae139725cb94f827d54e077915b13051445cfa1c75",
+          "source_key": "mk-society-rss",
+          "source_name": "Maeil Business Society",
+          "category": "kr-society",
+          "hub": "kr",
+          "hub_label": "대한민국",
+          "section_label": "사회",
+          "language": "ko",
+          "title": "“몸부림이라도 쳐보겠다”…국힘 이정현, 전남광주 통합시장 출마 선언",
+          "canonical_url": "https://www.mk.co.kr/news/politics/12008540",
+          "published_at": "2026-04-05T13:11:28+00:00",
+          "title_hash": "c05dd188a9b7c3d87f0ecf9cb26ac5696ab99e46870ab20cb456cf31f3f3cb51",
+          "keywords": [
+            "몸부림이라도",
+            "쳐보겠다",
+            "국힘",
+            "이정현",
+            "전남광주",
+            "통합시장"
+          ]
+        },
+        {
           "stable_key": "b64b14ac13cadc777dff64d25950d48cf93e9fce8a398bb0e3cfc30882899659",
           "source_key": "mk-sports-rss",
           "source_name": "Maeil Business Sports",
@@ -4126,145 +4249,13 @@
             "무실점",
             "kia"
           ]
-        },
-        {
-          "stable_key": "5f03b8ec9372b8fa95aeddc38e10fe15fc25f5e4faa6a0fa4a70a62d4c474b24",
-          "source_key": "cnbc-world-rss",
-          "source_name": "CNBC World",
-          "category": "us-world",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "세계",
-          "language": "en",
-          "title": "'Silent killers': How AI start-ups are trying to solve one of the retail industry's biggest problems",
-          "canonical_url": "https://www.cnbc.com/2026/04/05/ai-retail-start-ups-virtual-try-on-tech-margins.html",
-          "published_at": "2026-04-05T12:37:57+00:00",
-          "title_hash": "86dd5b548d0ed8c152d335b57bb30077eea0b07198599f122ed6230a4cf4ab6c",
-          "keywords": [
-            "silent",
-            "killers",
-            "how",
-            "ai",
-            "start",
-            "ups"
-          ]
-        },
-        {
-          "stable_key": "4382dcc73d752fe325de3dc02209e42f99487099a1ea67fabf31db2c8c51f1c5",
-          "source_key": "forbes-innovation-rss",
-          "source_name": "Forbes Innovation",
-          "category": "us-technology",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "기술",
-          "language": "en",
-          "title": "Samsung’s Android Update—Bad News For Galaxy S26 Owners",
-          "canonical_url": "https://www.forbes.com/sites/zakdoffman/2026/04/05/samsungs-android-update-bad-news-for-galaxy-s26-owners",
-          "published_at": "2026-04-05T12:37:18+00:00",
-          "title_hash": "f265b1d28dd208d50c319b0ffbf64ddbaddc9e368d7e9e142c7ba48bb11f6f2a",
-          "keywords": [
-            "samsung",
-            "android",
-            "bad",
-            "galaxy",
-            "s26",
-            "owners"
-          ]
-        },
-        {
-          "stable_key": "afc725804e9bd7b9972407dc5467e918a4fd0a1789a76ab02a80c05190fd9762",
-          "source_key": "telegram-dada-news2",
-          "source_name": "Telegram @dada_news2",
-          "category": "tech-it",
-          "hub": "global",
-          "hub_label": "글로벌 전문",
-          "section_label": "테크",
-          "language": "ko",
-          "title": "[뉴스핌] [AI상보] 9회 집중력 빛난 SSG, 롯데 6연패 몰고 단독 선두 등극",
-          "canonical_url": "https://www.newspim.com/news/view/20260405000160",
-          "published_at": "2026-04-05T12:37:12+00:00",
-          "title_hash": "b860bad98de0b2fd9bda71b661af55face239b5db0f6c35652acc0405abbbafd",
-          "keywords": [
-            "뉴스핌",
-            "ai상보",
-            "9회",
-            "집중력",
-            "빛난",
-            "ssg"
-          ]
-        },
-        {
-          "stable_key": "cc7b8dfcc41673a2d6dc6424f1f39b39183e8641dfd69d3d4f32fc9ded1128ca",
-          "source_key": "telegram-dada-news2",
-          "source_name": "Telegram @dada_news2",
-          "category": "tech-it",
-          "hub": "global",
-          "hub_label": "글로벌 전문",
-          "section_label": "테크",
-          "language": "ko",
-          "title": "[뉴스핌] [AI상보] KT, 삼성 2-0으로 꺾고 2연패 탈출...'좌타자 9명 상대' 보쉴리 6이닝 무실점",
-          "canonical_url": "https://www.newspim.com/news/view/20260405000146",
-          "published_at": "2026-04-05T12:35:16+00:00",
-          "title_hash": "74b10c52459589294446544d01459f2fbe49ac9c8c510812c36d4be177413b44",
-          "keywords": [
-            "뉴스핌",
-            "ai상보",
-            "kt",
-            "삼성",
-            "0으로",
-            "꺾고"
-          ]
-        },
-        {
-          "stable_key": "53d17e8032eaca08407910805205bed95cf5b5eeb8d591357dc64e054cf6a48b",
-          "source_key": "washingtonexaminer-feed",
-          "source_name": "Washington Examiner Feed",
-          "category": "us-politics",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "정치",
-          "language": "en",
-          "title": "Trump hails ‘Easter miracle’ after second F-15 pilot rescued from Iran",
-          "canonical_url": "https://www.washingtonexaminer.com/news/white-house/4516509/trump-easter-miracle-f15-pilot-rescued-iran",
-          "published_at": "2026-04-05T12:35:07+00:00",
-          "title_hash": "8ee1a39e28f7aaff2d455409e9d564de66d755e081b665b81bd223512a4ddac3",
-          "keywords": [
-            "trump",
-            "hails",
-            "easter",
-            "miracle",
-            "after",
-            "second"
-          ]
-        },
-        {
-          "stable_key": "8aa9d5b47f954cd508c92a89365f0d1320545383b788f052564620eb04bd94e9",
-          "source_key": "nyt-world-rss",
-          "source_name": "New York Times World",
-          "category": "us-world",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "세계",
-          "language": "en",
-          "title": "Iran Downing of Plane and Daring U.S. Rescue Leave Both Sides Emboldened",
-          "canonical_url": "https://www.nytimes.com/2026/04/05/world/middleeast/iran-us-rescue.html",
-          "published_at": "2026-04-05T12:33:42+00:00",
-          "title_hash": "91a00fa13e512a6d747b2e15e181167128ccded5c1668303035b5abada05073d",
-          "keywords": [
-            "iran",
-            "downing",
-            "plane",
-            "daring",
-            "rescue",
-            "leave"
-          ]
         }
       ],
       "kpi_series": [
         {
           "key": "articles",
           "label": "기사 수",
-          "value": 5173,
+          "value": 5179,
           "series": [
             22,
             53,
@@ -4279,7 +4270,7 @@
             615,
             1399,
             1204,
-            933
+            939
           ]
         },
         {
@@ -4300,13 +4291,13 @@
             615,
             1399,
             1204,
-            933
+            939
           ]
         },
         {
           "key": "repeats",
           "label": "반복 기사",
-          "value": 322,
+          "value": 323,
           "series": [
             22,
             53,
@@ -4321,7 +4312,7 @@
             615,
             1399,
             1204,
-            933
+            939
           ]
         },
         {
@@ -4342,7 +4333,7 @@
             615,
             1399,
             1204,
-            933
+            939
           ]
         }
       ],
@@ -4369,7 +4360,7 @@
             {
               "source_key": "nypost-feed",
               "name": "New York Post Feed",
-              "count": 151
+              "count": 152
             },
             {
               "source_key": "asiae-society-rss",
@@ -4389,7 +4380,7 @@
             {
               "source_key": "mk-society-rss",
               "name": "Maeil Business Society",
-              "count": 119
+              "count": 120
             }
           ]
         },
@@ -4402,28 +4393,28 @@
               "label": "정치",
               "hub": "us",
               "hub_label": "미국",
-              "count": 1090
+              "count": 1092
             },
             {
               "key": "us-technology",
               "label": "기술",
               "hub": "us",
               "hub_label": "미국",
-              "count": 804
+              "count": 805
             },
             {
               "key": "kr-society",
               "label": "사회",
               "hub": "kr",
               "hub_label": "대한민국",
-              "count": 520
+              "count": 521
             },
             {
               "key": "us-world",
               "label": "세계",
               "hub": "us",
               "hub_label": "미국",
-              "count": 519
+              "count": 521
             },
             {
               "key": "kr-economy",
@@ -4463,17 +4454,17 @@
             {
               "key": "trump",
               "label": "trump",
-              "count": 531
+              "count": 534
             },
             {
               "key": "iran",
               "label": "iran",
-              "count": 285
+              "count": 288
             },
             {
               "key": "war",
               "label": "war",
-              "count": 147
+              "count": 149
             },
             {
               "key": "us",
@@ -4626,17 +4617,17 @@
             },
             {
               "date": "2026-04-05",
-              "count": 933
+              "count": 939
             }
           ],
           "summary_items": [
             {
               "label": "최근 집계",
-              "value": 933
+              "value": 939
             },
             {
               "label": "일 평균",
-              "value": 172.4
+              "value": 172.6
             },
             {
               "label": "최대 일자",
@@ -4651,7 +4642,7 @@
             {
               "key": "us",
               "label": "미국",
-              "count": 3096,
+              "count": 3101,
               "series": [
                 {
                   "date": "2026-03-07",
@@ -4771,14 +4762,14 @@
                 },
                 {
                   "date": "2026-04-05",
-                  "count": 316
+                  "count": 321
                 }
               ]
             },
             {
               "key": "kr",
               "label": "대한민국",
-              "count": 1875,
+              "count": 1876,
               "series": [
                 {
                   "date": "2026-03-07",
@@ -4898,7 +4889,7 @@
                 },
                 {
                   "date": "2026-04-05",
-                  "count": 580
+                  "count": 581
                 }
               ]
             }
@@ -4906,11 +4897,11 @@
           "summary_items": [
             {
               "label": "미국",
-              "value": 3096
+              "value": 3101
             },
             {
               "label": "대한민국",
-              "value": 1875
+              "value": 1876
             }
           ]
         },
@@ -4921,7 +4912,7 @@
             {
               "key": "us-politics",
               "label": "정치",
-              "count": 1090,
+              "count": 1092,
               "series": [
                 {
                   "date": "2026-03-07",
@@ -5041,14 +5032,14 @@
                 },
                 {
                   "date": "2026-04-05",
-                  "count": 110
+                  "count": 112
                 }
               ]
             },
             {
               "key": "us-technology",
               "label": "기술",
-              "count": 804,
+              "count": 805,
               "series": [
                 {
                   "date": "2026-03-07",
@@ -5168,14 +5159,14 @@
                 },
                 {
                   "date": "2026-04-05",
-                  "count": 90
+                  "count": 91
                 }
               ]
             },
             {
               "key": "kr-society",
               "label": "사회",
-              "count": 520,
+              "count": 521,
               "series": [
                 {
                   "date": "2026-03-07",
@@ -5295,7 +5286,7 @@
                 },
                 {
                   "date": "2026-04-05",
-                  "count": 222
+                  "count": 223
                 }
               ]
             }
@@ -5303,15 +5294,15 @@
           "summary_items": [
             {
               "label": "정치",
-              "value": 1090
+              "value": 1092
             },
             {
               "label": "기술",
-              "value": 804
+              "value": 805
             },
             {
               "label": "사회",
-              "value": 520
+              "value": 521
             }
           ]
         }
@@ -5319,10 +5310,10 @@
     },
     "90d": {
       "label": "90d",
-      "article_count": 5266,
+      "article_count": 5272,
       "unknown_time_count": 0,
       "active_source_count": 101,
-      "repeated_title_count": 324,
+      "repeated_title_count": 325,
       "timeline": [
         {
           "date": "2026-01-07",
@@ -5598,21 +5589,21 @@
         },
         {
           "date": "2026-04-05",
-          "count": 933
+          "count": 939
         }
       ],
       "top_keywords": [
         {
           "keyword": "trump",
-          "count": 533
+          "count": 536
         },
         {
           "keyword": "iran",
-          "count": 285
+          "count": 288
         },
         {
           "keyword": "war",
-          "count": 147
+          "count": 149
         },
         {
           "keyword": "new",
@@ -5670,7 +5661,7 @@
         {
           "source_key": "nypost-feed",
           "name": "New York Post Feed",
-          "count": 151
+          "count": 152
         },
         {
           "source_key": "asiae-society-rss",
@@ -5690,7 +5681,7 @@
         {
           "source_key": "mk-society-rss",
           "name": "Maeil Business Society",
-          "count": 119
+          "count": 120
         },
         {
           "source_key": "asiae-economy-rss",
@@ -5717,12 +5708,12 @@
         {
           "key": "us",
           "label": "미국",
-          "count": 3185
+          "count": 3190
         },
         {
           "key": "kr",
           "label": "대한민국",
-          "count": 1877
+          "count": 1878
         },
         {
           "key": "global",
@@ -5736,28 +5727,28 @@
           "label": "정치",
           "hub": "us",
           "hub_label": "미국",
-          "count": 1090
+          "count": 1092
         },
         {
           "key": "us-technology",
           "label": "기술",
           "hub": "us",
           "hub_label": "미국",
-          "count": 868
-        },
-        {
-          "key": "kr-society",
-          "label": "사회",
-          "hub": "kr",
-          "hub_label": "대한민국",
-          "count": 520
+          "count": 869
         },
         {
           "key": "us-world",
           "label": "세계",
           "hub": "us",
           "hub_label": "미국",
-          "count": 520
+          "count": 522
+        },
+        {
+          "key": "kr-society",
+          "label": "사회",
+          "hub": "kr",
+          "hub_label": "대한민국",
+          "count": 521
         },
         {
           "key": "kr-economy",
@@ -5819,11 +5810,11 @@
       "language_counts": [
         {
           "language": "en",
-          "count": 3329
+          "count": 3334
         },
         {
           "language": "ko",
-          "count": 1937
+          "count": 1938
         }
       ],
       "repeated_titles": [
@@ -6009,6 +6000,135 @@
         }
       ],
       "recent_samples": [
+        {
+          "stable_key": "fb41aa25eec2012bc2bfc1126de06689260f80d4f9d4cc0424132787b92ae80b",
+          "source_key": "msnbc-feed",
+          "source_name": "MSNBC Feed",
+          "category": "us-politics",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "정치",
+          "language": "en",
+          "title": "Trump’s f-bomb Easter message to Iran: Open the strait or ‘you’ll be living in Hell’",
+          "canonical_url": "https://www.ms.now/news/trump-f-bomb-easter-iran-airman",
+          "published_at": "2026-04-05T13:15:43+00:00",
+          "title_hash": "91efd1d310894c9e8376330d68b18d76ac9ca9e7aa2890d3237f493c7c78f253",
+          "keywords": [
+            "trump",
+            "bomb",
+            "easter",
+            "message",
+            "iran",
+            "open"
+          ]
+        },
+        {
+          "stable_key": "d2f112ea61fb776bbc1ec4194d36461884e49a31983306a891cc09658cc41792",
+          "source_key": "nypost-feed",
+          "source_name": "New York Post Feed",
+          "category": "us-technology",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "기술",
+          "language": "en",
+          "title": "Hawaii’s most active volcano Kilauea brewing as experts forecast 44th eruption in coming days",
+          "canonical_url": "https://nypost.com/2026/04/05/us-news/hawaiis-kilauea-volcano-brewing-as-experts-forecast-44th-eruption",
+          "published_at": "2026-04-05T13:15:03+00:00",
+          "title_hash": "3cc3ae68bd32e3731fe3684a0474f8f7a7f3f49ff13484e58b46273a5a8e8cc6",
+          "keywords": [
+            "hawaii",
+            "most",
+            "active",
+            "volcano",
+            "kilauea",
+            "brewing"
+          ]
+        },
+        {
+          "stable_key": "06b2e03c5986f092e4ae988f7ef786c9457341cba9f4e017478dc472a824516d",
+          "source_key": "cbs-us-rss",
+          "source_name": "CBS News US",
+          "category": "us-politics",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "정치",
+          "language": "en",
+          "title": "Almanac: April 5",
+          "canonical_url": "https://www.cbsnews.com/video/almanac-april-5-2026",
+          "published_at": "2026-04-05T13:14:08+00:00",
+          "title_hash": "91b349493fcdfb88a7595224a68c47c6ff9364bad3978c5f5ac15560c475aafb",
+          "keywords": [
+            "almanac",
+            "april",
+            "almanac april"
+          ]
+        },
+        {
+          "stable_key": "b78d14f17b17ce70033c1622195f38feb2df647d20e2fbc3aee20a0cf9fb3adf",
+          "source_key": "cbs-world-rss",
+          "source_name": "CBS News World",
+          "category": "us-world",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "세계",
+          "language": "en",
+          "title": "U.S. drawn deeper into war, as Trump calls for Iran to accept a deal",
+          "canonical_url": "https://www.cbsnews.com/news/iran-war-nuclear-program-trump-threats",
+          "published_at": "2026-04-05T13:13:13+00:00",
+          "title_hash": "55a71bab69d57c724e7ad40f5d08d429ed7bba43b4ba32d21959ebcd4b085ff7",
+          "keywords": [
+            "drawn",
+            "deeper",
+            "war",
+            "trump",
+            "calls",
+            "iran"
+          ]
+        },
+        {
+          "stable_key": "dd2f01e60fa2c9e7c9155e7ef900980b2bd17d0859e476e4a584efc31399cf29",
+          "source_key": "cbs-world-rss",
+          "source_name": "CBS News World",
+          "category": "us-world",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "세계",
+          "language": "en",
+          "title": "U.S. drawn deeper into war, as Trump calls for Iran to accept a deal",
+          "canonical_url": "https://www.cbsnews.com/video/u-s-drawn-deeper-into-war-as-trump-calls-for-iran-to-accept-a-deal",
+          "published_at": "2026-04-05T13:12:17+00:00",
+          "title_hash": "55a71bab69d57c724e7ad40f5d08d429ed7bba43b4ba32d21959ebcd4b085ff7",
+          "keywords": [
+            "drawn",
+            "deeper",
+            "war",
+            "trump",
+            "calls",
+            "iran"
+          ]
+        },
+        {
+          "stable_key": "673ec1d91b973c3629e177ae139725cb94f827d54e077915b13051445cfa1c75",
+          "source_key": "mk-society-rss",
+          "source_name": "Maeil Business Society",
+          "category": "kr-society",
+          "hub": "kr",
+          "hub_label": "대한민국",
+          "section_label": "사회",
+          "language": "ko",
+          "title": "“몸부림이라도 쳐보겠다”…국힘 이정현, 전남광주 통합시장 출마 선언",
+          "canonical_url": "https://www.mk.co.kr/news/politics/12008540",
+          "published_at": "2026-04-05T13:11:28+00:00",
+          "title_hash": "c05dd188a9b7c3d87f0ecf9cb26ac5696ab99e46870ab20cb456cf31f3f3cb51",
+          "keywords": [
+            "몸부림이라도",
+            "쳐보겠다",
+            "국힘",
+            "이정현",
+            "전남광주",
+            "통합시장"
+          ]
+        },
         {
           "stable_key": "b64b14ac13cadc777dff64d25950d48cf93e9fce8a398bb0e3cfc30882899659",
           "source_key": "mk-sports-rss",
@@ -6536,145 +6656,13 @@
             "무실점",
             "kia"
           ]
-        },
-        {
-          "stable_key": "5f03b8ec9372b8fa95aeddc38e10fe15fc25f5e4faa6a0fa4a70a62d4c474b24",
-          "source_key": "cnbc-world-rss",
-          "source_name": "CNBC World",
-          "category": "us-world",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "세계",
-          "language": "en",
-          "title": "'Silent killers': How AI start-ups are trying to solve one of the retail industry's biggest problems",
-          "canonical_url": "https://www.cnbc.com/2026/04/05/ai-retail-start-ups-virtual-try-on-tech-margins.html",
-          "published_at": "2026-04-05T12:37:57+00:00",
-          "title_hash": "86dd5b548d0ed8c152d335b57bb30077eea0b07198599f122ed6230a4cf4ab6c",
-          "keywords": [
-            "silent",
-            "killers",
-            "how",
-            "ai",
-            "start",
-            "ups"
-          ]
-        },
-        {
-          "stable_key": "4382dcc73d752fe325de3dc02209e42f99487099a1ea67fabf31db2c8c51f1c5",
-          "source_key": "forbes-innovation-rss",
-          "source_name": "Forbes Innovation",
-          "category": "us-technology",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "기술",
-          "language": "en",
-          "title": "Samsung’s Android Update—Bad News For Galaxy S26 Owners",
-          "canonical_url": "https://www.forbes.com/sites/zakdoffman/2026/04/05/samsungs-android-update-bad-news-for-galaxy-s26-owners",
-          "published_at": "2026-04-05T12:37:18+00:00",
-          "title_hash": "f265b1d28dd208d50c319b0ffbf64ddbaddc9e368d7e9e142c7ba48bb11f6f2a",
-          "keywords": [
-            "samsung",
-            "android",
-            "bad",
-            "galaxy",
-            "s26",
-            "owners"
-          ]
-        },
-        {
-          "stable_key": "afc725804e9bd7b9972407dc5467e918a4fd0a1789a76ab02a80c05190fd9762",
-          "source_key": "telegram-dada-news2",
-          "source_name": "Telegram @dada_news2",
-          "category": "tech-it",
-          "hub": "global",
-          "hub_label": "글로벌 전문",
-          "section_label": "테크",
-          "language": "ko",
-          "title": "[뉴스핌] [AI상보] 9회 집중력 빛난 SSG, 롯데 6연패 몰고 단독 선두 등극",
-          "canonical_url": "https://www.newspim.com/news/view/20260405000160",
-          "published_at": "2026-04-05T12:37:12+00:00",
-          "title_hash": "b860bad98de0b2fd9bda71b661af55face239b5db0f6c35652acc0405abbbafd",
-          "keywords": [
-            "뉴스핌",
-            "ai상보",
-            "9회",
-            "집중력",
-            "빛난",
-            "ssg"
-          ]
-        },
-        {
-          "stable_key": "cc7b8dfcc41673a2d6dc6424f1f39b39183e8641dfd69d3d4f32fc9ded1128ca",
-          "source_key": "telegram-dada-news2",
-          "source_name": "Telegram @dada_news2",
-          "category": "tech-it",
-          "hub": "global",
-          "hub_label": "글로벌 전문",
-          "section_label": "테크",
-          "language": "ko",
-          "title": "[뉴스핌] [AI상보] KT, 삼성 2-0으로 꺾고 2연패 탈출...'좌타자 9명 상대' 보쉴리 6이닝 무실점",
-          "canonical_url": "https://www.newspim.com/news/view/20260405000146",
-          "published_at": "2026-04-05T12:35:16+00:00",
-          "title_hash": "74b10c52459589294446544d01459f2fbe49ac9c8c510812c36d4be177413b44",
-          "keywords": [
-            "뉴스핌",
-            "ai상보",
-            "kt",
-            "삼성",
-            "0으로",
-            "꺾고"
-          ]
-        },
-        {
-          "stable_key": "53d17e8032eaca08407910805205bed95cf5b5eeb8d591357dc64e054cf6a48b",
-          "source_key": "washingtonexaminer-feed",
-          "source_name": "Washington Examiner Feed",
-          "category": "us-politics",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "정치",
-          "language": "en",
-          "title": "Trump hails ‘Easter miracle’ after second F-15 pilot rescued from Iran",
-          "canonical_url": "https://www.washingtonexaminer.com/news/white-house/4516509/trump-easter-miracle-f15-pilot-rescued-iran",
-          "published_at": "2026-04-05T12:35:07+00:00",
-          "title_hash": "8ee1a39e28f7aaff2d455409e9d564de66d755e081b665b81bd223512a4ddac3",
-          "keywords": [
-            "trump",
-            "hails",
-            "easter",
-            "miracle",
-            "after",
-            "second"
-          ]
-        },
-        {
-          "stable_key": "8aa9d5b47f954cd508c92a89365f0d1320545383b788f052564620eb04bd94e9",
-          "source_key": "nyt-world-rss",
-          "source_name": "New York Times World",
-          "category": "us-world",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "세계",
-          "language": "en",
-          "title": "Iran Downing of Plane and Daring U.S. Rescue Leave Both Sides Emboldened",
-          "canonical_url": "https://www.nytimes.com/2026/04/05/world/middleeast/iran-us-rescue.html",
-          "published_at": "2026-04-05T12:33:42+00:00",
-          "title_hash": "91a00fa13e512a6d747b2e15e181167128ccded5c1668303035b5abada05073d",
-          "keywords": [
-            "iran",
-            "downing",
-            "plane",
-            "daring",
-            "rescue",
-            "leave"
-          ]
         }
       ],
       "kpi_series": [
         {
           "key": "articles",
           "label": "기사 수",
-          "value": 5266,
+          "value": 5272,
           "series": [
             22,
             53,
@@ -6689,7 +6677,7 @@
             615,
             1399,
             1204,
-            933
+            939
           ]
         },
         {
@@ -6710,13 +6698,13 @@
             615,
             1399,
             1204,
-            933
+            939
           ]
         },
         {
           "key": "repeats",
           "label": "반복 기사",
-          "value": 324,
+          "value": 325,
           "series": [
             22,
             53,
@@ -6731,7 +6719,7 @@
             615,
             1399,
             1204,
-            933
+            939
           ]
         },
         {
@@ -6752,7 +6740,7 @@
             615,
             1399,
             1204,
-            933
+            939
           ]
         }
       ],
@@ -6779,7 +6767,7 @@
             {
               "source_key": "nypost-feed",
               "name": "New York Post Feed",
-              "count": 151
+              "count": 152
             },
             {
               "source_key": "asiae-society-rss",
@@ -6799,7 +6787,7 @@
             {
               "source_key": "mk-society-rss",
               "name": "Maeil Business Society",
-              "count": 119
+              "count": 120
             }
           ]
         },
@@ -6812,28 +6800,28 @@
               "label": "정치",
               "hub": "us",
               "hub_label": "미국",
-              "count": 1090
+              "count": 1092
             },
             {
               "key": "us-technology",
               "label": "기술",
               "hub": "us",
               "hub_label": "미국",
-              "count": 868
-            },
-            {
-              "key": "kr-society",
-              "label": "사회",
-              "hub": "kr",
-              "hub_label": "대한민국",
-              "count": 520
+              "count": 869
             },
             {
               "key": "us-world",
               "label": "세계",
               "hub": "us",
               "hub_label": "미국",
-              "count": 520
+              "count": 522
+            },
+            {
+              "key": "kr-society",
+              "label": "사회",
+              "hub": "kr",
+              "hub_label": "대한민국",
+              "count": 521
             },
             {
               "key": "kr-economy",
@@ -6873,17 +6861,17 @@
             {
               "key": "trump",
               "label": "trump",
-              "count": 533
+              "count": 536
             },
             {
               "key": "iran",
               "label": "iran",
-              "count": 285
+              "count": 288
             },
             {
               "key": "war",
               "label": "war",
-              "count": 147
+              "count": 149
             },
             {
               "key": "new",
@@ -7192,17 +7180,17 @@
             },
             {
               "date": "2026-04-05",
-              "count": 933
+              "count": 939
             }
           ],
           "summary_items": [
             {
               "label": "최근 집계",
-              "value": 933
+              "value": 939
             },
             {
               "label": "일 평균",
-              "value": 76.3
+              "value": 76.4
             },
             {
               "label": "최대 일자",
@@ -7217,7 +7205,7 @@
             {
               "key": "us",
               "label": "미국",
-              "count": 3185,
+              "count": 3190,
               "series": [
                 {
                   "date": "2026-01-07",
@@ -7493,14 +7481,14 @@
                 },
                 {
                   "date": "2026-04-05",
-                  "count": 316
+                  "count": 321
                 }
               ]
             },
             {
               "key": "kr",
               "label": "대한민국",
-              "count": 1877,
+              "count": 1878,
               "series": [
                 {
                   "date": "2026-01-07",
@@ -7776,7 +7764,7 @@
                 },
                 {
                   "date": "2026-04-05",
-                  "count": 580
+                  "count": 581
                 }
               ]
             }
@@ -7784,11 +7772,11 @@
           "summary_items": [
             {
               "label": "미국",
-              "value": 3185
+              "value": 3190
             },
             {
               "label": "대한민국",
-              "value": 1877
+              "value": 1878
             }
           ]
         },
@@ -7799,7 +7787,7 @@
             {
               "key": "us-politics",
               "label": "정치",
-              "count": 1090,
+              "count": 1092,
               "series": [
                 {
                   "date": "2026-01-07",
@@ -8075,14 +8063,14 @@
                 },
                 {
                   "date": "2026-04-05",
-                  "count": 110
+                  "count": 112
                 }
               ]
             },
             {
               "key": "us-technology",
               "label": "기술",
-              "count": 868,
+              "count": 869,
               "series": [
                 {
                   "date": "2026-01-07",
@@ -8358,14 +8346,14 @@
                 },
                 {
                   "date": "2026-04-05",
-                  "count": 90
+                  "count": 91
                 }
               ]
             },
             {
-              "key": "kr-society",
-              "label": "사회",
-              "count": 520,
+              "key": "us-world",
+              "label": "세계",
+              "count": 522,
               "series": [
                 {
                   "date": "2026-01-07",
@@ -8489,7 +8477,7 @@
                 },
                 {
                   "date": "2026-02-24",
-                  "count": 0
+                  "count": 1
                 },
                 {
                   "date": "2026-02-26",
@@ -8549,99 +8537,99 @@
                 },
                 {
                   "date": "2026-03-13",
-                  "count": 0
+                  "count": 3
                 },
                 {
                   "date": "2026-03-14",
-                  "count": 0
+                  "count": 1
                 },
                 {
                   "date": "2026-03-15",
-                  "count": 0
+                  "count": 5
                 },
                 {
                   "date": "2026-03-16",
-                  "count": 0
+                  "count": 5
                 },
                 {
                   "date": "2026-03-17",
-                  "count": 0
+                  "count": 4
                 },
                 {
                   "date": "2026-03-18",
-                  "count": 0
+                  "count": 7
                 },
                 {
                   "date": "2026-03-19",
-                  "count": 0
+                  "count": 4
                 },
                 {
                   "date": "2026-03-20",
-                  "count": 0
+                  "count": 5
                 },
                 {
                   "date": "2026-03-21",
-                  "count": 0
+                  "count": 2
                 },
                 {
                   "date": "2026-03-22",
-                  "count": 0
+                  "count": 3
                 },
                 {
                   "date": "2026-03-23",
-                  "count": 0
+                  "count": 3
                 },
                 {
                   "date": "2026-03-24",
-                  "count": 0
+                  "count": 8
                 },
                 {
                   "date": "2026-03-25",
-                  "count": 0
+                  "count": 8
                 },
                 {
                   "date": "2026-03-26",
-                  "count": 0
+                  "count": 11
                 },
                 {
                   "date": "2026-03-27",
-                  "count": 0
+                  "count": 11
                 },
                 {
                   "date": "2026-03-28",
-                  "count": 0
+                  "count": 4
                 },
                 {
                   "date": "2026-03-29",
-                  "count": 0
+                  "count": 3
                 },
                 {
                   "date": "2026-03-30",
-                  "count": 0
+                  "count": 17
                 },
                 {
                   "date": "2026-03-31",
-                  "count": 0
+                  "count": 24
                 },
                 {
                   "date": "2026-04-01",
-                  "count": 0
+                  "count": 25
                 },
                 {
                   "date": "2026-04-02",
-                  "count": 14
+                  "count": 71
                 },
                 {
                   "date": "2026-04-03",
-                  "count": 152
+                  "count": 117
                 },
                 {
                   "date": "2026-04-04",
-                  "count": 132
+                  "count": 131
                 },
                 {
                   "date": "2026-04-05",
-                  "count": 222
+                  "count": 49
                 }
               ]
             }
@@ -8649,15 +8637,15 @@
           "summary_items": [
             {
               "label": "정치",
-              "value": 1090
+              "value": 1092
             },
             {
               "label": "기술",
-              "value": 868
+              "value": 869
             },
             {
-              "label": "사회",
-              "value": 520
+              "label": "세계",
+              "value": 522
             }
           ]
         }
@@ -8665,10 +8653,10 @@
     },
     "all": {
       "label": "All",
-      "article_count": 6791,
-      "unknown_time_count": 1367,
+      "article_count": 6811,
+      "unknown_time_count": 1381,
       "active_source_count": 131,
-      "repeated_title_count": 493,
+      "repeated_title_count": 503,
       "timeline": [
         {
           "date": "2016-11-02",
@@ -9100,21 +9088,21 @@
         },
         {
           "date": "2026-04-05",
-          "count": 947
+          "count": 953
         }
       ],
       "top_keywords": [
         {
           "keyword": "trump",
-          "count": 571
+          "count": 574
         },
         {
           "keyword": "iran",
-          "count": 302
+          "count": 305
         },
         {
           "keyword": "war",
-          "count": 158
+          "count": 160
         },
         {
           "keyword": "us",
@@ -9145,11 +9133,11 @@
           "count": 92
         },
         {
-          "keyword": "over",
-          "count": 79
+          "keyword": "대통령",
+          "count": 80
         },
         {
-          "keyword": "대통령",
+          "keyword": "over",
           "count": 79
         }
       ],
@@ -9157,7 +9145,7 @@
         {
           "source_key": "naver-kr-society",
           "name": "NAVER News Search",
-          "count": 649
+          "count": 657
         },
         {
           "source_key": "semafor-feed",
@@ -9177,7 +9165,7 @@
         {
           "source_key": "nypost-feed",
           "name": "New York Post Feed",
-          "count": 151
+          "count": 152
         },
         {
           "source_key": "asiae-society-rss",
@@ -9197,7 +9185,7 @@
         {
           "source_key": "mk-society-rss",
           "name": "Maeil Business Society",
-          "count": 119
+          "count": 120
         },
         {
           "source_key": "asiae-economy-rss",
@@ -9219,12 +9207,12 @@
         {
           "key": "us",
           "label": "미국",
-          "count": 3638
+          "count": 3643
         },
         {
           "key": "kr",
           "label": "대한민국",
-          "count": 2919
+          "count": 2934
         },
         {
           "key": "global",
@@ -9238,35 +9226,35 @@
           "label": "사회",
           "hub": "kr",
           "hub_label": "대한민국",
-          "count": 1248
+          "count": 1257
         },
         {
           "key": "us-politics",
           "label": "정치",
           "hub": "us",
           "hub_label": "미국",
-          "count": 1206
+          "count": 1208
         },
         {
           "key": "us-technology",
           "label": "기술",
           "hub": "us",
           "hub_label": "미국",
-          "count": 999
+          "count": 1000
         },
         {
           "key": "kr-economy",
           "label": "경제",
           "hub": "kr",
           "hub_label": "대한민국",
-          "count": 651
+          "count": 652
         },
         {
           "key": "us-world",
           "label": "세계",
           "hub": "us",
           "hub_label": "미국",
-          "count": 573
+          "count": 575
         },
         {
           "key": "us-economy",
@@ -9280,7 +9268,7 @@
           "label": "정치",
           "hub": "kr",
           "hub_label": "대한민국",
-          "count": 434
+          "count": 438
         },
         {
           "key": "us-markets",
@@ -9294,7 +9282,7 @@
           "label": "문화",
           "hub": "kr",
           "hub_label": "대한민국",
-          "count": 295
+          "count": 296
         },
         {
           "key": "kr-sports",
@@ -9321,11 +9309,11 @@
       "language_counts": [
         {
           "language": "en",
-          "count": 3812
+          "count": 3817
         },
         {
           "language": "ko",
-          "count": 2979
+          "count": 2994
         }
       ],
       "repeated_titles": [
@@ -9511,6 +9499,135 @@
         }
       ],
       "recent_samples": [
+        {
+          "stable_key": "fb41aa25eec2012bc2bfc1126de06689260f80d4f9d4cc0424132787b92ae80b",
+          "source_key": "msnbc-feed",
+          "source_name": "MSNBC Feed",
+          "category": "us-politics",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "정치",
+          "language": "en",
+          "title": "Trump’s f-bomb Easter message to Iran: Open the strait or ‘you’ll be living in Hell’",
+          "canonical_url": "https://www.ms.now/news/trump-f-bomb-easter-iran-airman",
+          "published_at": "2026-04-05T13:15:43+00:00",
+          "title_hash": "91efd1d310894c9e8376330d68b18d76ac9ca9e7aa2890d3237f493c7c78f253",
+          "keywords": [
+            "trump",
+            "bomb",
+            "easter",
+            "message",
+            "iran",
+            "open"
+          ]
+        },
+        {
+          "stable_key": "d2f112ea61fb776bbc1ec4194d36461884e49a31983306a891cc09658cc41792",
+          "source_key": "nypost-feed",
+          "source_name": "New York Post Feed",
+          "category": "us-technology",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "기술",
+          "language": "en",
+          "title": "Hawaii’s most active volcano Kilauea brewing as experts forecast 44th eruption in coming days",
+          "canonical_url": "https://nypost.com/2026/04/05/us-news/hawaiis-kilauea-volcano-brewing-as-experts-forecast-44th-eruption",
+          "published_at": "2026-04-05T13:15:03+00:00",
+          "title_hash": "3cc3ae68bd32e3731fe3684a0474f8f7a7f3f49ff13484e58b46273a5a8e8cc6",
+          "keywords": [
+            "hawaii",
+            "most",
+            "active",
+            "volcano",
+            "kilauea",
+            "brewing"
+          ]
+        },
+        {
+          "stable_key": "06b2e03c5986f092e4ae988f7ef786c9457341cba9f4e017478dc472a824516d",
+          "source_key": "cbs-us-rss",
+          "source_name": "CBS News US",
+          "category": "us-politics",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "정치",
+          "language": "en",
+          "title": "Almanac: April 5",
+          "canonical_url": "https://www.cbsnews.com/video/almanac-april-5-2026",
+          "published_at": "2026-04-05T13:14:08+00:00",
+          "title_hash": "91b349493fcdfb88a7595224a68c47c6ff9364bad3978c5f5ac15560c475aafb",
+          "keywords": [
+            "almanac",
+            "april",
+            "almanac april"
+          ]
+        },
+        {
+          "stable_key": "b78d14f17b17ce70033c1622195f38feb2df647d20e2fbc3aee20a0cf9fb3adf",
+          "source_key": "cbs-world-rss",
+          "source_name": "CBS News World",
+          "category": "us-world",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "세계",
+          "language": "en",
+          "title": "U.S. drawn deeper into war, as Trump calls for Iran to accept a deal",
+          "canonical_url": "https://www.cbsnews.com/news/iran-war-nuclear-program-trump-threats",
+          "published_at": "2026-04-05T13:13:13+00:00",
+          "title_hash": "55a71bab69d57c724e7ad40f5d08d429ed7bba43b4ba32d21959ebcd4b085ff7",
+          "keywords": [
+            "drawn",
+            "deeper",
+            "war",
+            "trump",
+            "calls",
+            "iran"
+          ]
+        },
+        {
+          "stable_key": "dd2f01e60fa2c9e7c9155e7ef900980b2bd17d0859e476e4a584efc31399cf29",
+          "source_key": "cbs-world-rss",
+          "source_name": "CBS News World",
+          "category": "us-world",
+          "hub": "us",
+          "hub_label": "미국",
+          "section_label": "세계",
+          "language": "en",
+          "title": "U.S. drawn deeper into war, as Trump calls for Iran to accept a deal",
+          "canonical_url": "https://www.cbsnews.com/video/u-s-drawn-deeper-into-war-as-trump-calls-for-iran-to-accept-a-deal",
+          "published_at": "2026-04-05T13:12:17+00:00",
+          "title_hash": "55a71bab69d57c724e7ad40f5d08d429ed7bba43b4ba32d21959ebcd4b085ff7",
+          "keywords": [
+            "drawn",
+            "deeper",
+            "war",
+            "trump",
+            "calls",
+            "iran"
+          ]
+        },
+        {
+          "stable_key": "673ec1d91b973c3629e177ae139725cb94f827d54e077915b13051445cfa1c75",
+          "source_key": "mk-society-rss",
+          "source_name": "Maeil Business Society",
+          "category": "kr-society",
+          "hub": "kr",
+          "hub_label": "대한민국",
+          "section_label": "사회",
+          "language": "ko",
+          "title": "“몸부림이라도 쳐보겠다”…국힘 이정현, 전남광주 통합시장 출마 선언",
+          "canonical_url": "https://www.mk.co.kr/news/politics/12008540",
+          "published_at": "2026-04-05T13:11:28+00:00",
+          "title_hash": "c05dd188a9b7c3d87f0ecf9cb26ac5696ab99e46870ab20cb456cf31f3f3cb51",
+          "keywords": [
+            "몸부림이라도",
+            "쳐보겠다",
+            "국힘",
+            "이정현",
+            "전남광주",
+            "통합시장"
+          ]
+        },
         {
           "stable_key": "b64b14ac13cadc777dff64d25950d48cf93e9fce8a398bb0e3cfc30882899659",
           "source_key": "mk-sports-rss",
@@ -10038,145 +10155,13 @@
             "무실점",
             "kia"
           ]
-        },
-        {
-          "stable_key": "5f03b8ec9372b8fa95aeddc38e10fe15fc25f5e4faa6a0fa4a70a62d4c474b24",
-          "source_key": "cnbc-world-rss",
-          "source_name": "CNBC World",
-          "category": "us-world",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "세계",
-          "language": "en",
-          "title": "'Silent killers': How AI start-ups are trying to solve one of the retail industry's biggest problems",
-          "canonical_url": "https://www.cnbc.com/2026/04/05/ai-retail-start-ups-virtual-try-on-tech-margins.html",
-          "published_at": "2026-04-05T12:37:57+00:00",
-          "title_hash": "86dd5b548d0ed8c152d335b57bb30077eea0b07198599f122ed6230a4cf4ab6c",
-          "keywords": [
-            "silent",
-            "killers",
-            "how",
-            "ai",
-            "start",
-            "ups"
-          ]
-        },
-        {
-          "stable_key": "4382dcc73d752fe325de3dc02209e42f99487099a1ea67fabf31db2c8c51f1c5",
-          "source_key": "forbes-innovation-rss",
-          "source_name": "Forbes Innovation",
-          "category": "us-technology",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "기술",
-          "language": "en",
-          "title": "Samsung’s Android Update—Bad News For Galaxy S26 Owners",
-          "canonical_url": "https://www.forbes.com/sites/zakdoffman/2026/04/05/samsungs-android-update-bad-news-for-galaxy-s26-owners",
-          "published_at": "2026-04-05T12:37:18+00:00",
-          "title_hash": "f265b1d28dd208d50c319b0ffbf64ddbaddc9e368d7e9e142c7ba48bb11f6f2a",
-          "keywords": [
-            "samsung",
-            "android",
-            "bad",
-            "galaxy",
-            "s26",
-            "owners"
-          ]
-        },
-        {
-          "stable_key": "afc725804e9bd7b9972407dc5467e918a4fd0a1789a76ab02a80c05190fd9762",
-          "source_key": "telegram-dada-news2",
-          "source_name": "Telegram @dada_news2",
-          "category": "tech-it",
-          "hub": "global",
-          "hub_label": "글로벌 전문",
-          "section_label": "테크",
-          "language": "ko",
-          "title": "[뉴스핌] [AI상보] 9회 집중력 빛난 SSG, 롯데 6연패 몰고 단독 선두 등극",
-          "canonical_url": "https://www.newspim.com/news/view/20260405000160",
-          "published_at": "2026-04-05T12:37:12+00:00",
-          "title_hash": "b860bad98de0b2fd9bda71b661af55face239b5db0f6c35652acc0405abbbafd",
-          "keywords": [
-            "뉴스핌",
-            "ai상보",
-            "9회",
-            "집중력",
-            "빛난",
-            "ssg"
-          ]
-        },
-        {
-          "stable_key": "cc7b8dfcc41673a2d6dc6424f1f39b39183e8641dfd69d3d4f32fc9ded1128ca",
-          "source_key": "telegram-dada-news2",
-          "source_name": "Telegram @dada_news2",
-          "category": "tech-it",
-          "hub": "global",
-          "hub_label": "글로벌 전문",
-          "section_label": "테크",
-          "language": "ko",
-          "title": "[뉴스핌] [AI상보] KT, 삼성 2-0으로 꺾고 2연패 탈출...'좌타자 9명 상대' 보쉴리 6이닝 무실점",
-          "canonical_url": "https://www.newspim.com/news/view/20260405000146",
-          "published_at": "2026-04-05T12:35:16+00:00",
-          "title_hash": "74b10c52459589294446544d01459f2fbe49ac9c8c510812c36d4be177413b44",
-          "keywords": [
-            "뉴스핌",
-            "ai상보",
-            "kt",
-            "삼성",
-            "0으로",
-            "꺾고"
-          ]
-        },
-        {
-          "stable_key": "53d17e8032eaca08407910805205bed95cf5b5eeb8d591357dc64e054cf6a48b",
-          "source_key": "washingtonexaminer-feed",
-          "source_name": "Washington Examiner Feed",
-          "category": "us-politics",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "정치",
-          "language": "en",
-          "title": "Trump hails ‘Easter miracle’ after second F-15 pilot rescued from Iran",
-          "canonical_url": "https://www.washingtonexaminer.com/news/white-house/4516509/trump-easter-miracle-f15-pilot-rescued-iran",
-          "published_at": "2026-04-05T12:35:07+00:00",
-          "title_hash": "8ee1a39e28f7aaff2d455409e9d564de66d755e081b665b81bd223512a4ddac3",
-          "keywords": [
-            "trump",
-            "hails",
-            "easter",
-            "miracle",
-            "after",
-            "second"
-          ]
-        },
-        {
-          "stable_key": "8aa9d5b47f954cd508c92a89365f0d1320545383b788f052564620eb04bd94e9",
-          "source_key": "nyt-world-rss",
-          "source_name": "New York Times World",
-          "category": "us-world",
-          "hub": "us",
-          "hub_label": "미국",
-          "section_label": "세계",
-          "language": "en",
-          "title": "Iran Downing of Plane and Daring U.S. Rescue Leave Both Sides Emboldened",
-          "canonical_url": "https://www.nytimes.com/2026/04/05/world/middleeast/iran-us-rescue.html",
-          "published_at": "2026-04-05T12:33:42+00:00",
-          "title_hash": "91a00fa13e512a6d747b2e15e181167128ccded5c1668303035b5abada05073d",
-          "keywords": [
-            "iran",
-            "downing",
-            "plane",
-            "daring",
-            "rescue",
-            "leave"
-          ]
         }
       ],
       "kpi_series": [
         {
           "key": "articles",
           "label": "기사 수",
-          "value": 6791,
+          "value": 6811,
           "series": [
             23,
             55,
@@ -10191,7 +10176,7 @@
             621,
             1415,
             1212,
-            947
+            953
           ]
         },
         {
@@ -10212,13 +10197,13 @@
             621,
             1415,
             1212,
-            947
+            953
           ]
         },
         {
           "key": "repeats",
           "label": "반복 기사",
-          "value": 493,
+          "value": 503,
           "series": [
             23,
             55,
@@ -10233,13 +10218,13 @@
             621,
             1415,
             1212,
-            947
+            953
           ]
         },
         {
           "key": "unknown",
           "label": "시간 미상",
-          "value": 1367,
+          "value": 1381,
           "series": [
             23,
             55,
@@ -10254,7 +10239,7 @@
             621,
             1415,
             1212,
-            947
+            953
           ]
         }
       ],
@@ -10266,7 +10251,7 @@
             {
               "source_key": "naver-kr-society",
               "name": "NAVER News Search",
-              "count": 649
+              "count": 657
             },
             {
               "source_key": "semafor-feed",
@@ -10286,7 +10271,7 @@
             {
               "source_key": "nypost-feed",
               "name": "New York Post Feed",
-              "count": 151
+              "count": 152
             },
             {
               "source_key": "asiae-society-rss",
@@ -10314,35 +10299,35 @@
               "label": "사회",
               "hub": "kr",
               "hub_label": "대한민국",
-              "count": 1248
+              "count": 1257
             },
             {
               "key": "us-politics",
               "label": "정치",
               "hub": "us",
               "hub_label": "미국",
-              "count": 1206
+              "count": 1208
             },
             {
               "key": "us-technology",
               "label": "기술",
               "hub": "us",
               "hub_label": "미국",
-              "count": 999
+              "count": 1000
             },
             {
               "key": "kr-economy",
               "label": "경제",
               "hub": "kr",
               "hub_label": "대한민국",
-              "count": 651
+              "count": 652
             },
             {
               "key": "us-world",
               "label": "세계",
               "hub": "us",
               "hub_label": "미국",
-              "count": 573
+              "count": 575
             },
             {
               "key": "us-economy",
@@ -10356,7 +10341,7 @@
               "label": "정치",
               "hub": "kr",
               "hub_label": "대한민국",
-              "count": 434
+              "count": 438
             },
             {
               "key": "us-markets",
@@ -10375,17 +10360,17 @@
             {
               "key": "trump",
               "label": "trump",
-              "count": 571
+              "count": 574
             },
             {
               "key": "iran",
               "label": "iran",
-              "count": 302
+              "count": 305
             },
             {
               "key": "war",
               "label": "war",
-              "count": 158
+              "count": 160
             },
             {
               "key": "us",
@@ -10850,17 +10835,17 @@
             },
             {
               "date": "2026-04-05",
-              "count": 947
+              "count": 953
             }
           ],
           "summary_items": [
             {
               "label": "최근 집계",
-              "value": 947
+              "value": 953
             },
             {
               "label": "일 평균",
-              "value": 50.2
+              "value": 50.3
             },
             {
               "label": "최대 일자",
@@ -10875,7 +10860,7 @@
             {
               "key": "us",
               "label": "미국",
-              "count": 3638,
+              "count": 3643,
               "series": [
                 {
                   "date": "2016-11-02",
@@ -11307,14 +11292,14 @@
                 },
                 {
                   "date": "2026-04-05",
-                  "count": 316
+                  "count": 321
                 }
               ]
             },
             {
               "key": "kr",
               "label": "대한민국",
-              "count": 2919,
+              "count": 2934,
               "series": [
                 {
                   "date": "2016-11-02",
@@ -11746,7 +11731,7 @@
                 },
                 {
                   "date": "2026-04-05",
-                  "count": 580
+                  "count": 581
                 }
               ]
             }
@@ -11754,11 +11739,11 @@
           "summary_items": [
             {
               "label": "미국",
-              "value": 3638
+              "value": 3643
             },
             {
               "label": "대한민국",
-              "value": 2919
+              "value": 2934
             }
           ]
         },
@@ -11769,7 +11754,7 @@
             {
               "key": "kr-society",
               "label": "사회",
-              "count": 1248,
+              "count": 1257,
               "series": [
                 {
                   "date": "2016-11-02",
@@ -12201,14 +12186,14 @@
                 },
                 {
                   "date": "2026-04-05",
-                  "count": 222
+                  "count": 223
                 }
               ]
             },
             {
               "key": "us-politics",
               "label": "정치",
-              "count": 1206,
+              "count": 1208,
               "series": [
                 {
                   "date": "2016-11-02",
@@ -12640,14 +12625,14 @@
                 },
                 {
                   "date": "2026-04-05",
-                  "count": 110
+                  "count": 112
                 }
               ]
             },
             {
               "key": "us-technology",
               "label": "기술",
-              "count": 999,
+              "count": 1000,
               "series": [
                 {
                   "date": "2016-11-02",
@@ -13079,7 +13064,7 @@
                 },
                 {
                   "date": "2026-04-05",
-                  "count": 90
+                  "count": 91
                 }
               ]
             }
@@ -13087,15 +13072,15 @@
           "summary_items": [
             {
               "label": "사회",
-              "value": 1248
+              "value": 1257
             },
             {
               "label": "정치",
-              "value": 1206
+              "value": 1208
             },
             {
               "label": "기술",
-              "value": 999
+              "value": 1000
             }
           ]
         }
