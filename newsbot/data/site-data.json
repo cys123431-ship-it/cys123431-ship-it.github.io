@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-04-05T13:48:20.642596+00:00",
+  "generated_at": "2026-04-05T14:05:38.506069+00:00",
   "article_count": 2000,
-  "removed_article_count": 909,
+  "removed_article_count": 920,
   "removed_articles_log_path": "data/removed-articles.txt",
   "page_size": 25,
   "feed_page_size": 12,
@@ -14,7 +14,7 @@
       "label": "한국",
       "description": "한국 주요 신문사와 방송사 기사 흐름을 정치, 경제, 사회, 문화, 지역, 스포츠로 나눠 모아봅니다.",
       "order": 10,
-      "count": 853,
+      "count": 849,
       "categories": [
         {
           "key": "kr-politics",
@@ -32,7 +32,7 @@
           "hub_label": "대한민국",
           "description": "",
           "order": 20,
-          "count": 278
+          "count": 274
         },
         {
           "key": "kr-society",
@@ -41,7 +41,7 @@
           "hub_label": "대한민국",
           "description": "",
           "order": 30,
-          "count": 303
+          "count": 304
         },
         {
           "key": "kr-culture",
@@ -50,7 +50,7 @@
           "hub_label": "대한민국",
           "description": "",
           "order": 40,
-          "count": 62
+          "count": 61
         },
         {
           "key": "kr-local",
@@ -77,7 +77,7 @@
       "label": "미국",
       "description": "미국 주요 언론사와 방송사 보도를 정치, 경제, 시장, 세계, 기술 흐름으로 묶습니다.",
       "order": 20,
-      "count": 1059,
+      "count": 1063,
       "categories": [
         {
           "key": "us-politics",
@@ -86,7 +86,7 @@
           "hub_label": "미국",
           "description": "",
           "order": 10,
-          "count": 361
+          "count": 357
         },
         {
           "key": "us-economy",
@@ -95,7 +95,7 @@
           "hub_label": "미국",
           "description": "",
           "order": 20,
-          "count": 123
+          "count": 126
         },
         {
           "key": "us-markets",
@@ -122,7 +122,7 @@
           "hub_label": "미국",
           "description": "",
           "order": 50,
-          "count": 295
+          "count": 300
         }
       ]
     },
@@ -140,7 +140,7 @@
           "hub_label": "글로벌 전문",
           "description": "",
           "order": 10,
-          "count": 32
+          "count": 33
         },
         {
           "key": "tech-it",
@@ -149,7 +149,7 @@
           "hub_label": "글로벌 전문",
           "description": "",
           "order": 20,
-          "count": 54
+          "count": 53
         },
         {
           "key": "military",
@@ -171,7 +171,7 @@
       "hub_label": "글로벌 전문",
       "description": "",
       "order": 10,
-      "count": 32
+      "count": 33
     },
     {
       "key": "tech-it",
@@ -180,7 +180,7 @@
       "hub_label": "글로벌 전문",
       "description": "",
       "order": 20,
-      "count": 54
+      "count": 53
     },
     {
       "key": "military",
@@ -207,7 +207,7 @@
       "hub_label": "대한민국",
       "description": "",
       "order": 20,
-      "count": 278
+      "count": 274
     },
     {
       "key": "kr-society",
@@ -216,7 +216,7 @@
       "hub_label": "대한민국",
       "description": "",
       "order": 30,
-      "count": 303
+      "count": 304
     },
     {
       "key": "kr-culture",
@@ -225,7 +225,7 @@
       "hub_label": "대한민국",
       "description": "",
       "order": 40,
-      "count": 62
+      "count": 61
     },
     {
       "key": "kr-local",
@@ -252,7 +252,7 @@
       "hub_label": "미국",
       "description": "",
       "order": 10,
-      "count": 361
+      "count": 357
     },
     {
       "key": "us-economy",
@@ -261,7 +261,7 @@
       "hub_label": "미국",
       "description": "",
       "order": 20,
-      "count": 123
+      "count": 126
     },
     {
       "key": "us-markets",
@@ -288,7 +288,7 @@
       "hub_label": "미국",
       "description": "",
       "order": 50,
-      "count": 295
+      "count": 300
     }
   ],
   "sources": [
@@ -296,7 +296,7 @@
       "source_key": "nypost-feed",
       "name": "New York Post Feed",
       "category": null,
-      "count": 149,
+      "count": 153,
       "hub": "global",
       "section": null,
       "section_label": "자동 분류",
@@ -326,7 +326,7 @@
       "source_key": "mk-society-rss",
       "name": "Maeil Business Society",
       "category": "kr-society",
-      "count": 83,
+      "count": 84,
       "hub": "kr",
       "section": "kr-society",
       "section_label": "사회",
@@ -336,7 +336,7 @@
       "source_key": "newsweek-feed",
       "name": "Newsweek Feed",
       "category": null,
-      "count": 80,
+      "count": 81,
       "hub": "global",
       "section": null,
       "section_label": "자동 분류",
@@ -353,6 +353,16 @@
       "publisher_group": "newspaper"
     },
     {
+      "source_key": "forbes-business-rss",
+      "name": "Forbes Business",
+      "category": "us-economy",
+      "count": 62,
+      "hub": "us",
+      "section": "us-economy",
+      "section_label": "경제",
+      "publisher_group": "business"
+    },
+    {
       "source_key": "donga-society-rss",
       "name": "DongA Society",
       "category": "kr-society",
@@ -361,16 +371,6 @@
       "section": "kr-society",
       "section_label": "사회",
       "publisher_group": "newspaper"
-    },
-    {
-      "source_key": "forbes-business-rss",
-      "name": "Forbes Business",
-      "category": "us-economy",
-      "count": 59,
-      "hub": "us",
-      "section": "us-economy",
-      "section_label": "경제",
-      "publisher_group": "business"
     },
     {
       "source_key": "sbs-society-rss",
@@ -393,16 +393,6 @@
       "publisher_group": "internet"
     },
     {
-      "source_key": "breitbart-feed",
-      "name": "Breitbart Feed",
-      "category": null,
-      "count": 49,
-      "hub": "global",
-      "section": null,
-      "section_label": "자동 분류",
-      "publisher_group": "internet"
-    },
-    {
       "source_key": "mk-sports-rss",
       "name": "Maeil Business Sports",
       "category": "kr-sports",
@@ -413,10 +403,10 @@
       "publisher_group": "newspaper"
     },
     {
-      "source_key": "thehill-feed",
-      "name": "The Hill Feed",
+      "source_key": "breitbart-feed",
+      "name": "Breitbart Feed",
       "category": null,
-      "count": 47,
+      "count": 48,
       "hub": "global",
       "section": null,
       "section_label": "자동 분류",
@@ -426,11 +416,21 @@
       "source_key": "forbes-innovation-rss",
       "name": "Forbes Innovation",
       "category": "us-technology",
-      "count": 46,
+      "count": 47,
       "hub": "us",
       "section": "us-technology",
       "section_label": "기술",
       "publisher_group": "business"
+    },
+    {
+      "source_key": "thehill-feed",
+      "name": "The Hill Feed",
+      "category": null,
+      "count": 47,
+      "hub": "global",
+      "section": null,
+      "section_label": "자동 분류",
+      "publisher_group": "internet"
     },
     {
       "source_key": "khan-economy-rss",
@@ -463,16 +463,6 @@
       "publisher_group": "social"
     },
     {
-      "source_key": "donga-economy-rss",
-      "name": "DongA Economy",
-      "category": "kr-economy",
-      "count": 41,
-      "hub": "kr",
-      "section": "kr-economy",
-      "section_label": "경제",
-      "publisher_group": "newspaper"
-    },
-    {
       "source_key": "khan-society-rss",
       "name": "Kyunghyang Society",
       "category": "kr-society",
@@ -486,11 +476,21 @@
       "source_key": "fortune-feed",
       "name": "Fortune Feed",
       "category": null,
-      "count": 39,
+      "count": 38,
       "hub": "global",
       "section": null,
       "section_label": "자동 분류",
       "publisher_group": "business"
+    },
+    {
+      "source_key": "donga-economy-rss",
+      "name": "DongA Economy",
+      "category": "kr-economy",
+      "count": 37,
+      "hub": "kr",
+      "section": "kr-economy",
+      "section_label": "경제",
+      "publisher_group": "newspaper"
     },
     {
       "source_key": "washingtonexaminer-feed",
@@ -613,6 +613,16 @@
       "publisher_group": "newspaper"
     },
     {
+      "source_key": "bloomberg-markets-rss",
+      "name": "Bloomberg Markets",
+      "category": "us-markets",
+      "count": 22,
+      "hub": "us",
+      "section": "us-markets",
+      "section_label": "시장",
+      "publisher_group": "business"
+    },
+    {
       "source_key": "sbs-economy-rss",
       "name": "SBS Economy",
       "category": "kr-economy",
@@ -621,16 +631,6 @@
       "section": "kr-economy",
       "section_label": "경제",
       "publisher_group": "broadcast"
-    },
-    {
-      "source_key": "bloomberg-markets-rss",
-      "name": "Bloomberg Markets",
-      "category": "us-markets",
-      "count": 21,
-      "hub": "us",
-      "section": "us-markets",
-      "section_label": "시장",
-      "publisher_group": "business"
     },
     {
       "source_key": "nyt-us-rss",
@@ -663,6 +663,16 @@
       "publisher_group": "newspaper"
     },
     {
+      "source_key": "cbs-world-rss",
+      "name": "CBS News World",
+      "category": "us-world",
+      "count": 17,
+      "hub": "us",
+      "section": "us-world",
+      "section_label": "세계",
+      "publisher_group": "broadcast"
+    },
+    {
       "source_key": "cointelegraph-rss",
       "name": "Cointelegraph",
       "category": "crypto",
@@ -673,26 +683,6 @@
       "publisher_group": "internet"
     },
     {
-      "source_key": "cbs-world-rss",
-      "name": "CBS News World",
-      "category": "us-world",
-      "count": 16,
-      "hub": "us",
-      "section": "us-world",
-      "section_label": "세계",
-      "publisher_group": "broadcast"
-    },
-    {
-      "source_key": "fox-politics-rss",
-      "name": "Fox News Politics",
-      "category": "us-politics",
-      "count": 16,
-      "hub": "us",
-      "section": "us-politics",
-      "section_label": "정치",
-      "publisher_group": "broadcast"
-    },
-    {
       "source_key": "fox-us-rss",
       "name": "Fox News US",
       "category": "us-politics",
@@ -701,6 +691,26 @@
       "section": "us-politics",
       "section_label": "정치",
       "publisher_group": "broadcast"
+    },
+    {
+      "source_key": "fox-politics-rss",
+      "name": "Fox News Politics",
+      "category": "us-politics",
+      "count": 15,
+      "hub": "us",
+      "section": "us-politics",
+      "section_label": "정치",
+      "publisher_group": "broadcast"
+    },
+    {
+      "source_key": "coindesk-rss",
+      "name": "CoinDesk",
+      "category": "crypto",
+      "count": 13,
+      "hub": "global",
+      "section": "crypto",
+      "section_label": "코인",
+      "publisher_group": "internet"
     },
     {
       "source_key": "wired-rss",
@@ -723,24 +733,14 @@
       "publisher_group": "broadcast"
     },
     {
-      "source_key": "coindesk-rss",
-      "name": "CoinDesk",
-      "category": "crypto",
+      "source_key": "verge-rss",
+      "name": "The Verge RSS",
+      "category": "us-technology",
       "count": 12,
-      "hub": "global",
-      "section": "crypto",
-      "section_label": "코인",
+      "hub": "us",
+      "section": "us-technology",
+      "section_label": "기술",
       "publisher_group": "internet"
-    },
-    {
-      "source_key": "msnbc-feed",
-      "name": "MSNBC Feed",
-      "category": null,
-      "count": 12,
-      "hub": "global",
-      "section": null,
-      "section_label": "자동 분류",
-      "publisher_group": "broadcast"
     },
     {
       "source_key": "npr-top-rss",
@@ -753,24 +753,14 @@
       "publisher_group": "public-media"
     },
     {
-      "source_key": "verge-rss",
-      "name": "The Verge RSS",
-      "category": "us-technology",
+      "source_key": "msnbc-feed",
+      "name": "MSNBC Feed",
+      "category": null,
       "count": 11,
-      "hub": "us",
-      "section": "us-technology",
-      "section_label": "기술",
-      "publisher_group": "internet"
-    },
-    {
-      "source_key": "asiae-culture-rss",
-      "name": "Asiae Life",
-      "category": "kr-culture",
-      "count": 10,
-      "hub": "kr",
-      "section": "kr-culture",
-      "section_label": "문화",
-      "publisher_group": "newspaper"
+      "hub": "global",
+      "section": null,
+      "section_label": "자동 분류",
+      "publisher_group": "broadcast"
     },
     {
       "source_key": "abc-us-rss",
@@ -781,6 +771,16 @@
       "section": "us-politics",
       "section_label": "정치",
       "publisher_group": "broadcast"
+    },
+    {
+      "source_key": "asiae-culture-rss",
+      "name": "Asiae Life",
+      "category": "kr-culture",
+      "count": 9,
+      "hub": "kr",
+      "section": "kr-culture",
+      "section_label": "문화",
+      "publisher_group": "newspaper"
     },
     {
       "source_key": "huffpost-politics-rss",
@@ -843,16 +843,6 @@
       "publisher_group": "newspaper"
     },
     {
-      "source_key": "pbs-world-rss",
-      "name": "PBS NewsHour World",
-      "category": "us-world",
-      "count": 6,
-      "hub": "us",
-      "section": "us-world",
-      "section_label": "세계",
-      "publisher_group": "public-media"
-    },
-    {
       "source_key": "khan-local-rss",
       "name": "Kyunghyang Local",
       "category": "kr-local",
@@ -861,16 +851,6 @@
       "section": "kr-local",
       "section_label": "지역",
       "publisher_group": "newspaper"
-    },
-    {
-      "source_key": "arstechnica-rss",
-      "name": "Ars Technica",
-      "category": "tech-it",
-      "count": 6,
-      "hub": "global",
-      "section": "tech-it",
-      "section_label": "테크",
-      "publisher_group": "internet"
     },
     {
       "source_key": "telegram-news-kor",
@@ -903,13 +883,13 @@
       "publisher_group": "public-media"
     },
     {
-      "source_key": "pbs-politics-rss",
-      "name": "PBS NewsHour Politics",
-      "category": "us-politics",
+      "source_key": "pbs-world-rss",
+      "name": "PBS NewsHour World",
+      "category": "us-world",
       "count": 5,
       "hub": "us",
-      "section": "us-politics",
-      "section_label": "정치",
+      "section": "us-world",
+      "section_label": "세계",
       "publisher_group": "public-media"
     },
     {
@@ -921,6 +901,16 @@
       "section": "kr-sports",
       "section_label": "스포츠",
       "publisher_group": "newspaper"
+    },
+    {
+      "source_key": "arstechnica-rss",
+      "name": "Ars Technica",
+      "category": "tech-it",
+      "count": 5,
+      "hub": "global",
+      "section": "tech-it",
+      "section_label": "테크",
+      "publisher_group": "internet"
     },
     {
       "source_key": "axios-feed",
@@ -1035,6 +1025,16 @@
     {
       "source_key": "npr-politics-rss",
       "name": "NPR Politics",
+      "category": "us-politics",
+      "count": 2,
+      "hub": "us",
+      "section": "us-politics",
+      "section_label": "정치",
+      "publisher_group": "public-media"
+    },
+    {
+      "source_key": "pbs-politics-rss",
+      "name": "PBS NewsHour Politics",
       "category": "us-politics",
       "count": 2,
       "hub": "us",
@@ -1172,7 +1172,7 @@
       "status": "ok",
       "fetched_count": 25,
       "accepted_count": 18,
-      "published_count": 12,
+      "published_count": 13,
       "message": null,
       "error": null
     },
@@ -1220,7 +1220,7 @@
       "status": "ok",
       "fetched_count": 20,
       "accepted_count": 18,
-      "published_count": 6,
+      "published_count": 5,
       "message": null,
       "error": null
     },
@@ -1484,7 +1484,7 @@
       "status": "ok",
       "fetched_count": 25,
       "accepted_count": 18,
-      "published_count": 16,
+      "published_count": 15,
       "message": null,
       "error": null
     },
@@ -1568,7 +1568,7 @@
       "status": "ok",
       "fetched_count": 30,
       "accepted_count": 18,
-      "published_count": 16,
+      "published_count": 17,
       "message": null,
       "error": null
     },
@@ -1616,7 +1616,7 @@
       "status": "ok",
       "fetched_count": 10,
       "accepted_count": 10,
-      "published_count": 12,
+      "published_count": 11,
       "message": null,
       "error": null
     },
@@ -1664,7 +1664,7 @@
       "status": "ok",
       "fetched_count": 30,
       "accepted_count": 18,
-      "published_count": 21,
+      "published_count": 22,
       "message": null,
       "error": null
     },
@@ -1686,7 +1686,7 @@
       "category": "us-politics",
       "trust_level": 76,
       "status": "ok",
-      "fetched_count": 40,
+      "fetched_count": 45,
       "accepted_count": 18,
       "published_count": 8,
       "message": null,
@@ -1699,8 +1699,8 @@
       "trust_level": 70,
       "status": "ok",
       "fetched_count": 23,
-      "accepted_count": 8,
-      "published_count": 149,
+      "accepted_count": 9,
+      "published_count": 153,
       "message": null,
       "error": null
     },
@@ -1820,7 +1820,7 @@
       "status": "ok",
       "fetched_count": 20,
       "accepted_count": 7,
-      "published_count": 80,
+      "published_count": 81,
       "message": null,
       "error": null
     },
@@ -1832,7 +1832,7 @@
       "status": "ok",
       "fetched_count": 20,
       "accepted_count": 18,
-      "published_count": 5,
+      "published_count": 2,
       "message": null,
       "error": null
     },
@@ -1844,7 +1844,7 @@
       "status": "ok",
       "fetched_count": 20,
       "accepted_count": 18,
-      "published_count": 6,
+      "published_count": 5,
       "message": null,
       "error": null
     },
@@ -2060,7 +2060,7 @@
       "status": "ok",
       "fetched_count": 10,
       "accepted_count": 10,
-      "published_count": 11,
+      "published_count": 12,
       "message": null,
       "error": null
     },
@@ -2072,7 +2072,7 @@
       "status": "ok",
       "fetched_count": 10,
       "accepted_count": 8,
-      "published_count": 39,
+      "published_count": 38,
       "message": null,
       "error": null
     },
@@ -2084,7 +2084,7 @@
       "status": "ok",
       "fetched_count": 25,
       "accepted_count": 18,
-      "published_count": 59,
+      "published_count": 62,
       "message": null,
       "error": null
     },
@@ -2096,7 +2096,7 @@
       "status": "ok",
       "fetched_count": 25,
       "accepted_count": 18,
-      "published_count": 46,
+      "published_count": 47,
       "message": null,
       "error": null
     },
@@ -2156,7 +2156,7 @@
       "status": "ok",
       "fetched_count": 48,
       "accepted_count": 18,
-      "published_count": 49,
+      "published_count": 48,
       "message": null,
       "error": null
     },
@@ -2214,7 +2214,7 @@
       "category": "us-economy",
       "trust_level": 84,
       "status": "ok",
-      "fetched_count": 29,
+      "fetched_count": 28,
       "accepted_count": 18,
       "published_count": 0,
       "message": null,
@@ -2239,7 +2239,7 @@
       "trust_level": 82,
       "status": "ok",
       "fetched_count": 30,
-      "accepted_count": 12,
+      "accepted_count": 14,
       "published_count": 0,
       "message": null,
       "error": null
@@ -2408,7 +2408,7 @@
       "status": "ok",
       "fetched_count": 50,
       "accepted_count": 18,
-      "published_count": 41,
+      "published_count": 37,
       "message": null,
       "error": null
     },
@@ -2480,7 +2480,7 @@
       "status": "ok",
       "fetched_count": 50,
       "accepted_count": 18,
-      "published_count": 83,
+      "published_count": 84,
       "message": null,
       "error": null
     },
@@ -2552,7 +2552,7 @@
       "status": "ok",
       "fetched_count": 51,
       "accepted_count": 18,
-      "published_count": 10,
+      "published_count": 9,
       "message": null,
       "error": null
     },
@@ -2562,7 +2562,7 @@
       "category": "kr-economy",
       "trust_level": 79,
       "status": "ok",
-      "fetched_count": 30,
+      "fetched_count": 21,
       "accepted_count": 18,
       "published_count": 122,
       "message": null,
@@ -2574,8 +2574,8 @@
       "category": "kr-politics",
       "trust_level": 82,
       "status": "ok",
-      "fetched_count": 12,
-      "accepted_count": 12,
+      "fetched_count": 13,
+      "accepted_count": 13,
       "published_count": 0,
       "message": null,
       "error": null
@@ -2742,14 +2742,434 @@
       "category": null,
       "trust_level": 55,
       "status": "ok",
-      "fetched_count": 13,
-      "accepted_count": 4,
+      "fetched_count": 14,
+      "accepted_count": 5,
       "published_count": 2,
       "message": null,
       "error": null
     }
   ],
   "articles": [
+    {
+      "title": "This week on \"Sunday Morning\" (April 5)",
+      "canonical_url": "https://www.cbsnews.com/news/this-week-on-sunday-morning-april-5-2026",
+      "link_label": "www.cbsnews.com/news/this-week-on-sunday-morning-april...",
+      "source_key": "cbs-us-rss",
+      "source_name": "CBS News US",
+      "thumbnail_url": null,
+      "source_names": [
+        "CBS News US"
+      ],
+      "primary_category": "us-politics",
+      "hub": "us",
+      "hub_label": "미국",
+      "section_key": "us-politics",
+      "section_label": "정치",
+      "published_at": "2026-04-05T14:03:31+00:00",
+      "trust_level": 87,
+      "language": "en",
+      "sort_timestamp": 1775397811
+    },
+    {
+      "title": "One mistake unknowingly racks up over $5K on family’s cell phone bill — here’s how to prevent this from happening to you",
+      "canonical_url": "https://nypost.com/2026/04/05/lifestyle/teen-unknowingly-racks-up-over-5k-on-family-cell-phone-bill",
+      "link_label": "nypost.com/2026/04/05/lifestyle/teen-unknowingly-...",
+      "source_key": "nypost-feed",
+      "source_name": "New York Post Feed",
+      "thumbnail_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F04%2Fsurprised-young-woman-sitting-desk-125057062.jpg?w%3D1024",
+      "source_names": [
+        "New York Post Feed"
+      ],
+      "primary_category": "us-economy",
+      "hub": "us",
+      "hub_label": "미국",
+      "section_key": "us-economy",
+      "section_label": "경제",
+      "published_at": "2026-04-05T14:01:45+00:00",
+      "trust_level": 70,
+      "language": "en",
+      "sort_timestamp": 1775397705
+    },
+    {
+      "title": "Signs of compassion from a deaf first-grader's classmates",
+      "canonical_url": "https://www.cbsnews.com/video/signs-of-compassion-from-a-deaf-first-graders-classmates",
+      "link_label": "www.cbsnews.com/video/signs-of-compassion-from-a-deaf-...",
+      "source_key": "cbs-us-rss",
+      "source_name": "CBS News US",
+      "thumbnail_url": null,
+      "source_names": [
+        "CBS News US"
+      ],
+      "primary_category": "us-politics",
+      "hub": "us",
+      "hub_label": "미국",
+      "section_key": "us-politics",
+      "section_label": "정치",
+      "published_at": "2026-04-05T14:00:11+00:00",
+      "trust_level": 87,
+      "language": "en",
+      "sort_timestamp": 1775397611
+    },
+    {
+      "title": "3 Relationship Habits That Predict Lasting Happiness—By A Psychologist",
+      "canonical_url": "https://www.forbes.com/sites/traversmark/2026/04/05/3-relationship-habits-that-predict-lasting-happiness-by-a-psychologist",
+      "link_label": "www.forbes.com/sites/traversmark/2026/04/05/3-relatio...",
+      "source_key": "forbes-innovation-rss",
+      "source_name": "Forbes Innovation",
+      "thumbnail_url": "https://imageio.forbes.com/specials-images/imageserve/69cd3b42c6711092a6752b34/0x0.jpg?width=960&precrop=4000%2C2250%2Cx0%2Cy0",
+      "source_names": [
+        "Forbes Innovation"
+      ],
+      "primary_category": "us-technology",
+      "hub": "us",
+      "hub_label": "미국",
+      "section_key": "us-technology",
+      "section_label": "기술",
+      "published_at": "2026-04-05T14:00:09+00:00",
+      "trust_level": 82,
+      "language": "en",
+      "sort_timestamp": 1775397609
+    },
+    {
+      "title": "UConn Star Tarris Reed Jr. To Face Former Michigan Squad In Final",
+      "canonical_url": "https://www.forbes.com/sites/jefffedotin/2026/04/05/uconn-star-tarris-reed-jr-to-face-former-michigan-squad-in-final",
+      "link_label": "www.forbes.com/sites/jefffedotin/2026/04/05/uconn-sta...",
+      "source_key": "forbes-business-rss",
+      "source_name": "Forbes Business",
+      "thumbnail_url": "https://imageio.forbes.com/specials-images/imageserve/69d1e67855fc85f129458f57/0x0.jpg?width=960&precrop=1378%2C983%2Cx267%2Cy22",
+      "source_names": [
+        "Forbes Business"
+      ],
+      "primary_category": "us-economy",
+      "hub": "us",
+      "hub_label": "미국",
+      "section_key": "us-economy",
+      "section_label": "경제",
+      "published_at": "2026-04-05T14:00:02+00:00",
+      "trust_level": 82,
+      "language": "en",
+      "sort_timestamp": 1775397602
+    },
+    {
+      "title": "AI is making crypto's security problem even worse, Ledger CTO warns",
+      "canonical_url": "https://www.coindesk.com/tech/2026/04/05/ai-is-making-crypto-s-security-problem-even-worse-ledger-cto-warns",
+      "link_label": "www.coindesk.com/tech/2026/04/05/ai-is-making-crypto-s-...",
+      "source_key": "coindesk-rss",
+      "source_name": "CoinDesk",
+      "thumbnail_url": "https://cdn.sanity.io/images/s3y3vcno/production/f205b693401668459daafca203c91ba897d86b9d-2516x1415.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+      "source_names": [
+        "CoinDesk"
+      ],
+      "primary_category": "crypto",
+      "hub": "global",
+      "hub_label": "글로벌 전문",
+      "section_key": "crypto",
+      "section_label": "코인",
+      "published_at": "2026-04-05T14:00:00+00:00",
+      "trust_level": 90,
+      "language": "en",
+      "sort_timestamp": 1775397600
+    },
+    {
+      "title": "In Japan, the robot isn’t coming for your job; it’s filling the one nobody wants",
+      "canonical_url": "https://techcrunch.com/2026/04/05/japan-is-proving-experimental-physical-ai-is-ready-for-the-real-world",
+      "link_label": "techcrunch.com/2026/04/05/japan-is-proving-experiment...",
+      "source_key": "techcrunch-rss",
+      "source_name": "TechCrunch",
+      "thumbnail_url": null,
+      "source_names": [
+        "TechCrunch"
+      ],
+      "primary_category": "tech-it",
+      "hub": "global",
+      "hub_label": "글로벌 전문",
+      "section_key": "tech-it",
+      "section_label": "테크",
+      "published_at": "2026-04-05T14:00:00+00:00",
+      "trust_level": 85,
+      "language": "en",
+      "sort_timestamp": 1775397600
+    },
+    {
+      "title": "I let Gemini in Google Maps plan my day and it went surprisingly well",
+      "canonical_url": "https://www.theverge.com/tech/907015/gemini-google-maps-hands-on",
+      "link_label": "www.theverge.com/tech/907015/gemini-google-maps-hands-on",
+      "source_key": "verge-rss",
+      "source_name": "The Verge RSS",
+      "thumbnail_url": null,
+      "source_names": [
+        "The Verge RSS"
+      ],
+      "primary_category": "us-technology",
+      "hub": "us",
+      "hub_label": "미국",
+      "section_key": "us-technology",
+      "section_label": "기술",
+      "published_at": "2026-04-05T14:00:00+00:00",
+      "trust_level": 84,
+      "language": "en",
+      "sort_timestamp": 1775397600
+    },
+    {
+      "title": "The Strait Of Hormuz Couldn’t Care Less About The Federal Reserve",
+      "canonical_url": "https://www.forbes.com/sites/johntamny/2026/04/05/the-strait-of-hormuz-couldnt-care-less-about-the-federal-reserve",
+      "link_label": "www.forbes.com/sites/johntamny/2026/04/05/the-strait-...",
+      "source_key": "forbes-business-rss",
+      "source_name": "Forbes Business",
+      "thumbnail_url": "https://imageio.forbes.com/specials-images/imageserve/69cffa76315441a2384ed465/0x0.jpg",
+      "source_names": [
+        "Forbes Business"
+      ],
+      "primary_category": "us-economy",
+      "hub": "us",
+      "hub_label": "미국",
+      "section_key": "us-economy",
+      "section_label": "경제",
+      "published_at": "2026-04-05T14:00:00+00:00",
+      "trust_level": 82,
+      "language": "en",
+      "sort_timestamp": 1775397600
+    },
+    {
+      "title": "Quordle Hints Today: Monday, April 6 Clues And Answers",
+      "canonical_url": "https://www.forbes.com/sites/krisholt/2026/04/05/quordle-hints-today-monday-april-6-clues-and-answers",
+      "link_label": "www.forbes.com/sites/krisholt/2026/04/05/quordle-hint...",
+      "source_key": "forbes-innovation-rss",
+      "source_name": "Forbes Innovation",
+      "thumbnail_url": "https://imageio.forbes.com/specials-images/imageserve/67c9fbe14c701fc587cd5b86/0x0.jpg?width=960",
+      "source_names": [
+        "Forbes Innovation"
+      ],
+      "primary_category": "us-technology",
+      "hub": "us",
+      "hub_label": "미국",
+      "section_key": "us-technology",
+      "section_label": "기술",
+      "published_at": "2026-04-05T14:00:00+00:00",
+      "trust_level": 82,
+      "language": "en",
+      "sort_timestamp": 1775397600
+    },
+    {
+      "title": "NYT Strands Hint Today: Monday, April 6 Clues And Answers (Fringe Group)",
+      "canonical_url": "https://www.forbes.com/sites/krisholt/2026/04/05/nyt-strands-hint-today-monday-april-6-clues-and-answers-fringe-group",
+      "link_label": "www.forbes.com/sites/krisholt/2026/04/05/nyt-strands-...",
+      "source_key": "forbes-innovation-rss",
+      "source_name": "Forbes Innovation",
+      "thumbnail_url": "https://imageio.forbes.com/specials-images/imageserve/68310d121b27e8ee67444dc6/0x0.jpg?width=960",
+      "source_names": [
+        "Forbes Innovation"
+      ],
+      "primary_category": "us-technology",
+      "hub": "us",
+      "hub_label": "미국",
+      "section_key": "us-technology",
+      "section_label": "기술",
+      "published_at": "2026-04-05T14:00:00+00:00",
+      "trust_level": 82,
+      "language": "en",
+      "sort_timestamp": 1775397600
+    },
+    {
+      "title": "When Does ‘The Real Housewives Of Rhode Island’ Episode 2 Come Out? ‘RHORI’ Has Already Moved Its Air Date",
+      "canonical_url": "https://decider.com/2026/04/05/when-real-housewives-rhode-island-come-out-rhori-new-air-date",
+      "link_label": "decider.com/2026/04/05/when-real-housewives-rhode-...",
+      "source_key": "nypost-feed",
+      "source_name": "New York Post Feed",
+      "thumbnail_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F04%2Frhori10.jpg?quality%3D90%26",
+      "source_names": [
+        "New York Post Feed"
+      ],
+      "primary_category": "us-politics",
+      "hub": "us",
+      "hub_label": "미국",
+      "section_key": "us-politics",
+      "section_label": "정치",
+      "published_at": "2026-04-05T14:00:00+00:00",
+      "trust_level": 70,
+      "language": "en",
+      "sort_timestamp": 1775397600
+    },
+    {
+      "title": "Make golf fun again: Bring the noise",
+      "canonical_url": "https://nypost.com/2026/04/05/opinion/golf-needs-to-shed-its-fusty-image",
+      "link_label": "nypost.com/2026/04/05/opinion/golf-needs-to-shed-...",
+      "source_key": "nypost-feed",
+      "source_name": "New York Post Feed",
+      "thumbnail_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F03%2F2266129057.jpg?w%3D1024",
+      "source_names": [
+        "New York Post Feed"
+      ],
+      "primary_category": "us-technology",
+      "hub": "us",
+      "hub_label": "미국",
+      "section_key": "us-technology",
+      "section_label": "기술",
+      "published_at": "2026-04-05T14:00:00+00:00",
+      "trust_level": 70,
+      "language": "en",
+      "sort_timestamp": 1775397600
+    },
+    {
+      "title": "Trump Threatens ‘Crazy Bastards’ In Iran With Bombing: ‘You’ll Be Living In Hell’",
+      "canonical_url": "https://www.forbes.com/sites/zacharyfolk/2026/04/05/trump-threatens-crazy-bastards-in-iran-with-bombing-youll-be-living-in-hell",
+      "link_label": "www.forbes.com/sites/zacharyfolk/2026/04/05/trump-thr...",
+      "source_key": "forbes-business-rss",
+      "source_name": "Forbes Business",
+      "thumbnail_url": "https://imageio.forbes.com/specials-images/imageserve/69d269844dd802028110fcfa/0x0.jpg?width=960&precrop=2016%2C1133%2Cx0%2Cy0",
+      "source_names": [
+        "Forbes Business"
+      ],
+      "primary_category": "us-economy",
+      "hub": "us",
+      "hub_label": "미국",
+      "section_key": "us-economy",
+      "section_label": "경제",
+      "published_at": "2026-04-05T13:57:31+00:00",
+      "trust_level": 82,
+      "language": "en",
+      "sort_timestamp": 1775397451
+    },
+    {
+      "title": "너도나도 수조원짜리 초대형 공연장…‘수익성’ 계산 안중에 없는 지자체",
+      "canonical_url": "https://www.mk.co.kr/news/society/12008547",
+      "link_label": "www.mk.co.kr/news/society/12008547",
+      "source_key": "mk-society-rss",
+      "source_name": "Maeil Business Society",
+      "thumbnail_url": "https://pimg.mk.co.kr/news/cms/202604/05/news-p.v1.20260403.cd44005aaaa146f09386fe7519b41c64_R.jpg",
+      "source_names": [
+        "Maeil Business Society"
+      ],
+      "primary_category": "kr-society",
+      "hub": "kr",
+      "hub_label": "대한민국",
+      "section_key": "kr-society",
+      "section_label": "사회",
+      "published_at": "2026-04-05T13:57:10+00:00",
+      "trust_level": 89,
+      "language": "ko",
+      "sort_timestamp": 1775397430
+    },
+    {
+      "title": "How archaeology turns political in the West Bank",
+      "canonical_url": "https://www.cbsnews.com/news/how-archaeology-turns-political-in-the-west-bank",
+      "link_label": "www.cbsnews.com/news/how-archaeology-turns-political-i...",
+      "source_key": "cbs-world-rss",
+      "source_name": "CBS News World",
+      "thumbnail_url": null,
+      "source_names": [
+        "CBS News World"
+      ],
+      "primary_category": "us-world",
+      "hub": "us",
+      "hub_label": "미국",
+      "section_key": "us-world",
+      "section_label": "세계",
+      "published_at": "2026-04-05T13:57:03+00:00",
+      "trust_level": 87,
+      "language": "en",
+      "sort_timestamp": 1775397423
+    },
+    {
+      "title": "OPEC+ Plans Symbolic Oil Quota Hike for May",
+      "canonical_url": "https://www.bloomberg.com/news/videos/2026-04-05/opec-plans-symbolic-oil-quota-hike-for-may-video",
+      "link_label": "www.bloomberg.com/news/videos/2026-04-05/opec-plans-symb...",
+      "source_key": "bloomberg-markets-rss",
+      "source_name": "Bloomberg Markets",
+      "thumbnail_url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i2tH_GcsZ.W0/v3/1200x-1.jpg",
+      "source_names": [
+        "Bloomberg Markets"
+      ],
+      "primary_category": "us-markets",
+      "hub": "us",
+      "hub_label": "미국",
+      "section_key": "us-markets",
+      "section_label": "시장",
+      "published_at": "2026-04-05T13:56:34+00:00",
+      "trust_level": 92,
+      "language": "en",
+      "sort_timestamp": 1775397394
+    },
+    {
+      "title": "Michigan's Dusty May Explains Risky Yaxel Lendeborg Decision After Injury",
+      "canonical_url": "https://www.newsweek.com/sports/ncaa/michigans-dusty-may-explains-risky-yaxel-lendeborg-decision-after-injury-11784959",
+      "link_label": "www.newsweek.com/sports/ncaa/michigans-dusty-may-explai...",
+      "source_key": "newsweek-feed",
+      "source_name": "Newsweek Feed",
+      "thumbnail_url": null,
+      "source_names": [
+        "Newsweek Feed"
+      ],
+      "primary_category": "us-technology",
+      "hub": "us",
+      "hub_label": "미국",
+      "section_key": "us-technology",
+      "section_label": "기술",
+      "published_at": "2026-04-05T13:56:34+00:00",
+      "trust_level": 78,
+      "language": "en",
+      "sort_timestamp": 1775397394
+    },
+    {
+      "title": "🚨 [HIGH] 호르무즈 해협 알림",
+      "canonical_url": "https://www.aljazeera.com/video/quotable/2026/4/5/trump-offers-no-concrete-plan-as-strait-of-hormuz-closure-shocks-europe?traffic_source=rss",
+      "link_label": "www.aljazeera.com/video/quotable/2026/4/5/trump-offers-n...?traffic_source=rss",
+      "source_key": "telegram-claw-summary",
+      "source_name": "Telegram @clawnewssummary",
+      "thumbnail_url": null,
+      "source_names": [
+        "Telegram @clawnewssummary"
+      ],
+      "primary_category": "tech-it",
+      "hub": "global",
+      "hub_label": "글로벌 전문",
+      "section_key": "tech-it",
+      "section_label": "테크",
+      "published_at": "2026-04-05T13:51:20+00:00",
+      "trust_level": 55,
+      "language": "ko",
+      "sort_timestamp": 1775397080
+    },
+    {
+      "title": "U.S. military rescues missing airman in Iran in daring night mission",
+      "canonical_url": "https://www.ms.now/news/u-s-military-rescues-second-fighter-jet-airman-missing-since-friday",
+      "link_label": "www.ms.now/news/u-s-military-rescues-second-fight...",
+      "source_key": "msnbc-feed",
+      "source_name": "MSNBC Feed",
+      "thumbnail_url": null,
+      "source_names": [
+        "MSNBC Feed"
+      ],
+      "primary_category": "us-markets",
+      "hub": "us",
+      "hub_label": "미국",
+      "section_key": "us-markets",
+      "section_label": "시장",
+      "published_at": "2026-04-05T13:47:57+00:00",
+      "trust_level": 82,
+      "language": "en",
+      "sort_timestamp": 1775396877
+    },
+    {
+      "title": "Some Voters Say Congress Is Too Old. These Black Democrats Aren’t Leaving.",
+      "canonical_url": "https://www.nytimes.com/2026/04/04/us/voters-congress-old-democrats.html",
+      "link_label": "www.nytimes.com/2026/04/04/us/voters-congress-old-demo...",
+      "source_key": "nyt-us-rss",
+      "source_name": "New York Times US",
+      "thumbnail_url": "https://static01.nyt.com/images/2026/04/04/multimedia/04dc-blackdemocrats-jwbc/04dc-blackdemocrats-jwbc-mediumSquareAt3X.jpg",
+      "source_names": [
+        "New York Times US"
+      ],
+      "primary_category": "us-politics",
+      "hub": "us",
+      "hub_label": "미국",
+      "section_key": "us-politics",
+      "section_label": "정치",
+      "published_at": "2026-04-05T13:47:11+00:00",
+      "trust_level": 95,
+      "language": "en",
+      "sort_timestamp": 1775396831
+    },
     {
       "title": "British Prime Minister criticizes London festival for booking Kanye West",
       "canonical_url": "https://www.cbsnews.com/news/british-prime-minister-criticizes-london-festival-booking-ye-kanye-west-antisemitism",
@@ -2791,24 +3211,44 @@
       "sort_timestamp": 1775396659
     },
     {
-      "title": "This week on \"Sunday Morning\" (April 5)",
-      "canonical_url": "https://www.cbsnews.com/news/this-week-on-sunday-morning-april-5-2026",
-      "link_label": "www.cbsnews.com/news/this-week-on-sunday-morning-april...",
-      "source_key": "cbs-us-rss",
-      "source_name": "CBS News US",
-      "thumbnail_url": null,
+      "title": "West Ham v Leeds buildup plus Scottish Premiership and Women’s FA Cup – matchday live",
+      "canonical_url": "https://www.theguardian.com/football/live/2026/apr/05/west-ham-v-leeds-buildup-plus-scottish-premiership-and-womens-fa-cup-matchday-live",
+      "link_label": "www.theguardian.com/football/live/2026/apr/05/west-ham-v-l...",
+      "source_key": "guardian-us-rss",
+      "source_name": "The Guardian US",
+      "thumbnail_url": "https://i.guim.co.uk/img/media/ac7ffe05692232a0c33d37eb1379ba7164870740/50_0_1736_1389/master/1736.jpg?width=140&quality=85&auto=format&fit=max&s=75bee646fcb67124dc9443ff070e3b69",
       "source_names": [
-        "CBS News US"
+        "The Guardian US"
       ],
-      "primary_category": "us-politics",
+      "primary_category": "us-technology",
       "hub": "us",
       "hub_label": "미국",
-      "section_key": "us-politics",
-      "section_label": "정치",
-      "published_at": "2026-04-05T13:43:49+00:00",
-      "trust_level": 87,
+      "section_key": "us-technology",
+      "section_label": "기술",
+      "published_at": "2026-04-05T13:43:40+00:00",
+      "trust_level": 86,
       "language": "en",
-      "sort_timestamp": 1775396629
+      "sort_timestamp": 1775396620
+    },
+    {
+      "title": "19 best DeWalt tool deals we’re shopping this week — right in time for spring projects",
+      "canonical_url": "https://nypost.com/article/best-dewalt-tools-sales-deals",
+      "link_label": "nypost.com/article/best-dewalt-tools-sales-deals",
+      "source_key": "nypost-feed",
+      "source_name": "New York Post Feed",
+      "thumbnail_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F03%2FDeWalt-Feature.jpg?quality%3D90%26",
+      "source_names": [
+        "New York Post Feed"
+      ],
+      "primary_category": "us-technology",
+      "hub": "us",
+      "hub_label": "미국",
+      "section_key": "us-technology",
+      "section_label": "기술",
+      "published_at": "2026-04-05T13:43:00+00:00",
+      "trust_level": 70,
+      "language": "en",
+      "sort_timestamp": 1775396580
     },
     {
       "title": "Iran War Live Updates: Trump Escalates Threat to Hit Iranian Power Plants After U.S. Rescues Downed Airman",
@@ -2992,6 +3432,26 @@
       "sort_timestamp": 1775396220
     },
     {
+      "title": "Middle East crisis live: Trump uses expletive-ridden social media post to threaten Iran’s infrastructure",
+      "canonical_url": "https://www.theguardian.com/world/live/2026/apr/05/middle-east-crisis-live-iran-israel-us-war-trump-strait-hormuz-missing-pilot-downed",
+      "link_label": "www.theguardian.com/world/live/2026/apr/05/middle-east-cri...",
+      "source_key": "guardian-us-rss",
+      "source_name": "The Guardian US",
+      "thumbnail_url": "https://i.guim.co.uk/img/media/39413b06ed2146601261cf6699e98514d8d87ed3/437_0_2500_2000/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=d4b1161d85ecc2518ad233fe9301c13c",
+      "source_names": [
+        "The Guardian US"
+      ],
+      "primary_category": "us-politics",
+      "hub": "us",
+      "hub_label": "미국",
+      "section_key": "us-politics",
+      "section_label": "정치",
+      "published_at": "2026-04-05T13:36:38+00:00",
+      "trust_level": 86,
+      "language": "en",
+      "sort_timestamp": 1775396198
+    },
+    {
       "title": "Trump says rescued U.S. airman 'seriously wounded,' threatens to strike Iran power plants and bridges",
       "canonical_url": "https://www.cnbc.com/2026/04/05/us-trump-confirms-missing-us-pilot-rescued.html",
       "link_label": "www.cnbc.com/2026/04/05/us-trump-confirms-missing-u...",
@@ -3091,46 +3551,6 @@
       "trust_level": 70,
       "language": "en",
       "sort_timestamp": 1775395858
-    },
-    {
-      "title": "Middle East crisis live: Trump uses expletive-ridden social media post to threaten Iran’s infrastructure",
-      "canonical_url": "https://www.theguardian.com/world/live/2026/apr/05/middle-east-crisis-live-iran-israel-us-war-trump-strait-hormuz-missing-pilot-downed",
-      "link_label": "www.theguardian.com/world/live/2026/apr/05/middle-east-cri...",
-      "source_key": "guardian-us-rss",
-      "source_name": "The Guardian US",
-      "thumbnail_url": "https://i.guim.co.uk/img/media/39413b06ed2146601261cf6699e98514d8d87ed3/437_0_2500_2000/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=d4b1161d85ecc2518ad233fe9301c13c",
-      "source_names": [
-        "The Guardian US"
-      ],
-      "primary_category": "us-politics",
-      "hub": "us",
-      "hub_label": "미국",
-      "section_key": "us-politics",
-      "section_label": "정치",
-      "published_at": "2026-04-05T13:26:32+00:00",
-      "trust_level": 86,
-      "language": "en",
-      "sort_timestamp": 1775395592
-    },
-    {
-      "title": "West Ham v Leeds buildup plus Scottish Premiership and Women’s FA Cup – matchday live",
-      "canonical_url": "https://www.theguardian.com/football/live/2026/apr/05/west-ham-v-leeds-buildup-plus-scottish-premiership-and-womens-fa-cup-matchday-live",
-      "link_label": "www.theguardian.com/football/live/2026/apr/05/west-ham-v-l...",
-      "source_key": "guardian-us-rss",
-      "source_name": "The Guardian US",
-      "thumbnail_url": "https://i.guim.co.uk/img/media/ac7ffe05692232a0c33d37eb1379ba7164870740/50_0_1736_1389/master/1736.jpg?width=140&quality=85&auto=format&fit=max&s=75bee646fcb67124dc9443ff070e3b69",
-      "source_names": [
-        "The Guardian US"
-      ],
-      "primary_category": "us-technology",
-      "hub": "us",
-      "hub_label": "미국",
-      "section_key": "us-technology",
-      "section_label": "기술",
-      "published_at": "2026-04-05T13:24:59+00:00",
-      "trust_level": 86,
-      "language": "en",
-      "sort_timestamp": 1775395499
     },
     {
       "title": "“무기를 가진 자들은 그것을 내려놓아라”…교황 첫 부활절 미사서 이란·우크라 전쟁 언급",
@@ -3433,7 +3853,7 @@
       "sort_timestamp": 1775394406
     },
     {
-      "title": "Trump Uses Profanity in New Threat Demanding Iran Reopen Strait",
+      "title": "Trump Unleashes Profanity‑Laced Threat Against Iran Over Vital Strait",
       "canonical_url": "https://www.newsweek.com/trump-uses-profanity-in-new-threat-demanding-iran-reopen-strait-11784892",
       "link_label": "www.newsweek.com/trump-uses-profanity-in-new-threat-dem...",
       "source_key": "newsweek-feed",
@@ -4312,26 +4732,6 @@
       "trust_level": 70,
       "language": "en",
       "sort_timestamp": 1775392049
-    },
-    {
-      "title": "U.S. military rescues missing airman in Iran in daring night mission",
-      "canonical_url": "https://www.ms.now/news/u-s-military-rescues-second-fighter-jet-airman-missing-since-friday",
-      "link_label": "www.ms.now/news/u-s-military-rescues-second-fight...",
-      "source_key": "msnbc-feed",
-      "source_name": "MSNBC Feed",
-      "thumbnail_url": null,
-      "source_names": [
-        "MSNBC Feed"
-      ],
-      "primary_category": "us-markets",
-      "hub": "us",
-      "hub_label": "미국",
-      "section_key": "us-markets",
-      "section_label": "시장",
-      "published_at": "2026-04-05T12:26:33+00:00",
-      "trust_level": 82,
-      "language": "en",
-      "sort_timestamp": 1775391993
     },
     {
       "title": "Here’s what happened in crypto today",
@@ -5706,7 +6106,8 @@
       "source_name": "Kyunghyang Politics",
       "thumbnail_url": null,
       "source_names": [
-        "Kyunghyang Politics"
+        "Kyunghyang Politics",
+        "NAVER News Search"
       ],
       "primary_category": "kr-politics",
       "hub": "kr",
@@ -6741,7 +7142,7 @@
       "sort_timestamp": 1775386861
     },
     {
-      "title": "Trump’s mass deportation plan breaks the quiet of small US towns: ‘We have to take care of each other’",
+      "title": "Trump’s mass deportation plan hits small US towns, leaving fear and disruption: ‘We have to take care of each other’",
       "canonical_url": "https://www.theguardian.com/us-news/ng-interactive/2026/apr/05/trump-deportation-rural-towns-wisconsin",
       "link_label": "www.theguardian.com/us-news/ng-interactive/2026/apr/05/tru...",
       "source_key": "guardian-us-rss",
@@ -10241,12 +10642,12 @@
       "sort_timestamp": 1775378094
     },
     {
-      "title": "청년 채용한다던 체납관리단…65%는 은퇴자",
+      "title": "청년 채용한다던 체납관리단 … 2030은 19%",
       "canonical_url": "https://www.mk.co.kr/news/economy/12008382",
       "link_label": "www.mk.co.kr/news/economy/12008382",
       "source_key": "mk-economy-rss",
       "source_name": "Maeil Business Economy",
-      "thumbnail_url": "https://static.mk.co.kr/facebook_mknews.jpg",
+      "thumbnail_url": null,
       "source_names": [
         "Maeil Business Economy"
       ],
@@ -20588,26 +20989,6 @@
       "sort_timestamp": 1775347916
     },
     {
-      "title": "🚨 [HIGH] 호르무즈 해협 알림",
-      "canonical_url": "https://www.aljazeera.com/news/liveblog/2026/4/5/iran-war-live-tehran-rejects-trumps-ultimatum-fire-at-kuwait-oil-complex?traffic_source=rss",
-      "link_label": "www.aljazeera.com/news/liveblog/2026/4/5/iran-war-live-t...?traffic_source=rss",
-      "source_key": "telegram-claw-summary",
-      "source_name": "Telegram @clawnewssummary",
-      "thumbnail_url": null,
-      "source_names": [
-        "Telegram @clawnewssummary"
-      ],
-      "primary_category": "tech-it",
-      "hub": "global",
-      "hub_label": "글로벌 전문",
-      "section_key": "tech-it",
-      "section_label": "테크",
-      "published_at": "2026-04-05T00:11:00+00:00",
-      "trust_level": 55,
-      "language": "ko",
-      "sort_timestamp": 1775347860
-    },
-    {
       "title": "월요일 출근길 전국 ‘봄비’…낮 최고 19도 포근",
       "canonical_url": "https://www.donga.com/news/Society/article/all/20260405/133675090/1",
       "link_label": "www.donga.com/news/Society/article/all/20260405/1336...",
@@ -25948,26 +26329,6 @@
       "trust_level": 82,
       "language": "en",
       "sort_timestamp": 1775327400
-    },
-    {
-      "title": "Some Voters Say Congress Is Too Old. These Black Democrats Aren’t Leaving.",
-      "canonical_url": "https://www.nytimes.com/2026/04/04/us/voters-congress-old-democrats.html",
-      "link_label": "www.nytimes.com/2026/04/04/us/voters-congress-old-demo...",
-      "source_key": "nyt-us-rss",
-      "source_name": "New York Times US",
-      "thumbnail_url": null,
-      "source_names": [
-        "New York Times US"
-      ],
-      "primary_category": "us-politics",
-      "hub": "us",
-      "hub_label": "미국",
-      "section_key": "us-politics",
-      "section_label": "정치",
-      "published_at": "2026-04-04T18:29:27+00:00",
-      "trust_level": 95,
-      "language": "en",
-      "sort_timestamp": 1775327367
     },
     {
       "title": "If You See This Message In Google Chrome, You Are Now At Risk",
@@ -42553,369 +42914,6 @@
       "trust_level": 84,
       "language": "en",
       "sort_timestamp": 1775256593
-    },
-    {
-      "title": "News Wrap: Trump seeking $1.5 trillion for military spending in new budget",
-      "canonical_url": "https://www.pbs.org/newshour/show/news-wrap-trump-seeking-1-5-trillion-for-military-spending-in-new-budget",
-      "link_label": "www.pbs.org/newshour/show/news-wrap-trump-seeking-...",
-      "source_key": "pbs-politics-rss",
-      "source_name": "PBS NewsHour Politics",
-      "thumbnail_url": null,
-      "source_names": [
-        "PBS NewsHour Politics",
-        "PBS NewsHour World"
-      ],
-      "primary_category": "us-politics",
-      "hub": "us",
-      "hub_label": "미국",
-      "section_key": "us-politics",
-      "section_label": "정치",
-      "published_at": "2026-04-03T22:45:31+00:00",
-      "trust_level": 88,
-      "language": "en",
-      "sort_timestamp": 1775256331
-    },
-    {
-      "title": "‘Super Mario Galaxy Movie’ Divides Fans And Critics On Rotten Tomatoes",
-      "canonical_url": "https://www.forbes.com/sites/erikkain/2026/04/03/super-mario-galaxy-movie-divides-fans-critics-rotten-tomatoes",
-      "link_label": "www.forbes.com/sites/erikkain/2026/04/03/super-mario-...",
-      "source_key": "forbes-innovation-rss",
-      "source_name": "Forbes Innovation",
-      "thumbnail_url": null,
-      "source_names": [
-        "Forbes Innovation"
-      ],
-      "primary_category": "us-technology",
-      "hub": "us",
-      "hub_label": "미국",
-      "section_key": "us-technology",
-      "section_label": "기술",
-      "published_at": "2026-04-03T22:41:14+00:00",
-      "trust_level": 82,
-      "language": "en",
-      "sort_timestamp": 1775256074
-    },
-    {
-      "title": "What young Republicans are saying about Trump's handling of the Iran war",
-      "canonical_url": "https://www.pbs.org/newshour/show/what-young-republicans-are-saying-about-trumps-handling-of-the-iran-war",
-      "link_label": "www.pbs.org/newshour/show/what-young-republicans-a...",
-      "source_key": "pbs-politics-rss",
-      "source_name": "PBS NewsHour Politics",
-      "thumbnail_url": null,
-      "source_names": [
-        "PBS NewsHour Politics"
-      ],
-      "primary_category": "us-politics",
-      "hub": "us",
-      "hub_label": "미국",
-      "section_key": "us-politics",
-      "section_label": "정치",
-      "published_at": "2026-04-03T22:40:36+00:00",
-      "trust_level": 88,
-      "language": "en",
-      "sort_timestamp": 1775256036
-    },
-    {
-      "title": "Palestinians in occupied West Bank face growing violence from Israeli settlers",
-      "canonical_url": "https://www.pbs.org/newshour/show/palestinians-in-occupied-west-bank-face-growing-violence-from-israeli-settlers",
-      "link_label": "www.pbs.org/newshour/show/palestinians-in-occupied...",
-      "source_key": "pbs-world-rss",
-      "source_name": "PBS NewsHour World",
-      "thumbnail_url": null,
-      "source_names": [
-        "PBS NewsHour World"
-      ],
-      "primary_category": "us-world",
-      "hub": "us",
-      "hub_label": "미국",
-      "section_key": "us-world",
-      "section_label": "세계",
-      "published_at": "2026-04-03T22:35:56+00:00",
-      "trust_level": 88,
-      "language": "en",
-      "sort_timestamp": 1775255756
-    },
-    {
-      "title": "The wreckage Pam Bondi leaves behind",
-      "canonical_url": "https://www.ms.now/opinion/pam-bondi-fired-attorney-general-justice-department-weaponized",
-      "link_label": "www.ms.now/opinion/pam-bondi-fired-attorney-gener...",
-      "source_key": "msnbc-feed",
-      "source_name": "MSNBC Feed",
-      "thumbnail_url": null,
-      "source_names": [
-        "MSNBC Feed"
-      ],
-      "primary_category": "us-markets",
-      "hub": "us",
-      "hub_label": "미국",
-      "section_key": "us-markets",
-      "section_label": "시장",
-      "published_at": "2026-04-03T22:35:15+00:00",
-      "trust_level": 82,
-      "language": "en",
-      "sort_timestamp": 1775255715
-    },
-    {
-      "title": "이재용·정의선, 佛 마크롱 만났다…반도체·수소 협력 확대 기대감↑",
-      "canonical_url": "https://www.donga.com/news/Economy/article/all/20260404/133673770/1",
-      "link_label": "www.donga.com/news/Economy/article/all/20260404/1336...",
-      "source_key": "donga-economy-rss",
-      "source_name": "DongA Economy",
-      "thumbnail_url": null,
-      "source_names": [
-        "DongA Economy"
-      ],
-      "primary_category": "kr-economy",
-      "hub": "kr",
-      "hub_label": "대한민국",
-      "section_key": "kr-economy",
-      "section_label": "경제",
-      "published_at": "2026-04-03T22:32:03+00:00",
-      "trust_level": 88,
-      "language": "ko",
-      "sort_timestamp": 1775255523
-    },
-    {
-      "title": "Today’s Wordle #1750 Hints And Answer For Saturday, April 4",
-      "canonical_url": "https://www.forbes.com/sites/erikkain/2026/04/03/wordle-answer-saturday-april-4",
-      "link_label": "www.forbes.com/sites/erikkain/2026/04/03/wordle-answe...",
-      "source_key": "forbes-innovation-rss",
-      "source_name": "Forbes Innovation",
-      "thumbnail_url": null,
-      "source_names": [
-        "Forbes Innovation"
-      ],
-      "primary_category": "us-technology",
-      "hub": "us",
-      "hub_label": "미국",
-      "section_key": "us-technology",
-      "section_label": "기술",
-      "published_at": "2026-04-03T22:30:55+00:00",
-      "trust_level": 82,
-      "language": "en",
-      "sort_timestamp": 1775255455
-    },
-    {
-      "title": "Patel, McCormick warn foreign terror threats inside US grew during Biden years",
-      "canonical_url": "https://www.foxnews.com/politics/patel-mccormick-warn-foreign-terror-threats-inside-us-grew-during-biden-years",
-      "link_label": "www.foxnews.com/politics/patel-mccormick-warn-foreign-...",
-      "source_key": "fox-politics-rss",
-      "source_name": "Fox News Politics",
-      "thumbnail_url": null,
-      "source_names": [
-        "Fox News Politics"
-      ],
-      "primary_category": "us-politics",
-      "hub": "us",
-      "hub_label": "미국",
-      "section_key": "us-politics",
-      "section_label": "정치",
-      "published_at": "2026-04-03T22:30:14+00:00",
-      "trust_level": 84,
-      "language": "en",
-      "sort_timestamp": 1775255414
-    },
-    {
-      "title": "Brooks and Capehart on the cost of the Iran war and Trump's strategy",
-      "canonical_url": "https://www.pbs.org/newshour/show/brooks-and-capehart-on-the-cost-of-the-iran-war-and-trumps-strategy",
-      "link_label": "www.pbs.org/newshour/show/brooks-and-capehart-on-t...",
-      "source_key": "pbs-politics-rss",
-      "source_name": "PBS NewsHour Politics",
-      "thumbnail_url": null,
-      "source_names": [
-        "PBS NewsHour Politics"
-      ],
-      "primary_category": "us-politics",
-      "hub": "us",
-      "hub_label": "미국",
-      "section_key": "us-politics",
-      "section_label": "정치",
-      "published_at": "2026-04-03T22:30:04+00:00",
-      "trust_level": 88,
-      "language": "en",
-      "sort_timestamp": 1775255404
-    },
-    {
-      "title": "4/3: CBS Evening News",
-      "canonical_url": "https://www.cbsnews.com/video/040326-cbs-evening-news",
-      "link_label": "www.cbsnews.com/video/040326-cbs-evening-news",
-      "source_key": "cbs-us-rss",
-      "source_name": "CBS News US",
-      "thumbnail_url": null,
-      "source_names": [
-        "CBS News Politics",
-        "CBS News US",
-        "CBS News World"
-      ],
-      "primary_category": "us-politics",
-      "hub": "us",
-      "hub_label": "미국",
-      "section_key": "us-politics",
-      "section_label": "정치",
-      "published_at": "2026-04-03T22:30:00+00:00",
-      "trust_level": 87,
-      "language": "en",
-      "sort_timestamp": 1775255400
-    },
-    {
-      "title": "\"얼마든 무조건 '휘발유 ℓ당 1600원'에 맞춰라\"…정유사에 보조금 쏟아붓는 日[뭔日있슈]",
-      "canonical_url": "https://www.asiae.co.kr/article/2026040315085801098",
-      "link_label": "www.asiae.co.kr/article/2026040315085801098",
-      "source_key": "asiae-culture-rss",
-      "source_name": "Asiae Life",
-      "thumbnail_url": null,
-      "source_names": [
-        "Asiae Life"
-      ],
-      "primary_category": "kr-culture",
-      "hub": "kr",
-      "hub_label": "대한민국",
-      "section_key": "kr-culture",
-      "section_label": "문화",
-      "published_at": "2026-04-03T22:30:00+00:00",
-      "trust_level": 84,
-      "language": "ko",
-      "sort_timestamp": 1775255400
-    },
-    {
-      "title": "구자철 등촌동 건물, 8년 만에 30억 올라…시세 76억 원",
-      "canonical_url": "https://www.donga.com/news/Economy/article/all/20260404/133673750/1",
-      "link_label": "www.donga.com/news/Economy/article/all/20260404/1336...",
-      "source_key": "donga-economy-rss",
-      "source_name": "DongA Economy",
-      "thumbnail_url": null,
-      "source_names": [
-        "DongA Economy"
-      ],
-      "primary_category": "kr-economy",
-      "hub": "kr",
-      "hub_label": "대한민국",
-      "section_key": "kr-economy",
-      "section_label": "경제",
-      "published_at": "2026-04-03T22:28:25+00:00",
-      "trust_level": 88,
-      "language": "ko",
-      "sort_timestamp": 1775255305
-    },
-    {
-      "title": "Checking a bag on United Airlines now costs $10 more as Iran war sends jet fuel costs up nearly 100% in major hubs",
-      "canonical_url": "https://fortune.com/2026/04/03/checked-bag-fees-united-airlines-10-dollars-iran-war-jet-fuel-costs-oil-prices",
-      "link_label": "fortune.com/2026/04/03/checked-bag-fees-united-air...",
-      "source_key": "fortune-feed",
-      "source_name": "Fortune Feed",
-      "thumbnail_url": null,
-      "source_names": [
-        "Fortune Feed"
-      ],
-      "primary_category": "us-economy",
-      "hub": "us",
-      "hub_label": "미국",
-      "section_key": "us-economy",
-      "section_label": "경제",
-      "published_at": "2026-04-03T22:28:06+00:00",
-      "trust_level": 81,
-      "language": "en",
-      "sort_timestamp": 1775255286
-    },
-    {
-      "title": "Trump Signs Executive Order Limiting the Years of Eligibility, Number of Transfers",
-      "canonical_url": "https://www.breitbart.com/sports/2026/04/03/trump-signs-executive-order-limiting-the-years-of-eligibility-number-of-transfers",
-      "link_label": "www.breitbart.com/sports/2026/04/03/trump-signs-executiv...",
-      "source_key": "breitbart-feed",
-      "source_name": "Breitbart Feed",
-      "thumbnail_url": null,
-      "source_names": [
-        "Breitbart Feed"
-      ],
-      "primary_category": "us-politics",
-      "hub": "us",
-      "hub_label": "미국",
-      "section_key": "us-politics",
-      "section_label": "정치",
-      "published_at": "2026-04-03T22:27:18+00:00",
-      "trust_level": 66,
-      "language": "en",
-      "sort_timestamp": 1775255238
-    },
-    {
-      "title": "“자가용 포기”…기름값 뛰자 지하철·버스 이용 7.5% 늘었다",
-      "canonical_url": "https://www.donga.com/news/Economy/article/all/20260404/133673742/1",
-      "link_label": "www.donga.com/news/Economy/article/all/20260404/1336...",
-      "source_key": "donga-economy-rss",
-      "source_name": "DongA Economy",
-      "thumbnail_url": null,
-      "source_names": [
-        "DongA Economy"
-      ],
-      "primary_category": "kr-economy",
-      "hub": "kr",
-      "hub_label": "대한민국",
-      "section_key": "kr-economy",
-      "section_label": "경제",
-      "published_at": "2026-04-03T22:27:16+00:00",
-      "trust_level": 88,
-      "language": "ko",
-      "sort_timestamp": 1775255236
-    },
-    {
-      "title": "전쟁에도 견고한 이자수익…은행권, 올해도 ‘실적 행진’ 예고",
-      "canonical_url": "https://www.donga.com/news/Economy/article/all/20260404/133673737/1",
-      "link_label": "www.donga.com/news/Economy/article/all/20260404/1336...",
-      "source_key": "donga-economy-rss",
-      "source_name": "DongA Economy",
-      "thumbnail_url": null,
-      "source_names": [
-        "DongA Economy"
-      ],
-      "primary_category": "kr-economy",
-      "hub": "kr",
-      "hub_label": "대한민국",
-      "section_key": "kr-economy",
-      "section_label": "경제",
-      "published_at": "2026-04-03T22:26:56+00:00",
-      "trust_level": 88,
-      "language": "ko",
-      "sort_timestamp": 1775255216
-    },
-    {
-      "title": "The anonymous social app that thinks it can work in Saudi Arabia",
-      "canonical_url": "https://techcrunch.com/2026/04/03/the-anonymous-social-app-that-thinks-it-can-work-in-saudi-arabia",
-      "link_label": "techcrunch.com/2026/04/03/the-anonymous-social-app-th...",
-      "source_key": "techcrunch-rss",
-      "source_name": "TechCrunch",
-      "thumbnail_url": null,
-      "source_names": [
-        "TechCrunch"
-      ],
-      "primary_category": "tech-it",
-      "hub": "global",
-      "hub_label": "글로벌 전문",
-      "section_key": "tech-it",
-      "section_label": "테크",
-      "published_at": "2026-04-03T22:24:57+00:00",
-      "trust_level": 85,
-      "language": "en",
-      "sort_timestamp": 1775255097
-    },
-    {
-      "title": "As Artemis II zooms to the Moon, everything seems to be going swimmingly",
-      "canonical_url": "https://arstechnica.com/space/2026/04/as-artemis-ii-zooms-to-the-moon-everything-seems-to-be-going-swimmingly",
-      "link_label": "arstechnica.com/space/2026/04/as-artemis-ii-zooms-to-t...",
-      "source_key": "arstechnica-rss",
-      "source_name": "Ars Technica",
-      "thumbnail_url": null,
-      "source_names": [
-        "Ars Technica"
-      ],
-      "primary_category": "tech-it",
-      "hub": "global",
-      "hub_label": "글로벌 전문",
-      "section_key": "tech-it",
-      "section_label": "테크",
-      "published_at": "2026-04-03T22:20:19+00:00",
-      "trust_level": 85,
-      "language": "en",
-      "sort_timestamp": 1775254819
     }
   ]
 }
