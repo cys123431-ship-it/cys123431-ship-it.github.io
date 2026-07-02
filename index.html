@@ -1,12 +1,95 @@
-<!doctype html>
-<html lang="en">
-  <head>
-    <meta charset="utf-8" />
-    <meta http-equiv="refresh" content="0; url=/newsbot/" />
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>newsbot</title>
-  </head>
-  <body>
-    <p>Redirecting to <a href="/newsbot/">/newsbot/</a>...</p>
-  </body>
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>문서함</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <main class="wrap">
+    <section class="hero">
+      <p class="eyebrow">Simple Document Download Page</p>
+      <h1>문서함</h1>
+      <p class="desc">필요한 문서를 선택해서 다운로드하세요.</p>
+    </section>
+
+    <section class="toolbar" aria-label="문서 검색 영역">
+      <input id="searchInput" type="search" placeholder="문서 이름 검색" autocomplete="off" />
+      <span id="fileCount" class="count">0개 문서</span>
+    </section>
+
+    <section id="fileList" class="file-list" aria-label="문서 목록"></section>
+
+    <section id="emptyState" class="empty" hidden>
+      <h2>등록된 문서가 없습니다</h2>
+      <p><code>files</code> 폴더에 문서를 넣고 <code>files.json</code>에 목록을 추가하세요.</p>
+    </section>
+
+    <footer>
+      <p>정적 페이지라서 서버 설치 없이 GitHub Pages, Netlify 등에 올릴 수 있습니다.</p>
+    </footer>
+  </main>
+
+  <script>
+    const fileList = document.getElementById('fileList');
+    const fileCount = document.getElementById('fileCount');
+    const emptyState = document.getElementById('emptyState');
+    const searchInput = document.getElementById('searchInput');
+    let files = [];
+
+    const iconByType = (type = '') => {
+      const t = type.toLowerCase();
+      if (t.includes('pdf')) return 'PDF';
+      if (t.includes('word') || t.includes('doc')) return 'DOC';
+      if (t.includes('excel') || t.includes('xls')) return 'XLS';
+      if (t.includes('zip')) return 'ZIP';
+      if (t.includes('ppt')) return 'PPT';
+      return 'FILE';
+    };
+
+    const render = (items) => {
+      fileList.innerHTML = '';
+      fileCount.textContent = `${items.length}개 문서`;
+      emptyState.hidden = items.length !== 0;
+
+      items.forEach((file) => {
+        const card = document.createElement('article');
+        card.className = 'file-card';
+        card.innerHTML = `
+          <div class="badge">${iconByType(file.type || file.name)}</div>
+          <div class="meta">
+            <h2>${file.title || file.name}</h2>
+            <p>${file.description || '문서 파일'}</p>
+            <small>${file.date || ''}</small>
+          </div>
+          <a class="download" href="files/${encodeURIComponent(file.name)}" download>다운로드</a>
+        `;
+        fileList.appendChild(card);
+      });
+    };
+
+    const filterFiles = () => {
+      const keyword = searchInput.value.trim().toLowerCase();
+      const filtered = files.filter((file) => {
+        const text = `${file.title || ''} ${file.name || ''} ${file.description || ''}`.toLowerCase();
+        return text.includes(keyword);
+      });
+      render(filtered);
+    };
+
+    fetch('files.json', { cache: 'no-store' })
+      .then((res) => res.json())
+      .then((data) => {
+        files = Array.isArray(data.files) ? data.files : [];
+        render(files);
+      })
+      .catch(() => {
+        files = [];
+        render(files);
+      });
+
+    searchInput.addEventListener('input', filterFiles);
+  </script>
+</body>
 </html>
